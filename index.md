@@ -8,13 +8,9 @@ Peking University. No.5 Yiheyuan Road, Haidian District. Beijing, 100871, China.
 
 **Email**: daiwenhan [at] pku [dot] edu [dot] cn
 
-### Course Notes
+## Seminars
 
-#### Alebraic Geometry I, II (PKU)
-
-### Seminars
-
-#### 2022 Spring (ongoing)
+### 2022 Spring (ongoing)
 
 - [**Geometry of Shimura varieties mod _p_**](./Sh-var-mod-p.md).
 
@@ -32,8 +28,19 @@ Peking University. No.5 Yiheyuan Road, Haidian District. Beijing, 100871, China.
 
 - **Springer Theory, Representation Theory, and Complex Geometry.**
 
-#### 2021 Fall
+### 2021 Fall
 
 - **3264 and All That**
+
+
+## Notes and Expository Papers
+
+### Foundation Courses at PKU
+- **Alebraic Geometry**
+- **Algebraic Number Theory**
+
+### Graduate's General Examinations
+
+### Advanced Topics
 
 (Last updated on: April 2022)
