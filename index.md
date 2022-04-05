@@ -1,15 +1,10 @@
 ## Dai Wenhan / 戴文晗
 
-Now I am an undergraduate student in [School of Mathematical Science](http://english.math.pku.edu.cn) at [Peking University](https://www.pku.edu.cn), China. 
+Now I am an undergraduate student in [School of Mathematical Science](http://english.math.pku.edu.cn) at [Peking University](https://www.pku.edu.cn), China. My research interest includes **number theory**, **arithmetic geometry**, and **representation theory**.
 
 ### Contact Info
 
-Peking University
-
-No.5 Yiheyuan Road, Haidian District,
-
-Beijing, 100871, China.
-
+Peking University. No.5 Yiheyuan Road, Haidian District. Beijing, 100871, China.
 
 Email: daiwenhan [at] pku [dot] edu [dot] cn
 
