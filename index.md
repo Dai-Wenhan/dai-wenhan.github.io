@@ -11,7 +11,9 @@ No.5 Yiheyuan Road, Haidian District
 Beijing, 100871, China.
 ```
 
-**Email**: daiwenhan [at] pku [dot] edu [dot] cn
+**Email**: daiwenhan [at] pku [dot] edu [dot] cn (he/him/él/il)
+
+Bien que ce site ne soit disponible qu'en anglais, je peux répondre aux courriels en français (avec difficulté).
 
 ## Seminars
 
@@ -31,7 +33,7 @@ Beijing, 100871, China.
   - **Time**: Every Tuesday, 10–noon.
   - **Location**: BICMR 77201.
 
-- **Springer Theory, Representation Theory, and Complex Geometry.**
+- **Springer Theory, Representation Theory, and Complex Geometry** (intended to be in-person).
 
 ### 2021 Fall
 
@@ -40,12 +42,17 @@ Beijing, 100871, China.
 
 ## Notes and Expository Papers
 
-### Foundation Courses at PKU
-- **Alebraic Geometry**
-- **Algebraic Number Theory**
-
 ### Graduate's General Examinations
 
 ### Advanced Topics
+
+
+## Courses at Peking University
+
+- Fall 2021: [**The Arithmetic of Elliptic Curves**](./ellcurves2021.md).
+
+  My [solution](../ellcurves2021-final.pdf) for final exam.
+  
+- Fall 2021: [**Algebraic Geometry I**](./AGI2021.md).
 
 (Last updated on: April 2022)
