@@ -14,7 +14,7 @@ Beijing, 100871, China.
 ```
 
 **Email**: daiwenhan [at] pku [dot] edu [dot] cn (he/him/él/il)
-
+<br/>
 Bien que ce site ne soit disponible qu'en anglais, je peux répondre aux courriels en français (avec difficulté).
 
 ## Seminars
@@ -53,8 +53,7 @@ Bien que ce site ne soit disponible qu'en anglais, je peux répondre aux courrie
 
 ## Courses at Peking University
 
-- Fall 2021: [**The Arithmetic of Elliptic Curves**](./ellcurves2021.md).
-
+- Fall 2021: [**The Arithmetic of Elliptic Curves**](./ellcurves2021.md). <br/>
   (See my [solution](../ellcurves2021-final.pdf) for final exam.)
   
 - Fall 2021: [**Algebraic Geometry I**](./AGI2021.md).
