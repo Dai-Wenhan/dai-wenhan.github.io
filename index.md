@@ -1,4 +1,4 @@
-## Dai Wenhan's Homepage
+## Dai Wenhan 戴文晗 / School of Mathematical Science, Peking University
 
 You can use the [editor on GitHub](https://github.com/Dai-Wenhan/Dai-Wenhan.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
