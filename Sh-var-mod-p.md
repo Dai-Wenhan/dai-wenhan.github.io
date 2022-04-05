@@ -10,8 +10,8 @@ Click [here](https://disk.pku.edu.cn:443/link/9FFD048BA8DA040E91D98450C1D575A6) 
 
 ### Syllabus (tentative)
 
-- [x] (2/21) **Liang Xiao**: Introduction.
-- [x] (2/28) **Ruiqi Bai**: Following [HTX] Introduce the moduli problem following [HTX, §2] and then discuss basic structures on a Shimura varieties [HTX, §3].
+- [x] \(2/21) **Liang Xiao**: Introduction.
+- [x] \(2/28) **Ruiqi Bai**: Following [HTX] Introduce the moduli problem following [HTX, §2] and then discuss basic structures on a Shimura varieties [HTX, §3].
 
 
 ### References
