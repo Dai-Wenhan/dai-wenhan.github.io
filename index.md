@@ -4,7 +4,12 @@ Now I am an undergraduate student in [School of Mathematical Science](http://eng
 
 ## Contact Info
 
-Peking University. No.5 Yiheyuan Road, Haidian District. Beijing, 100871, China.
+```
+School of Mathematical Science
+Peking University
+No.5 Yiheyuan Road, Haidian District
+Beijing, 100871, China.
+```
 
 **Email**: daiwenhan [at] pku [dot] edu [dot] cn
 
