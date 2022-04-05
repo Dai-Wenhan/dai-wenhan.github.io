@@ -4,8 +4,6 @@ _Last updated on: April 2022_
 
 Now I am an undergraduate student in [School of Mathematical Science](http://english.math.pku.edu.cn) at [Peking University](https://www.pku.edu.cn), China. My research interest includes **number theory**, **arithmetic geometry**, and **representation theory**. [Here](./IMG_0191.JPG) comes a headshot of mine.
 
-国家集训队考生请点击[此处](./cmo.md)下载资料，密码可通过询问崔老师获取。如果你有任何意见，请在2022年7月5日前（即IMO领队抵达挪威前）发邮件联系我或其他教练。
-
 ## Contact Info
 
 ```
@@ -49,6 +47,8 @@ Bien que ce site ne soit disponible qu'en anglais, je peux répondre aux courrie
 ### Graduate's General Examinations
 
 ### Advanced Topics
+
+### International Mathematical Olympiad / 国际数学奥林匹克
 
 
 ## Courses at Peking University
