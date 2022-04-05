@@ -2,6 +2,8 @@
 
 Now I am an undergraduate student in [School of Mathematical Science](http://english.math.pku.edu.cn) at [Peking University](https://www.pku.edu.cn), China. My research interest includes **number theory**, **arithmetic geometry**, and **representation theory**. [Here](./IMG_0191.JPG) comes a headshot of mine.
 
+如果你是国家集训队考生（或其他中国数学奥林匹克的参赛选手），请点击[此处](./cmo.md)下载重要资料（密码已经发布）。如果你有任何意见，请在IMO领队抵达挪威（即2022年7月5日）前发邮件联系我或其他教练。
+
 ## Contact Info
 
 ```
@@ -51,7 +53,7 @@ Bien que ce site ne soit disponible qu'en anglais, je peux répondre aux courrie
 
 - Fall 2021: [**The Arithmetic of Elliptic Curves**](./ellcurves2021.md).
 
-  My [solution](../ellcurves2021-final.pdf) for final exam.
+  (See my [solution](../ellcurves2021-final.pdf) for final exam.)
   
 - Fall 2021: [**Algebraic Geometry I**](./AGI2021.md).
 
