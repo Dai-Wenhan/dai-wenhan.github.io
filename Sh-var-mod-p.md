@@ -14,9 +14,11 @@ This seminar will be a mix of learning and research, on the topic of geometry of
 - [x] (3/14) **Ruiqi Bai**: Go back to discuss expected cohomology of Shimura varieties, following [HTX, §2] and [Ko]. ([video1](), [video2](), [notes]())
 - [x] (3/21) **Zeyu Wang**: Basics on intersection theory: summarize some main points from Fulton’s book [Fu, § 1-6] that is needed for the computation (e.g. sometimes, just state the main theorems and omit the proofs). ([video1](https://disk.pku.edu.cn/#/link/9FFD048BA8DA040E91D98450C1D575A6?gns=9758A65132E541D2983DBF9751154577%2FABC4941225EC49D7A53A98092920BF63%2F9FB66452C7B346309798C7416A40D603), [video2](https://disk.pku.edu.cn/#/link/9FFD048BA8DA040E91D98450C1D575A6?gns=9758A65132E541D2983DBF9751154577%2FABC4941225EC49D7A53A98092920BF63%2FB8E488EA8D9D47948CA0D15FEF7522A3), [notes]())
 - [x] (3/28) **Zeyu Wang**: Computation of intersection number on DL varieties, following [HTX, §5]. ([video1](https://disk.pku.edu.cn/#/link/9FFD048BA8DA040E91D98450C1D575A6?gns=9758A65132E541D2983DBF9751154577%2FABC4941225EC49D7A53A98092920BF63%2F0285D45BE46F44AFB271645C1337F2C0), [video2](https://disk.pku.edu.cn/#/link/9FFD048BA8DA040E91D98450C1D575A6?gns=9758A65132E541D2983DBF9751154577%2FABC4941225EC49D7A53A98092920BF63%2F6D1C29E92DA54A04B90F96815C17267B), [notes]())
+- [ ] (4/4) _National Tomb-Sweeping-Day Holiday._
 - [ ] (4/11) **Hao Fu**: Putting everything together, following [HTX, §6]. (Do not spend too much time on [HTX, Proposition 6.4]. ([video1](), [video2](), [notes]())
 - [ ] (4/18) **Wenhan Dai**: Goren–Oort strata for _U_(2)-Shimura varieties: sparce case, following [He], up to section 4. ([video1](), [video2](), [notes]())
 - [ ] (4/25) **Haocheng Fan**: Goren–Oort strata for _U_(2)-Shimura varieties: general case I, following [TX, §4 and §5]. Translate the discussion in [TX] into Helm’s setup.
+- [ ] (5/2) _National Labor-Day Holiday._
 - [ ] (5/9) **Haocheng Fan**: Goren–Oort strata for _U_(2)-Shimura varieties: general case II, following [TX, §4 and §5]. Translate the discussion in [TX] into Helm’s setup.
 - [ ] (5/16) **Deding Yang**: Ampleness of automorphic line bundles on _U_(2)-Shimura varieties [TX, §6].
 - [ ] (5/23) **Ruiqi Bai**: Ihara’s lemma vs. geometric level-raising.
