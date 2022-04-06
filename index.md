@@ -46,10 +46,29 @@ Bien que ce site ne soit disponible qu'en anglais, je peux répondre aux courrie
 
 ### Graduate's General Examinations
 
+- [Algebra](./genalg.md) (including linear algebra, group theory, ring theory, fields and Galois theory, etc.).
+- [Complex Analysis](./gencplx.md).
+- [Real Analysis](./genreal.md).
+- [Representation Theory](./genrep.md) (especially the character theory).
+- [Algebraic Geometry](./genag.md) (see Hartshorne Chapter II-III).
+- [Algebraic Number Theory](./genant.md) (including local and global cases).
+
 ### Advanced Topics
+
+- Introduction to Shimura Varieties.
+- Modularity Lifting.
+- Automorphic Forms over Unitary Groups.
+- _p_-adic local Langlands and Serre Conjecture.
+- Topics in Fargues-Fountaine Curve.
+- Derived Geometry.
+
 
 ### International Mathematical Olympiad / 国际数学奥林匹克
 
+- (2022) [Handouts](./imohandout.md) for the IMO Training Team (in Chinese) / 国家集训队中文版[讲义](./imohandout.md). <br/>
+如果你是家庭经济困难的国家集训队考生，不妨在来京前邮件联系我，我会为你寻求（可能会对你很重要的）帮助。
+- (2021) Lecture series of [elementary number theory](./imont.md).
+- (In process) Lecture series of [combinatorics](./imocomb.md).
 
 ## Courses at Peking University
 
@@ -57,5 +76,12 @@ Bien que ce site ne soit disponible qu'en anglais, je peux répondre aux courrie
   (See my [solution](../ellcurves2021-final.pdf) for final exam.)
   
 - Fall 2021: [**Algebraic Geometry I**](./AGI2021.md).
+
+- Spring 2021: [**Algebraic Geometry II**](./AGII2021.md).
+
+- Spring 2021: [**Topics in Number Theory II: Étale Cohomology**](./etcoh.md).
+
+- Fall 2020: [**Topics in Number Theory I: Fermat's Last Theorem**](./FLT2020.md).
+
 
 
