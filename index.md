@@ -37,6 +37,10 @@ Bien que ce site ne soit disponible qu'en anglais, je peux répondre aux courrie
 
 - **Springer Theory, Representation Theory, and Complex Geometry** (intended to be in-person).
 
+  - **Instructor**: Marc Besson.
+  - **Time**: Every Tuesday, 1–3pm.
+  - **Location**: BICMR 77201.
+
 ### 2021 Fall
 
 - [**3264 and All That**](./3264.md)
