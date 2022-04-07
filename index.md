@@ -48,7 +48,7 @@ Bien que ce site ne soit disponible qu'en anglais, je peux répondre aux courrie
 
 ## Notes and Expository Papers
 
-### Graduate's General Examinations
+### Graduate's General Examination
 
 - [Algebra](./genalg.md) (including linear algebra, group theory, ring theory, fields and Galois theory, etc.).
 - [Complex Analysis](./gencplx.md).
@@ -57,15 +57,12 @@ Bien que ce site ne soit disponible qu'en anglais, je peux répondre aux courrie
 - [Algebraic Geometry](./genag.md) (see Hartshorne Chapter II-III).
 - [Algebraic Number Theory](./genant.md) (including local and global cases).
 
-### Advanced Topics
+### Workshops on Advanced Topics
 
 - Introduction to Shimura Varieties.
-- Modularity Lifting.
-- Deformation of Galois Representations.
-- Automorphic Forms over Unitary Groups.
-- Serre Conjecture and the _p_-adic local Langlands Program (Padova 2017).
+- AWS 2013: Modular forms and Modular Curves.
+- Padova 2017: Serre Conjecture and the _p_-adic local Langlands Program.
 - Topics in Fargues-Fountaine Curve.
-- Derived Geometry.
 
 
 ### International Mathematical Olympiad / 国际数学奥林匹克
