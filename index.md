@@ -61,8 +61,9 @@ Bien que ce site ne soit disponible qu'en anglais, je peux répondre aux courrie
 
 - Introduction to Shimura Varieties.
 - Modularity Lifting.
+- Deformation of Galois Representations.
 - Automorphic Forms over Unitary Groups.
-- _p_-adic local Langlands and Serre Conjecture.
+- Serre Conjecture and the _p_-adic local Langlands Program (Padova 2017).
 - Topics in Fargues-Fountaine Curve.
 - Derived Geometry.
 
@@ -70,7 +71,7 @@ Bien que ce site ne soit disponible qu'en anglais, je peux répondre aux courrie
 ### International Mathematical Olympiad / 国际数学奥林匹克
 
 - (2022) [Handouts](./imohandout.md) for the IMO Training Team (in Chinese) / 国家集训队中文版[讲义](./imohandout.md). <br/>
-如果你是家庭经济困难的国家集训队考生，不妨在来京前邮件联系我，我会为你寻求（可能会对你很重要的）帮助。
+如果你是需要我评阅习题的国家集训队考生，请将每一期解答整理在一个pdf文档里发送给我，而不是发送多张图片。我会在收到邮件起72小时内给你反馈。
 - (2021) Lecture series of [elementary number theory](./imont.md).
 - (In process) Lecture series of [combinatorics](./imocomb.md).
 
