@@ -1,6 +1,6 @@
 ## Algebraic Geometry for the Generals
 
-**Instruction Watch**: This page mainly covers the algebraic geometry necessary to pass the graduate's general qualifying examinations at BICMR (and possibly other universities and institutes say). Whether you are preparing for an interview or a written test, referring to my notes can be helpful. All primary topics in Chapters II and III of Robin Hartshorne's [_Algebraic Geometry_](https://www.amazon.com/Algebraic-Geometry-Graduate-Texts-Mathematics/dp/0387902449) are contained somewhere.
+**Instruction Watch**: This page mainly covers the algebro-geometric necessary to pass the graduate's general qualifying examinations at [Beijing International Center for Mathematical Research](https://bicmr.pku.edu.cn) (and possibly other universities and institutes say). Whether you are preparing for an interview or a written test, referring to my notes can be helpful. All primary topics in Chapters II and III of Robin Hartshorne's [_Algebraic Geometry_](https://www.amazon.com/Algebraic-Geometry-Graduate-Texts-Mathematics/dp/0387902449) are contained somewhere.
 
 My solutions to Hartshorne's exercises are attached, whereas I claim no originality of them. Solving these problems was a laborious and painful process, but going through those problems did force me to learn all the technical commutative algebra and many techniques in algebraic geometry. Therefore, I seriously urge you to use these solutions carefully (especially if you have delved into a problem but have not made progress).
 
