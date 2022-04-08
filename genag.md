@@ -8,9 +8,7 @@ My solutions of Hartshorne's exercises are attached as well whereas I claim no o
 
 - [Sheaves](./genag-sheaves.pdf) - <br/>
   Presheaves, Sheaves, Defining Sheaves on a Basis, Stalks, Stalks and Morphisms, Sheafification, Direct and Inverse Image.
-- [Abelian Sheaves](./genag-absheaves.pdf) - <br/>
-  ?
-- [Schemes](./genag-schemes.pdf) - <br/>
-  ?
 - [Homological Algebra](./genag-homalg.pdf) - <br/>
-  Abelian Categories, Complexes and Exact Sequences, The Long Exact Sequence in Cohomology, Cohomological Functors, Derived Functors, Some Examples.
+  Abelian Categories, Complexes and yExact Sequences, The Long Exact Sequence in Cohomology, Cohomological Functors, Derived Functors, Some Examples.
+- [Sheaf Cohomology](./genag-shcohom.pdf) - <br/>
+  "Having Enough Injectives", Grothendieck's Criterion, Sheaf Cohomology for Topological and Ringed Spaces, Sheaf Cohomology and Singular Cohomology, Čech Cohomology.
