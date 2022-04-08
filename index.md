@@ -50,12 +50,19 @@ Bien que ce site ne soit disponible qu'en anglais, je peux répondre aux courrie
 
 ### Graduate's General Examination
 
-- [Algebra](./genalg.md) (including linear algebra, group theory, ring theory, fields and Galois theory, etc.).
+- [Algebra](./genalg.md) - 
+<br/> including linear algebra, group theory, ring theory, fields and Galois theory, etc.
 - [Complex Analysis](./gencplx.md).
 - [Real Analysis](./genreal.md).
-- [Representation Theory](./genrep.md) (especially the character theory).
-- [Algebraic Geometry](./genag.md) (see Hartshorne Chapter II-III).
-- [Algebraic Number Theory](./genant.md) (including local and global cases).
+- [Representation Theory](./genrep.md) - 
+<br/> especially for linear representations of finite groups.
+- [Algebraic Geometry](./genag.md) - 
+<br/> to cover Chapter II-III together with exercises in Robin Hartshorne's _Algebraic Geometry_.
+- [Algebraic Number Theory](./genalgnt.md) - 
+<br/> Galois cohomology and class field theory.
+- [Analytic Number Theory](./genannt.md) - 
+<br/> to appear.
+
 
 ### Workshops on Advanced Topics
 
