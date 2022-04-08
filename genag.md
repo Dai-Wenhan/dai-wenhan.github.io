@@ -8,6 +8,8 @@ My solutions to Hartshorne's exercises are attached, whereas I claim no original
 
 - [Sheaves](./genag-sheaves.pdf) - <br/>
   Presheaves, Sheaves, Defining Sheaves on a Basis, Stalks, Stalks and Morphisms, Sheafification, Direct and Inverse Image.
+- [Abelian Sheaves](./genag-absh.pdf) - <br/>
+  Abelian Groups (and Diagram-Chasing Lemmas), Exact Functors, Abelian Sheaves, Abelian Categories.
 - [Homological Algebra](./genag-homalg.pdf) - <br/>
   Abelian Categories, Complexes and yExact Sequences, The Long Exact Sequence in Cohomology, Cohomological Functors, Derived Functors, Some Examples.
 - [Sheaf Cohomology](./genag-shcohom.pdf) - <br/>
