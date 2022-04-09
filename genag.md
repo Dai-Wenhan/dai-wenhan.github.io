@@ -22,7 +22,7 @@ My solutions to Hartshorne's exercises are attached, whereas I claim no original
 
 ### Odd Transcripts
 
-Pregnant but unreadable (to be updated incidently)...
+The followings are pregnant and unreadable (to be updated incidentally)...
 
 - [Fujita Vanishing](./genag-fujita.pdf) - <br/>
   Statement and Proof in all characteristics, Application of Grothendieck Duality, Weak Generalization of Kodaira Vanishing, Fujita's Numerical characterization of nef and big line bundles, Boundedness of Polynomial-Type Cohomology Dimensions for Twisted Coherent Sheaves.
