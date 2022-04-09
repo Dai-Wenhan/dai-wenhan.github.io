@@ -14,5 +14,7 @@ My solutions to Hartshorne's exercises are attached, whereas I claim no original
   Abelian Categories, Complexes and Exact Sequences, The Long Exact Sequence in Cohomology, Cohomological Functors, Derived Functors, Some Examples.
 - [Sheaf Cohomology](./genag-shcohom.pdf) - <br/>
   "Having Enough Injectives", Grothendieck's Criterion, Sheaf Cohomology for Topological and Ringed Spaces, Sheaf Cohomology and Singular Cohomology, Čech Cohomology.
+- [Cohomology of Quasicoherent Sheaves](./genag-qcohcohom.pdf) - <br/>
+  Acyclic Theorem of Quasicoherent Sheaves on Affine Schemes (a bogus proof and a correct proof), Cartan's Theorem, Comparison of Čech and Sheaf Cohomology.
 
 ### List of Exercise Solutions
