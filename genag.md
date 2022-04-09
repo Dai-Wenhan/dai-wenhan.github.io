@@ -11,7 +11,7 @@ My solutions to Hartshorne's exercises are attached, whereas I claim no original
 - [Abelian Sheaves](./genag-absh.pdf) - <br/>
   Abelian Groups (and Diagram-Chasing Lemmas), Exact Functors, Abelian Sheaves, Abelian Categories.
 - [Homological Algebra](./genag-homalg.pdf) - <br/>
-  Abelian Categories, Complexes and yExact Sequences, The Long Exact Sequence in Cohomology, Cohomological Functors, Derived Functors, Some Examples.
+  Abelian Categories, Complexes and Exact Sequences, The Long Exact Sequence in Cohomology, Cohomological Functors, Derived Functors, Some Examples.
 - [Sheaf Cohomology](./genag-shcohom.pdf) - <br/>
   "Having Enough Injectives", Grothendieck's Criterion, Sheaf Cohomology for Topological and Ringed Spaces, Sheaf Cohomology and Singular Cohomology, Čech Cohomology.
 
