@@ -18,3 +18,13 @@ My solutions to Hartshorne's exercises are attached, whereas I claim no original
   Acyclic Theorem of Quasicoherent Sheaves on Affine Schemes (a bogus proof and a correct proof), Cartan's Theorem, Comparison of Čech and Sheaf Cohomology.
 
 ### List of Exercise Solutions
+
+
+### Odd Transcripts
+
+Pregnant but unreadable (to be updated incidently)...
+
+- [Fujita Vanishing](./genag-fujita.pdf) - <br/>
+  Statement and Proof in all characteristics, Application of Grothendieck Duality, Weak Generalization of Kodaira Vanishing, Fujita's Numerical characterization of nef and big line bundles, Boundedness of Polynomial-Type Cohomology Dimensions for Twisted Coherent Sheaves.
+- [Serre Duality](./genag-serreduality.pdf) - <br/>
+  Statement and Proof, Preliminaries on Ext (resp. Sheaf-Ext), The Dualizing Sheaf Exists in General, Canonical Bundle of Smooth Varieties.
