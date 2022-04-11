@@ -71,12 +71,18 @@ Bien que ce site ne soit disponible qu'en anglais, je peux répondre aux courrie
 - Padova 2017: Serre Conjecture and the _p_-adic local Langlands Program.
 - Topics in Fargues-Fountaine Curve.
 
+## Teaching
 
 ### International Mathematical Olympiad / 国际数学奥林匹克
 
-- (2022) [Handouts](./imohandout.md) for the IMO Training Team (in Chinese) / 国家集训队中文版[讲义](./imohandout.md). <br/>
-- (2021) Lecture series of [elementary number theory](./imont.md).
-- (In process) Lecture series of [combinatorics](./imocomb.md).
+- (2022 Summer) [Handouts](./imohandout.md) for the IMO Training Team (in Chinese) / 国家集训队中文版[讲义](./imohandout.md). <br/>
+- (2021 Winter) Lecture series of [elementary number theory](./imont.md) / [数论专题](./imont.md)集训.
+- (In process) Lecture series of [combinatorics](./imocomb.md) / [组合专题](./imocomb.md)集训.
+
+### Advanced Calculus & Advanced Algebra / 高等数学 & 高等代数
+
+- (2021 Fall) Online tutorial for [Advanced Calculus (B)](./cal2021.md) / [高等数学(B)](./cal2021.md).
+- (2021 Spring) Teaching Asistant for [Linear Algebra (B)](./la2021.md) / [线性代数(B)](./la2021.md).
 
 ## Courses at Peking University
 
