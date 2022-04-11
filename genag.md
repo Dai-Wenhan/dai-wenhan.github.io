@@ -18,6 +18,8 @@ My solutions to Hartshorne's exercises are attached, whereas I claim no original
   Acyclic Theorem of Quasicoherent Sheaves on Affine Schemes (a bogus proof and a correct proof), Cartan's Theorem, Comparison of Čech and Sheaf Cohomology.
 - [Cohomology of Projective Spaces](./genag-cohomserre.pdf) - <br/>
   Finitely Generated Sheaves, Serre's Result on Cohomology of Twisting Sheaves over Projective Spaces, Finiteness of Cohomology on Projective Schemes, Serre Vanishing.
+- [Hilbert Polynomials and Flatness](./genag-hilbpoly.pdf) - <br/>
+  Definition of Hilbert Polynomial, Flatness, Hilbert Scheme, Degree and Dimension Argument on Hilbert Polynomials.
 
 ### List of Exercise Solutions
 
