@@ -87,14 +87,10 @@ Bien que ce site ne soit disponible qu'en anglais, je peux répondre aux courrie
 ## Courses at Peking University
 
 - Fall 2021: [**The Arithmetic of Elliptic Curves**](./ellcurves2021.md). <br/>
-  (See my [solution](../ellcurves2021-final.pdf) for final exam.)
-  
+  (See my [solution](../ellcurves2021-final.pdf) to the final exam.)
 - Fall 2021: [**Algebraic Geometry I**](./AGI2021.md).
-
 - Spring 2021: [**Algebraic Geometry II**](./AGII2021.md).
-
 - Spring 2021: [**Topics in Number Theory II: Étale Cohomology**](./etcoh.md).
-
 - Fall 2020: [**Topics in Number Theory I: Fermat's Last Theorem**](./FLT2020.md).
 
 
