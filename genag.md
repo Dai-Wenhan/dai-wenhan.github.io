@@ -36,5 +36,5 @@ The followings are pregnant and unreadable (to be updated incidentally)...
   Statement and Proof in all characteristics, Application of Grothendieck Duality, Weak Generalization of Kodaira Vanishing, Fujita's Numerical characterization of nef and big line bundles, Boundedness of Polynomial-Type Cohomology Dimensions for Twisted Coherent Sheaves.
 - [Serre Duality](./genag-serreduality.pdf) - <br/>
   Statement and Proof, Preliminaries on Ext (resp. Sheaf-Ext), The Dualizing Sheaf Exists in General, Canonical Bundle of Smooth Varieties.
-- [Chow's Lemma](./genag-chow.pdf) (a quich transcript following Hartshorne) - <br/>
+- [Chow's Lemma](./genag-chow.pdf) (a quick transcript following Hartshorne) - <br/>
   Relative Projections, Projective Nullstellensatz, Proper and Projective Morphisms, "Higher Twist Becomes Finite" à la Serre, Chow's Lemma.
