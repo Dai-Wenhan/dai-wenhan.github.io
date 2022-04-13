@@ -10,6 +10,10 @@ My solutions to Hartshorne's exercises are attached, whereas I claim no original
   Presheaves, Sheaves, Defining Sheaves on a Basis, Stalks, Stalks and Morphisms, Sheafification, Direct and Inverse Image.
 - [Abelian Sheaves](./genag-absh.pdf) - <br/>
   Abelian Groups (and Diagram-Chasing Lemmas), Exact Functors, Abelian Sheaves, Abelian Categories.
+- [Projective Morphisms (I)](./genag-proj1.pdf) - <br/>
+  Proj of a Graded Ring, The Sheaf O(1), Closed Subschemes of Projective Spaces, Projective Implies Proper, Comment on Definitions of Projective Morphism.
+- [Projective Morphisms (II)](./genag-proj2.pdf) - <br/>
+  Relative Proj, Very Ample Sheaves, Blowups, Chow's Lemma.
 - [Homological Algebra](./genag-homalg.pdf) - <br/>
   Abelian Categories, Complexes and Exact Sequences, The Long Exact Sequence in Cohomology, Cohomological Functors, Derived Functors, Some Examples.
 - [Sheaf Cohomology](./genag-shcohom.pdf) - <br/>
