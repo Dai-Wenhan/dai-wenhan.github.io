@@ -14,6 +14,10 @@ My solutions to Hartshorne's exercises are attached, whereas I claim no original
   Proj of a Graded Ring, The Sheaf O(1), Closed Subschemes of Projective Spaces, Projective Implies Proper, Comment on Definitions of Projective Morphism.
 - [Projective Morphisms (II)](./genag-proj2.pdf) - <br/>
   Relative Proj, Very Ample Sheaves, Blowups, Chow's Lemma.
+- [Divisors, Linear Systems, and Projective Embeddings](./genag-div1.pdf) - <br/>
+  Weil Divisors, Cartier Divisors, The Picard Group, Linear Systems.
+- [Divisors on Curves and Riemann-Roch](./genag-div2.pdf) - <br/>
+  The Riemann-Roch Theorem, The Canonical (almost) Embedding, The Riemann-Hurwitz Formula.
 - [Homological Algebra](./genag-homalg.pdf) - <br/>
   Abelian Categories, Complexes and Exact Sequences, The Long Exact Sequence in Cohomology, Cohomological Functors, Derived Functors, Some Examples.
 - [Sheaf Cohomology](./genag-shcohom.pdf) - <br/>
