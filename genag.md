@@ -28,6 +28,8 @@ My solutions to Hartshorne's exercises are attached, whereas I claim no original
   Finitely Generated Sheaves, Serre's Result on Cohomology of Twisting Sheaves over Projective Spaces, Finiteness of Cohomology on Projective Schemes, Serre Vanishing.
 - [Hilbert Polynomials and Flatness](./genag-hilbpoly.pdf) - <br/>
   Definition of Hilbert Polynomial, Flatness, Hilbert Scheme, Degree and Dimension Argument on Hilbert Polynomials.
+- [Serre Duality for Projective Spaces](./genag-serredualty.pdf) - <br/>
+  Ext Groups and Sheaf Ext, Serre Duality Theorem, Differentials and Duality, Interpretation via the Canonical Sheaf.
 
 ### List of Exercise Solutions
 
