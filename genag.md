@@ -17,7 +17,7 @@ My solutions to Hartshorne's exercises are attached, whereas I claim no original
 - [Divisors, Linear Systems, and Projective Embeddings](./genag-div1.pdf) - <br/>
   Weil Divisors, Cartier Divisors, The Picard Group, Linear Systems.
 - [Divisors on Curves and Riemann-Roch](./genag-div2.pdf) - <br/>
-  The Riemann-Roch Theorem, The Canonical (almost) Embedding, The Riemann-Hurwitz Formula.
+  The Riemann-Roch Theorem (without proof yet), The Canonical (almost) Embedding, The Riemann-Hurwitz Formula.
 - [Homological Algebra](./genag-homalg.pdf) - <br/>
   Abelian Categories, Complexes and Exact Sequences, The Long Exact Sequence in Cohomology, Cohomological Functors, Derived Functors, Some Examples.
 - [Sheaf Cohomology](./genag-shcohom.pdf) - <br/>
