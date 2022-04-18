@@ -5,7 +5,7 @@ This seminar will be a mix of learning and research, on the topic of geometry of
 - **Location**: BICMR 77201.
 - **Instructor**: [Liang Xiao](https://bicmr.pku.edu.cn/~lxiao/index.htm).
 
-Before your participation, an introductory talk [_Generic Tate cycles on certain unitary Shimura varieties over finite fields_](https://www.youtube.com/watch?v=Bzg5hsiUgPw) to [HTX] by Yichao Tian at Centre International de Rencontres Mathématiques is strongly recommended ([notes](./tatecycles-tian.pdf)).
+Before your participation, an instructive talk [_Generic Tate cycles on certain unitary Shimura varieties over finite fields_](https://www.youtube.com/watch?v=Bzg5hsiUgPw) to [HTX] by Yichao Tian at Centre International de Rencontres Mathématiques is strongly recommended ([notes](./tatecycles-tian.pdf)).
 
 
 ### Syllabus (tentative)
@@ -17,7 +17,7 @@ Before your participation, an introductory talk [_Generic Tate cycles on certain
 - [x] (3/21) **Zeyu Wang** - Basics on intersection theory: summarize some main points from Fulton’s book [Fu, § 1-6] that is needed for the computation (e.g. sometimes, just state the main theorems and omit the proofs). ([video1](https://disk.pku.edu.cn/#/link/9FFD048BA8DA040E91D98450C1D575A6?gns=9758A65132E541D2983DBF9751154577%2FABC4941225EC49D7A53A98092920BF63%2F0285D45BE46F44AFB271645C1337F2C0), [video2](https://disk.pku.edu.cn/#/link/9FFD048BA8DA040E91D98450C1D575A6?gns=9758A65132E541D2983DBF9751154577%2FABC4941225EC49D7A53A98092920BF63%2F6D1C29E92DA54A04B90F96815C17267B), [notes]())
 - [x] (3/28) **Zeyu Wang** - Computation of intersection number on DL varieties, following [HTX, §5]. 
 - [ ] (4/4) _National Tomb-Sweeping-Day Holiday._
-- [x] (4/11) **Hao Fu** - Putting everything together, following [HTX, §6]. No spending too much time on [HTX, Proposition 6.4]. ([video1](https://disk.pku.edu.cn/#/link/9FFD048BA8DA040E91D98450C1D575A6?gns=9758A65132E541D2983DBF9751154577%2FABC4941225EC49D7A53A98092920BF63%2F6DF1B836997C413BA326FC0D987E28D1), [video2](https://disk.pku.edu.cn/#/link/9FFD048BA8DA040E91D98450C1D575A6?gns=9758A65132E541D2983DBF9751154577%2FABC4941225EC49D7A53A98092920BF63%2F7119DC5C2FD44B88A7E95339E5DBE3AC), [notes]())
+- [x] (4/11) **Hao Fu** - Putting everything together, following [HTX, §6]. No spending too much time on [HTX, Proposition 6.4]. ([video1](https://disk.pku.edu.cn/#/link/9FFD048BA8DA040E91D98450C1D575A6?gns=9758A65132E541D2983DBF9751154577%2FABC4941225EC49D7A53A98092920BF63%2F6DF1B836997C413BA326FC0D987E28D1), [video2](https://disk.pku.edu.cn/#/link/9FFD048BA8DA040E91D98450C1D575A6?gns=9758A65132E541D2983DBF9751154577%2FABC4941225EC49D7A53A98092920BF63%2F7119DC5C2FD44B88A7E95339E5DBE3AC), [video3](), [notes]())
 - [x] (4/18) **Wenhan Dai** - Goren–Oort strata for _U_(2)-Shimura varieties: sparce case, following [He], up to section 4. ([video1](), [video2](), [notes]())
 - [ ] (4/25) **Haocheng Fan** - Goren–Oort strata for _U_(2)-Shimura varieties: general case I, following [TX, §4 and §5]. Translate the discussion in [TX] into Helm’s setup.
 - [ ] (5/2) _National Labor-Day Holiday._
