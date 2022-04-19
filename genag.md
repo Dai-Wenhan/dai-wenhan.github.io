@@ -30,6 +30,8 @@ My solutions to Hartshorne's exercises are attached, whereas I claim no original
   Definition of Hilbert Polynomial, Flatness, Hilbert Scheme, Degree and Dimension Argument on Hilbert Polynomials.
 - [Serre Duality for Projective Spaces](./genag-serredualty.pdf) - <br/>
   Ext Groups and Sheaf Ext, Serre Duality Theorem, Differentials and Duality, Interpretation via the Canonical Sheaf.
+- [Cohen-Macaulay Schemes and Serre Duality](./genag-cm-serredual.pdf) - <br/>
+  Cohen-Macaulay Schemes and Duality, Recudtion to a Local Property, The Cohen-Macaulay Condition.
 
 ### List of Exercise Solutions
 
