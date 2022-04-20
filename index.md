@@ -43,28 +43,25 @@ Bien que ce site ne soit disponible qu'en anglais, je peux répondre aux courrie
 
 ### 2021 Fall
 
-- [**3264 and All That**](./3264.md)
+- [**3264 and All That**](./3264.md).
 
 
 ## Notes and Expository Papers
 
 ### Graduate's General Examination
 
-- [Algebra](./genalg.md) - 
-<br/> including linear algebra, group theory, ring theory, fields and Galois theory, etc.
+#### General Subjects
+- [Algebra](./genalg.md).
 - [Complex Analysis](./gencplx.md).
 - [Real Analysis](./genreal.md).
-- [Representation Theory](./genrep.md) - 
-<br/> especially for linear representations of finite groups.
-- [Algebraic Geometry](./genag.md) - 
-<br/> to cover Chapter II-III together with exercises in Robin Hartshorne's _Algebraic Geometry_.
-- [Algebraic Number Theory](./genalgnt.md) - 
-<br/> Galois cohomology and class field theory.
-- [Analytic Number Theory](./genannt.md) - 
-<br/> to appear.
 
+#### Selected Advanced Subjects
+- [Algebraic Geometry](./genag.md).
+- [Algebraic Number Theory](./genalgnt.md).
+- [Analytic Number Theory](./genannt.md) (to appear).
+- [Representation Theory](./genrep.md).
 
-### Workshops on Advanced Topics
+### Workshops / Conferences
 
 - Introduction to Shimura Varieties.
 - AWS 2013: Modular forms and Modular Curves.
@@ -76,18 +73,19 @@ Bien que ce site ne soit disponible qu'en anglais, je peux répondre aux courrie
 ### International Mathematical Olympiad / 国际数学奥林匹克
 
 - (2022 Summer) [Handouts](./imohandout.md) for the IMO Training Team (in Chinese) / 国家集训队中文版[讲义](./imohandout.md). <br/>
+  我无法对于线下前往挪威的具体事宜给出任何明确的回答，如果你有问题，请直接问韩老师~
 - (2021 Winter) Lecture series of [elementary number theory](./imont.md) / [数论专题](./imont.md)集训.
 - (In process) Lecture series of [combinatorics](./imocomb.md) / [组合专题](./imocomb.md)集训.
 
 ### Advanced Calculus & Advanced Algebra / 高等数学 & 高等代数
 
-- (2021 Fall) Online tutorial for [Advanced Calculus (B)](./cal2021.md) / [高等数学(B)](./cal2021.md).
+- (2021 Fall) Online tutorial for [Advanced Calculus (C)](./cal2021.md) / [高等数学(C)](./cal2021.md).
 - (2021 Spring) Teaching Asistant for [Linear Algebra (B)](./la2021.md) / [线性代数(B)](./la2021.md).
 
 ## Courses at Peking University
 
 - Fall 2021: [**The Arithmetic of Elliptic Curves**](./ellcurves2021.md). <br/>
-  (See my [solution](../ellcurves2021-final.pdf) to the final exam.)
+  See my [solution](../ellcurves2021-final.pdf) to the final exam.
 - Fall 2021: [**Algebraic Geometry I**](./AGI2021.md).
 - Spring 2021: [**Algebraic Geometry II**](./AGII2021.md).
 - Spring 2021: [**Topics in Number Theory II: Étale Cohomology**](./etcoh.md).
