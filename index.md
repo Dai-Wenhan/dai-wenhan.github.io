@@ -73,7 +73,7 @@ Bien que ce site ne soit disponible qu'en anglais, je peux répondre aux courrie
 ### International Mathematical Olympiad / 国际数学奥林匹克
 
 - (2022 Summer) [Handouts](./imohandout.md) for the IMO Training Team (in Chinese) / 国家集训队中文版[讲义](./imohandout.md). <br/>
-  我无法对于线下前往挪威的具体事宜给出任何明确的回答，如果你有问题，请直接问韩老师~
+  我无法对于线下前往挪威的具体事宜给出任何明确的回答，如果你有问题，请不要害羞，直接问肖老师即可~
 - (2021 Winter) Lecture series of [elementary number theory](./imont.md) / [数论专题](./imont.md)集训.
 - (In process) Lecture series of [combinatorics](./imocomb.md) / [组合专题](./imocomb.md)集训.
 
