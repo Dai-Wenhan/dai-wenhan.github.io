@@ -4,7 +4,7 @@ _Last updated on: April 2022_
 
 Now I am an undergraduate student in [School of Mathematical Science](http://english.math.pku.edu.cn) at [Peking University](https://www.pku.edu.cn), China. My research interest includes **number theory**, **arithmetic geometry**, and **representation theory**. My instructor is Professor [Xiao Liang](https://bicmr.pku.edu.cn/~lxiao/index.htm) at [Beijing International Center for Mathematical Research](https://bicmr.pku.edu.cn). Here comes a [headshot](./IMG_0191.JPG) of mine.
 
-![](./landscape-winter.png)
+![](./landscape-winter.jpg)
 
 ## Contact Info
 
