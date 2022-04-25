@@ -2,7 +2,7 @@
 
 _Last updated on: April 2022_
 
-Now I am an undergraduate student in [School of Mathematical Science](http://english.math.pku.edu.cn) at [Peking University](https://www.pku.edu.cn), China. My research interest includes **number theory**, **arithmetic geometry**, and **representation theory**. My instructor is Professor [Xiao Liang](https://bicmr.pku.edu.cn/~lxiao/index.htm) at [Beijing International Center for Mathematical Research](https://bicmr.pku.edu.cn). Here comes a [headshot](./IMG_0191.JPG) of mine.
+Now I am an undergraduate student in [School of Mathematical Science](http://english.math.pku.edu.cn) at [Peking University](https://www.pku.edu.cn), China. My research interest includes **number theory**, **arithmetic geometry**, and **representation theory**. My instructor is Professor [Xiao Liang](https://bicmr.pku.edu.cn/~lxiao/index.htm) at [Beijing International Center for Mathematical Research](https://bicmr.pku.edu.cn). Here comes a [headshot](./headshot.jpg) of mine.
 
 ## Contact Info
 
@@ -23,14 +23,14 @@ Bien que ce site ne soit disponible qu'en anglais, je peux répondre aux courrie
 
 ### 2022 Spring (ongoing)
 
-- [**Geometry of Shimura Varieties mod _p_**](./Sh-var-mod-p.md).
+- [**Geometry of Shimura Varieties mod _p_**](./modpShv/modpShv.md).
 
   This seminar will be a mix of learning and research, on the topic of geometry of Shimura varieties mod _p_. We mainly follow some work by David Helm, Yichao Tian, and Liang Xiao. The purpose of this semester-long seminar is to go over basic facts and constructions around the concept of automorphic forms, especially its _p_-adic aspects: eigencurves, overconvergent automorphic forms. Most talks will be given by participants. For each talk, please prepare 90 minutes talk, followed by a 30 minutes exercise/discussion time. Talks will be given in English.
   - **Instructor**: [Xiao Liang](https://bicmr.pku.edu.cn/~lxiao/index.htm).
   - **Time**: Every Monday, 10–noon.
   - **Location**: BICMR 77201.
 
-- [**Locally Analytic _p_-adic Representations**](./loc-an-rep.md).
+- [**Locally Analytic _p_-adic Representations**](./locanRep/locanRep.md).
 
   The purpose of this semester-long seminar is to go over the theory of continuous and locally analytic representations of _p_-adic groups. The first half will focus on the theory of Schneider-Teitelbaum, following their Hangzhou note. The second half may learn Orlik-Strauch representations and some results of Arkedov.
   - **Instructor**: [Ding Yiwen](https://bicmr.pku.edu.cn/~dingyiwen/).
@@ -54,14 +54,14 @@ Bien que ce site ne soit disponible qu'en anglais, je peux répondre aux courrie
 
 #### General Subjects
 - [Algebra](./genalg/genalg.md).
-- [Complex Analysis](./gencplx.md).
-- [Real Analysis](./genreal.md).
+- [Complex Analysis](./gencplx/gencplx.md).
+- [Real Analysis](./genreal/genreal.md).
 
 #### Selected Advanced Subjects
-- [Algebraic Geometry](./genag.md).
-- [Algebraic Number Theory](./genalgnt.md).
-- [Analytic Number Theory](./genannt.md) (to appear).
-- [Representation Theory](./genrep.md).
+- [Algebraic Geometry](./genag/genag.md).
+- [Algebraic Number Theory](./genalgnt/genalgnt.md).
+- [Analytic Number Theory](./genannt/genannt.md) (to appear).
+- [Representation Theory](./genrep/genrep.md).
 
 ### Workshops / Conferences
 
