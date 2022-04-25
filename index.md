@@ -53,7 +53,7 @@ Bien que ce site ne soit disponible qu'en anglais, je peux répondre aux courrie
 ### Graduate's General Examination
 
 #### General Subjects
-- [Algebra](./genalg.md).
+- [Algebra](./genalg/genalg.md).
 - [Complex Analysis](./gencplx.md).
 - [Real Analysis](./genreal.md).
 
