@@ -30,7 +30,7 @@ Bien que ce site ne soit disponible qu'en anglais, je peux répondre aux courrie
   - **Time**: Every Monday, 10–noon.
   - **Location**: BICMR 77201.
 
-- [**Locally Analytic _p_-adic Representations**](././locanRep.md).
+- [**Locally Analytic _p_-adic Representations**](./locanRep/locanRep.md).
 
   The purpose of this semester-long seminar is to go over the theory of continuous and locally analytic representations of _p_-adic groups. The first half will focus on the theory of Schneider-Teitelbaum, following their Hangzhou note. The second half may learn Orlik-Strauch representations and some results of Arkedov.
   - **Instructor**: [Ding Yiwen](https://bicmr.pku.edu.cn/~dingyiwen/).
@@ -73,7 +73,7 @@ Bien que ce site ne soit disponible qu'en anglais, je peux répondre aux courrie
 
 ## Courses
 
-- Spring 2022: [**Triangulated and Derived Categories in Algebra and Geometry**](./dercat.md).
+- Spring 2022: [**Triangulated and Derived Categories in Algebra and Geometry**](./dercat/dercat.md).
 - Fall 2021: [**The Arithmetic of Elliptic Curves**](./ellcurves2021.md). <br/>
   See my [solution](../ellcurves2021-final.pdf) to the final exam.
 - Fall 2021: [**Algebraic Geometry I**](./AGI2021.md).
