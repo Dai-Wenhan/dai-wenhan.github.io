@@ -5,7 +5,7 @@ This seminar will be a mix of learning and research, on the topic of geometry of
 - **Location**: BICMR 77201.
 - **Instructor**: [Liang Xiao](https://bicmr.pku.edu.cn/~lxiao/index.htm).
 
-Before your participation, an instructive talk [_Generic Tate cycles on certain unitary Shimura varieties over finite fields_](https://www.youtube.com/watch?v=Bzg5hsiUgPw) to [HTX] by Yichao Tian at Centre International de Rencontres Mathématiques is strongly recommended ([notes](../tatecycles-tian.pdf)).
+Before your participation, an instructive talk [_Generic Tate cycles on certain unitary Shimura varieties over finite fields_](https://www.youtube.com/watch?v=Bzg5hsiUgPw) to [HTX] by Yichao Tian at Centre International de Rencontres Mathématiques is strongly recommended ([notes](././tatecycles-tian.pdf)).
 
 
 ### Syllabus (tentative)
