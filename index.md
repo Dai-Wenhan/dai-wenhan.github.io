@@ -30,7 +30,7 @@ Bien que ce site ne soit disponible qu'en anglais, je peux répondre aux courrie
   - **Time**: Every Monday, 10–noon.
   - **Location**: BICMR 77201.
 
-- [**Locally Analytic _p_-adic Representations**](./locanRep/locanRep.md).
+- [**Locally Analytic _p_-adic Representations**](././locanRep.md).
 
   The purpose of this semester-long seminar is to go over the theory of continuous and locally analytic representations of _p_-adic groups. The first half will focus on the theory of Schneider-Teitelbaum, following their Hangzhou note. The second half may learn Orlik-Strauch representations and some results of Arkedov.
   - **Instructor**: [Ding Yiwen](https://bicmr.pku.edu.cn/~dingyiwen/).
@@ -61,7 +61,7 @@ Bien que ce site ne soit disponible qu'en anglais, je peux répondre aux courrie
 - [Algebraic Geometry](./genag/genag.md).
 - [Algebraic Number Theory](./genalgnt/genalgnt.md).
 - [Analytic Number Theory](./genannt/genannt.md) (to appear).
-- [Representation Theory](././genrep.md).
+- [Representation Theory](./genrep/genrep.md).
 
 ### Workshops / Conferences
 
