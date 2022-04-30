@@ -66,6 +66,7 @@ Bien que ce site ne soit disponible qu'en anglais, je peux répondre aux courrie
 ### Workshops / Conferences
 
 - Introduction to Shimura Varieties.
+- [Mini-Course on Springer Fibers and Quiver Varieties](./Springer/TMS-Springer.md) (TMS).
 - AWS 2013: Modular forms and Modular Curves.
 - Padova 2017: Serre Conjecture and the _p_-adic local Langlands Program.
 - Topics in Fargues-Fountaine Curve.
