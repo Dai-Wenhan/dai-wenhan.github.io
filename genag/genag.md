@@ -40,6 +40,8 @@ My solutions to Hartshorne's exercises are attached, whereas I claim no original
 
 The followings are pregnant and unreadable (to be updated incidentally)...
 
+- [Derived Categories](././genag-dercat.pdf) - <br/>
+  Ind and Pro Categories, Localization of Rings as Localization of Categories, Derived Categories and Its Basic Properties.
 - [Fujita Vanishing](././genag-fujita.pdf) - <br/>
   Statement and Proof in all characteristics, Application of Grothendieck Duality, Weak Generalization of Kodaira Vanishing, Fujita's Numerical characterization of nef and big line bundles, Boundedness of Polynomial-Type Cohomology Dimensions for Twisted Coherent Sheaves.
 - [Serre Duality](././genag-serreduality.pdf) - <br/>
