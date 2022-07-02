@@ -21,28 +21,15 @@ Bien que ce site ne soit disponible qu'en anglais, je peux répondre aux courrie
 
 ## Seminars
 
-### 2022 Spring (ongoing)
+### 2022 Summer (ongoing)
+
+### 2022 Spring
 
 - [**Geometry of Shimura Varieties mod _p_**](./modpShv/modpShv.md).
 
-  This seminar will be a mix of learning and research, on the topic of geometry of Shimura varieties mod _p_. We mainly follow some work by David Helm, Yichao Tian, and Liang Xiao. The purpose of this semester-long seminar is to go over basic facts and constructions around the concept of automorphic forms, especially its _p_-adic aspects: eigencurves, overconvergent automorphic forms. Most talks will be given by participants. For each talk, please prepare 90 minutes talk, followed by a 30 minutes exercise/discussion time. Talks will be given in English.
-  - **Instructor**: [Xiao Liang](https://bicmr.pku.edu.cn/~lxiao/index.htm).
-  - **Time**: Every Monday, 10–noon.
-  - **Location**: BICMR 77201.
-
 - [**Locally Analytic _p_-adic Representations**](./locanRep/locanRep.md).
 
-  The purpose of this semester-long seminar is to go over the theory of continuous and locally analytic representations of _p_-adic groups. The first half will focus on the theory of Schneider-Teitelbaum, following their Hangzhou note. The second half may learn Orlik-Strauch representations and some results of Arkedov.
-  - **Instructor**: [Ding Yiwen](https://bicmr.pku.edu.cn/~dingyiwen/).
-  - **Time**: Every Tuesday, 10–noon.
-  - **Location**: BICMR 77201.
-
 - [**Springer Theory, Representation Theory, and Complex Geometry**](./Springer/2022spring.md) (intended to be in-person).
-
-  This seminar will be about classical Springer theory with an emphasis on concreteness. In the first-half semester, we concentrate on the construction of Springer representations, as well as an alternative construction via perverse sheaves; we will dedicate the second-half semester to more explicit and combinatorial topics, such as parametrizations of nilpotent orbits in classical types using (generalized) tableaux, and Bala-Carter theory to tackle with exceptional cases and the fundamental groups of nilpotent orbits. While time permitting, the explicit generalized Springer Correspondence due to Lusztig follows at last.
-  - **Instructor**: Marc Besson.
-  - **Time**: Every Tuesday, 1–3pm.
-  - **Location**: Quan 09.
 
 ### 2021 Fall
 
@@ -88,7 +75,7 @@ Bien que ce site ne soit disponible qu'en anglais, je peux répondre aux courrie
 ### International Mathematical Olympiad / 国际数学奥林匹克
 
 - (2022 Summer) [Chinese Team Selection Test](./2022集训队二期终稿.pdf) (in Chinese) / 2022 年IMO[中国国家队选拔考试](./2022集训队二期终稿.pdf). <br/>
-  See the [English Version](./3-EnglishVer.pdf) for Test 3.
+  See the [English Version](./3-Englishver.pdf) for Test 3.
   我无法对于线下前往挪威的具体事宜给出任何明确的回答，如果你有问题，请直接问肖老师~
 - (2021 Winter) Lecture series of [elementary number theory](./imont.md) / [数论专题](./imont.md)集训.
 - (In process) Lecture series of [combinatorics](./imocomb.md) / [组合专题](./imocomb.md)集训.
