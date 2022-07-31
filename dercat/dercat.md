@@ -6,168 +6,61 @@
 
 - **Lecture 1**: From monoids to categories, categorical monomorphisms and epimorphisms, products and equalizers through universal properties, initial and final objects [1, Section 1.2].
 
-- **Lecture 2**: More on functors, representability, limits and colimits, adjoint functors [1, Sections 1.3–1.5].
+- **Lecture 2**: More on functors, representability, limits and colimits, adjoint functors [1, Sections 1.3-1.5].
 
-Homework: Before the next lecture be sure that you are comfortable with modules over (noncommutative) rings. A refresher can be found in [2, Section 1.2].
+- **Lecture 3**: More on adjoint functors, monoidal categories, enriched categories, (pre)additive categories and additive functors [1, Section 1.5], [3, Section VII.1], [2, Section 3.1].
 
-Lecture 3
-Slides
+- **Lecture 4**: Adjoint functors and limits, additive functors, categories of complexes and homotopy categories, abelian categories and exactness [2, Sections 3.1-3.2, 4.1].
 
-More on adjoint functors, monoidal categories, enriched categories, (pre)additive categories and additive functors.
+- **Lecture 5**: Subobjects, injective and projective objects, generators, completeness and cocompleteness, Mitchell’s theorem [4, Chapters 2-4].
 
-References: [1, Section 1.5], [3, Section VII.1], [2, Section 3.1].
+- **Lecture 6**: Injective objects and (co)generators, Grothendieck categories, essential extensions and injective envelopes, weak embedding theorem [4, Chapter 6].
 
-Lecture 4
-Slides
+- **Lecture 7**: Freyd-Mitchell theorem [4, Chapter 7].
 
-Adjoint functors and limits, additive functors, categories of complexes and homotopy categories, abelian categories and exactness.
+- **Lecture 8**: Serre subcategories, quotients, localization [5, Tags 02MN, 04VB].
 
-References: [2, Sections 3.1–3.2, 4.1].
+- **Lecture 9**: Categories of complexes, cones of morphisms, long exact sequence of cohomology, injective modules [6, Chapter 1].
 
-Lecture 5
-Slides
+- **Lecture 10**: Classical derived functors [6, Chapter 2].
 
-Subobjects, injective and projective objects, generators, completeness and cocompleteness, Mitchell’s theorem.
+- **Lecture 11**: Spectral sequences of double complexes, Grothendieck spectral sequence [6, Chapter 5].
 
-References: [4, Chapters 2–4].
+- **Lecture 12**: Balancing Tor, Grothendieck spectral sequence, examples, presheaves [6, Chapter 5], [7, Section 2.7].
 
-Lecture 6
-Slides
+- **Lecture 13**: Sheaves, sheafification, triangulated categories [5, Chapter 6], [5, Sections 13.3-13.4].
 
-Injective objects and (co)generators, Grothendieck categories, essential extensions and injective envelopes, weak embedding theorem.
+- **Lecture 14**: Injective resolutions for sheaves of abelian groups, homotopy category is triangulated [5, Sections 13.9-13.10].
 
-References: [4, Chapter 6].
+- **Lecture 15**: Homotopy category is triangulated, localization of triangulated categories [8, Sections IV.1-IV.2].
 
-Lecture 7
-Slides
+- **Lecture 16**: Localization of subcategories, triangulated quotient categories [5, Section 13.6].
 
-Freyd–Mitchell theorem.
+- **Lecture 17**: Localization of functors, semiorthogonal decompositions, derived functors [2, Section 5.3], [8, Section III.6].
 
-References: [4, Chapter 7].
+- **Lecture 18**: Deligne’s construction of derived functors [5, Section 13.14].
 
-Lecture 8
-Slides
+- **Lecture 19**: Composition of derived functors, derived bifunctors, t-structures [9, Section 1.3].
 
-Serre subcategories, quotients, localization.
+- **Lecture 20**: Properties of t-structures [9, Section 1.3].
 
-References: [5, Tags 02MN, 04VB].
+- **Lecture 21**: Heart of a t-structure, flabby sheaves [9, Section 1.3], [10, Section II.2.4].
 
-Lecture 9
-Slides
+- **Lecture 22**: A brief overview of sheaf theory [10, Section II.2].
 
-Categories of complexes, cones of morphisms, long exact sequence of cohomology, injective modules.
+- **Lecture 23**: Derived categories of sheaves [10, Section II.2].
 
-References: [6, Chapter 1].
-
-Lecture 10
-Slides
-
-Classical derived functors.
-
-References: [6, Chapter 2].
-
-Lecture 11
-Slides
-
-Spectral sequences of double complexes, Grothendieck spectral sequence.
-
-References: [6, Chapter 5].
-
-Lecture 12
-Slides
-
-Balancing Tor, Grothendieck spectral sequence, examples, presheaves.
-
-References: [6, Chapter 5], [7, Section 2.7].
-
-Lecture 13
-Slides
-
-Sheaves, sheafification, triangulated categories.
-
-References: [5, Chapter 6], [5, Sections 13.3–13.4].
-
-Lecture 14
-Slides
-
-Injective resolutions for sheaves of abelian groups, homotopy category is triangulated.
-
-References: [5, Sections 13.9–13.10].
-
-Lecture 15
-Slides
-
-Homotopy category is triangulated, localization of triangulated categories.
-
-References: [8, Sections IV.1–IV.2].
-
-Lecture 16
-Slides
-
-Localization of subcategories, triangulated quotient categories.
-
-References: [5, Section 13.6].
-
-Lecture 17
-Slides
-
-Localization of functors, semiorthogonal decompositions, derived functors.
-
-References: [2, Section 5.3], [8, Section III.6].
-
-Lecture 18
-Slides
-
-Deligne’s construction of derived functors.
-
-References: [5, Section 13.14].
-
-Lecture 19
-Slides
-
-Composition of derived functors, derived bifunctors, t-structures.
-
-References: [9, Section 1.3].
-
-Lecture 20
-Slides
-
-Properties of t-structures.
-
-References: [9, Section 1.3].
-
-Lecture 21
-Slides
-
-Heart of a t-structure, flabby sheaves.
-
-References: [9, Section 1.3], [10, Section II.2.4].
-
-Lecture 22
-Slides
-
-A brief overview of sheaf theory.
-
-References: [10, Section II.2].
-
-Lecture 23
-Slides
-
-Derived categories of sheaves.
-
-References: [10, Section II.2].
-
-Lectue 24
-Slides
-
-Local systems, constructible sheaves, perverse sheaves.
-
-References: [9, 10].
+- **Lectue 24**: Local systems, constructible sheaves, perverse sheaves [9, 10].
 
 ### References
-1. [ERX] Emerton, Reduzzi, Xiao, Galois representations and torsion in the coherent coho- mology of Hilbert modular varieties, Crelle’s journal.
-2. [Fu] W. Fulton, Intersection theory, book.
-3. [He] D. Helm, A geometric Jacquet–Langlands correspondence for _U_(2) Shimura varieties, Israel J. Math. 187 (2012), 37–80.
-4. [HTX] D. Helm, Y. Tian, and L. Xiao, Tate cycles on some unitary Shimura varieties mod _p_, Algebraic Number Theory 11 (2017), 2213–2288.
-5. [Ko] R. Kottwitz, On the λ-adic representations associated to some simple Shimura varieties, Invent. Math. 108 (1992), 653–665.
-6. [TX] Y. Tian and L. Xiao, On Goren-Oort stratification for quaternionic Shimura varieties, Compositio Mathematica 152 (2016), 2134–2220.
+
+1. M. Kashiwara, P. Schapira, Categories and Sheaves.
+2. P. Schapira, Categories and Homological Algebra. pdf
+3. S. Mac Lane, Categories for the Working Mathematician.
+4. P. Freyd, Abelian Categories.
+5. [The Stacks Project](https://stacks.math.columbia.edu).
+6. C. Weibel, An Introduction to Homological Algebra.
+7. R. Vakil, Foundations of Algebraic Geometry. pdf
+8. S. Gelfand, Yu. Manin, Methods of Homological Algebra.
+9. A. Beilinson, J. Bernstein, P. Deligne, Faisceaux Pervers. pdf
+10. M. Kashiwara, P. Schapira, Sheaves on Manifolds.
