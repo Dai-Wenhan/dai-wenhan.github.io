@@ -12,7 +12,7 @@
 
 - **Lecture 4**: Adjoint functors and limits, additive functors, categories of complexes and homotopy categories, abelian categories and exactness [2, Sections 3.1-3.2, 4.1] ([notes](././Lecture-4.pdf)).
 
-- **Lecture 5**: Subobjects, injective and projective objects, generators, completeness and cocompleteness, Mitchell’s theorem [4, Chapters 2-4] ([notes](././Lecture-5.pdf)).
+- **Lecture 5**: Subobjects, injective and projective objects, generators, completeness and cocompleteness, Mitchell's theorem [4, Chapters 2-4] ([notes](././Lecture-5.pdf)).
 
 - **Lecture 6**: Injective objects and (co)generators, Grothendieck categories, essential extensions and injective envelopes, weak embedding theorem [4, Chapter 6] ([notes](././Lecture-6.pdf)).
 
@@ -38,7 +38,7 @@
 
 - **Lecture 17**: Localization of functors, semiorthogonal decompositions, derived functors [2, Section 5.3], [8, Section III.6] ([notes](././Lecture-17.pdf)).
 
-- **Lecture 18**: Deligne’s construction of derived functors [5, Section 13.14] ([notes](././Lecture-18.pdf)).
+- **Lecture 18**: Deligne's construction of derived functors [5, Section 13.14] ([notes](././Lecture-18.pdf)).
 
 - **Lecture 19**: Composition of derived functors, derived bifunctors, t-structures [9, Section 1.3] ([notes](././Lecture-19.pdf)).
 
