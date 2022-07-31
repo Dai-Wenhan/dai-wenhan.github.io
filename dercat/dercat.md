@@ -50,7 +50,7 @@
 
 - **Lecture 23**: Derived categories of sheaves [10, Section II.2] ([notes](././Lecture-23.pdf)).
 
-- **Lectue 24**: Local systems, constructible sheaves, perverse sheaves [9, 10] ([notes](././Lecture-24.pdf)).
+- **Lecture 24**: Local systems, constructible sheaves, perverse sheaves [9, 10] ([notes](././Lecture-24.pdf)).
 
 
 ### References
