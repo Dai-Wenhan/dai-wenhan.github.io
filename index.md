@@ -17,7 +17,7 @@ Beijing, 100871, China.
 <br/>
 Bien que ce site ne soit disponible qu'en anglais, je peux répondre aux courriels en français (avec difficulté).
 
-![winter](./landscape-winter.jpg)
+![summer](./landscape-summer.png)
 
 ## Seminars
 
