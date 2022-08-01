@@ -1,6 +1,7 @@
 ## Triangulated and Derived Categories in Algebra and Geometry.
 
 - **Instructor**: [Anton Fonarev](https://homepage.mi-ras.ru/~avfonarev/).
+- **Time**: Every Tuesday 13-15 & Every Wednesday 19-21.
 
 ### Syllabus
 

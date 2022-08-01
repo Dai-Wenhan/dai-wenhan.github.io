@@ -62,6 +62,7 @@ Bien que ce site ne soit disponible qu'en anglais, je peux répondre aux courrie
 
 ## Courses
 
+- Spring 2022: [**Hodge Theory and Complex Algebraic Geometry**](./hodge22/hodge22.md).
 - Spring 2022: [**Triangulated and Derived Categories in Algebra and Geometry**](./dercat/dercat.md).
 - Fall 2021: [**The Arithmetic of Elliptic Curves**](./ellcurves2021.md). <br/>
   See my [solution](../ellcurves2021-final.pdf) to the final exam.
