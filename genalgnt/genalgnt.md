@@ -3,9 +3,9 @@
 ### Notes on Class Field Theory
 
 - Trailer: Abelian Extensions of the Rationals - <br/>
-  - [The Kronecker-Weber Theorem](./genalgnt-1.pdf)
-  - [Kummer Theory](./genalgnt-2.pdf)
-  - [The Local Kronecker-Weber Theorem](./genalgnt-3.pdf).
+  - [The Kronecker-Weber Theorem](././genalgnt-1.pdf)
+  - [Kummer Theory](././genalgnt-2.pdf)
+  - [The Local Kronecker-Weber Theorem](././genalgnt-3.pdf).
 - The Statements of Class Field Theory - <br/>
   - The Hilbert Class Field
   - Generalized Ideal Class Groups and the Artin Reciprocity Law
