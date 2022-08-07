@@ -23,15 +23,19 @@ Bien que ce site ne soit disponible qu'en anglais, je peux répondre aux courrie
 
 ### 2022 Summer (ongoing)
 
-### 2022 Spring
+- Geometry of Shimura Varieties and Arithmetic Applications.
+- Perfectoid Approaches to _p_-adic Modular Forms (Lue Pan's work).
+
+
+### Past Seminars
+
+#### 2022 Spring
 
 - [**Geometry of Shimura Varieties mod _p_**](./modpShv/modpShv.md).
-
 - [**Locally Analytic _p_-adic Representations**](./locanRep/locanRep.md).
-
 - [**Springer Theory, Representation Theory, and Complex Geometry**](./Springer/2022spring.md) (intended to be in-person).
 
-### 2021 Fall
+#### 2021 Fall
 
 - [**3264 and All That**](./3264.md).
 
