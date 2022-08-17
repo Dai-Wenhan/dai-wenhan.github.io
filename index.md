@@ -32,7 +32,7 @@ Bien que ce site ne soit disponible qu'en anglais, je peux répondre aux courrie
   - **Time:** 14:00-15:00, August 24 (UTC+8).
   - **Location**: BICMR 77201.
   - **Abstract**: In the representation theory of real reductive Lie groups, several finiteness results of lengths and multiplicities are known and fundamental. The Harish-Chandra admissibility theorem and the finiteness of the length of Verma modules and principal series representations are typical examples. <br/> More precisely, such multiplicities and lengths are bounded on some parameter sets. T. Oshima and T. Kobayashi ('13 adv. math.) gave a criterion on which branching laws have (uniformly) bounded multiplicities. 
-  - **Venue**: Link: https://zoom.us/j/94965594176?pwd=SkpzMVlCZ0dvMmVYVGhMWFl3Ymh2Zz09 <br/> Zoom Number: 949 6559 4176 <br/> Zoom password: 071166
+  - **Venue**: [Zoom Link](https://zoom.us/j/94965594176?pwd=SkpzMVlCZ0dvMmVYVGhMWFl3Ymh2Zz09) <br/> Zoom Number: 949 6559 4176 <br/> Zoom password: 071166
 
 
 ### Past Seminars
