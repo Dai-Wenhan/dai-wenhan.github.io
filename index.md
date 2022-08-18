@@ -24,7 +24,9 @@ Bien que ce site ne soit disponible qu'en anglais, je peux répondre aux courrie
 ### 2022 Summer (ongoing)
 
 - [**Geometry of Shimura Varieties and Arithmetic Applications**](https://bicmr.pku.edu.cn/content/show/17-2759.html).
+
 - **Perfectoid Approaches to _p_-adic Modular Forms** (Lue Pan's work).
+
 - **Uniformly Bounded Multiplicities in the Branching Problem and D-modules**.
 
   In [arXiv:2109.05556](https://arxiv.org/abs/2109.05556), I defined uniform boundedness of a family of D-modules (and g-modules) to treat the boundedness properties uniformly. I will talk about its definition and applications. In particular, I will give a necessary and sufficient condition on uniform boundedness of multiplicities in the branching problem of real reductive Lie groups. 
