@@ -27,7 +27,7 @@ Bien que ce site ne soit disponible qu'en anglais, je peux répondre aux courrie
 
 - [**Perfectoid Approaches to _p_-adic Modular Forms**](./pAdicPerfectoid.md) (Lue Pan's work).
 
-  Let _p_ be a prime. I want to explain how to use the geometry of modular curves at infinite level and Hodge-Tate period map to study _p_-adic regular de Rham Galois representations appearing in the _p_-adically completed cohomology of modular curves. We will show that these Galois representations up to twists come from modular forms and give a geometric description of the locally analytic representations of GL(2, Q_p) associated to them. These results were previously known by totally different methods.
+  Let $p$ be a prime. I want to explain how to use the geometry of modular curves at infinite level and Hodge-Tate period map to study $p$-adic regular de Rham Galois representations appearing in the $p$-adically completed cohomology of modular curves. We will show that these Galois representations up to twists come from modular forms and give a geometric description of the locally analytic representations of $\mathrm{GL}(2, \mathbb{Q}_{p})$ associated to them. These results were previously known by totally different methods.
   - **Title**: Regular de Rham Galois Representations in the Completed Cohomology of Modular Curves.
   - **Speaker**: Lue Pan (Princeton University).
   - **Time:** 09:30-11:00, August 30 (UTC+8).
@@ -35,9 +35,9 @@ Bien que ce site ne soit disponible qu'en anglais, je peux répondre aux courrie
   - **Venue**: [Zoom Link](https://zoom.us/j/95367884415?pwd=eXpRdzkvTWplYjB6c0g0RDRGWGhnZz09) <br/> Zoom Number: 953 6788 4415 <br/> Zoom password: 373352
 
 
-- **Uniformly Bounded Multiplicities in the Branching Problem and D-modules**.
+- **Uniformly Bounded Multiplicities in the Branching Problem and _D_-modules**.
 
-  In [arXiv:2109.05556](https://arxiv.org/abs/2109.05556), I defined uniform boundedness of a family of D-modules (and g-modules) to treat the boundedness properties uniformly. I will talk about its definition and applications. In particular, I will give a necessary and sufficient condition on uniform boundedness of multiplicities in the branching problem of real reductive Lie groups. 
+  In [arXiv:2109.05556](https://arxiv.org/abs/2109.05556), I defined uniform boundedness of a family of $\mathfrak{D}$-modules (and $\mathfrak{g}$-modules) to treat the boundedness properties uniformly. I will talk about its definition and applications. In particular, I will give a necessary and sufficient condition on uniform boundedness of multiplicities in the branching problem of real reductive Lie groups. 
   - **Speaker**: Masatoshi Kitagawa (Waseda University).
   - **Time:** 14:00-15:00, August 24 (UTC+8).
   - **Location**: BICMR 77201.
