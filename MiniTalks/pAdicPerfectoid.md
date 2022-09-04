@@ -1,6 +1,19 @@
+<head>
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+            tex2jax: {
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+            inlineMath: [['$','$']]
+            }
+        });
+    </script>
+</head>
+
+
 ## Perfectoid Approaches to _p_-adic Modular Forms.
 
-Let _p_ be a prime. I want to explain how to use the geometry of modular curves at infinite level and Hodge-Tate period map to study _p_-adic regular de Rham Galois representations appearing in the _p_-adically completed cohomology of modular curves. We will show that these Galois representations up to twists come from modular forms and give a geometric description of the locally analytic representations of GL(2, Q_p) associated to them. These results were previously known by totally different methods.
+Let _p_ be a prime. I want to explain how to use the geometry of modular curves at infinite level and Hodge-Tate period map to study _p_-adic regular de Rham Galois representations appearing in the _p_-adically completed cohomology of modular curves. We will show that these Galois representations up to twists come from modular forms and give a geometric description of the locally analytic representations of $GL(2, Q_p)$ associated to them. These results were previously known by totally different methods.
 
   - **Title**: Regular de Rham Galois Representations in the Completed Cohomology of Modular Curves.
   - **Speaker**: Lue Pan (Princeton University).
