@@ -25,7 +25,28 @@ Bien que ce site ne soit disponible qu'en anglais, je peux répondre aux courrie
 
 - [**Abelian Varieties**](./AV/AV.md).
 
+<<<<<<< HEAD
   The goal of this learning seminar is to study the basics of abelian varieties. The pre-requisite is Chapters 2–3 of Hartshorne’s algebraic geometry, but this seminar can also be taken while reading Hartshorne’s book. Some familiarity with elliptic curves will be helpful to understand some of the materials. Each lecture will be two hours long. The textbook we are going to use is Mumford’s book. Another complementary reference is Milne’s online note. Mumford’s book is mostly about the geometry (i.e. abelian varieties over algebraically closed fields), while Milne’s note has more about the arithmetic (e.g. abelian varieties over finite fields or number fields). Moreover, Milne’s note has a chapter about Jacobian varieties.
+=======
+- [**Perfectoid Approaches to _p_-adic Modular Forms**](./pAdicPerfectoid.md) (Lue Pan's work).
+
+  Let $p$ be a prime. I want to explain how to use the geometry of modular curves at infinite level and Hodge-Tate period map to study $p$-adic regular de Rham Galois representations appearing in the $p$-adically completed cohomology of modular curves. We will show that these Galois representations up to twists come from modular forms and give a geometric description of the locally analytic representations of $\mathrm{GL}(2, \mathbb{Q}_{p})$ associated to them. These results were previously known by totally different methods.
+  - **Title**: Regular de Rham Galois Representations in the Completed Cohomology of Modular Curves.
+  - **Speaker**: Lue Pan (Princeton University).
+  - **Time:** 09:30-11:00, August 30 (UTC+8).
+  - **Location**: BICMR 77201.
+  - **Venue**: [Zoom Link](https://zoom.us/j/95367884415?pwd=eXpRdzkvTWplYjB6c0g0RDRGWGhnZz09) <br/> Zoom Number: 953 6788 4415 <br/> Zoom password: 373352
+
+
+- **Uniformly Bounded Multiplicities in the Branching Problem and _D_-modules**.
+
+  In [arXiv:2109.05556](https://arxiv.org/abs/2109.05556), I defined uniform boundedness of a family of $\mathfrak{D}$-modules (and $\mathfrak{g}$-modules) to treat the boundedness properties uniformly. I will talk about its definition and applications. In particular, I will give a necessary and sufficient condition on uniform boundedness of multiplicities in the branching problem of real reductive Lie groups. 
+  - **Speaker**: Masatoshi Kitagawa (Waseda University).
+  - **Time:** 14:00-15:00, August 24 (UTC+8).
+  - **Location**: BICMR 77201.
+  - **Abstract**: In the representation theory of real reductive Lie groups, several finiteness results of lengths and multiplicities are known and fundamental. The Harish-Chandra admissibility theorem and the finiteness of the length of Verma modules and principal series representations are typical examples. <br/> More precisely, such multiplicities and lengths are bounded on some parameter sets. T. Oshima and T. Kobayashi ('13 adv. math.) gave a criterion on which branching laws have (uniformly) bounded multiplicities. 
+  - **Venue**: [Zoom Link](https://zoom.us/j/94965594176?pwd=SkpzMVlCZ0dvMmVYVGhMWFl3Ymh2Zz09) <br/> Zoom Number: 949 6559 4176 <br/> Zoom password: 071166
+>>>>>>> 8844f27db9e0c76bd23ae41d68e30923b80cdc07
 
   - **Time**: Every Friday, 7:30-9:00pm.
   - **Location**: School of Math 1418.
