@@ -1,6 +1,18 @@
-## Uniformly Bounded Multiplicities in the Branching Problem and _D_-modules.
+<head>
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+            tex2jax: {
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+            inlineMath: [['$','$']]
+            }
+        });
+    </script>
+</head>
 
-In [arXiv:2109.05556](https://arxiv.org/abs/2109.05556), I defined uniform boundedness of a family of D-modules (and g-modules) to treat the boundedness properties uniformly. I will talk about its definition and applications. In particular, I will give a necessary and sufficient condition on uniform boundedness of multiplicities in the branching problem of real reductive Lie groups. 
+## Uniformly Bounded Multiplicities in the Branching Problem and $\mathfrak{D}$-modules.
+
+In [arXiv:2109.05556](https://arxiv.org/abs/2109.05556), I defined uniform boundedness of a family of $\mathfrak{D}$-modules (and $\mathfrak{g}$-modules) to treat the boundedness properties uniformly. I will talk about its definition and applications. In particular, I will give a necessary and sufficient condition on uniform boundedness of multiplicities in the branching problem of real reductive Lie groups. 
 
   - **Speaker**: Masatoshi Kitagawa (Waseda University).
   - **Time:** 14:00-15:00, August 24 (UTC+8).
