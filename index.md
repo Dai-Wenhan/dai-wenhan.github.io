@@ -2,7 +2,7 @@
 
 _Last updated on: April 2022_
 
-Now I am an undergraduate student in [School of Mathematical Science](http://english.math.pku.edu.cn) at [Peking University](https://www.pku.edu.cn), China. My research interest includes **number theory**, **arithmetic geometry**, and **representation theory**. My instructor is Professor [Xiao Liang](https://bicmr.pku.edu.cn/~lxiao/index.htm) at [Beijing International Center for Mathematical Research](https://bicmr.pku.edu.cn). Here comes a [headshot](./headshot.jpg) of mine.
+Now I am an undergraduate student in [School of Mathematical Science](http://english.math.pku.edu.cn) at [Peking University](https://www.pku.edu.cn), China. My research interest includes **number theory**, **arithmetic geometry**, and **representation theory**. My instructor is Professor [Xiao Liang](https://bicmr.pku.edu.cn/~lxiao/index.htm) / 肖梁 at [Beijing International Center for Mathematical Research](https://bicmr.pku.edu.cn). Here comes a [headshot](./headshot.jpg) of mine.
 
 ## Contact Info
 
@@ -52,6 +52,7 @@ Bien que ce site ne soit disponible qu'en anglais, je peux répondre aux courrie
 #### 2021 Summer
 
 - [**From Modular Forms to Shimura Varieties**](./Sh2021summer/Sh2021summer.md).
+- [**Counting Points on Shimura Varieties.**](./Zhu2021summer/Zhu2021summer.md).
 
 
 ## Notes and Expository Papers
