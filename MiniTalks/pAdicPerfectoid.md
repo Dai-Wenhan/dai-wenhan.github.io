@@ -18,6 +18,6 @@ Let $p$ be a prime. I want to explain how to use the geometry of modular curves 
 - **Speaker**: Lue Pan (Princeton University). 
 - **Time:** 09:30-11:00, August 30 (UTC+8). 
 - **Location**: BICMR 77201. 
-- **Venue**: [Zoom Link](https://zoom.us/j/95367884415?pwd=eXpRdzkvTWplYjB6c0g0RDRGWGhnZz09) 
-Zoom Number: 953 6788 4415 
+- **Venue**: [Zoom Link](https://zoom.us/j/95367884415?pwd=eXpRdzkvTWplYjB6c0g0RDRGWGhnZz09) <br/>
+Zoom Number: 953 6788 4415 <br/>
 Zoom password: 373352
