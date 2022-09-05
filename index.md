@@ -23,6 +23,13 @@ Bien que ce site ne soit disponible qu'en anglais, je peux répondre aux courrie
 
 ### 2022 Fall (ongoing)
 
+- [**_p_-adic Geometry Learning Seminar: On Banach-Colmez Spaces**](./padicBC/padicBC.md).
+
+  The goal of this series of talks is to learn the basics of finite-dimensional Banach Spaces (aka. Banach-Colmez spaces). More details can be found here. There is a small chance we might have to deviate from this schedule if some topics end up taking longer/shorter than we expect.
+  - **Time**: Every Monday, 3:00-5:00pm.
+  - **Location**: MCM 110 & Online (Zoom ID: 4663562952; Password: mcm1234).
+  - **Instructor**: [Koji Shimizu] (Tsinghua) and [Shizhang Li](http://shizhang.li) (MCM).
+
 - [**Abelian Varieties**](./AV/AV.md).
 
   The goal of this learning seminar is to study the basics of abelian varieties. The pre-requisite is Chapters 2–3 of Hartshorne’s algebraic geometry, but this seminar can also be taken while reading Hartshorne’s book. Some familiarity with elliptic curves will be helpful to understand some of the materials. Each lecture will be two hours long. The textbook we are going to use is Mumford’s book. Another complementary reference is Milne’s online note. Mumford’s book is mostly about the geometry (i.e. abelian varieties over algebraically closed fields), while Milne’s note has more about the arithmetic (e.g. abelian varieties over finite fields or number fields). Moreover, Milne’s note has a chapter about Jacobian varieties.
@@ -52,7 +59,7 @@ Bien que ce site ne soit disponible qu'en anglais, je peux répondre aux courrie
 #### 2021 Summer
 
 - [**From Modular Forms to Shimura Varieties**](./Sh2021summer/Sh2021summer.md).
-- [**Counting Points on Shimura Varieties.**](./Zhu2021summer/Zhu2021summer.md).
+- [**Counting Points on Shimura Varieties**](./Zhu2021summer/Zhu2021summer.md).
 
 
 ## Notes and Expository Papers
