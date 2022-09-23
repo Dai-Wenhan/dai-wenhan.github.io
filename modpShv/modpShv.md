@@ -21,13 +21,13 @@ Before your participation, an instructive talk [_Generic Tate cycles on certain 
 - [x] (4/18) **Wenhan Dai** - Goren–Oort strata for _U_(2)-Shimura varieties: sparce case, following [He], up to section 4. ([video1](), [video2](), [notes]())
 - [x] (4/25) **Liang Xiao** & **Wenhan Dai** - First Wenhan Dai finishes the previous talk. Then Liang talks about Carayol’s construction. ([video1](), [video2](), [notes]())
 - [ ] (5/2) _National Labor-Day Holiday._
-- [ ] (5/9) **Haocheng Fan** - Goren–Oort strata for _U_(2)-Shimura varieties: general case I, following [TX, §4 and §5]. Translate the discussion in [TX] into Helm’s setup.
-- [ ] (5/16) **Haocheng Fan** - Goren–Oort strata for _U_(2)-Shimura varieties: general case II, following [TX, §4 and §5]. Translate the discussion in [TX] into Helm’s setup.
-- [ ] (5/23) **Deding Yang** - Ampleness of automorphic line bundles on _U_(2)-Shimura varieties [TX, §6].
-- [ ] (5/30) **Ruiqi Bai** - Ihara’s lemma vs. geometric level-raising.
-- [ ] (6/6) **Hao Fu** - Level-raising for _U_(3)-Shimura varieties I.
-- [ ] (6/13) **Hao Fu** - Level-raising for _U_(3)-Shimura varieties II.
-- [ ] (TBD) **TBD** - Galois representations and torsion in the coherent cohomology of Hilbert modular varieties, follow [ERX].
+- [x] (5/9) **Haocheng Fan** - Goren–Oort strata for _U_(2)-Shimura varieties: general case I, following [TX, §4 and §5]. Translate the discussion in [TX] into Helm’s setup.
+- [x] (5/16) **Haocheng Fan** - Goren–Oort strata for _U_(2)-Shimura varieties: general case II, following [TX, §4 and §5]. Translate the discussion in [TX] into Helm’s setup.
+- [x] (5/23) **Deding Yang** - Ampleness of automorphic line bundles on _U_(2)-Shimura varieties [TX, §6].
+- [x] (5/30) **Ruiqi Bai** - Ihara’s lemma vs. geometric level-raising.
+- [x] (6/6) **Hao Fu** - Level-raising for _U_(3)-Shimura varieties I.
+- [x] (6/13) **Hao Fu** - Level-raising for _U_(3)-Shimura varieties II.
+- [x] (TBD) **TBD** - Galois representations and torsion in the coherent cohomology of Hilbert modular varieties, follow [ERX].
 
 _The videos for this seminar series are valid until 2022-09-30 23:59._
 

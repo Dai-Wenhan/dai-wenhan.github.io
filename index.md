@@ -47,9 +47,9 @@ Bien que ce site ne soit disponible qu'en anglais, je peux répondre aux courrie
 
 #### 2022 Summer
 
-- [**Geometry of Shimura Varieties and Arithmetic Applications**](https://bicmr.pku.edu.cn/content/show/17-2759.html).
-- [**Perfectoid Approaches to _p_-adic Modular Forms**](./MiniTalks/pAdicPerfectoid.md) (Lue Pan's work).
-- [**Uniformly Bounded Multiplicities in the Branching Problem and _D_-modules**](./MiniTalks/unibd.md).
+- (_Workshop_) [**Geometry of Shimura Varieties and Arithmetic Applications**](https://bicmr.pku.edu.cn/content/show/17-2759.html).
+- (_Mini-talk_) [**Perfectoid Approaches to _p_-adic Modular Forms**](./MiniTalks/pAdicPerfectoid.md) (Lue Pan's work).
+- (_Mini-talk_) [**Uniformly Bounded Multiplicities in the Branching Problem and _D_-modules**](./MiniTalks/unibd.md).
 
 #### 2022 Spring
 
@@ -58,7 +58,7 @@ Bien que ce site ne soit disponible qu'en anglais, je peux répondre aux courrie
 - [**Springer Theory, Representation Theory, and Complex Geometry**](./Springer/2022spring.md) (intended to be in-person).
 
 #### 2021 Winter
-- [**Mini-Course on Springer Fibers and Quiver Varieties**](./Springer/TMS-Springer.md) (TMS).
+- [**Mini-Course on Springer Fibers and Quiver Varieties**](./Springer/TMS-Springer.md) (by TMS Public).
 - **Arizona Winter School 2022**.
 
 #### 2021 Fall
@@ -77,7 +77,7 @@ Bien que ce site ne soit disponible qu'en anglais, je peux répondre aux courrie
 
 #### 2020 Summer - 2021 Spring
 
-  I called sick in this extremely hard year. 
+  Wenhan called sick in this extremely hard year. 
 
 #### 2020 Spring
 

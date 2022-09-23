@@ -1,7 +1,11 @@
 ## Triangulated and Derived Categories in Algebra and Geometry.
 
-- **Instructor**: [Anton Fonarev](https://homepage.mi-ras.ru/~avfonarev/).
-- **Time**: Every Tuesday 13-15 & Every Wednesday 19-21.
+_Guest lecture series at Sino-Russian Mathematics Center._
+
+Derived categories were originally introduced by Grothendieck and Verdier as a nice language to deal with derived functors. Some decades later it became clear that derived categories are often fascinating invariants themselves and carry lots of algebraic/geometric structures wherever they appear. The goal of this course is to present the basics of the theory of derived and triangulated categories beginning with abelian categories and classical derived functors all the way up to semiorthogonal decompositions and DG-categories. Along the way, we will also deal with some categories of sheaves appearing in topology and algebraic geometry.
+
+- **Lecturer**: [Anton Fonarev](https://homepage.mi-ras.ru/~avfonarev/).
+- **Time**: (Beijing time) Every Tuesday 13-15 & Every Wednesday 19-21.
 
 ### Syllabus
 
