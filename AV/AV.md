@@ -9,8 +9,6 @@ The textbook we are going to use is Mumford’s book. Another complementary refe
 - **Location**: School of Math 1418.
 - **Instructor**: [Liang Xiao](https://bicmr.pku.edu.cn/~lxiao/index.htm) and [Xinyi Yuan](https://bicmr.pku.edu.cn/~yxy/).
 
-Before your participation, an instructive talk [_Generic Tate cycles on certain unitary Shimura varieties over finite fields_](https://www.youtube.com/watch?v=Bzg5hsiUgPw) to [HTX] by Yichao Tian at Centre International de Rencontres Mathématiques is strongly recommended ([notes](././tatecycles-tian.pdf)).
-
 
 ### Syllabus (tentative)
 
