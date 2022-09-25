@@ -20,7 +20,7 @@ existence of primitives; Cauchy Integral Formula; Holomorphicity is equivalent t
 - **Geometric Theory of Holomorphic Functions** - <br/>
   Conformal/biholomorphic maps; The unit disc is conformally equivalent to the upper-half plane; Schwarz Lemma: to compute Aut(D) and Aut(H); D is a hyperbolic space; The Riemann Mapping Theorem; Boundary correspondences and the construction of a modular
 function.
-- **Ellptic Functions ** - <br/>
+- **Ellptic Functions** - <br/>
   Weierstrass p-function on lattices and the elliptic curve; Fourier transform and q-expansion; The SL(2,Z)-action and its fundamental domain.
 - **The Theta Function** - <br/>
   The Triple-Product Formula; Applications to combinatorics and number theory.
