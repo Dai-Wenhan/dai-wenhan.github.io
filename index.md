@@ -25,13 +25,13 @@ During the upcoming semester, I will organize seminars on Abelian / Shimura vari
   - **Instructor**: [Liang Xiao](https://bicmr.pku.edu.cn/~lxiao/index.htm) and [Xinyi Yuan](https://bicmr.pku.edu.cn/~yxy/).
 
 
-## [Seminars, Workshops, and Conferences](./swc.md)
+## [Seminars, Workshops, and Conferences Attended](./swc.md)
 
 ## [Notes and Expository Papers](./notes.md)
 
-## [Courses](./courses.md)
+## [School Courses](./courses.md)
 
-## [Teaching](./teaching.md)
+## [Teaching Experiences](./teaching.md)
 
 
 ## Contact Info

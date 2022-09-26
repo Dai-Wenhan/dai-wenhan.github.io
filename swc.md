@@ -1,4 +1,4 @@
-## Seminars, Workshops, and Conferences
+## Seminars, Workshops, and Conferences Attended
 
 ### 2022 Fall (ongoing)
 
