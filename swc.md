@@ -1,14 +1,6 @@
-# Dai Wenhan / 戴文晗
+## Seminars, Workshops, and Conferences
 
-_Last updated on: September 2022_
-
-Now I am an undergraduate student in [School of Mathematical Science](http://english.math.pku.edu.cn) at [Peking University](https://www.pku.edu.cn), China. My research interest includes **number theory**, **arithmetic geometry**, and **representation theory**. My instructor is Professor [Xiao Liang](https://bicmr.pku.edu.cn/~lxiao/index.htm) / 肖梁 at [Beijing International Center for Mathematical Research](https://bicmr.pku.edu.cn). [Here](./headshot.jpg) comes a headshot of mine.
-
-## News & Announcements
-
-During the upcoming semester, I will organize seminars on Abelian / Shimura varieties.
-
-### Ongoing Events
+### 2022 Fall (ongoing)
 
 - [**_p_-adic Geometry Learning Seminar: On Banach-Colmez Spaces**](./padicBC/padicBC.md).
 
@@ -25,26 +17,42 @@ During the upcoming semester, I will organize seminars on Abelian / Shimura vari
   - **Instructor**: [Liang Xiao](https://bicmr.pku.edu.cn/~lxiao/index.htm) and [Xinyi Yuan](https://bicmr.pku.edu.cn/~yxy/).
 
 
-## [Seminars, Workshops, and Conferences](./swc.md)
+### Past Events
 
-## [Notes and Expository Papers](./notes.md)
+#### 2022 Summer
 
-## [Courses](./courses.md)
+- (_Workshop_) [**Geometry of Shimura Varieties and Arithmetic Applications**](https://bicmr.pku.edu.cn/content/show/17-2759.html).
+- (_Mini-talk_) [**Perfectoid Approaches to _p_-adic Modular Forms**](./MiniTalks/pAdicPerfectoid.md) (Lue Pan's work).
+- (_Mini-talk_) [**Uniformly Bounded Multiplicities in the Branching Problem and _D_-modules**](./MiniTalks/unibd.md).
 
-## [Teaching](./teaching.md)
+#### 2022 Spring
 
+- [**Geometry of Shimura Varieties mod _p_**](./modpShv/modpShv.md).
+- [**Locally Analytic _p_-adic Representations**](./locanRep/locanRep.md).
+- [**Springer Theory, Representation Theory, and Complex Geometry**](./Springer/2022spring.md) (intended to be in-person).
 
-## Contact Info
+#### 2021 Winter
+- [**Mini-Course on Springer Fibers and Quiver Varieties**](./Springer/TMS-Springer.md) (by TMS Public).
+- **Arizona Winter School 2022**.
 
-```
-School of Mathematical Science
-Peking University
-No.5 Yiheyuan Road, Haidian District
-Beijing, 100871, China.
-```
+#### 2021 Fall
 
-**Email**: daiwenhan [at] pku [dot] edu [dot] cn (he/him/él/il)
-<br/>
-Bien que ce site ne soit disponible qu'en anglais, je peux répondre aux courriels en français (avec difficulté).
+- [**3264 and All That -- Seminar on Enumerative Geometry**](./3264/3264.md).
 
-![summer](./landscape-summer.png)
+#### 2021 Summer
+
+- [**From Modular Forms to Shimura Varieties**](./Sh2021summer/Sh2021summer.md).
+- [**Counting Points on Shimura Varieties**](./Zhu2021summer/Zhu2021summer.md).
+
+#### 2021 Spring
+
+- **Revisiting Padova 2017: Serre Conjecture and the _p_-adic local Langlands Program**.
+- **Automorphic Forms and the Langlands Program**.
+
+#### 2020 Summer - 2021 Spring
+
+  Wenhan called sick in this extremely hard year. 
+
+#### 2020 Spring
+
+- **Student Seminar on Hartshorne's _Algebraic Geometry_**.
