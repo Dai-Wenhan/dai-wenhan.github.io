@@ -22,32 +22,33 @@
 #### 2022 Summer
 
 - (_Workshop_) [**Geometry of Shimura Varieties and Arithmetic Applications**](https://bicmr.pku.edu.cn/content/show/17-2759.html).
-- (_Mini-talk_) [**Perfectoid Approaches to _p_-adic Modular Forms**](./MiniTalks/pAdicPerfectoid.md) (Lue Pan's work).
-- (_Mini-talk_) [**Uniformly Bounded Multiplicities in the Branching Problem and _D_-modules**](./MiniTalks/unibd.md).
+- (_Talk_) [**Perfectoid Approaches to _p_-adic Modular Forms**](./MiniTalks/pAdicPerfectoid.md) (Lue Pan's work).
+- (_Talk_) [**Uniformly Bounded Multiplicities in the Branching Problem and _D_-modules**](./MiniTalks/unibd.md).
 
 #### 2022 Spring
 
-- [**Geometry of Shimura Varieties mod _p_**](./modpShv/modpShv.md).
-- [**Locally Analytic _p_-adic Representations**](./locanRep/locanRep.md).
-- [**Springer Theory, Representation Theory, and Complex Geometry**](./Springer/2022spring.md) (intended to be in-person).
+- (_Seminar_) [**Geometry of Shimura Varieties mod _p_**](./modpShv/modpShv.md).
+- (_Seminar_) [**Locally Analytic _p_-adic Representations**](./locanRep/locanRep.md).
+- (_Seminar_) [**Springer Theory, Representation Theory, and Complex Geometry**](./Springer/2022spring.md) (intended to be in-person).
 
 #### 2021 Winter
-- [**Mini-Course on Springer Fibers and Quiver Varieties**](./Springer/TMS-Springer.md) (by TMS Public).
+- (_Mini-Course_) [**Springer Fibers and Quiver Varieties**](./Springer/TMS-Springer.md) (by TMS Public).
 - **Arizona Winter School 2022**.
 
 #### 2021 Fall
 
-- [**3264 and All That -- Seminar on Enumerative Geometry**](./3264/3264.md).
+- (_Seminar_) [**3264 and All That -- Seminar on Enumerative Geometry**](./3264/3264.md).
+- (_Workshop_) [**The Uniform Mordell-Lang Program**](./westlake2021/westlake2021.md) (Westlake Mathematics, Hangzhou).
 
 #### 2021 Summer
 
-- [**From Modular Forms to Shimura Varieties**](./Sh2021summer/Sh2021summer.md).
-- [**Counting Points on Shimura Varieties**](./Zhu2021summer/Zhu2021summer.md).
+- (_Mini-Course_) [**From Modular Forms to Shimura Varieties**](./Sh2021summer/Sh2021summer.md) (by Liang Xiao).
+- (_Mini-Course_) [**Counting Points on Shimura Varieties**](./Zhu2021summer/Zhu2021summer.md) (by Yihang Zhu).
 
 #### 2021 Spring
 
-- **Revisiting Padova 2017: Serre Conjecture and the _p_-adic local Langlands Program**.
-- **Automorphic Forms and the Langlands Program**.
+- (_Seminar_) **Revisiting Padova 2017: Serre Conjecture and the _p_-adic local Langlands Program**.
+- (_Workshop_) **Automorphic Forms and the Langlands Program**.
 
 #### 2020 Summer - 2021 Spring
 
