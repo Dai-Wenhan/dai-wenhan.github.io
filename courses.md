@@ -8,6 +8,7 @@
 - [**The Arithmetic of Elliptic Curves**](./ellcurves2021.md). <br/>
   See my [solution](../ellcurves2021-final.pdf) to the final exam.
 - [**Algebraic Geometry I**](./AGI2021.md).
+- [**Homological Methods in Algebraic Geometry**](./homoalg2021/homoalg2021.md)
 
 #### 2021 Spring
 - [**Algebraic Geometry II**](./AGII2021.md).
