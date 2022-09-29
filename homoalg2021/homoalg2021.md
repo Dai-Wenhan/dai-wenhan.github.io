@@ -2,9 +2,9 @@
 
 The main reference for this course is Huybrechts’s book _Fourier-Mukai transforms in algebraic geometry_ ([Huy06]). Besides this, we will also use parts of the following books: _Methods of homological algebra_, _An introduction to homological algebra_ and _D-modules, perverse sheaves, and representation theory_ (only the chapter of t-structures) i.e., [GM13], [Wei94], and [HT07].
 
-- **Lecturer**: Yucheng Liu ([email](liuyucheng@bicmr.pku.edu.cn)).
+- **Lecturer**: Yucheng Liu (postdoc at BICMR, liuyucheng@bicmr.pku.edu.cn).
 
-**Announcement$$: Dr. Liu's lecture notes are available [here](././homoalg2021.pdf). At some point in the future, I might update it randomly to correct the typos. (The latest version: February 22, 2022).
+**Announcement**: Dr. Liu's lecture notes are available [here](././homoalg2021.pdf). At some point in the future, I might update it randomly to correct the typos. (The latest version: February 22, 2022).
 
 ### Syllabus
 
