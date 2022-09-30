@@ -5,8 +5,7 @@
 - [**Triangulated and Derived Categories in Algebra and Geometry**](./dercat/dercat.md).
 
 #### 2021 Fall
-- [**The Arithmetic of Elliptic Curves**](./ellcurves2021.md). <br/>
-  See my [solution](../ellcurves2021-final.pdf) to the final exam.
+- [**The Arithmetic of Elliptic Curves**](./ellcurves2021.md) (see my [solution](../ellcurves2021-final.pdf) to the final).
 - [**Algebraic Geometry I**](./AGI2021.md).
 - [**Homological Methods in Algebraic Geometry**](./homoalg2021/homoalg2021.md)
 
