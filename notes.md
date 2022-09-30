@@ -12,3 +12,4 @@
 - [Algebraic Number Theory](./genalgnt/genalgnt.md).
 - [Analytic Number Theory](./genannt/genannt.md) (to appear).
 - [Representation Theory](./genrep/genrep.md).
+- [Lie Algebra and Representation](./genlie/genlie.md).

@@ -30,6 +30,7 @@
 - (_Seminar_) [**Geometry of Shimura Varieties mod _p_**](./modpShv/modpShv.md).
 - (_Seminar_) [**Locally Analytic _p_-adic Representations**](./locanRep/locanRep.md).
 - (_Seminar_) [**Springer Theory, Representation Theory, and Complex Geometry**](./Springer/2022spring.md) (intended to be in-person).
+- (_Mini-Course_) [**Lie Algebras and Representation Theory**](./genlie/lie2022.md) (Tianyuan Mathematical Center in Southwest China).
 
 #### 2021 Winter
 - (_Mini-Course_) [**Springer Fibers and Quiver Varieties**](./Springer/TMS-Springer.md) (by TMS Public).
