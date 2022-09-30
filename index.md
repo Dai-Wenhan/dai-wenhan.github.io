@@ -6,7 +6,9 @@ Now I am an undergraduate student in [School of Mathematical Science](http://eng
 
 ## News & Announcements
 
-During the upcoming semester, I will organize seminars on Abelian / Shimura varieties.
+1. **Important:** [IHES 2022 Summer School on Langlands Program](./IHES22/IHES22.md).
+2. 亲爱的冬令营同学们：我不负责解答任何与评分、阅卷有关的问题，因此请原谅我不回复邮件（熊斌老师的邮箱是bxiong@math.ecnu.edu.cn）.
+3. During the upcoming semester, I will organize seminars on Abelian / Shimura varieties.
 
 ### Ongoing Events
 
