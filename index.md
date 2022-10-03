@@ -7,7 +7,7 @@ Now I am an undergraduate student in [School of Mathematical Science](http://eng
 ## News & Announcements
 
 1. **Important:** [IHES 2022 Summer School on Langlands Program](./IHES22/IHES22.md).
-2. 亲爱的冬令营同学们：我不负责解答任何与评分、阅卷有关的问题，因此请原谅我不回复邮件（熊斌老师的邮箱是bxiong@math.ecnu.edu.cn）.
+2. 选修肖梁老师《代数学(实验班)》的同学们：[电子版课程笔记](https://bicmr.pku.edu.cn/~lxiao/2022fall/Honors-algebra.pdf)正在龟速更新中, 我们保证更新进度不落后于实际课程进度. 若有预习需求, 在[课程主页](https://bicmr.pku.edu.cn/~lxiao/2022fall/2022fall.htm)上可以看到手写版的笔记.
 3. During the upcoming semester, I will organize seminars on Abelian / Shimura varieties.
 
 ### Ongoing Events
