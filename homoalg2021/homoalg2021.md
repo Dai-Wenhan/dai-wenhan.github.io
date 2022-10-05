@@ -1,6 +1,6 @@
 ## Homological Methods in Algebraic Geometry
 
-The main reference for this course is Huybrechts’s book _Fourier-Mukai transforms in algebraic geometry_ ([Huy06]). Besides this, we will also use parts of the following books: _Methods of homological algebra_, _An introduction to homological algebra_ and _D-modules, perverse sheaves, and representation theory_ (only the chapter of t-structures) i.e., [GM13], [Wei94], and [HT07].
+The main reference for this course is Huybrechts’s book _Fourier-Mukai transforms in algebraic geometry_ ([[Huy06]][4]). Besides this, we will also use parts of the following books: _Methods of homological algebra_, _An introduction to homological algebra_ and _D-modules, perverse sheaves, and representation theory_ (only the chapter of t-structures) i.e., [[GM13]][1], [[Wei94]][2], and [[HT07]][3].
 
 - **Lecturer**: Yucheng Liu (postdoc at BICMR, <liuyucheng@bicmr.pku.edu.cn>).
 
@@ -53,7 +53,7 @@ The main reference for this course is Huybrechts’s book _Fourier-Mukai transfo
 
 ### References
 
-1. [GM13] Sergei Gelfand and Yuri Manin. Methods of homological algebra. Springer Science & Busi- ness Media, 2013.
-2. [HT07] Ryoshi Hotta and Toshiyuki Tanisaki. D-modules, perverse sheaves, and representation theory, volume 236. Springer Science & Business Media, 2007.
-3. [Huy06] D. Huybrechts. Fourier-Mukai transforms in algebraic geometry. Oxford Mathematical Mono- graphs. The Clarendon Press, Oxford University Press, Oxford, 2006.
-4. [Wei94] Charles A. Weibel. An introduction to homological algebra, volume 38 of Cambridge Studies in Advanced Mathematics. Cambridge University Press, Cambridge, 1994.
+1. [1]: [GM13] Sergei Gelfand and Yuri Manin. Methods of homological algebra. Springer Science & Busi- ness Media, 2013.
+2. [3]: [HT07] Ryoshi Hotta and Toshiyuki Tanisaki. D-modules, perverse sheaves, and representation theory, volume 236. Springer Science & Business Media, 2007.
+3. [4]: [Huy06] D. Huybrechts. Fourier-Mukai transforms in algebraic geometry. Oxford Mathematical Mono- graphs. The Clarendon Press, Oxford University Press, Oxford, 2006.
+4. [2]: [Wei94] Charles A. Weibel. An introduction to homological algebra, volume 38 of Cambridge Studies in Advanced Mathematics. Cambridge University Press, Cambridge, 1994.
