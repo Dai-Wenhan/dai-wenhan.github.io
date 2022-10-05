@@ -4,7 +4,7 @@ The main reference for this course is Huybrechts’s book _Fourier-Mukai transfo
 
 - **Lecturer**: Yucheng Liu (postdoc at BICMR, liuyucheng@bicmr.pku.edu.cn).
 
-**Announcement**: Dr. Liu's lecture notes are available [here](././homoalg2021.pdf). At some point in the future, I might update it randomly to correct the typos. (The latest version: February 22, 2022).
+**Announcement**: Dr. Liu's lecture notes are available [here](././homoalg2021.pdf). At some point in the future, I might update it randomly to correct the typos. (The latest version: February 22, 2022.)
 
 ### Syllabus
 
