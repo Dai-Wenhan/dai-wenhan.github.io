@@ -20,7 +20,7 @@ The Summer School will attempt to bring these exciting new directions together a
 
 _The [video links](https://www.youtube.com/playlist?list=PLx5f8IelFRgEv3qXY43HxVELsFwBKAFhN) are uploaded by IHES onto YouTube. And a [transcription set](https://www.bilibili.com/video/BV18B4y1p7oh/) of videos on Bilibili is at provisional work as well._
 
-- [ ] (7/10) **Organizers** - Introduction. ([video](https://www.youtube.com/watch?v=SZOVszZ9ZVs), [captions]())
+- [x] (7/10) **Organizers** - Introduction. ([video](https://www.youtube.com/watch?v=SZOVszZ9ZVs), [captions](././Intro.pdf))
 - [ ] **** - . ([video](), [notes]() in LaTeX, [notes]() in handwriting)
 - [ ] **** - . ([video](), [notes]() in LaTeX, [notes]() in handwriting)
 - [ ] **** - . ([video](), [notes]() in LaTeX, [notes]() in handwriting)
