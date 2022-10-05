@@ -20,5 +20,8 @@ The Summer School will attempt to bring these exciting new directions together a
 
 _The [video links](https://www.youtube.com/playlist?list=PLx5f8IelFRgEv3qXY43HxVELsFwBKAFhN) are uploaded by IHES onto YouTube. And a [transcription set](https://www.bilibili.com/video/BV18B4y1p7oh/) of videos on Bilibili is at provisional work as well._
 
-- [ ] (7/10) **Organizers** - Introduction. ([video](https://www.youtube.com/watch?v=SZOVszZ9ZVs), [captions])
-- [ ] **** - . ([video](), [compiled notes](), [handwritten notes]())
+- [ ] (7/10) **Organizers** - Introduction. ([video](https://www.youtube.com/watch?v=SZOVszZ9ZVs), [captions]())
+- [ ] **** - . ([video](), [notes]() in LaTeX, [notes]() in handwriting)
+- [ ] **** - . ([video](), [notes]() in LaTeX, [notes]() in handwriting)
+- [ ] **** - . ([video](), [notes]() in LaTeX, [notes]() in handwriting)
+- [x] **Sophie Morel** (ENS Lyon) - 1/3 Shimura Varieties. ([video](https://www.youtube.com/watch?v=WIZdWvMJN34), [notes](././Morel1.pdf) in LaTeX, [notes]() in handwriting)
