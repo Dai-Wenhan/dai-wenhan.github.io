@@ -14,8 +14,8 @@ The textbook we are going to use is Mumford’s book. Another complementary refe
 
 - [x] (9/9) **Liang Xiao** - Introduction and organization. Outline the materials and talk about distribution of the lectures to students. ([notes](././AV0.pdf))
 - [x] (9/16) **Wenhan Dai** - [Mum, §1] This starts the complex theory of abelian varieties. ([notes](././AV1.pdf))
-- [ ] (9/23) **Xiaolong Hu** - [Mum §2]. ([notes](././AV2.pdf))
-- [ ] (9/30) **Suichu Zhang** - [Mum §3]. A nice exercise is to work out the analytic construction of abelian varieties with complex multiplication (cf. [Mil2, Prop. 10.2]). ([notes](././AV3.pdf))
+- [x] (9/23) **Xiaolong Hu** - [Mum §2]. (Wenhan is away; no notes for this week.)
+- [x] (9/30) **Suichu Zhang** - [Mum §3]. A nice exercise is to work out the analytic construction of abelian varieties with complex multiplication (cf. [Mil2, Prop. 10.2]). ([notes](././AV3.pdf))
 - [ ] (10/7) **Di Wu** - [Mum §4]. ([notes](././AV4.pdf))
 - [ ] (10/14) **Jiaming Zhou** - [Mum §5]. ([notes](././AV5.pdf))
 - [ ] (10/21) **Dingchang Zhou** - [Mum §6]. ([notes](././AV6.pdf))
