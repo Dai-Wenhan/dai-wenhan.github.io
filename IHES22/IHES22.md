@@ -20,8 +20,16 @@ The Summer School will attempt to bring these exciting new directions together a
 
 _The [video links](https://www.youtube.com/playlist?list=PLx5f8IelFRgEv3qXY43HxVELsFwBKAFhN) are uploaded by IHES onto YouTube. And a [transcription set](https://www.bilibili.com/video/BV18B4y1p7oh/) of videos on Bilibili is at provisional work as well._
 
-- [x] (7/10) **Organizers** - Introduction. ([video](https://www.youtube.com/watch?v=SZOVszZ9ZVs), [captions](././Intro.pdf))
-- [ ] **** - . ([video](), [notes]() in LaTeX, [notes]() in handwriting)
-- [ ] **** - . ([video](), [notes]() in LaTeX, [notes]() in handwriting)
-- [ ] **** - . ([video](), [notes]() in LaTeX, [notes]() in handwriting)
-- [x] **Sophie Morel** (ENS Lyon) - 1/3 Shimura Varieties. ([video](https://www.youtube.com/watch?v=WIZdWvMJN34), [notes](././Morel1.pdf) in LaTeX, [notes]() in handwriting)
+#### July 11
+
+- **Organizers** - Introduction. ([video](https://www.youtube.com/watch?v=SZOVszZ9ZVs), [captions](././Intro.pdf)) <br/>
+  Organizers' answers to: What is the Langlands Program? Why a summer school on the Langlands Program in 2022? What do you hope to achieve during these three weeks?
+
+- **Olivier Taïbi** (ENS Lyon) - 1/3 The Local Langlands Conjecture. ([video](https://www.youtube.com/watch?v=fJwLV6SZ8Fc), [notes](././Taibi1.pdf)) <br/>
+  We formulate the local Langlands conjecture for connected reductive groups over local fields, including the internal parametrization of _L_-packets.
+
+- **** - . ([video](), [notes]())
+- **** - . ([video](), [notes]())
+
+- **Sophie Morel** (ENS Lyon) - 1/3 Shimura Varieties. ([video](https://www.youtube.com/watch?v=WIZdWvMJN34), [notes](././Morel1.pdf)) <br/>
+  Depending on your point of view, Shimura varieties are a special kind of locally symmetric spaces, a generalization of moduli spaces of abelian schemes with extra structures, or the imperfect characteristic 0 version of moduli spaces of shtuka. They play an important role in the Langlands program because they have many symmetries (the Hecke correspondences) allowing us to link their cohomology to the theory of automorphic representations, and on the other hand they are explicit enough for this cohomology to be computable. The goal of these lectures is to give an introduction to Shimura varieties, to present some examples, and to explain the conjectures on their cohomology (at least in the simplest case).
