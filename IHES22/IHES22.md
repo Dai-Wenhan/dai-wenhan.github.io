@@ -22,7 +22,7 @@ _The [video links](https://www.youtube.com/playlist?list=PLx5f8IelFRgEv3qXY43HxV
 
 #### July 11
 
-- **Organizers** - **Introduction**. ([video](https://www.youtube.com/watch?v=SZOVszZ9ZVs), [captions](././Intro.pdf)) <br/>
+- **Organizers** - **Warm-up Introduction**. ([video](https://www.youtube.com/watch?v=SZOVszZ9ZVs), [captions](././Intro.pdf)) <br/>
   Organizers' answers to: What is the Langlands Program? Why a summer school on the Langlands Program in 2022? What do you hope to achieve during these three weeks?
 
 - **Olivier Taïbi** (ENS Lyon) - **The Local Langlands Conjecture** (1/3). ([video](https://www.youtube.com/watch?v=fJwLV6SZ8Fc), [notes](././Taibi1.pdf)) <br/>
