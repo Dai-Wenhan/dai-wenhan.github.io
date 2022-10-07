@@ -28,7 +28,7 @@ _The [video links](https://www.youtube.com/playlist?list=PLx5f8IelFRgEv3qXY43HxV
 - **Olivier Taïbi** (ENS Lyon) - **The Local Langlands Conjecture** (1/3). ([video](https://www.youtube.com/watch?v=fJwLV6SZ8Fc), [notes](././Taibi1.pdf)) <br/>
   We formulate the local Langlands conjecture for connected reductive groups over local fields, including the internal parametrization of _L_-packets.
 
-- **Erez Lapid** (Weizmann Institute) - **Some Perspective on Eisenstein Series** (1/2). ([video](https://www.youtube.com/watch?v=l0yblUboBeM), [notes]()) <br/>
+- **Erez Lapid** (Weizmann Institute) - **Some Perspective on Eisenstein Series** (1/2). ([video](https://www.youtube.com/watch?v=l0yblUboBeM), [notes](././Lapid1.pdf)) <br/>
   This is a review of some developments in the theory of Eisenstein series since Corvallis.
 
 - **Olivier Taïbi** (ENS Lyon) - **The Local Langlands Conjecture** (2/3). ([video](), [notes](././Taibi2.pdf))
