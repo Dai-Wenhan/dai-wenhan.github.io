@@ -16,7 +16,9 @@ Ideas from the geometric Langlands program have begun impacting and enriching th
 The Summer School will attempt to bring these exciting new directions together and explore their interactions.
 
 
-### Lecture Series (in chronological order)
+### Lecture Notes (in chronological order)
+
+**Please use with caution and do not disseminate.**
 
 _The [video links](https://www.youtube.com/playlist?list=PLx5f8IelFRgEv3qXY43HxVELsFwBKAFhN) are uploaded by IHES onto YouTube. And a [transcription set](https://www.bilibili.com/video/BV18B4y1p7oh/) of videos on Bilibili is at provisional work as well._
 
@@ -29,7 +31,8 @@ _The [video links](https://www.youtube.com/playlist?list=PLx5f8IelFRgEv3qXY43HxV
   We formulate the local Langlands conjecture for connected reductive groups over local fields, including the internal parametrization of _L_-packets.
 
 - **Erez Lapid** (Weizmann Institute) - **Some Perspective on Eisenstein Series** (1/2). ([video](https://www.youtube.com/watch?v=l0yblUboBeM), [notes](././Lapid1.pdf)) <br/>
-  This is a review of some developments in the theory of Eisenstein series since Corvallis.
+  This is a review of some developments in the theory of Eisenstein series since Corvallis. <br/>
+  (It seems that some unusual beast appeared in his talk. This [expository writing](././Lapid0.pdf) contains a relatively mild introduction to the background.)
 
 - **Olivier Taïbi** (ENS Lyon) - **The Local Langlands Conjecture** (2/3). ([video](), [notes](././Taibi2.pdf))
 
