@@ -17,7 +17,7 @@ The textbook we are going to use is Mumford’s book. Another complementary refe
 - [x] (9/23) **Xiaolong Hu** - [Mum §2]. (Wenhan is away; no notes for this week.)
 - [x] (9/30) **Suichu Zhang** - [Mum §3]. A nice exercise is to work out the analytic construction of abelian varieties with complex multiplication (cf. [Mil2, Prop. 10.2]). ([notes](././AV3.pdf))
 - [x] (10/7) **Di Wu** - [Mum §4]. This section takes less time than the usual. ([notes](././AV4.pdf))
-- [ ] (10/14) **Jiaming Zhou** - [Mum §5]. ([notes](././AV5.pdf))
+- [x] (10/14) **Jiaming Zhou** - [Mum §5]. ([notes](././AV5.pdf), TeXed version)
 - [ ] (10/21) **Dingchang Zhou** - [Mum §6]. ([notes](././AV6.pdf))
 - [ ] (10/28) **Kehao Cheng** - [Mum §7]. ([notes](././AV7.pdf))
 - [ ] (11/4) **Yiyang Chang** - [Mum §8]. ([notes](././AV8.pdf))
