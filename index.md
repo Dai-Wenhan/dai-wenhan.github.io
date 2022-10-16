@@ -12,11 +12,12 @@ During the upcoming 2023-2024, I will be an international exchange student to [�
 
 A headshot of mine is posted [here](./headshot.jpg).
 
-## News & Announcements
+## Recent Updates
 
-1. **Important:** [IHES 2022 Summer School on the Langlands Program](./IHES22/IHES22.md).
+1. **IMPORTANT:** Notes for [IHES 2022 Summer School on the Langlands Program](./IHES22/IHES22.md).
 2. 选修肖梁老师《代数学(实验班)》的同学们：[电子版课程笔记](https://bicmr.pku.edu.cn/~lxiao/2022fall/Honors-algebra.pdf)正在龟速更新中, 我们保证更新进度不落后于实际课程进度. 若有预习需求, 在[课程主页](https://bicmr.pku.edu.cn/~lxiao/2022fall/2022fall.htm)上可以看到手写版的笔记.
 3. During the upcoming semester, I will organize [seminars](./AV/AV.md) on Abelian / Shimura varieties.
+
 
 ### Ongoing Events
 
