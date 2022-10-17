@@ -22,7 +22,7 @@ The content is divided into two (mostly disjoint) parts: Additive Number Theory 
 
 #### Part A
 1. Introduction and preliminaries ([notes](././ACNT1.pdf)) - <br/>
-   Highlights of the course, Landau and Vinogradov notation, preliminaries on Fourier transforms,
+   Highlights of the course, Landau and Vinogradov notation, preliminaries on Fourier transforms.
 2. Sums of two squares ([notes](././ACNT2.pdf)) - <br/>
    Sums of squares, proof of Fermat's theorem and Lagrange's theorem, sums of three squares, etc..
 3. Waring’s problem and the circle method ([notes](././ACNT3.pdf)) - <br/>

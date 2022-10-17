@@ -35,6 +35,12 @@ A headshot of mine is posted [here](./headshot.jpg).
   - **Location**: School of Math 1418.
   - **Instructor**: [Liang Xiao](https://bicmr.pku.edu.cn/~lxiao/index.htm) and [Xinyi Yuan](https://bicmr.pku.edu.cn/~yxy/).
 
+- [**On the Ternary Goldbach Problem**](./Goldbach/Goldbach.md) (for fun only).
+
+  A coffee-break-seminar on additive and combinatoric number theory. We plan to follow [Ben Green's lecture notes](https://courses-archive.maths.ox.ac.uk/node/view_material/49404) (Oxon ver in 2020) closely.
+  - **Time**: October-November 2022; typically irregular. (Contact the organizers to join the WeChat group for detailed time syllabus.)
+  - **Venue**: Coffee Bar at Jingchun Yuan (behind Room 77201), BICMR; or alternatively, the Paradise Coffee (泊星地咖啡) at Yan Yuan.
+
 
 ## [Seminars, Workshops, and Conferences Attended](./swc.md)
 
