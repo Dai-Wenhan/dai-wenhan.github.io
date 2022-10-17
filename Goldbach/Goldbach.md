@@ -20,19 +20,28 @@ We plan to follow [Ben Green's lecture notes](https://courses-archive.maths.ox.a
 
 The content is divided into two (mostly disjoint) parts: Additive Number Theory and Additive Combinatorics.
 
-1. Introduction and preliminaries. ([notes](././ACNT1.pdf))
-2. Sums of two squares. ([notes](././ACNT2.pdf))
-3. Waring’s problem and the circle method. ([notes](././ACNT3.pdf))
+#### Part A
+1. Introduction and preliminaries ([notes](././ACNT1.pdf)) - <br/>
+   Highlights of the course, Landau and Vinogradov notation, preliminaries on Fourier transforms,
+2. Sums of two squares ([notes](././ACNT2.pdf)) - <br/>
+   Sums of squares, proof of Fermat's theorem and Lagrange's theorem, sums of three squares, etc..
+3. Waring’s problem and the circle method ([notes](././ACNT3.pdf)) - <br/>
+   Waring's problem, asymptotic formula, the Hardy-Littlewood circle method, major arcs and minor arcs.
 4. Waring’s problem: the minor arcs. ([notes](././ACNT4.pdf))
 5. Gauss sums and integrals. ([notes](././ACNT5.pdf))
 6. Major arcs (I). ([notes](././ACNT6.pdf))
 7. Major arcs (II). ([notes](././ACNT7.pdf))
 8. Singular series. ([notes](././ACNT8.pdf))
+
+#### Part B
 9. Sumset estimates and Ruzsa’s covering lemma. ([notes](././ACNT9.pdf))
 10. Plünnecke–Ruzsa inequality. ([notes](././ACNT10.pdf))
 11. Freiman homomorphisms and Ruzsa’s model lemma. ([notes](././ACNT11.pdf))
 12. Freiman’s theorem. ([notes](././ACNT12.pdf))
 13. Roth’s theorem (I). ([notes](././ACNT13.pdf))
 14. Roth’s theorem (II). ([notes](././ACNT14.pdf))
+
+### Part C
+About the Goldbach Problem. Have not been determined yet. 
 
 ![coffee](././coffee.png)
