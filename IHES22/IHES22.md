@@ -15,6 +15,7 @@ Ideas from the geometric Langlands program have begun impacting and enriching th
 
 The Summer School will attempt to bring these exciting new directions together and explore their interactions.
 
+![groupe1](././Groupe1.jpg)
 
 ### Lecture Notes (in chronological order)
 
