@@ -1,6 +1,6 @@
 # Dai Wenhan / 戴文晗
 
-_Last updated on: October 7, 2022_
+_Last updated on: October, 2022_
 
 Hi!
 
