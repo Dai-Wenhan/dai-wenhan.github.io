@@ -41,7 +41,7 @@ The content is divided into two (mostly disjoint) parts: Additive Number Theory 
 13. Roth’s theorem (I). ([notes](././ACNT13.pdf))
 14. Roth’s theorem (II). ([notes](././ACNT14.pdf))
 
-### Part C
+#### Part C
 About the Goldbach Problem. Have not been determined yet. 
 
 ![coffee](././coffee.png)
