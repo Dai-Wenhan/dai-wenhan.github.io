@@ -17,5 +17,5 @@
 
 ### Miscellanea
 
-- (April, 2022) From Geometric Representation Theory to the Langlands Program: An Interview with ICM2022 Invited Presenter Alumnus Xinwen Zhu. <br/>
-  See [English version](./miscellanea/Zhu-interview-en.pdf) or [Chinese version](./miscellanea/Zhu-interview-ch.pdf).
+- **From Geometric Representation Theory to the Langlands Program** (an interview with ICM2022 invited presenter alumnus Xinwen Zhu). <br/>
+  _See [English version](./miscellanea/Zhu-interview-en.pdf) or [Chinese version](./miscellanea/Zhu-interview-ch.pdf)._
