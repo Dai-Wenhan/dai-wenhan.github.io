@@ -21,6 +21,7 @@
 
 #### 2022 Summer
 
+- (_Course Series_) [**IHES 2022 Summer School on the Langlands Program**](./IHES22/IHES22.md).
 - (_Workshop_) [**Geometry of Shimura Varieties and Arithmetic Applications**](https://bicmr.pku.edu.cn/content/show/17-2759.html).
 - (_Talk_) [**Perfectoid Approaches to _p_-adic Modular Forms**](./MiniTalks/pAdicPerfectoid.md) (Lue Pan's work).
 - (_Talk_) [**Uniformly Bounded Multiplicities in the Branching Problem and _D_-modules**](./MiniTalks/unibd.md).
@@ -34,7 +35,7 @@
 
 #### 2021 Winter
 - (_Mini-Course_) [**Springer Fibers and Quiver Varieties**](./Springer/TMS-Springer.md) (by TMS Public).
-- **Arizona Winter School 2022**.
+- (_Course Series_) **Arizona Winter School 2022**.
 
 #### 2021 Fall
 
@@ -57,4 +58,4 @@
 
 #### 2020 Spring
 
-- **Student Seminar on Hartshorne's _Algebraic Geometry_**.
+- (_Seminar_) **Student Seminar on Hartshorne's _Algebraic Geometry_**.
