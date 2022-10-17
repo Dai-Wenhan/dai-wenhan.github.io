@@ -1,7 +1,7 @@
 ## From Modular Forms to Shimura Varieties
 
 The purpose of this week-long program is to discuss basics of Shimura varieties, start- ing from more familiar concepts such as modular forms and modular curves, passing through their automorphic interpretations, to the concept of Shimura varieties. The program will consist of ten lectures, each accompanied with a set of exercises for discussion and for the students to better absorb the new material.
-- **Lecturer:** [Liang Xiao]
+- **Lecturer:** [Liang Xiao](https://bicmr.pku.edu.cn/~lxiao/index.htm).
 - **Dates:** July 26–30, 2021.
 - **Place:** BICMR, Peking University; room 甲乙丙报告厅.
 
