@@ -8,6 +8,7 @@
 #### 2022 Spring
 - [**Hodge Theory and Complex Algebraic Geometry**](./hodge22/hodge22.md) by Qizheng Yin.
 - [**Triangulated and Derived Categories in Algebra and Geometry**](./dercat/dercat.md) by Anton Fonarev.
+- [**Selected Topics in Algebraic Topology**](./AT22/AT22.md) by Weinan Lin.
 
 #### 2021 Fall
 - [**The Arithmetic of Elliptic Curves**](./ellcurves2021.md) (see my [solution](../ellcurves2021-final.pdf) to the final) by Đào Văn Thịnh.
