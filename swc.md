@@ -25,6 +25,10 @@
 
 ### Past Events
 
+#### 2022 Fall
+
+- (_Talk_) [**The _p_-adic Borel Hyperbolicity of Ag**](./MiniTalks/Zhu1019.md) (POINTS).
+
 #### 2022 Summer
 
 - (_Course Series_) [**IHES 2022 Summer School on the Langlands Program**](./IHES22/IHES22.md).
