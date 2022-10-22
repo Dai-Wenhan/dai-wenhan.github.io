@@ -27,8 +27,10 @@ The content is divided into two (mostly disjoint) parts: Additive Number Theory 
    Sums of squares, proof of Fermat's theorem and Lagrange's theorem, sums of three squares, etc..
 3. Waring’s problem and the circle method ([notes](././ACNT3.pdf)) - <br/>
    Waring's problem, asymptotic formula, the Hardy-Littlewood circle method, major arcs and minor arcs.
-4. Waring’s problem: the minor arcs. ([notes](././ACNT4.pdf))
-5. Gauss sums and integrals. ([notes](././ACNT5.pdf))
+4. Waring’s problem: the minor arcs. ([notes](././ACNT4.pdf)) - <br/>
+   Minor arcs, Weyl sums, Vinogradov's lemma with proof, proof of Weyl sum estimate.
+5. Gauss sums and integrals. ([notes](././ACNT5.pdf)) - <br/>
+   ?
 6. Major arcs (I). ([notes](././ACNT6.pdf))
 7. Major arcs (II). ([notes](././ACNT7.pdf))
 8. Singular series. ([notes](././ACNT8.pdf))
