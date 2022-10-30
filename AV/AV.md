@@ -10,10 +10,13 @@ The textbook we are going to use is Mumford’s book. Another complementary refe
 - **Instructor**: [Liang Xiao](https://bicmr.pku.edu.cn/~lxiao/index.htm) and [Xinyi Yuan](https://bicmr.pku.edu.cn/~yxy/).
 
 ### Announcements
-1. (10/28) Free dinner will be provided from the first meeting in November, and if you need it, please pick it up directly in front of 77201 (remainder: the class will still be held on the second floor of the Jia-Yi-Bing Building and not 77201).
-2. (10/7) As of October 14, our meeting place was changed to **the second floor of the Jia-Yi-Bing Building** instead of the SMS 1418.
 
-#### My collated notes are available --
+#### About logistics -
+
+1. (10/28) Free dinner will be provided from the first meeting in November, and if you need it, please pick it up directly in front of 77201 (remainder: the class will still be held on the second floor of the Jia-Yi-Bing Building and not 77201).
+2. (10/7) **WATCH**: As of October 14, our meeting place was changed to **the second floor of the Jia-Yi-Bing Building** instead of the SMS 1418.
+
+#### My collated notes are available -
 
 [Part I](././AV(I).pdf) (analytic theory, Lecture 1-3), [Part II](././AV(II).pdf) (algebraic theory via varieties, Lecture 4-8), [Part III](././AV(III).pdf) (algebraic theory via schemes, Lecture 9-); thanks to [Bin Zhao](https://sites.google.com/site/zhaobinmath/)'s previous lecture series at YMSC in 2020.
 
