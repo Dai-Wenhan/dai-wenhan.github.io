@@ -16,7 +16,8 @@
 
 ### Expository Writing
 
-- [**Abelian geometry and the ABC conjecture**](./miscelllanea/AAGABC.pdf) (a review for Shinichi Mochizuki's work; handwritten, totally unreadable).
+- [**Abelian geometry and the ABC conjecture**](./miscelllanea/AAGABC.pdf). <br/>
+ _A review for Shinichi Mochizuki's work; manuscript and totally unreadable._
 
 ### Miscellanea
 
