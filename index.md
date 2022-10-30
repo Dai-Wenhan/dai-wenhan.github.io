@@ -1,4 +1,4 @@
-# Dai Wenhan / 戴文晗
+# Wenhan Dai's Homepage / 戴文晗
 
 _Last updated on: October, 2022_
 
@@ -6,7 +6,7 @@ Hi!
 
 ### About Me
 
-Now I am an undergraduate student in [School of Mathematical Science](http://english.math.pku.edu.cn) at [Peking University](https://www.pku.edu.cn), China. My research interest includes **number theory**, **arithmetic geometry**, and **representation theory**. My instructor is Professor [Xiao Liang](https://bicmr.pku.edu.cn/~lxiao/index.htm) / 肖梁 at [Beijing International Center for Mathematical Research](https://bicmr.pku.edu.cn). 
+Now I am an undergraduate student in [School of Mathematical Science](http://english.math.pku.edu.cn) at [Peking University](https://www.pku.edu.cn), China. My research interest includes **number theory**, **arithmetic geometry**, and **representation theory**. My instructor is Professor [Liang Xiao](https://bicmr.pku.edu.cn/~lxiao/index.htm) / 肖梁 at [Beijing International Center for Mathematical Research](https://bicmr.pku.edu.cn). 
 
 During the upcoming 2023-2024, I will be an international exchange student to [École Normale Supérieure Paris-Saclay](https://ens-paris-saclay.com), France; with the support of Chinese Scholarship Council (CSC), I will be under the supervision of Professor [Sophie Morel](https://perso.ens-lyon.fr/sophie.morel/) (she had moved to ENS Lyon from [somewhere else](https://www.math.princeton.edu/people/sophie-morel)). 
 
@@ -16,7 +16,7 @@ A headshot of mine is posted [here](./headshot.jpg).
 
 1. **IMPORTANT:** Notes for [IHES 2022 Summer School on the Langlands Program](./IHES22/IHES22.md).
 2. 在2022秋选修肖梁老师《代数学(实验班)》的同学们：[电子版课程笔记](https://bicmr.pku.edu.cn/~lxiao/2022fall/Honors-algebra.pdf)正在龟速更新中(最近更新: 10/16), 我们保证更新进度不落后于实际课程进度. 若有预习需求, 在[课程主页](https://bicmr.pku.edu.cn/~lxiao/2022fall/2022fall.htm)上可以看到手写版的笔记.
-3. During the upcoming semester, I will organize [seminars](./AV/AV.md) on Abelian / Shimura varieties.
+3. (Notes updated) During the upcoming semester, I will organize [seminars](./AV/AV.md) on Abelian / Shimura varieties. 
 
 
 ### Ongoing Events
