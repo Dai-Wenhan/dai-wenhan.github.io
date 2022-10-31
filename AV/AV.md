@@ -18,7 +18,12 @@ The textbook we are going to use is Mumford’s book. Another complementary refe
 
 #### My collated notes are available -
 
-[Part I](././AV(I).pdf) (analytic theory, Lecture 1-3), [Part II](././AV(II).pdf) (algebraic theory via varieties, Lecture 4-8), [Part III](././AV(III).pdf) (algebraic theory via schemes, Lecture 9-); thanks to [Bin Zhao](https://sites.google.com/site/zhaobinmath/)'s previous lecture series at YMSC in 2020.
+(Thank's to [Bin Zhao](https://sites.google.com/site/zhaobinmath/)'s previous lecture series at YMSC in 2020.)
+
+- [**Part I**](././AV(I).pdf): analytic theory, Lecture 1-3 (Mum, §1-3); September 9-30.
+- [**Part II**](././AV(II).pdf): algebraic theory via varieties, Lecture 4-8 (Mun, §4-8); October 7 -- November 4.
+- [**Part III**](././AV(III).pdf): algebraic theory via schemes, Lecture 10-12 (Mum, §11-13); November 18 -- December 2.
+
 
 ### Syllabus (modified)
 
