@@ -35,6 +35,16 @@ A headshot of mine is posted [here](./headshot.jpg).
   - **Location**: School of Math 1418.
   - **Instructor**: [Liang Xiao](https://bicmr.pku.edu.cn/~lxiao/index.htm) and [Xinyi Yuan](https://bicmr.pku.edu.cn/~yxy/).
 
+- [**Lectures on mod _p_ Langlands program for GL(2)**](./ModpLL2022/ModpLL2022.md) (advanced guest lecture series).
+
+This lecture series aims to give an introduction to some recent progress on the mod _p_ Langlands program for GL(2). (_Caveat: This series of courses contains a great deal of difficult and profound representational expertise that an audience unfamiliar with the field will not gain from._)
+
+- **Lecturer**: [Yongquan Hu](http://www.mcm.ac.cn/faculty/huyongquan/201509/t20150909_306981.html) (MCM, AMSS).
+- **Other Invited Participants**: Yiwen Ding, Ruochuan Liu, Yichao Tian, Haoran Wang, Liang Xiao, etc..
+- **Time**: November 2 - November 16, 2022.
+- **Venue**: Lecture Hall, 82J12, Jingchunyuan 82, BICMR.
+
+
 - [**On the Ternary Goldbach Problem**](./Goldbach/Goldbach.md) (for fun only).
 
   A coffee-break-seminar on additive and combinatoric number theory. We plan to follow [Ben Green's lecture notes](https://courses-archive.maths.ox.ac.uk/node/view_material/49404) (Oxon ver in 2020) closely.
