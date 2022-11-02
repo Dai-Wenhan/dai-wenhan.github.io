@@ -30,7 +30,7 @@ A headshot of mine is posted [here](./headshot.jpg).
 
 - [**Lectures on mod _p_ Langlands program for GL(2)**](./ModpLL2022/ModpLL2022.md) (advanced guest lecture series).
 
-This lecture series aims to give an introduction to some recent progress on the mod _p_ Langlands program for GL(2). (_Caveat: This series of courses contains a great deal of difficult and profound representational expertise that an audience unfamiliar with the field will not gain from._)
+  This lecture series aims to give an introduction to some recent progress on the mod _p_ Langlands program for GL(2). (_Caveat: This series of courses contains a great deal of difficult and profound representational expertise that an audience unfamiliar with the field will not gain from._)
   - **Lecturer**: [Yongquan Hu](http://www.mcm.ac.cn/faculty/huyongquan/201509/t20150909_306981.html) (MCM, AMSS).
   - **Other Invited Participants**: Yiwen Ding, Ruochuan Liu, Yichao Tian, Haoran Wang, Liang Xiao, etc..
   - **Time**: November 2 - November 16, 2022.
