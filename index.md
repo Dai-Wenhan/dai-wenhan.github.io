@@ -39,10 +39,10 @@ A headshot of mine is posted [here](./headshot.jpg).
 
 This lecture series aims to give an introduction to some recent progress on the mod _p_ Langlands program for GL(2). (_Caveat: This series of courses contains a great deal of difficult and profound representational expertise that an audience unfamiliar with the field will not gain from._)
 
-- **Lecturer**: [Yongquan Hu](http://www.mcm.ac.cn/faculty/huyongquan/201509/t20150909_306981.html) (MCM, AMSS).
-- **Other Invited Participants**: Yiwen Ding, Ruochuan Liu, Yichao Tian, Haoran Wang, Liang Xiao, etc..
-- **Time**: November 2 - November 16, 2022.
-- **Venue**: Lecture Hall, 82J12, Jingchunyuan 82, BICMR.
+  - **Lecturer**: [Yongquan Hu](http://www.mcm.ac.cn/faculty/huyongquan/201509/t20150909_306981.html) (MCM, AMSS).
+  - **Other Invited Participants**: Yiwen Ding, Ruochuan Liu, Yichao Tian, Haoran Wang, Liang Xiao, etc..
+  - **Time**: November 2 - November 16, 2022.
+  - **Venue**: Lecture Hall, 82J12, Jingchunyuan 82, BICMR.
 
 
 - [**On the Ternary Goldbach Problem**](./Goldbach/Goldbach.md) (for fun only).
