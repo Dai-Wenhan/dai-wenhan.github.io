@@ -16,17 +16,10 @@ A headshot of mine is posted [here](./headshot.jpg).
 
 1. **IMPORTANT:** Notes for [IHES 2022 Summer School on the Langlands Program](./IHES22/IHES22.md).
 2. 在2022秋选修肖梁老师《代数学(实验班)》的同学们：[电子版课程笔记](https://bicmr.pku.edu.cn/~lxiao/2022fall/Honors-algebra.pdf)正在龟速更新中(最近更新: 10/16), 我们保证更新进度不落后于实际课程进度. 若有预习需求, 在[课程主页](https://bicmr.pku.edu.cn/~lxiao/2022fall/2022fall.htm)上可以看到手写版的笔记.
-3. (Notes updated) During the upcoming semester, I will organize [seminars](./AV/AV.md) on Abelian / Shimura varieties. 
+3. (Notes updated) During the upcoming semester, I will organize [seminars on Abelian / Shimura varieties](./AV/AV.md). 
 
 
 ### Ongoing Events
-
-- [**_p_-adic Geometry Learning Seminar: On Banach-Colmez Spaces**](./padicBC/padicBC.md).
-
-  The goal of this series of talks is to learn the basics of finite-dimensional Banach Spaces (aka. Banach-Colmez spaces). More details can be found here. There is a small chance we might have to deviate from this schedule if some topics end up taking longer/shorter than we expect.
-  - **Time**: Every Monday, 3:00-5:00pm.
-  - **Location**: MCM 110 & Online (Zoom ID: 4663562952; Password: mcm1234).
-  - **Instructor**: Koji Shimizu (Tsinghua) and [Shizhang Li](http://shizhang.li) (MCM).
 
 - [**Abelian Varieties (I)**](./AV/AV.md) (student seminar for the 3+X Program).
 
@@ -44,6 +37,12 @@ This lecture series aims to give an introduction to some recent progress on the 
   - **Time**: November 2 - November 16, 2022.
   - **Venue**: Lecture Hall, 82J12, Jingchunyuan 82, BICMR.
 
+- [**_p_-adic Geometry Learning Seminar: On Banach-Colmez Spaces**](./padicBC/padicBC.md).
+
+  The goal of this series of talks is to learn the basics of finite-dimensional Banach Spaces (aka. Banach-Colmez spaces). More details can be found here. There is a small chance we might have to deviate from this schedule if some topics end up taking longer/shorter than we expect.
+  - **Time**: Every Monday, 3:00-5:00pm.
+  - **Location**: MCM 110 & Online (Zoom ID: 4663562952; Password: mcm1234).
+  - **Instructor**: Koji Shimizu (Tsinghua) and [Shizhang Li](http://shizhang.li) (MCM).
 
 - [**On the Ternary Goldbach Problem**](./Goldbach/Goldbach.md) (for fun only).
 
