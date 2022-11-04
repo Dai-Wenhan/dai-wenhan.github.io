@@ -1,6 +1,6 @@
 # Wenhan Dai's Homepage / 戴文晗
 
-_Last updated on: October, 2022_
+_Last updated on: November, 2022_
 
 Hi!
 
@@ -15,7 +15,7 @@ A headshot of mine is posted [here](./headshot.jpg).
 ## Recent Updates
 
 1. **IMPORTANT:** Notes for [IHES 2022 Summer School on the Langlands Program](./IHES22/IHES22.md).
-2. 在2022秋选修肖梁老师《代数学(实验班)》的同学们：[电子版课程笔记](https://bicmr.pku.edu.cn/~lxiao/2022fall/Honors-algebra.pdf)正在龟速更新中(最近更新: 10/16), 我们保证更新进度不落后于实际课程进度. 若有预习需求, 在[课程主页](https://bicmr.pku.edu.cn/~lxiao/2022fall/2022fall.htm)上可以看到手写版的笔记.
+2. 在2022秋选修肖梁老师《代数学(实验班)》的同学们：[电子版课程笔记](https://bicmr.pku.edu.cn/~lxiao/2022fall/Honors-algebra.pdf)正在龟速更新中(最近更新: 11/4), 我们保证更新进度不落后于实际课程进度. 若有预习需求, 在[课程主页](https://bicmr.pku.edu.cn/~lxiao/2022fall/2022fall.htm)上可以看到手写版的笔记.
 3. (Notes updated) During the upcoming semester, I will organize [seminars on Abelian / Shimura varieties](./AV/AV.md). 
 
 
