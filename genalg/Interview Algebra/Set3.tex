@@ -1,0 +1,730 @@
+\documentclass{mathproblems}
+\usepackage[all]{xy}
+\usepackage{stmaryrd}
+\usepackage{amsmath}
+\usepackage{amssymb,mathrsfs}
+\usepackage{amsthm}
+\usepackage{xcolor}
+\usepackage{multirow}
+\usepackage{tikz}
+\usepackage{tikz-cd}
+\usetikzlibrary{cd,shapes,arrows,positioning,calc}
+
+\usepackage{enumerate}
+\usepackage{mathrsfs}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{bm}
+\usepackage{pgfplots}
+
+\usepackage{geometry}
+\geometry{left=2.5cm,right=2.5cm,bottom=3.4cm}
+
+\newcommand\C{\mathbb{C}}
+\newcommand\F{\mathbb{F}}
+\newcommand\OO{\mathcal{O}}
+\newcommand\Q{\mathbb{Q}}
+\newcommand\R{\mathbb{R}}
+\newcommand\Z{\mathbb{Z}}
+\newcommand\End{\mathrm{End}}
+\newcommand\Gal{\mathrm{Gal}}
+\newcommand\GL{\mathrm{GL}}
+\newcommand\M{\mathrm{M}}
+\newcommand\PSL{\mathrm{PSL}}
+\newcommand\SL{\mathrm{SL}}
+\newcommand\SO{\mathrm{SO}}
+\DeclareMathOperator{\Ext}{Ext}
+\DeclareMathOperator{\Hom}{Hom}
+\DeclareMathOperator{\rad}{rad}
+\DeclareMathOperator{\disc}{disc}
+\DeclareMathOperator{\Spec}{Spec}
+\DeclareMathOperator{\Cl}{Cl}
+\DeclareMathOperator{\Aut}{Aut}
+\DeclareMathOperator{\Ind}{Ind}
+\DeclareMathOperator{\Res}{Res}
+\DeclareMathOperator{\Stab}{Stab}
+\DeclareMathOperator{\Fix}{Fix}
+
+\course{Interview Questions on Algebra}
+\studentname{Wenhan Dai}
+
+
+
+\begin{document}
+\centerline{\textbf{Set III: Fields and Galois Theory}}
+
+\begin{questions}
+\miquestion
+{\color{blue} What is the Galois group of a finite field? What is a generator? How many elements does a finite field have? What can you say about the multiplicative group? Prove it.}
+
+\textit{Answer.}
+Consider $\Gal(\F_{p^n}/\F_{p^r})$ for $r\mid n$ corresponding to an irreducible polynomial of degree $f=n/r$ over $\F_{p^r}$. It is cyclic of order $f$ with generator $\operatorname{Frob}_{p}$.
+
+\textit{Claim.}
+For a finite field $F=\F_{p^d}$, $F^\times=F-\{0\}\cong \Z/(p^d-1) \Z$ is cyclic.
+
+\textit{Proof.}
+Elements of $\F_{p^d}$ are roots of $x^{p^d}-1$. So each invertible element has a $p$-power order. But $\operatorname{Frob}_p$ acts transitively on these roots, so there is only one generator of $F^\times$ whose order is $p^d-1$.
+
+{\color{red} \textit{Warning.} We are morally able to realize $\Z/p\Z$ as $\F_{p}$. Yet it fails for $\F_{p^d}$.}
+
+\miquestion
+{\color{blue} Classify finite fields, their subfields, and their field extensions. What are the automorphisms of a finite field?}
+
+\textit{Answer.}
+All finite fields are of the form $\F_{p^d}$ with a prime power size. All finite extensions are $\F_{p^m}/\F_{p^d}$ where $d\mid m$. Taking $g$ as the generator of the cyclic group $\F_{p^d}^\times$, then all automorphism $\sigma: \F_{p^d}\to \F_{p^d}$ fixes $g$. This implies that all automorphism are powers of some multiple of $p$.
+
+\miquestion
+{\color{blue} Take a finite field extension $\F_{p^{n}}$ over $\F_{p}$. What is Frobenius? What is its characteristic polynomial?}
+
+\textit{Answer.}
+The Frobenius map is $\operatorname{Frob}(x)=x^p$, which is independent of $n$. Since $\F_{p^n}$ is the splitting field of $X^{p^n}-X$ over $\F_p$, we have $\operatorname{Frob}^n-1=0$. Note that this extension is of degree $n$, then $X^n-1$ is the characteristic polynomial.
+
+\miquestion
+{\color{blue} What is the minimal polynomial of the Frobenius automorphism?}
+
+\textit{Answer.}
+All elements of $\F_{p^n}$ should be zeroes of the minimal polynomial since it is the splitting field. Thus, the minimal polynomial is the same as the characteristic polynomial $X^n-1$.
+
+\miquestion
+{\color{blue} What's the field with 25 elements?}
+
+\textit{Answer.}
+It is of the form $\F_5[x]/(\pi(x))$, where $\pi(x)$ is an irreducible polynomial over $\F_5$ of degree 2, such as $\pi(x)=x^2-2$, which is irreducible modulo 5 (but it is not because $\pi$ is Eisenstein at 2).
+
+\miquestion
+{\color{blue} What is the multiplicative group of $\F_{9}$?}
+
+\textit{Answer.}
+For a finite field $F$, $F^\times=F-\{0\}$. In $\F_9$, it is a cyclic group of order $8$.
+
+\miquestion
+{\color{blue} What is a separable extension? Can $\Q$ have a non-separable extension? How about $\Z / p \Z$? Why not? Are all extensions of characteristic 0 fields separable? Of finite fields? Prove it. Give an example of a field extension that's not separable.}
+
+{\color{violet} \textit{Note.} Every algebraic extension of a perfect field is automatically separable. Because every minimal polynomial should be irreducible, and hence separable over perfect fields. Recall the definition of perfectness in Question 9.}
+
+\textit{Answer.} Say $E/F$ is a separable extension if for all $\alpha\in E$, the minimal polynomial of $\alpha$ over $F$ is separable, i.e. it has no double roots.
+
+Since $\Q$ and $\Z/p\Z\cong \F_p$ are perfect fields, there are no non-separable extensions over them. So do fields of characteristic 0 and finite fields such that $\F_q^p=\F_q$ for $q=p^r$.
+
+\textit{Example.} Consider the non-perfect function field $\F_p(u^p)$ who has an extension $\F_p(u)$. The minimal polynomial of $u$ is $x^p-u^p=(x-u)^p$ since we are working over characteristic $p$. Hence $\F_p(u)/\F_p(u^p)$ is a non-separable extension.
+
+\miquestion
+{\color{blue} Are there separable polynomials of any degree over any field?}
+
+\textit{Answer.} No. Over perfect fields, this should be valid. But for non-perfect fields of characteristic $p$, a polynomial in $x^p$ is always inseparable because it has zero derivative: see, for example, $\F_p(u^p)$, in Question 7.
+
+\miquestion
+{\color{blue} What is a perfect field and why is this important? Give an example of a non-perfect field.}
+
+\textit{Answer.}
+It is a field such that every irreducible polynomial is separable. A field $F$ is perfect if and only if $\operatorname{char} F=0$ or $\operatorname{char} F=p$ and $F^p=F$. Equivalently, every finite extension of $F$ is separable. In particular, all finite fields are perfect. The perfect fields are important because all algebraic extensions above them are separable. See this in Question 7.
+
+\textit{Example.}
+The function field $\F_p(u)$ is not perfect. Since $x^p-u$ is irreducible (Eisenstein at $u$) but $(x^p-u)'=p x^{p-1}=0$, which is not separable.
+
+\miquestion
+{\color{blue} What is Galois theory? State the main theorem. What are the intermediate extensions? Which extensions are normal, which are not, and why? What are the Galois groups (over $\Q$) of all intermediate extensions?}
+
+{\color{violet}
+\textit{Statement.} Let $K/F$ be a finite Galois extension with $G:=\Gal(K/F)$.
+\begin{itemize}
+\item[(1)] There is a 1-1 correspondence:
+$$
+\begin{aligned}
+\{\text{Subgroups } H\geq G\} & \quad \longleftrightarrow \quad \{\text{Intermediate fields } K/L/F\} \\
+H & \quad\longmapsto\quad K^H=\{x\in K: h(x)=x, \ \forall h\in H\}\\
+\Gal(K/L) & \quad\longmapsfrom\quad L.
+\end{aligned}
+$$
+\item[(2)] The correspondence is inclusion-reversive: $$
+H_1\subset H_2 \Longleftrightarrow K^{H_1}\supset K^{H_2},\quad \# H=[K:K^H], \quad [G:H]=[K^H:F].
+$$
+\item[(3)] The correspondence is acted by conjugations: under conjugation,
+$$
+H \longleftrightarrow L \quad \Longrightarrow \quad g H g^{-1}\longleftrightarrow g(L).
+$$
+\item[(4)] The correspondence is normal-to-normal:
+$$
+H \triangleleft G \text{ normal subgroup} \quad \Longleftrightarrow \quad K^H/F \text{ normal extension}.
+$$
+\item[(5)] If $H_1,H_2\leftrightarrow K_1,K_2$, then
+$$
+H_1\cap H_2 \longleftrightarrow K_1K_2; \quad \langle H_1, H_2 \rangle \longleftrightarrow K_1\cap K_2.
+$$
+
+\end{itemize}
+}
+
+\miquestion
+{\color{blue} What is a Galois extension?}
+
+\textit{Definition.} A normal and separable extension, i.e., the splitting field of some polynomial over the base field.
+
+\miquestion
+{\color{blue} Take a quadratic extension of a field of characteristic 0. Is it Galois? Take a degree 2 extension on top of that. Does it have to be Galois over the base field? What statement in group theory can you think of that reflects this?}
+
+\textit{Answer.} The quadratic extension should be Galois whereas the composition of quadratic extensions is not necessarily Galois. A counterexample is $\Q\subset \Q(\sqrt{2})\subset \Q(\sqrt[4]{2})$.
+
+The separability is transitive under compositions, but Galois property and normality are not. In group theory, normality is neither transitive: consider
+$$
+\{(1)\} \triangleleft \Z/2\Z \triangleleft V=(\Z/2\Z)^2 \triangleleft A_{4} \triangleleft S_{4},
+$$
+where our $\Z/2\Z$ is not normal in $A_4$ or $S_4$.
+
+\miquestion
+{\color{blue} Is abelian Galois extension transitive? That is, if $K$ has abelian Galois group over $E$, $E$ has abelian Galois group over $F$, and $K$ is a Galois extension of $F$, is it necessarily true that $\Gal(K / F)$ is also abelian? Give a counterexample involving number fields as well as one involving function fields.}
+
+\textit{Answer.} No. The upshot is read as the semidirect product of abelian groups is not necessarily abelian.
+
+\textit{Counterexample.} Over number fields, let's consider 
+$$
+\Q \subset \Q(\omega) \subset \Q(\sqrt[3]{2},\omega).
+$$
+One can check $\Gal(\Q(\sqrt[3]{2},\omega)/\Q)=S_3\cong \Z/3\Z\rtimes \Z/2\Z$ is not abelian. Yet its two Galois subgroups are abelian. Since function fields are very similar to number fields, the same construction works:
+$$
+\F_p(u) \subset \F_{p^2}(u) \subset \F_{p^2}(u^{1/3}).
+$$
+This tower has the total Galois group $\Z/3\Z\rtimes \Z/2\Z$ as well, which can be non-abelian. 
+
+\textit{Remark.} The compositum in this case is always abelian. It turns out that if $L_1/K$ and $L_2/K$ are Galois over $K$, there exists a natural injective homomorphism
+$$
+\begin{aligned}
+\Gal(L_1L_2/K) & \longrightarrow \Gal(L_1/K)\times \Gal(L_2/K)\\
+\sigma & \longmapsto (\sigma|_{L_1},\sigma|_{L_2}).
+\end{aligned}
+$$
+In particular, if both $L_1/K$ and $L_2/K$ are abelian, then so is $L_1L_2/K$.
+
+\miquestion
+{\color{blue} Talk about the Kummer extension.}
+
+{\color{violet}
+\textit{Theorem.} (Kummer Theory) For any field $K$, define the Kummer pairing as
+$$
+\langle\cdot,\cdot\rangle: \Gal(\overline{K}/K)\times K^\times\to \{1,\zeta_n,\ldots,\zeta_n^{n-1}\}.
+$$
+Then there is an isomorphism induced by the pairing, say
+$$
+K^\times/(K^\times)^n \simeq \Hom(\Gal(\overline{K}/K),\Z/n\Z).
+$$}
+
+\textit{Answer.} The Kummer theory can be expressed through a natural language, say the following two types of objects are in the one-to-one correspondence: \vspace{-4pt}
+\begin{itemize}
+\item[(i)] Galois extensions of $K$ with Galois group isomorphic to $(\Z/n\Z)^r$.
+
+\item[(ii)] Subgroups of $K^\times/(K^\times)^n$ that are isomorphic to $(\Z/n\Z)^r$.
+\end{itemize}\vspace{-4pt}
+In particular, we suppose $r=1$. If $\zeta_n \in K$, then every $\mathbb{Z} / n \mathbb{Z}$-extension of $K$ is of the form $K(\alpha^{1 / n})$ for some $\alpha \in K^\times$ with the property that $\alpha^{1 / d} \notin K$ for any proper divisor $d$ of $n$, and vice versa. 
+
+
+\miquestion
+{\color{blue} Say you have a field extension with only finitely many intermediate fields. Show that it is a simple extension.}
+
+\miquestion
+{\color{blue} Tell me a condition on the Galois group which is implied by irreducibility of the polynomial. What happens when the polynomial has a root in the base field?}
+
+\textit{Answer.}
+The Galois group is transitive if and only if the polynomial is irreducible. The root in base field can be dropped and nothing will happen.
+
+\miquestion
+{\color{blue} What is the discriminant of a polynomial?}
+
+\textit{Answer.}
+By definition, $\operatorname{disc} f=\prod_{i<j}(r_i-r_j)^2$, where $r_1,\ldots,r_n$ are all roots of $f$ over its splitting field. Moreover, if $f\in K$ is irreducible of degree $m$, than
+$$
+\disc f=\prod_{1\leq i<j\leq n}(r_i-r_j)^2=(-1)^{m(m-1)/2}\operatorname{Nm}_{L/K} f'(\alpha),
+$$
+where $\alpha$ is a simple root of $f$ in its splitting field $L$.
+
+\miquestion
+{\color{blue} If we think of the Galois group of a polynomial as contained in $S_{n}$, when is it contained in $A_{n}$?}
+
+\textit{Answer.}
+This happens for $f\in K[T]$ if and only if $\operatorname{disc} f$ is a square in $K$. 
+
+\textit{Proof.}
+For $\delta=\prod_{i<j}(r_i-r_j)$ and $\sigma\in \Gal(f)=\Gal(K(r_1,\ldots,r_n)/K)$, we have
+$$
+\sigma (\delta)=\prod_{i<j}(\sigma(r_i)-\sigma(r_j))=\varepsilon_{\sigma} \prod_{i<j}(r_i-r_j)=\varepsilon_{\sigma} \delta=\pm \delta.
+$$
+Thus $\sigma\in A_n$ iff $\varepsilon_{\sigma}=1$, iff $\sigma(\delta)=\delta$ or $\delta\in K$. This is equivalent to $\operatorname{disc} f=\delta^2\in K$ is a square in $K$.
+
+\miquestion
+{\color{blue} Is $\Q(\sqrt[3]{2})$ normal? What is its splitting field? What is its Galois group? Draw the lattice of subfields.}
+
+\textit{Answer.}
+No, the splitting field is $\Q[x]/(x^3-2)=\Q(\zeta_3, \sqrt[3]{2})$. For this,
+$$
+\Gal(\Q(\zeta_3, \sqrt[3]{2})/\Q)=\Z/3\Z \rtimes \Z/2\Z\cong A_3 \rtimes \Z/2\Z=S_3.
+$$
+The lattice of subgroups:
+\begin{center}
+\begin{tikzcd}
+& \{(1)\} \arrow[ldd,-] \arrow[d,-] \arrow[rd,-] \arrow[rrd,-] \\
+& \langle (12) \rangle \arrow[dd,-,"3"swap] & \langle (13) \rangle \arrow[ldd,-,"3"swap] & \langle (23) \rangle \arrow[lldd,-,"3"] \\
+A_3 \arrow[rd,-,"2"swap]\\
+& S_3
+\end{tikzcd}
+\end{center}
+This deduces the lattice of subfields:
+\begin{center}
+\begin{tikzcd}
+& \Q(\sqrt[3]{2},\omega) \arrow[ldd,-] \arrow[d,-] \arrow[rd,-] \arrow[rrd,-] \\
+& \Q(\sqrt[3]{2}) \arrow[dd,-,"3"swap] & \Q(\omega\sqrt[3]{2}) \arrow[ldd,-,"3"swap] & \Q(\omega^2 \sqrt[3]{2}) \arrow[lldd,-,"3"] \\
+\Q(\omega) \arrow[rd,-,"2"swap]\\
+& \Q
+\end{tikzcd}
+\end{center}
+
+
+\miquestion
+{\color{blue} What is the Galois group of $x^2+1$ over $\Q$? What is the integral closure of $\Z$ in $\Q(i)$?}
+
+\textit{Solution.}
+The splitting field is $\Q(i)$ and the Galois group is $\{1,c\}$, where $c$ is the complex conjugate. Here $d=-1\equiv 3\bmod 4$, hence the integral closure of $\Z$ is $\Z[i]$.
+
+\miquestion
+{\color{blue} What's the Galois group of $x^{2}+9$?}
+
+\textit{Solution.} The splitting field is $\Q(\sqrt{-3})$ with the Galois group $\{1,c\}$.
+
+\miquestion
+{\color{blue} What is the Galois group of $x^{2}-2$ over $\Q$? Why is $x^{2}-2$ irreducible?}
+
+\textit{Solution.}
+The Galois group is $\Z/2\Z\cong \{1,r\}$ where $r$ swaps $\pm\sqrt{2}$, and $x^{2}-2$ is irreducible over $\Q$ since it is Eisenstein at 2.
+
+\miquestion
+{\color{blue} What is the Galois group of $\Q(\sqrt{2}, \sqrt{3})$ over $\Q$?}
+
+\textit{Solution.}
+It is $\Z/2\Z \rtimes \Z/2\Z = (\Z/2\Z)^2 \cong \{1,r,s,rs\}$ where $r$ swaps $\pm \sqrt{2}$ and $s$ swaps $\pm \sqrt{3}$ (note that $\Z/2\Z\to \operatorname{Aut}(\Z/2\Z)=1$ is always trivial). It embeds into $S_4$ by, for example, $\{(1),(12),(34),(12)(34)\}$.
+
+\miquestion
+{\color{blue} What is the Galois group of $\Q(\sqrt{n_{1}}, \sqrt{n_{2}}, \ldots, \sqrt{n_{m}})$ over $\Q(\sqrt{n_{1}}+\ldots+\sqrt{n_{m}})$?}
+
+\textit{Solution.} It is trivial. May assume all $n_i$ are mutually distinct and square-free. Then each Galois action sends each $\sqrt{n_i}$ to either $\sqrt{n_i}$ or $-\sqrt{n_i}$. Here comes $2^m$ Galois actions. On the other hand, $\sqrt{n_1}+\cdots+\sqrt{n_m}$ also has an orbit of size $2^m$, say $\{\pm\sqrt{n_1}\pm\cdots\pm\sqrt{n_m}\}$. Hence these two fields are equal.
+
+\miquestion
+{\color{blue} What are the Galois groups of irreducible cubics?}
+
+\textit{Answer.}
+Isomorphic to $A_3$ (otherwise, $S_3$) if $\operatorname{disc} f$ is a square in $K$, where $\operatorname{char} K\neq 2$. 
+
+\textit{Proof.}
+Just because $\Gal(f)=\Gal(K(r_1,r_2,r_3)/K)$ (being transitive by irreducibility) embeds into $S_3$  and its order is divisible by $[K(r_i):K]=3$. So $\Gal(f)=S_3$ or $A_3$. Then apply Question 18.
+
+
+\miquestion
+{\color{blue} If an irreducible cubic polynomial has Galois group NOT contained in $A_{3}$, does it necessarily have to be all of $S_{3}$?}
+
+\textit{Answer.}
+Yes, for $\operatorname{char} K\neq 2$. See Question 25.
+
+\miquestion
+{\color{blue} Compute the Galois group of $x^{3}-2$ over the rationals.}
+
+\textit{Solution.}
+Apply Question 25. $x^{3}-2$ is irreducible (Eisenstein at 2) with $\operatorname{disc}=-4a^3-27b^2=-108 \neq \square$ in $\Q$. Hence it is $S_3$.
+
+\miquestion
+{\color{red} How would you find the Galois group of $x^{3}+2 x+1$? Adjoin a root to $\Q$. Can you say something about the roots of $x^{3}+3 x+1$ in this extension?}
+
+\textit{Solution.} Since $x^{3}+2 x+1$ is irreducible modulo 3, it is irreducible over $\Q$. Note that $\disc(x^{3}+2 x+1)=-59\neq \square$, it has a Galois group $S_3$.
+
+\textit{Answer.}
+
+\miquestion
+{\color{blue} Compute the Galois group of $x^{3}+6 x+3$.}
+
+\textit{Solution.}
+Apply Question 25: $x^{3}+6 x+3$ is irreducible (Eisenstein at 3) with $\operatorname{disc}=-1107 \neq \square$ in $\Q$. Hence it is $S_3$.
+
+\miquestion
+{\color{blue} Find the Galois group of $x^{4}-2$ over $\Q$.}
+
+\textit{Solution.}
+The splitting field is $\Q(\sqrt[4]{2},i)/\Q$ with degree 8. And
+$$
+\Gal(f)\cong \Z/4\Z \rtimes \Z/2\Z\cong D_4.
+$$
+
+\miquestion
+{\color{blue} What's the Galois group of $x^{4}-3$?}
+
+\textit{Solution.}
+Similar to Question 30. The answer is $D_4$.
+
+\miquestion
+{\color{blue} What is the Galois group of $x^{4}-2 x^{2}+9$?}
+
+\textit{Solution.}
+This is irreducible over $\Q$ since it is irreducible modulo 5. It has discriminant $186192=2^4\times 3^3\times 431$ and cubic resolvent $R_3(x)=x^3-36x-4$. Since $R_3(x+1)=x^3 + 3 x^2 - 33 x - 39$ is Eisenstein at 3, it is irreducible. Hence $\Gal(f)=S_4$ by the following recipe.
+
+{\color{violet}
+\textit{Recipe.} Here is a general recipe to compute Galois groups of irreducible quartics over $K$ whose characteristics are not 2:
+\begin{center}
+\begin{tabular}{c|c|c}
+$\operatorname{disc} f$ in $K$ & $R_{3}(X)$ in $K[X]$ & $\Gal(f)$ \\
+\hline$\neq \square$ & irreducible & $S_{4}$ \\
+$=\square$ & irreducible & $A_{4}$ \\
+$\neq \square$ & reducible & $D_{4}$ or $\Z / 4 \Z$ \\
+$=\square$ & reducible & $V$
+\end{tabular}
+\end{center}
+The cubic resolvent is given by
+$$
+R_{3}(X)=(X-(r_{1} r_{2}+r_{3} r_{4}))(X-(r_{1} r_{3}+r_{2} r_{4}))(X-(r_{1} r_{4}+r_{2} r_{3})).
+$$
+In particular, when $f(x)=x^{4}+c x+d$, we get $R_{3}(x)=x^{3}-4 d x-c^{2}$. Also recall that $\operatorname{disc}(x^{4}+c x+d)=-27c^4+256d^3$.
+}
+
+\miquestion
+{\color{blue} Calculate the Galois group of $x^{5}-2$.}
+
+\textit{Solution.}
+Note that $\Q[x]/(x^5-2)=\Q(\zeta_5, \sqrt[5]{2})$. Then
+$$
+\Gal(\Q(\zeta_5, \sqrt[5]{2})/\Q)=\Z/5\Z \rtimes_{\varphi} \Z/4\Z,
+$$
+where $\varphi:\Z/4\Z \to \operatorname{Aut}(\Z/5\Z)\cong \Z/4\Z$ is nontrivial but unique.
+
+
+\miquestion
+{\color{blue} Discuss sufficient conditions on a polynomial of degree 5 to have Galois group $S_{5}$ over $\Q$ and prove your statements.}
+
+\miquestion
+{\color{blue} Show that if $f$ is an irreducible quintic with precisely two nonreal roots, then its Galois group is $S_{5}$.}
+
+\textit{Proof.} In the conclusion of Question 23 of Set I, we see $S_n$ can be generated by $(a\ b)$ and $(1\ 2 \cdots n)$ if $(b-a,n)=1$. In this case, as $f$ has a couple of conjugate complex roots, there exists some prime $p$ such that $f(x)\equiv f_3(x)f_2(x)\bmod p$, where $\deg f_2=2$ is irreducible over $\F_p$ and $\deg f_3=3$. Then (possibly after permuting the roots of $f$ when necessary), $\Gal(f)$ contains $(1\ 2\ 3)$ and $(4\ 5)$. Consequently, $\Gal(f)=S_5$.
+
+\miquestion
+{\color{blue} Suppose you have a degree 5 polynomial over a field. What are necessary and sufficient conditions for its Galois group to be of order divisible by 3? Can you give an example of an irreducible polynomial in which this is not the case?}
+
+\miquestion
+{\color{blue} What is the Galois group of $x^{7}-1$ over the rationals?}
+
+\textit{Solution.} See Question 38 below. It's $(\Z/7\Z)^\times\cong \Z/6\Z$.
+
+\miquestion
+{\color{blue} What is the Galois group of the polynomial $x^{n}-1$ over $\Q$?}
+
+\textit{Answer.} We have $\Q[x]/(x^n-1)=\Q(\zeta_n)$ and an isomorphism
+$$
+\begin{aligned}
+(\Z/n\Z)^\times & \longrightarrow \Gal(\Q(\zeta_n)/\Q) \\
+k \bmod n & \longmapsto \sigma_k,
+\end{aligned}
+$$
+where $\sigma_k(x)=x^k$.
+
+\miquestion
+{\color{blue} Describe the Galois theory of cyclotomic extensions.}
+
+\textit{Answer.}
+Same as Question 38. Note that one can use Kronecker-Weber theorem to determine the abelian extension (in explicit description) for a given cyclic Galois group.
+
+\miquestion
+{\color{blue} What is the maximal real field in a cyclotomic extension $\Q(\zeta_{n}) / \Q$?}
+
+\textit{Answer.} It's $M=\Q(\zeta_{n}+\zeta_{n}^{-1})$. Since $\Q(\zeta_{n})$ is not totally real, we have $[\Q(\zeta_{n}):M]\geq 2$. This morally equal to 2: convert $\Z/2\Z$ into a multiplicative group $\{\pm 1\}$, which fixes
+$$
+\operatorname{Tr}_{\Q(\zeta_{n})/M}(\zeta_n)=\zeta_{n}+\zeta_{n}^{-1}.
+$$
+
+\textit{Remark.} The intrinsic fact we've used here is $\varphi(n)$ being even for all $n\geq 3$.
+
+\miquestion
+{\color{blue} Compute the Galois group of $p(x)=x^{7}-3$.}
+
+\textit{Answer.}
+The splitting field is $\Q(\sqrt[7]{3},\zeta_7)$. Hence
+$$
+\Gal(\Q(\sqrt[7]{3},\zeta_7)/\Q)=\Z/7\Z \rtimes_{\varphi} \Z/6\Z,
+$$
+where $\varphi: \Z/6\Z \to \operatorname{Aut}(\Z/7\Z)\cong \Z/6\Z$ is nontrivial but unique.
+
+\miquestion
+{\color{blue} What Galois stuff can you say about $x^{2^{n}}-2$?}
+
+\textit{Answer.}
+Recall that
+$$
+\operatorname{disc}(x^k+a)=(-1)^{k(k-1)/2}k^k a^{k-1}.
+$$
+Then $\operatorname{disc}(x^{2^{n}}-2)=-2^{(n+1)\cdot 2^n}\neq \square$ for any $n\geq 2$. The splitting field is $\Q(\zeta_{2^n},2^{2^{-n}})$, and the Galois group is $\Z/2^{n}\Z\rtimes (\Z/2\Z\times \Z/2^{n-2}\Z)$ when $n>2$.
+
+\miquestion
+{\color{blue} What are the cyclic extensions of (prime) order $p$?}
+
+\textit{Answer.} By Kronecker-Weber, it is a subfield $F$ of $\Q(\zeta_n)/\Q$ for some integer $n$ such that $p\mid \varphi(n)$. Say $\varphi(n)=kp$ and $\Gal(\Q(\zeta_n)/\Q)=(\Z/n\Z)^\times\cong \Z/\varphi(n)\Z$ who has a subgroup $\Z/k\Z\cong \Gal(\Q(\zeta_n)/F)$. This subgroup has image $\langle x \rangle\subset \Gal(\Q(\zeta_n)/\Q)$ such that $x^k=1$ in $(\Z/n\Z)^\times$ under multiplication. Then
+$$
+F=\Q(\operatorname{Tr}_{\Q(\zeta_n)/F}(\zeta_n))=\Q(\zeta_n+\zeta_n^x+\cdots +\zeta_n^{x^{k-1}}).
+$$
+
+
+\textit{Caution.} This question is not asking for cyclotomic extensions $\Q(\zeta_p)$. But recall that $\Q(\zeta_p)$ is the smallest extension generated by Kronecker-Weber that contains $\Q(\sqrt{p^*})$, where $p^*=(-1)^{(p-1)/2}p$; namely, $p$ is the conductor of $\Q(\sqrt{p^*})$. This fact relates to the quadratic reciprocity.
+
+\miquestion
+{\color{blue} Can you give me a polynomial whose Galois group is $\Z / 3 \Z$?}
+
+\textit{Answer.} Any irreducible cubic whose discriminant is a square. For example, $x^3-3x-1$ with $\operatorname{disc}=81$, whose roots are $r, r^2-r-2, -r^2+2$.
+
+\miquestion
+{\color{blue} Which groups of order 4 can be realised as a Galois group over $\Q$?}
+
+\textit{Answer.} Both of them: for square-free integers $m\neq n$,
+$$
+\Gal(\Q(\zeta_5)/\Q)\cong (\Z/5\Z)^\times \cong \Z/4\Z,\quad \Gal(\Q(\sqrt{m},\sqrt{n})/\Q)\cong \Z/2\Z\times \Z/2\Z.
+$$
+
+\miquestion
+{\color{blue} Give a polynomial with $S_{3}$ as its Galois group.}
+
+\textit{Answer.}
+It must be an irreducible cubic whose discriminant is not a rational square.
+
+\miquestion
+{\color{blue} How do you construct a polynomial over $\Q$ whose Galois group is $S_{n}$? Do it for $n=7$ in particular.}
+
+{\color{violet}
+\textit{Key Tool.} For $n\geq 2$, let $H$ be a transitive subgroup of $S_n$. If one of the followings are valid, then $H=S_n$:
+\begin{itemize}
+    \item $H$ contains a 2-cycle (i.e., a transposition) and a $p$-cycle ($p>n/2$),
+    \item $H$ contains a 2-cycle and a $(n-1)$-cycle, or
+    \item $n\geq 3$, $H\neq A_n$ contains a 3-cycle and a $p$-cycle ($p>n/2$).
+\end{itemize}
+}
+
+\textit{Answer.} We need to consider an irreducible polynomial of degree 7 who has a degree-2-factor mod $p$ together with a degree-6-factor mod $q$ for some primes $p,q$. Let $f(X)=X^{7}-X-1$. The first few factorizations of $f(X) \bmod p$ are as follows:
+$$
+\begin{aligned}
+&f(X) \equiv X^{7}+X+1 \bmod 2, \\
+&f(X) \equiv(X^{2}+X+2)(X^{5}+2 X^{4}+2 X^{3}+2 X+1) \bmod 3, \\
+&f(X) \equiv(X+3)(X^{6}+2 X^{5}+4 X^{4}+3 X^{3}+X^{2}+2) \bmod 5.
+\end{aligned}
+$$
+So $f(X)$ is in need.
+
+
+\miquestion
+{\color{blue} What's a Galois group that's not $S_{n}$ or $A_{n}$?}
+
+\textit{Answer.} It's in general a composition of series of semidirect products of cyclic groups. A quartic extension may have Galois group $V=\Z/2\Z\times \Z/2\Z$ or $D_4= \Z/4\Z\rtimes \Z/2\Z$.
+
+\miquestion
+{\color{blue} Which finite groups are Galois groups for some field extension?}
+
+\textit{Answer.} The following theorem by Artin shows that each finite group can be realized as a Galois group: given a field $K$ and let $G\leq \Aut(K)$; then $K/K^G$ is a Galois extension with Galois group $G$.
+
+Under this assumption, let $F$ be an arbitrary field and adjoin all $g\in G$ as transcendental elements into $F$ to get $L=F(g_1,\ldots g_n)$, where $n=|G|$. Note that any action of $G$ on $L$ gives a multiplication over generators, so $G$ embeds into $\Aut(L)$. This shows that $\Gal(L/L^G)=G$.
+
+\miquestion
+{\color{blue} What Galois group would you expect a cubic to have?}
+
+\textit{Answer.}
+Suppose the cubic is irreducible and then the Galois group is transitive. Since we get an intermediate field by adding only one root, the Galois group is a subgroup with order divisible by 3. Hence it's $A_3$ or $S_3$.
+
+\miquestion
+{\color{blue} Draw the subgroup lattice for $S_{3}$.}
+
+\textit{Answer.} There are 3 subgroups of index 3; only $A_3$ has index 2. See Question 19.
+
+\miquestion
+{\color{blue} Do you know what the quaternion group is? How many elements are there of each order? Suppose I have a field extension of the rationals with Galois group the quaternion group. How many quadratic extensions does it contain? Can any of them be imaginary?}
+
+\textit{Answer.} For the quaternion group, see Question 27 in Set I. There are 3 different quadratic extensions, say $\Q(\sqrt{a})$, $\Q(\sqrt{b})$, and $\Q(\sqrt{a},\sqrt{b})$. Note that at least one of them is totally real.
+
+A theorem of Witt asserts that a biquadratic extension $F(\sqrt{a}, \sqrt{b}), a, b \in F^{\times}$ can be embedded in a quaternion Galois extension of $F$ iff the quadratic form $a x^{2}+b y^{2}+a b z^{2}$ is isomorphic over $F$ to $x^{2}+y^{2}+z^{2}$. For $F=\mathbb{Q}$ this forces $a, b, a b>0$. Hence all of them cannot be imaginary.
+
+\miquestion
+{\color{blue} Suppose you are given a finite Galois extension $K / \Q$ by $f(x) \in \Z[x]$ such that $\operatorname{deg}(f)=n$ and $\Gal(K / \Q)=S_{n}$. What can you say about the roots?}
+
+\textit{Answer.} Since $S_n$ acts transitively on roots of $f$ over $K$, $f$ must be irreducible over $\Q$. The Galois group contains permutations of length $2\leq \ell\leq n$, hence $f$ contains irreducible factors of degree $2\leq d\leq n$ for different primes. The roots of $f$ must be independent in the sense of additive linear combinations and multiplicative power combinations.
+
+\miquestion
+{\color{blue} How many automorphisms does the complex field have? How can you extend a simple automorphism (e.g. $\sqrt{2} \mapsto-\sqrt{2}$) of an algebraic field into $\mathbb{C}$? How can you extend a general subfield isomorphism? What feature of $\mathbb{C}$ allows you to?}
+
+\textit{Answer.} There are only two continuous automorphisms on $\C$ that is compatible with the topology. If we drop the topology, there must be infinitely ($2^{\aleph_0}$-uncountably) many of them.
+
+It is not true that any isomorphism between subfields of $\C$ can be extended to $\C$. See Question 55 below for a counterexample. However, one can always extend it to some subfield that is isomorphic to $\C$. Given an isomorphism $K\to L$ of number fields in $\C$. Then $K\otimes_{\Q}\Q_p\to L\otimes_{\Q}\Q_p$ for some $p$ is naturally constructed, and can be extended to $\overline{\Q_p}$. Indeed, one can fix some $\overline{\Q_p}\cong \C$ to translate this argument onto $\C$.
+
+\textit{Remark.} The feature of $\C$ we have used here is that any algebraic closure of any subfield (especially, local subfield) of $\C$ is contained in $\C$. Hence we can construct isomorphisms to $\C$ such as $\overline{\Q_p} \cong \C$.
+
+
+\miquestion
+{\color{blue} Can it happen that a proper subfield of $\mathbb{C}$ is isomorphic to $\mathbb{C}$? How?}
+
+\textit{Answer.} Yes. Choose a countable set of elements of $\C$ (not necessarily transcendental over $\Q$), say $\{\alpha_n\}_{n\in \mathbb{N}}$. Consider $\sigma\in \Aut(\Q(\alpha_0,\alpha_1,\cdots))$ such that $\sigma(\alpha_i)=\alpha_{i+1}$. Apply Zorn's lemma to
+$$
+\mathfrak{F}=\{\widetilde{\sigma} \text{ extension of } \sigma \text{ to } \C: \alpha_0\notin \operatorname{im} \widetilde{\sigma}\},
+$$
+and we get a maximal element (in the sense of restriction) $f\in \mathfrak{F}$, whose image is isomorphic to $\C$ such that $\alpha_0\in \C-f(\C)$.
+
+\miquestion
+{\color{blue} Consider the minimal polynomial $f(x)$ for a primitive $m$-th root of unity. Prove that if $p$ divides $f(a)$ for some integer $a$ and $(p, m)=1$, then $m$ divides $p-1$. Use this fact to show that there are infinitely many primes congruent to $1 \bmod m$.}
+
+\miquestion
+{\color{blue}
+What is Dirichlet's theorem about primes in arithmetic progression? What can you say about the density of such primes?}
+
+\textit{Statement.} (Dirichlet) Given coprime integers $a,m$, there are infinitely many primes $p$ such that $p\equiv a\bmod m$. Namely, there are infinitely many primes lies in a fixed arithmetic progress.
+
+{\color{violet}
+\textit{Theorem.} (Chebotarev) Let $E/F$ be a Galois (not necessarily finite) extension, then 
+$$
+\delta\{p\in \OO_F \text{ prime}: p\nmid \disc_{E/F}, \operatorname{Frob}_p\in C\}=\frac{\#C}{\#\Gal(E/F)}.
+$$
+Namely, the density of some unramified primes whose Frobenius maps form a conjugacy class $C$ in $\Gal(E/F)$ equals to the proportion of $C$ in $\Gal(E/F)$.
+}
+
+\textit{Application.} It turns out that $\delta\{p\in \Z \text{ is prime}: p\equiv a\bmod m\}=1/\varphi(m)\neq 0$, hence these primes are infinitely many: consider the cyclotomic extension $\Q(\zeta_m)/\Q$ for which
+$$
+G:=\Gal(\Q(\zeta_m)/\Q)\cong (\Z/m\Z)^\times.
+$$
+Here we get an abelian cyclic group whose conjugacy classes are given by single elements. Since $(a,m)=1$, we have
+$$
+\begin{aligned}
+\Z/\varphi(m)\Z & \longrightarrow \Gal(\Q(\zeta_m)/\Q)\\
+a\bmod m & \longmapsto (\zeta_m\mapsto \zeta_m^a).
+\end{aligned}
+$$
+Hence the conjugacy class $C=\{\operatorname{Frob}_a\}$, and the density is $\#C/\#G=1/\varphi(m)$.
+
+
+\miquestion
+{\color{blue} How many irreducible polynomials of degree six are there over $\F_{2}$?}
+
+\textit{Solution.}
+The splitting field of any irreducible polynomial of degree 6 over $\F_2$ is $\F_{2^6}$. The root system is generated by $\alpha\in \F_{2^6} - (\F_{2^2}\cup \F_{2^3})$. Any Galois action is given by $\operatorname{Frob}_2$ as a permutation on roots. Note that $\F_{2^2}\cap \F_{2^3}=\F_2$ and those irreducible polynomials must be monic over $\F_2$, hence
+$$
+\frac{2^6-2^3-2^2+2}{6}=9
+$$
+counts the number as desired.
+
+\miquestion
+{\color{blue} Can you have a degree 7 irreducible polynomial over $\F_{p}$? How about a degree 14 irreducible polynomial?}
+
+\textit{Solution.}
+Over $\F_{p}$, there are $(p-1)(p^7-p)/7$ irreducible polynomials of degree 7, and $(p-1)(p^{14}-p^7-p^2+p)/14$ irreducible polynomials of degree 14. For the reason, see Question 58.
+
+\miquestion
+{\color{blue} How many irreducible polynomials are there of degree 4 over $\F_{2}$?}
+
+\textit{Solution.}
+The number is $(2^4-2^2)/4=3$. In an explicit description, they must have constant item 1 with odd number of monomials:
+$$
+x^4+x+1, \quad x^4+x^3+1, \quad x^4+x^3+x^2+x+1.
+$$
+Here $x^4+x^2+1=(x^2+x+1)^2$ is not irreducible.
+
+\miquestion
+{\color{blue} For each prime $p$, give a polynomial of degree $p$ that is irreducible over $\F_{p}$. You can do it in a ``uniform'' way.}
+
+\textit{Construction.} The answer is $x^p-x-1$. This polynomial, which is irreducible modulo $p$, must be a factor of $x^{p^p}-1$. It is because an irreducible polynomial of degree $p$ has splitting field $\F_{p^p}/\F_p$, and $x^{p^p}-1$ runs through all elements of $\F_{p^p}$ as its roots. On the other hand, by Fermat's little theorem, $x^p-x-1$ has value $-1$ for all $x\in \F_p=\Z/p\Z$.
+
+
+\miquestion
+{\color{blue} Can we solve general quadratic equations by radicals? And what about cubic and so on? Why can't you solve $5$-th degree equations by radicals?}
+
+\miquestion
+{\color{blue} Talk about solvability by radicals. Why is $S_{5}$ not solvable? Why is $A_{5}$ simple?}
+
+\miquestion
+{\color{blue} For which $n$ can a regular $n$-gon be constructed by ruler and compass?}
+
+\textit{Answer.} A regular $n$-gon is constructible if and only if $\alpha = \cos(\frac{2\pi}{n})$ is constructible, which is equivalent to $[\Q(\alpha),\Q]$ is a power of 2. It turns out to be $n=2^k p_1\cdots p_t$, where $p_i=2^{2^{n_i}}+1$ are Fermat primes.
+
+\miquestion
+{\color{blue} How do you use Galois theory (or just field theory) to prove the impossibility of trisecting an angle? Doubling a cube? Squaring a circle?}
+
+{\color{violet}
+\textit{Recipe.} Saying ``constructible'' means the ratio of volumes, the cosine or sine of angles, etc. are all constructible. A number $\alpha$ is said to be constructible if $\alpha$ lies in the top of a finite tower of real quadratic extensions starting from $\Q$.
+}
+
+\textit{Proof.} \textbf{Trisecting an angle:} over the number field $K=\Q(\cos\theta)$, the tripled cosine equality $\cos\theta=4\cos^3(\theta/3)-3\cos(\theta/3)$ shows that $[K(\cos(\theta/3)):K]=3$.
+
+\textbf{Doubling a cube:} this requires $\sqrt[3]{2}$ to be constructible; but $[\Q(\sqrt[3]{2}):\Q]=3$.
+
+\textbf{Squaring a circle:} this requires $\sqrt{\pi}$ to be constructible, and hence $\pi$ is constructible; but the contradiction lies in that $\pi$ is transcendental over $\Q$.
+
+\miquestion
+{\color{blue} Which numbers are constructible? Give an example of a non-constructible number whose degree is nevertheless a power of 2.}
+
+\textit{Answer.} See Question 65 above.
+
+\miquestion
+{\color{blue} State and prove Eisenstein's Criterion.}
+
+\textit{Statement.}
+Let $f(x)=a_n x^n+a_{n-1}x^{n-1}+\cdots+a_0\in \Z[x]$. If there is a prime $p$ such that $p\mid a_{n-1},\ldots,a_0$ but $p \nmid a_n$, $p^2\nmid a_0$, then $f$ is irreducible over $\Z$.
+
+\textit{Proof.}
+Suppose $f=g h$ in $\Z[x]$. Since $f\equiv a_n x^n\bmod p$ and $\F_p[x]$ is a UFD, we get $g\equiv b_i x^i\bmod p$ and $h\equiv c_j x^j\bmod p$ for $i+j=n$. So the constant terms of $g,h$ over $\Z$ are divisible by $p$, hence $p^2\mid a_0$, a contradiction.
+
+\miquestion
+{\color{blue} Why is $(x^{p}-1)/(x-1)$ irreducible over $\Q$?}
+
+\textit{Proof.}
+It's because $f(x+1)$ is Eisenstein at $p$.
+
+\miquestion
+{\color{red} Can you prove the fundamental theorem of algebra using Galois theory? What do you need from analysis to do so?}
+
+\miquestion
+{\color{blue} What are the symmetric polynomials?}
+
+\textit{Answer.} Those are unchanged if their variables are arbitrarily permuted.
+
+\miquestion
+{\color{blue} State the fundamental theorem of symmetric polynomials.}
+
+\textit{Statement.} Any symmetric polynomial can be expressed into a polynomial (over the base field) of elementary symmetric polynomials.
+
+\miquestion
+{\color{blue} Is the discriminant of a polynomial always a polynomial in the coefficients? What does this have to do with symmetric polynomials?}
+
+\textit{Answer.} Yes. The discriminant is a symmetric polynomial in all roots, and hence a polynomial of elementary symmetric ones. But the elementary ones are coefficients. Here we have used the the fundamental theorem of symmetric polynomials.
+
+\miquestion
+{\color{blue} Find a non-symmetric polynomial whose square is symmetric.}
+
+\textit{Solution.} For example, the root of the discriminant.
+
+\miquestion
+{\color{blue} Let $f$ be a degree 4 polynomial with integer coefficients. What's the smallest finite field in which $f$ necessarily has four roots?}
+
+\textit{Solution.} Consider $\overline{f}\in \F_p[x]$. If it is irreducible of degree 4, then $\F_{p^4}$ contains all of its roots. The smallest one (with respect to the size) can be $\F_{16}$.
+
+\miquestion
+{\color{blue} Define $p$-adic numbers. What is a valuation?}
+
+\textit{Definition.} For a fixed prime $p$, the most usual definition is to say $p$-adic number $\Q_p$ is the topological completion of $\Q$ with respect to the non-archimedean absolute value $|\cdot|_p:=(1/p)^{\operatorname{ord}_p(\cdot)}$.
+
+\textit{Remark.} By Ostrowski's theorem, any nontrivial non-archimedean absolute value on $\Q$ is equivalent to (i.e. is some integral power of) the $p$-adic valuation for some prime $p$. Also, any nontrivial archimedean absolute value on $\Q$ is equivalent to $|\cdot|_\infty$.
+
+\textit{Answer.} A valuation is a surjective homomorphism $v:K^\times\to \Z$ defined over a field $K$. It is often taken as a logarithm of some $|\cdot|$.
+
+
+
+\miquestion
+{\color{blue} What's Hilbert's theorem 90?}
+
+{\color{violet}
+\textit{Theorem.} (Hilbert 90) Suppose $G$ is a (Galois) group and $M$ is an abelian group equipped with a $G$-action. Then define the first order \textbf{group cohomology} by
+$$
+H^1(G,M):=\frac{\{f:G\to M \text{ such that } f(gh)=f(g)^hf(h)\text{ for all }g,h\in G\}}{\{f:G\to M \text{ such that } f(g)=x(x^g)^{-1}\text{ for some } x\in M\}}.
+$$
+If $L/K$ be a finite Galois extension with Galois group $G$. Then $H^1(G,L^\times)=0$.
+}
+
+\miquestion
+{\color{blue} Consider a nonconstant function between two compact Riemann Surfaces. How is it related to Galois theory and algebraic number theory?}
+
+\textit{Answer.} {\color{teal}(This is possibly incorrect. Use at your own peril.)} Let $X$ and $Y$ be compact connected Riemann surfaces, and let $\alpha: Y \rightarrow X$ be a nonconstant holomorphic mapping. Write $\mathcal{M}(X)$ and $\mathcal{M}(Y)$ for the fields of meromorphic functions on $X$ and $Y$. The map $f \mapsto f \circ \alpha$ is an inclusion $\mathcal{M}(X) \hookrightarrow \mathcal{M}(Y)$ which makes $\mathcal{M}(Y)$ into a field of finite degree over $\mathcal{M}(X)$; let $m$ be this degree. Geometrically, the map is $m: 1$ except at a finite number of branch points.
+
+Let $P \in X$ and let $\mathcal{O}_P$ be the set of meromorphic functions on $X$ that are holomorphic at $P$ - it is the discrete valuation ring attached to the discrete valuation $\operatorname{ord}_P$, and its maximal ideal $\mathfrak{p}$ is the set of meromorphic functions on $X$ that are zero at $P$. Let $B$ be the integral closure of $\mathcal{O}_P$ in $\mathcal{M}(Y)$. Let $\alpha^{-1}(P)=\{Q_1, \ldots, Q_g\}$ and let $e_i$ be the number of sheets of $Y$ over $X$ that coincide at $Q_i$. Then $\mathfrak{p} B=\prod \mathfrak{q}_i^{e_i}$, where $\mathfrak{q}_i$ is the prime ideal $\{f \in B \mid f(Q_i)=0\}$. 
+\end{questions}
+
+\end{document}
