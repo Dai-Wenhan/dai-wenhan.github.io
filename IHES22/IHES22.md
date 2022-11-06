@@ -35,11 +35,12 @@ _The [video links](https://www.youtube.com/playlist?list=PLx5f8IelFRgEv3qXY43HxV
   This is a review of some developments in the theory of Eisenstein series since Corvallis. <br/>
   _It seems that some unusual beast appeared in his talk. This [expository writing](././Lapid0.pdf) contains a relatively mild introduction to the background._
 
-- **Olivier Taïbi** (ENS Lyon) - **The Local Langlands Conjecture** (2/3). ([video](), [live-TeXed notes](././Taibi2.pdf))
+- **Olivier Taïbi** (ENS Lyon) - **The Local Langlands Conjecture** (2/3). ([video](), [live-TeXed notes](././Taibi2.pdf)) <br/>
+  This is a follow-up to the morning session.
 
 - **Sophie Morel** (ENS Lyon) - **Shimura Varieties** (1/3). ([video](https://www.youtube.com/watch?v=WIZdWvMJN34), [live-TeXed notes](././Morel1.pdf), [manuscript](././MorelM1.pdf)) <br/>
   Depending on your point of view, Shimura varieties are a special kind of locally symmetric spaces, a generalization of moduli spaces of abelian schemes with extra structures, or the imperfect characteristic 0 version of moduli spaces of shtuka. They play an important role in the Langlands program because they have many symmetries (the Hecke correspondences) allowing us to link their cohomology to the theory of automorphic representations, and on the other hand they are explicit enough for this cohomology to be computable. The goal of these lectures is to give an introduction to Shimura varieties, to present some examples, and to explain the conjectures on their cohomology (at least in the simplest case). <br/>
-  _See also this [**processed notes**](././Morel0.pdf) of mine (last updated: July 17; yet a very preliminary version)._
+  _See also this [**processed notes**](././MorelP1.pdf) for Lecture 1/3 (last updated: July 17; yet a very preliminary version). Wenhan claims no originality and takes full responsibility for all errors made therein_
 
 
 
