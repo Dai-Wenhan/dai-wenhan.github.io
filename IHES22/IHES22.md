@@ -47,4 +47,6 @@ _The [video links](https://www.youtube.com/playlist?list=PLx5f8IelFRgEv3qXY43HxV
 #### July 12
 
 - **Sophie Morel** (ENS Lyon) - **Shimura Varieties** (2/3). ([video](), [live-TeXed notes](././Morel2.pdf), [manuscript](././MorelM2.pdf)) <br/>
-  _[Kai-wen Lan's expository paper](././Lan.pdf) is an instructive reference that is particularly recommended. (Also available [here](https://www-users.cse.umn.edu/kwlan/articles/intro-sh-ex.pdf).)_
+  To continue the previous lecture.
+  - _[Kai-wen Lan's expository paper](././Lan.pdf) is an instructive reference that is particularly recommended. (Also available [here](https://www-users.cse.umn.edu/kwlan/articles/intro-sh-ex.pdf).)_
+  - _[These notes](././Yihang.pdf) are based on a topics course on Shimura varieties delivered by Yihang Zhu at the University of Maryland in Spring of 2022._
