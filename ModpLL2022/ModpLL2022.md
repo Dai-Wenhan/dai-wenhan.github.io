@@ -13,10 +13,10 @@ _Caveat: This series of courses contains a great deal of difficult and profound 
 
 ### Syllabus
 
-- [x] (11/2) **Lecture 1**: Serre weights and Breuil-Paskunas’ construction. ([notes](ModpLL1.pdf))
-- [ ] (11/9) **Lecture 2**: Gelfand-Kirillov dimension of some representations of GL(2). ([notes](ModpLL2.pdf))
-- [ ] (11/16) **Lecture 3**: Finite length results. ([notes](ModpLL3.pdf))
-- [ ] (11/23) **Lecture 4**: Generalized Colmez’s functor. ([notes](ModpLL4.pdf))
+- [x] (11/2) **Lecture 1**: Serre weights and Breuil-Paskunas’ construction. ([notes](././ModpLL1.pdf))
+- [x] (11/9) **Lecture 2**: Gelfand-Kirillov dimension of some representations of GL(2). ([notes](././ModpLL2.pdf))
+- [ ] (11/16) **Lecture 3**: Finite length results. ([notes](././ModpLL3.pdf))
+- [ ] (11/23) **Lecture 4**: Generalized Colmez’s functor. ([notes](././ModpLL4.pdf))
 
 ### References
 
