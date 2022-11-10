@@ -2,13 +2,6 @@
 
 ### 2022 Fall (ongoing)
 
-- [**_p_-adic Geometry Learning Seminar: On Banach-Colmez Spaces**](./padicBC/padicBC.md).
-
-  The goal of this series of talks is to learn the basics of finite-dimensional Banach Spaces (aka. Banach-Colmez spaces). More details can be found here. There is a small chance we might have to deviate from this schedule if some topics end up taking longer/shorter than we expect.
-  - **Time**: Every Monday, 3:00-5:00pm.
-  - **Location**: MCM 110 & Online (Zoom ID: 4663562952; Password: mcm1234).
-  - **Instructor**: Koji Shimizu (Tsinghua) and [Shizhang Li](http://shizhang.li) (MCM).
-
 - [**Abelian Varieties (I)**](./AV/AV.md) (student seminar for the 3+X Program).
 
   The goal of this learning seminar is to study the basics of abelian varieties. The pre-requisite is Chapters 2–3 of Hartshorne’s algebraic geometry, but this seminar can also be taken while reading Hartshorne’s book. Some familiarity with elliptic curves will be helpful to understand some of the materials. Each lecture will be two hours long. The textbook we are going to use is Mumford’s book. Another complementary reference is Milne’s online note. Mumford’s book is mostly about the geometry (i.e. abelian varieties over algebraically closed fields), while Milne’s note has more about the arithmetic (e.g. abelian varieties over finite fields or number fields). Moreover, Milne’s note has a chapter about Jacobian varieties.
@@ -16,12 +9,28 @@
   - **Location**: School of Math 1418.
   - **Instructor**: [Liang Xiao](https://bicmr.pku.edu.cn/~lxiao/index.htm) and [Xinyi Yuan](https://bicmr.pku.edu.cn/~yxy/).
 
+- [**Lectures on mod _p_ Langlands program for GL(2)**](./ModpLL2022/ModpLL2022.md) (advanced guest lecture series).
+
+  This lecture series aims to give an introduction to some recent progress on the mod _p_ Langlands program for GL(2). (_Caveat: This series of courses contains a great deal of difficult and profound representational expertise that an audience unfamiliar with the field will not gain from._)
+  - **Lecturer**: [Yongquan Hu](http://www.mcm.ac.cn/faculty/huyongquan/201509/t20150909_306981.html) (MCM, AMSS).
+  - **Other Invited Participants**: Yiwen Ding, Ruochuan Liu, Yichao Tian, Haoran Wang, Liang Xiao, etc..
+  - **Time**: November 2 - November 16, 2022.
+  - **Venue**: Lecture Hall, 82J12, Jingchunyuan 82, BICMR.
+
+- [**_p_-adic Geometry Learning Seminar: On Banach-Colmez Spaces**](./padicBC/padicBC.md).
+
+  The goal of this series of talks is to learn the basics of finite-dimensional Banach Spaces (aka. Banach-Colmez spaces). More details can be found here. There is a small chance we might have to deviate from this schedule if some topics end up taking longer/shorter than we expect.
+  - **Time**: Every Monday, 3:00-5:00pm.
+  - **Location**: MCM 110 & Online (Zoom ID: 4663562952; Password: mcm1234).
+  - **Instructor**: Koji Shimizu (Tsinghua) and [Shizhang Li](http://shizhang.li) (MCM).
+
 - [**On the Ternary Goldbach Problem**](./Goldbach/Goldbach.md) (for fun only).
 
   A coffee-break-seminar on additive and combinatoric number theory. We plan to follow [Ben Green's lecture notes](https://courses-archive.maths.ox.ac.uk/node/view_material/49404) (Oxon ver in 2020) closely.
   - **Time**: October-November 2022; typically irregular. (Contact the organizers to join the WeChat group for detailed time syllabus.)
-  - **Venue**: Coffee Bar at Jingchun Yuan (behind Room 77201), BICMR; or alternatively, the Paradise Coffee (泊星地咖啡) at Yan Yuan.
-
+  - **Venue**: Coffee Bar at Jingchun Yuan (behind Room 77201), BICMR; or alternatively, the Paradiso Coffee (泊星地咖啡) at Yan Yuan.
+  
+  
 
 ### Past Events
 
