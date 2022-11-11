@@ -36,7 +36,7 @@ The textbook we are going to use is Mumford’s book. Another complementary refe
 - [x] (10/21) **Dingchang Zhou** - [Mum §6]. (Wenhan took a trip; no notes for this week. See his [collated notes](././AV(II).pdf) instead.)
 - [x] (10/28) **Kehao Cheng** - [Mum §7]. (ibid.)
 - [x] (11/4) **Yiyang Chang** - [Mum §8]. ([collated notes](././AV(II).pdf), [speaker's handout](././AV8s.pdf))
-- [ ] (11/11) **Shun Yin** - [Mum §9-10]. ([notes](././AV9.pdf))
+- [x] (11/11) **Shun Yin** - [Mum §9-10]. ([notes](././AV9.pdf); have not been finished; to be continued next time)
 - [ ] (11/18) **Tianwei Gao** - [Mum §11]. ([notes](././AV10.pdf))
 - [ ] (11/25) **Wenxuan Qi** - [Mum §12]. ([notes](././AV11.pdf))
 - [ ] (12/2) **Haoda Li** - [Mum §13]. ([notes](././AV12.pdf))
