@@ -35,7 +35,7 @@ _The [video links](https://www.youtube.com/playlist?list=PLx5f8IelFRgEv3qXY43HxV
   This is a review of some developments in the theory of Eisenstein series since Corvallis. 
   - _It seems that some unusual beast appeared in his talk. This [expository writing](././Lapid0.pdf) contains a relatively mild introduction to the background._
 
-- **Olivier Taïbi** (ENS Lyon) - **The Local Langlands Conjecture** (2/3). ([video](), [live-TeXed notes](././Taibi2.pdf)) <br/>
+- **Olivier Taïbi** (ENS Lyon) - **The Local Langlands Conjecture** (2/3). ([video](https://www.youtube.com/watch?v=JCd4py4uNe4), [live-TeXed notes](././Taibi2.pdf)) <br/>
   This is a follow-up to the morning session.
 
 - **Sophie Morel** (ENS Lyon) - **Shimura Varieties** (1/3). ([video](https://www.youtube.com/watch?v=WIZdWvMJN34), [live-TeXed notes](././Morel1.pdf), [manuscript](././MorelM1.pdf)) <br/>
@@ -46,8 +46,26 @@ _The [video links](https://www.youtube.com/playlist?list=PLx5f8IelFRgEv3qXY43HxV
 
 #### July 12
 
-- **Sophie Morel** (ENS Lyon) - **Shimura Varieties** (2/3). ([video](), [live-TeXed notes](././Morel2.pdf), [manuscript](././MorelM2.pdf)) <br/>
+- **Sophie Morel** (ENS Lyon) - **Shimura Varieties** (2/3). ([video](https://www.youtube.com/watch?v=kLGfHTDsXTU), [live-TeXed notes](././Morel2.pdf), [manuscript](././MorelM2.pdf)) <br/>
   To continue the previous lecture.
   - _The [**processed notes**](././MorelP2.pdf) for Lecture 1/3 & 2/3 (last updated: July 19; still a draft version, with some typos and mistakes in Section 1 fixed). Wenhan claims no originality and takes full responsibility for all errors made therein._
   - _[Kai-wen Lan's expository paper](././Lan.pdf) is an instructive reference that is particularly recommended. (Also available [here](https://www-users.cse.umn.edu/kwlan/articles/intro-sh-ex.pdf).)_
   - _[These notes](././Yihang.pdf) are based on a topics course on Shimura varieties delivered by Yihang Zhu at the University of Maryland in Spring of 2022._
+  
+  
+#### July 13
+
+- **Sophie Morel** (ENS Lyon) - **Shimura Varieties** (3/3). ([video](https://www.youtube.com/watch?v=L7cn2Z87fSs), [live-TeXed notes](././Morel3.pdf), [manuscript](././MorelM3.pdf)) <br/>
+  To continue the previous lecture.
+  - _This is the [**most recent version of notes**](././MorelP3.pdf) for all 3 lectures by Sophie Morel on Shimura varieties. (last updated: July 22; still a preliminary version.) There are still many gaps that may be fixed in the future, but this is not fully guaranteed._
+  
+
+
+
+
+
+
+
+
+
+
