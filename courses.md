@@ -23,7 +23,7 @@
 - [**Topics in Number Theory I: Fermat's Last Theorem**](./FLT2020/FLT2020.md) by Liang Xiao.
 - [**The Hodge Theory of Algebraic Maps**](./dCM05/dCM05.md) by Qizheng Yin.
 - [**Infinite Category**](./infcat/infcat.md) by Enlin Ouyang.
-- [**Basic Number Theory**]() by Ruochuan Liu.
+- [**Basic Number Theory**](./basicNT/basicNT.md) by Ruochuan Liu.
 
 #### 2019 Summer
 - [**Topics in Modular Forms**]() by Yitang Zhang.

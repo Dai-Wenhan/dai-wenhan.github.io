@@ -1,0 +1,18 @@
+## Basic Number Theory (2020 Fall)
+
+- **Lecturer**: [Ruochuan Liu](http://faculty.bicmr.pku.edu.cn/~ruochuan/).
+
+### Notes
+
+_The original notes contained a large number of typos, gaps, and faults. Therefore, the notes for this course will be rewritten at a very slow pace._
+
+- (9/22) **Lecture 1** ([notes](././lec1.pdf)) -- <br/>
+  Motivation (Fermat's conjecture), the quadratic reciprocity law, the main theorem of the course.
+
+### Assignments
+
+
+
+### Textbook
+
+- David A. Cox, Primes of the Form x^2+ny^2: Fermat, Class Field Theory, and Complex Multiplication. John Wiley & Sons, Incorporated. 2013.
