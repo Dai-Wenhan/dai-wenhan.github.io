@@ -7,7 +7,11 @@
 _The original notes contained a large number of typos, gaps, and faults. Therefore, the notes for this course will be rewritten at a very slow pace._
 
 - (9/22) **Lecture 1** ([notes](././lec1.pdf)) -- <br/>
-  Motivation (Fermat's conjecture), the quadratic reciprocity law, the main theorem of the course.
+  Motivation (Fermat's conjecture), the quadratic reciprocity law, the main theorem of the course (higher reciprocity).
+- (9/25) **Lecture 2** ([notes](././lec2.pdf)) -- <br/>
+  Class of quadratic forms with a fixed determinant, reduced primitive positive definite forms, the class number.
+- (9/29) **Lecture 3** ([notes](././lec3.pdf)) -- <br/>
+
 
 ### Assignments
 
