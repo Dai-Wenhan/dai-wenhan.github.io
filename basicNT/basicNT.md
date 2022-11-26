@@ -11,6 +11,12 @@ _The original notes contained a large number of typos, gaps, and faults. Therefo
 - (9/25) **Lecture 2** ([notes](././lec2.pdf)) -- <br/>
   Class of quadratic forms with a fixed determinant, reduced primitive positive definite forms, the class number.
 - (9/29) **Lecture 3** ([notes](././lec3.pdf)) -- <br/>
+  Elementary genus theory, the subgroups and cosets in the multiplicative group of quadratic residues, Gauss direct composition, multiplication of principal quadratic forms.
+- (10/1) (No class in the week of the National Day holiday.)
+- (10/9) **Lecture 4** ([notes](././lec4.pdf)) -- <br/>  
+  
+
+
 
 
 ### Assignments
