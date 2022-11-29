@@ -1,6 +1,6 @@
 ## Mini-Course on Springer Fibers and Quiver Varieties
 
-_Department of Mathematics, National Central University, Taiwan China._
+_Department of Mathematics, National Central University, Taiwan._
 
 In representation theory, the Springer correspondence provides a geometric realization of the irreducible representations of Weyl groups via top cohomology of the Springer fibers, which are resolutions of nilpotent elements in Lie algebras. On the other hand, the universal enveloping algebras of Kac-Moody Lie algebras altogether with their irreducible integrable modules afford a geometric construction using Nakajima quiver varieties, which are geometric invariant theory (GIT) quotients of certain spaces of quiver representations.
 Our goal is to explain the explicit realization of irreducible components of two-row Springer fibers in terms of Nakajima quiver varieties. The treatment will be made accessible for even undergraduate students and non-experts. For this purpose, we introduce along the way other central objects in representation theory.
