@@ -14,7 +14,8 @@ _The original notes contained a large number of typos, gaps, and faults. Therefo
   Elementary genus theory, the subgroups and cosets in the multiplicative group of quadratic residues, Gauss direct composition, multiplication of principal quadratic forms.
 - (10/1) (No class in the week of the National Day holiday.)
 - (10/9) **Lecture 4** ([notes](././lec4.pdf)) -- <br/>  
-  
+  The form class group, Genus theory of Gauss revisiting.
+- (10/13) **Lecture 5** ([notes](././lec5.pdf)) -- <br/>  
 
 
 
