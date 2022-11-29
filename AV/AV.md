@@ -13,7 +13,7 @@ The textbook we are going to use is Mumford’s book. Another complementary refe
 
 #### About logistics -
 
-1. (10/28) Free dinner will be provided from the first meeting in November, and if you need it, please pick it up directly in front of 77201 (remainder: the class will still be held on the second floor of the Jia-Yi-Bing Building and not 77201).
+1. (10/28) Starting from the first meeting in November, free dinners will be provided; if needed, please collect it directly outside the door of Room 77201 (reminder: the classes will still be held on the 2nd floor of the Jia-Yi-Bing building, not in 77201).
 2. (10/7) **WATCH**: As of October 14, our meeting place was changed to **the second floor of the Jia-Yi-Bing Building** instead of the SMS 1418.
 
 #### My collated notes are available -
