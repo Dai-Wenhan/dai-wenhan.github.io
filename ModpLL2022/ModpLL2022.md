@@ -11,13 +11,17 @@ This lecture series aims to give an introduction to some recent progress on the 
 
 _Caveat: This series of courses contains a great deal of difficult and profound representational expertise that an audience unfamiliar with the field will not gain from._
 
+### Relevant Link
+
+You are suggested to concern about this [talk](./MiniTalks/Breuil.md) by Christophe Breuil (CNRS-Orsay) immediately following the course.
+
 ### Syllabus
 
 - [x] (11/2) **Lecture 1**: Serre weights and Breuil-Paskunas’ construction. ([notes](././ModpLL1.pdf))
 - [x] (11/9) **Lecture 2**: Gelfand-Kirillov dimension of some representations of GL(2). ([notes](././ModpLL2.pdf))
 - [ ] (11/16) (The lecture scheduled for this time has been cancelled due to force majeure.)
 - [x] (11/23) **Lecture 3**: Finite length results. ([notes](././ModpLL3.pdf))
-- [ ] (11/30) **Lecture 4**: Generalized Colmez’s functor. ([notes](././ModpLL4.pdf))
+- [x] (11/30) **Lecture 4**: Generalized Colmez’s functor. ([notes](././ModpLL4.pdf))
 
 ### References
 
