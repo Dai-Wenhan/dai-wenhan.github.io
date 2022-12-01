@@ -20,7 +20,13 @@ Regarding language skills: Chinese native speaker; fluent in English and French 
 2. 在2022秋选修肖梁老师《代数学(实验班)》的同学们：[电子版课程笔记](https://bicmr.pku.edu.cn/~lxiao/2022fall/Honors-algebra.pdf)正在龟速更新中(最近更新: 11/24), 我们保证更新进度不落后于实际课程进度. 若有预习需求, 在[课程主页](https://bicmr.pku.edu.cn/~lxiao/2022fall/2022fall.htm)上可以看到手写版的笔记.
 3. (Notes updated) During the upcoming semester, I will organize [seminars on Abelian / Shimura varieties](./AV/AV.md). 
 
-### Ongoing Events
+### Ongoing/Upcoming Events
+
+- [**Instructional workshop on Iwasawa theory for automorphic forms**] (online, Korean Institute for Advanced Study).
+
+  Recently, there have been significant progresses in Iwasawa theory for elliptic curves and modular forms. Remarkably, these progresses have important applications to the cerebrated Birch and Swinnerton-Dyer conjecture, one of the Millennium Prize Problems. The main goal of this instructional workshop is to go through many details of the recent work of Castella, Liu, and Wan on the Iwasawa main conjecture for automorphic forms on GU(3,1) ([arXiv:2109.08375](https://arxiv.org/abs/2109.08375)). In particular, this work plays an important role to establish the Iwasawa main conjecture for a large class of elliptic curves with supersingular reduction.
+  - **Time**: December 19-22, 2022.
+  - **Instructor**: [Francesc Castella](https://web.math.ucsb.edu/~castella/) (UCSB), [Zheng Liu](https://web.math.ucsb.edu/~zliu/) (UCSB), [Xin Wan](http://www.mcm.ac.cn/people/members/202011/t20201113_593075.html) (Morningside Center of Mathematics, CAS).
 
 - [**Abelian Varieties (I)**](./AV/AV.md) (student seminar for the 3+X Program).
 
