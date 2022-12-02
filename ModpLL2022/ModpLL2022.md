@@ -13,7 +13,7 @@ _Caveat: This series of courses contains a great deal of difficult and profound 
 
 ### Relevant Link
 
-You are suggested to concern about this [talk](https://dai-wenhan.github.io/MiniTalks/Breuil.html) by Christophe Breuil (CNRS-Orsay) immediately following the course.
+You are suggested to concern about this [talk](dai-wenhan.github.io/MiniTalks/Breuil.md) by Christophe Breuil (CNRS-Orsay) immediately following the course.
 
 ### Syllabus
 
