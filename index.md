@@ -35,14 +35,6 @@ Regarding language skills: Chinese native speaker; fluent in English and French 
   - **Location**: School of Math 1418.
   - **Instructor**: [Liang Xiao](https://bicmr.pku.edu.cn/~lxiao/index.htm) and [Xinyi Yuan](https://bicmr.pku.edu.cn/~yxy/).
 
-- [**Lectures on mod _p_ Langlands program for GL(2)**](./ModpLL2022/ModpLL2022.md) (advanced guest lecture series).
-
-  This lecture series aims to give an introduction to some recent progress on the mod _p_ Langlands program for GL(2). (_Caveat: This series of courses contains a great deal of difficult and profound representational expertise that an audience unfamiliar with the field will not gain from._)
-  - **Lecturer**: [Yongquan Hu](http://www.mcm.ac.cn/faculty/huyongquan/201509/t20150909_306981.html) (MCM, AMSS).
-  - **Other Invited Participants**: Yiwen Ding, Ruochuan Liu, Yichao Tian, Haoran Wang, Liang Xiao, etc..
-  - **Time**: November 2 - November 16, 2022.
-  - **Venue**: Lecture Hall, 82J12, Jingchunyuan 82, BICMR.
-
 - [**_p_-adic Geometry Learning Seminar: On Banach-Colmez Spaces**](./padicBC/padicBC.md).
 
   The goal of this series of talks is to learn the basics of finite-dimensional Banach Spaces (aka. Banach-Colmez spaces). More details can be found here. There is a small chance we might have to deviate from this schedule if some topics end up taking longer/shorter than we expect.

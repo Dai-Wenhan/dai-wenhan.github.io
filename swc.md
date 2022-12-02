@@ -9,13 +9,6 @@
   - **Location**: School of Math 1418.
   - **Instructor**: [Liang Xiao](https://bicmr.pku.edu.cn/~lxiao/index.htm) and [Xinyi Yuan](https://bicmr.pku.edu.cn/~yxy/).
 
-- [**Lectures on mod _p_ Langlands program for GL(2)**](./ModpLL2022/ModpLL2022.md) (advanced guest lecture series).
-
-  This lecture series aims to give an introduction to some recent progress on the mod _p_ Langlands program for GL(2). (_Caveat: This series of courses contains a great deal of difficult and profound representational expertise that an audience unfamiliar with the field will not gain from._)
-  - **Lecturer**: [Yongquan Hu](http://www.mcm.ac.cn/faculty/huyongquan/201509/t20150909_306981.html) (MCM, AMSS).
-  - **Other Invited Participants**: Yiwen Ding, Ruochuan Liu, Yichao Tian, Haoran Wang, Liang Xiao, etc..
-  - **Time**: November 2 - November 16, 2022.
-  - **Venue**: Lecture Hall, 82J12, Jingchunyuan 82, BICMR.
 
 - [**_p_-adic Geometry Learning Seminar: On Banach-Colmez Spaces**](./padicBC/padicBC.md).
 
@@ -37,6 +30,9 @@
 #### 2022 Fall
 
 - (_Talk_) [**The _p_-adic Borel Hyperbolicity of Ag**](./MiniTalks/Zhu1019.md) (POINTS).
+- (_Workshop_) - [**Lectures on mod _p_ Langlands program for GL(2)**](./ModpLL2022/ModpLL2022.md) (advanced guest lecture series).
+- (_Talk_) [**Multivariable (phi,Gamma)-modules and Modular Representations of Galois and GL(2)**](./MiniTalks/Breuil.md).
+
 
 #### 2022 Summer
 
