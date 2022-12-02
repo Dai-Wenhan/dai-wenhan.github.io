@@ -24,13 +24,13 @@ Please email Shizhang <lishizhang@amss.ac.cn> if you would like to join the mail
   Finite-dimensional Banach Spaces; [Col02, §7.3-7.8].
 - [x] (10/31) **Lecture 7** by **Daxin Xu** ([notes](././7.pdf)) - <br/>
   _p_-adic period rings; [Col02, §8].
-- [ ] (11/7) **Lecture 8** by **Yong-Suk Moon** ([notes](././8.pdf)) - <br/>
+- [x] (11/7) **Lecture 8** by **Yong-Suk Moon** ([notes](././8.pdf)) - <br/>
   Fundamental exact sequence; [Col02, §9].
-- [ ] (11/14) **Lecture 9** by **Zekun Chen** ([notes](././9.pdf)) - <br/>
+- [x] (11/14) **Lecture 9** by **Zekun Chen** - <br/>
   Weakly admissible implies admissible; [Col02, §11].
-- [ ] (11/21) **Lecture 10** by **Jiedong Jiang** ([notes](././10.pdf)) - <br/>
+- [x] (11/21) **Lecture 10** by **Jiedong Jiang** ([notes](././10.pdf)) - <br/>
   Banach--Colmez spaces; [LB18, §2].
-- [ ] (11/28) **Lecture 11** by **Ruochuan Liu** ([notes](././11.pdf)) - <br/>
+- [x] (11/28) **Lecture 11** by **Ruochuan Liu** ([notes](././11.pdf)) - <br/>
   Pro-étale cohomology of affine spaces; [LB18, §3].
 - [ ] (12/5) **Lecture 12** by **Heng Wang** ([notes](././12.pdf)) - <br/>
   The category \mathscr{BC} in terms of the Fargues-Fontaine curve; [LB18, §5-7].
