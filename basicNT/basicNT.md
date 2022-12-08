@@ -16,14 +16,17 @@ _The original notes contained a large number of typos, gaps, and faults. Therefo
 - (10/9) **Lecture 4** ([notes](././lec4.pdf)) -- <br/>  
   The form class group, Genus theory of Gauss revisiting.
 - (10/13) **Lecture 5** ([notes](././lec5.pdf)) -- <br/>  
-
-
+  Applications of the genus theory, the cubic reciprocity.
+- (10/20) **Lecture 6** ([notes](././lec6.pdf)) -- <br/>  
+  The cubic reciprocity continued, the biquadratic reciprocity, proof of the cubic reciprocity (character theory on finite fields involved).
+- (10/24) **Lecture 7** ([notes](././lec7.pdf)) -- <br/>  
 
 
 ### Assignments
 
 
 
-### Textbook
+### Textbooks
 
-- David A. Cox, Primes of the Form x^2+ny^2: Fermat, Class Field Theory, and Complex Multiplication. John Wiley & Sons, Incorporated. 2013.
+- David A. Cox, _Primes of the Form x^2+ny^2: Fermat, Class Field Theory, and Complex Multiplication_. John Wiley & Sons, Incorporated. 2013.
+- K. Ireland and M. Rosen, _A Classical Introduction to Modern Number Theory_, Springer-Verlag, Berlin, Heidelberg, and New York, 1982.
