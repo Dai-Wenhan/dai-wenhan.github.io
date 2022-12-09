@@ -1,6 +1,7 @@
 ## Basic Number Theory (2020 Fall)
 
 - **Lecturer**: [Ruochuan Liu](http://faculty.bicmr.pku.edu.cn/~ruochuan/).
+- **Teaching Assistant**: [Jiedong Jiang]().
 
 ### Notes
 
@@ -23,6 +24,15 @@ _The original notes contained a large number of typos, gaps, and faults. Therefo
 
 
 ### Assignments
+The exercise problems are taken from the textbook of David Cox. Students are strongly recommended to type the solutions into a LaTeX version.
+
+1. (Due date: 10/9) Chapter I, Exercise 1.2, 1.4, 1.5, 1.10, 1.12, 2.7, 2.8, 2.10.
+2. (Due date: 10/9) Chapter I, Exercise 2.17, 2.23, 2.26, 2.27.
+3. (Due date: 10/23) Chapter I, Exercise 3.3, 3.10，3.11, 3.15.
+4. (Due date: 10/23) Chapter I, Exercises 3.20, 4.6.
+5. (Due date: 11/6) Chapter I, Exercise 4.29; Chapter II, Exercise 5.5, 5.6, 5.10(2).
+6. (Due date: 12/6) Chapter II, Exercise 6.7, 6.8, 6.9, 6.13.
+7. (Due date: 1/5) Chapter II, Exercise 8.5, 8.6, 8.8.
 
 
 
