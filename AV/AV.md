@@ -40,7 +40,7 @@ The textbook we are going to use is Mumford’s book. Another complementary refe
 - [x] (11/18) **Tianwei Gao** - [Mum §11]. (Resumed online. [collated notes](././AV(III).pdf))
 - [x] (11/25) **Wenxuan Qi** - [Mum §12]. (Online. [collated notes](././AV(III).pdf), [speaker's handout](././AV11s.pdf))
 - [x] (12/2) **Haoda Li** - [Mum §13]. ([collated notes](././AV(III).pdf))
-- [ ] (12/9) **Xingzhu Fang** - [Mum §14]. ([notes](././AV13.pdf))
+- [x] (12/9) **Xingzhu Fang** - [Mum §14]. ([notes](././AV13.pdf))
 - [ ] (12/16) **Huishi Yu** - [Mum §15]. ([notes](././AV14.pdf))
 
 ### References
