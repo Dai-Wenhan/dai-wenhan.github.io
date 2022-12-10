@@ -14,11 +14,11 @@ _The original notes contained a large number of typos, gaps, and faults. Therefo
 - (9/29) **Lecture 3** ([notes](././lec3.pdf)) -- <br/>
   Elementary genus theory, the subgroups and cosets in the multiplicative group of quadratic residues, Gauss direct composition, multiplication of principal quadratic forms.
 - (10/1) (No class in the week of the National Day holiday.)
-- (10/9) **Lecture 4** ([notes](././lec4.pdf)) -- <br/>  
+- (10/9) **Lecture 4** ([notes](././lec4.pdf)) -- <br/>
   The form class group, Genus theory of Gauss revisiting.
-- (10/13) **Lecture 5** ([notes](././lec5.pdf)) -- <br/>  
+- (10/13) **Lecture 5** ([notes](././lec5.pdf)) -- <br/>
   Applications of the genus theory, the cubic reciprocity.
-- (10/20) **Lecture 6** ([notes](././lec6.pdf)) -- <br/>  
+- (10/20) **Lecture 6** ([notes](././lec6.pdf)) -- <br/>
   The cubic reciprocity continued, the biquadratic reciprocity, proof of the cubic reciprocity (character theory on finite fields involved).
 - (10/24) **Lecture 7** ([notes](././lec7.pdf)) -- <br/>
   Proof of the cubic reciprocity continued, story on number fields, ramification theory. 
