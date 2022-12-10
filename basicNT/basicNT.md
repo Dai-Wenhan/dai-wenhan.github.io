@@ -20,8 +20,9 @@ _The original notes contained a large number of typos, gaps, and faults. Therefo
   Applications of the genus theory, the cubic reciprocity.
 - (10/20) **Lecture 6** ([notes](././lec6.pdf)) -- <br/>  
   The cubic reciprocity continued, the biquadratic reciprocity, proof of the cubic reciprocity (character theory on finite fields involved).
-- (10/24) **Lecture 7** ([notes](././lec7.pdf)) -- <br/>  
-
+- (10/24) **Lecture 7** ([notes](././lec7.pdf)) -- <br/>
+  Proof of the cubic reciprocity continued, story on number fields, ramification theory. 
+- (10/27) **Lecture 8** ([notes](././lec8.pdf)) -- <br/>
 
 ### Assignments
 The exercise problems are taken from the textbook of David Cox. Students are strongly recommended to type the solutions into a LaTeX version.
