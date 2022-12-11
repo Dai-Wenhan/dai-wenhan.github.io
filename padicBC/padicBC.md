@@ -32,7 +32,7 @@ Please email Shizhang <lishizhang@amss.ac.cn> if you would like to join the mail
   Banach--Colmez spaces; [LB18, §2].
 - [x] (11/28) **Lecture 11** by **Ruochuan Liu** ([notes](././11.pdf)) - <br/>
   Pro-étale cohomology of affine spaces; [LB18, §3].
-- [ ] (12/5) **Lecture 12** by **Heng Wang** ([notes](././12.pdf)) - <br/>
+- [ ] (12/5) **Lecture 12** by **Heng Du** ([notes](././12.pdf)) - <br/>
   The category \mathscr{BC} in terms of the Fargues-Fontaine curve; [LB18, §5-7].
 - [ ] (12/12) **Lecture 13** by **Koji Shimizu** ([notes](././13.pdf)) - <br/>
   Overview and local syntomic computations; [CN17, §1-3].
