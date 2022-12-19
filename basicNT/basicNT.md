@@ -23,6 +23,13 @@ _The original notes contained a large number of typos, gaps, and faults. Therefo
 - (10/24) **Lecture 7** ([notes](././lec7.pdf)) -- <br/>
   Proof of the cubic reciprocity continued, story on number fields, ramification theory. 
 - (10/27) **Lecture 8** ([notes](././lec8.pdf)) -- <br/>
+  Discriminant, primes in quadratic reciprocity, Hilbert class field
+- (11/3) **Lecture 9** ([notes](././lec9.pdf)) -- <br/>
+  Hilbert class field continued, Artin reciprocity map, splitness.
+- (11/6) **Lecture 10** ([notes](././lec10.pdf)) -- <br/>
+  Hilbert class field continued, genus theory revisited via the Hilbert class field.
+- (11/10) **Lecture 11** ([notes](././lec11.pdf)) -- <br/>
+
 
 ### Assignments
 The exercise problems are taken from the textbook of David Cox. Students are strongly recommended to type the solutions into a LaTeX version.
