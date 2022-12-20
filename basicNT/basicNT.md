@@ -29,6 +29,9 @@ _The original notes contained a large number of typos, gaps, and faults. Therefo
 - (11/6) **Lecture 10** ([notes](././lec10.pdf)) -- <br/>
   Hilbert class field continued, genus theory revisited via the Hilbert class field.
 - (11/10) **Lecture 11** ([notes](././lec11.pdf)) -- <br/>
+  Ramification theory, genus field continued (and the proof of the main theorem of genus theory, with Artin reciprocity involved).
+- (11/17) (Midterm exam.)
+- (11/20) **Lecture 12** ([notes](././lec12.pdf)) -- <br/>
 
 
 ### Assignments
