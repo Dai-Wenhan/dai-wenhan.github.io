@@ -75,6 +75,15 @@ _The [video links](https://www.youtube.com/playlist?list=PLx5f8IelFRgEv3qXY43HxV
   - _[Kai-wen Lan's expository paper](././Lan.pdf) is an instructive reference that is particularly recommended. (Also available [here](https://www-users.cse.umn.edu/kwlan/articles/intro-sh-ex.pdf).)_
   - _[These notes](././Yihang.pdf) are based on a topics course on Shimura varieties delivered by Yihang Zhu at the University of Maryland in Spring of 2022._
   
+- **Olivier Taïbi** (ENS Lyon) - **The Local Langlands Conjecture** (3/3). ([video](https://www.youtube.com/watch?v=fSGFL_N0zYE), [live-TeXed notes](././Taibi3.pdf)) <br/>
+  This is a follow-up to the yesterday session.
+  - _The [**processed notes**](././TaibiP3.pdf) of all 3 lectures by Oliver Taïbi is now available. It is updated with **Lecture 3/3: The refined local Langlands conjecture; Gerbs and Tannakian categories** (last updated: July 16; need more supplement)._
+    - _Refined Langlands correspondence for non-quasi-split groups;_
+    - _Reduction to the isocrystal case;_
+    - _Relation with the crude version;_
+    - _A few known cases for LLC;_
+    - _Gerbs and Tannakian categories._
+  
   
 #### July 13
 
