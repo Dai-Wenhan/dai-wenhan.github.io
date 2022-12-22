@@ -38,9 +38,11 @@ _The [video links](https://www.youtube.com/playlist?list=PLx5f8IelFRgEv3qXY43HxV
     - _Langlands dual groups;_
     - _Parabolic subgroups and L-embeddings._
 
+
 - **Erez Lapid** (Weizmann Institute) - **Some Perspective on Eisenstein Series** (1/2). ([video](https://www.youtube.com/watch?v=l0yblUboBeM), [live-TeXed notes](././Lapid1.pdf)) <br/>
   This is a review of some developments in the theory of Eisenstein series since Corvallis. 
   - _It seems that some unusual beast appeared in his talk. This [expository writing](././Lapid0.pdf) contains a relatively mild introduction to the background._
+
 
 - **Olivier Taïbi** (ENS Lyon) - **The Local Langlands Conjecture** (2/3). ([video](https://www.youtube.com/watch?v=JCd4py4uNe4), [live-TeXed notes](././Taibi2.pdf), [manuscript](././TaibiM2.pdf)) <br/>
   This is a follow-up to the morning session.
@@ -51,6 +53,7 @@ _The [video links](https://www.youtube.com/playlist?list=PLx5f8IelFRgEv3qXY43HxV
     - _Weil restriction;_
     - _Crude local Langlands correspondence;_
     - _Refined local Langlands for quasi-split groups._
+
 
 - **Sophie Morel** (ENS Lyon) - **Shimura Varieties** (1/3). ([video](https://www.youtube.com/watch?v=WIZdWvMJN34), [live-TeXed notes](././Morel1.pdf), [manuscript](././MorelM1.pdf)) <br/>
   Depending on your point of view, Shimura varieties are a special kind of locally symmetric spaces, a generalization of moduli spaces of abelian schemes with extra structures, or the imperfect characteristic 0 version of moduli spaces of shtuka. They play an important role in the Langlands program because they have many symmetries (the Hecke correspondences) allowing us to link their cohomology to the theory of automorphic representations, and on the other hand they are explicit enough for this cohomology to be computable. The goal of these lectures is to give an introduction to Shimura varieties, to present some examples, and to explain the conjectures on their cohomology (at least in the simplest case). 
@@ -74,7 +77,8 @@ _The [video links](https://www.youtube.com/playlist?list=PLx5f8IelFRgEv3qXY43HxV
     - _p-adic uniformization and local Shimura varieties._
   - _[Kai-wen Lan's expository paper](././Lan.pdf) is an instructive reference that is particularly recommended. (Also available [here](https://www-users.cse.umn.edu/kwlan/articles/intro-sh-ex.pdf).)_
   - _[Yihang Zhu's notes](././Yihang.pdf) are based on a topics course on Shimura varieties at the University of Maryland in Spring of 2022._
-  
+
+
 - **Olivier Taïbi** (ENS Lyon) - **The Local Langlands Conjecture** (3/3). ([video](https://www.youtube.com/watch?v=fSGFL_N0zYE), [live-TeXed notes](././Taibi3.pdf), [manuscript](././TaibiM3.pdf)) <br/>
   This is a follow-up to the yesterday session.
   - _The [**processed notes**](././TaibiP3.pdf) of all 3 lectures by Oliver Taïbi is now available. It is updated with **Lecture 3/3: The refined local Langlands conjecture; Gerbs and Tannakian categories** (last updated: July 16; need more supplement)._
