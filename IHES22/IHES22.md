@@ -36,8 +36,8 @@ _The [video links](https://www.youtube.com/playlist?list=PLx5f8IelFRgEv3qXY43HxV
     - _Harish-Chandra characters;_
     - _Based root data;_
     - _Langlands dual groups;_
-    - _Parabolic subgroups and L-embeddings._
-    _Wenhan claims no originality and takes full responsibility for all errors made therein._
+    - _Parabolic subgroups and L-embeddings._  
+  _Wenhan claims no originality and takes full responsibility for all errors made therein._
 
 - **Erez Lapid** (Weizmann Institute) - **Some Perspective on Eisenstein Series** (1/2). ([video](https://www.youtube.com/watch?v=l0yblUboBeM), [live-TeXed notes](././Lapid1.pdf)) <br/>
   This is a review of some developments in the theory of Eisenstein series since Corvallis. 
