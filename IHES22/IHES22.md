@@ -73,7 +73,7 @@ _The [video links](https://www.youtube.com/playlist?list=PLx5f8IelFRgEv3qXY43HxV
     - _Kottwitz’s simple Shimura varieties;_
     - _p-adic uniformization and local Shimura varieties._
   - _[Kai-wen Lan's expository paper](././Lan.pdf) is an instructive reference that is particularly recommended. (Also available [here](https://www-users.cse.umn.edu/kwlan/articles/intro-sh-ex.pdf).)_
-  - _[These notes](././Yihang.pdf) are based on a topics course on Shimura varieties delivered by Yihang Zhu at the University of Maryland in Spring of 2022._
+  - _[Yihang Zhu's notes](././Yihang.pdf) are based on a topics course on Shimura varieties at the University of Maryland in Spring of 2022._
   
 - **Olivier Taïbi** (ENS Lyon) - **The Local Langlands Conjecture** (3/3). ([video](https://www.youtube.com/watch?v=fSGFL_N0zYE), [live-TeXed notes](././Taibi3.pdf), [manuscript](././TaibiM3.pdf)) <br/>
   This is a follow-up to the yesterday session.
