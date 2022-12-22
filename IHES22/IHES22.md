@@ -30,15 +30,13 @@ _The [video links](https://www.youtube.com/playlist?list=PLx5f8IelFRgEv3qXY43HxV
 
 - **Olivier Taïbi** (ENS Lyon) - **The Local Langlands Conjecture** (1/3). ([video](https://www.youtube.com/watch?v=fJwLV6SZ8Fc), [live-TeXed notes](././Taibi1.pdf)) <br/>
   We formulate the local Langlands conjecture for connected reductive groups over local fields, including the internal parametrization of _L_-packets.
-  - _See also this [**processed notes**](././TaibiP1.pdf) for **Lecture 1/3: Representations of reductive groups and Langlands dual groups** (last updated: July 13; a draft version)._
+  - _See also this [**processed notes**](././TaibiP1.pdf) for **Lecture 1/3: Representations of reductive groups and Langlands dual groups** (last updated: July 13; a draft version). Wenhan claims no originality and takes full responsibility for all errors made therein._
     - _Parabolic induction and the Jacquet functor;_
     - _Asymptotic properties;_
     - _Harish-Chandra characters;_
     - _Based root data;_
     - _Langlands dual groups;_
-    - _Parabolic subgroups and L-embeddings._  
-   
-  _Wenhan claims no originality and takes full responsibility for all errors made therein._
+    - _Parabolic subgroups and L-embeddings._
 
 - **Erez Lapid** (Weizmann Institute) - **Some Perspective on Eisenstein Series** (1/2). ([video](https://www.youtube.com/watch?v=l0yblUboBeM), [live-TeXed notes](././Lapid1.pdf)) <br/>
   This is a review of some developments in the theory of Eisenstein series since Corvallis. 
@@ -46,10 +44,17 @@ _The [video links](https://www.youtube.com/playlist?list=PLx5f8IelFRgEv3qXY43HxV
 
 - **Olivier Taïbi** (ENS Lyon) - **The Local Langlands Conjecture** (2/3). ([video](https://www.youtube.com/watch?v=JCd4py4uNe4), [live-TeXed notes](././Taibi2.pdf)) <br/>
   This is a follow-up to the morning session.
+  - _The [**processed notes**](././TaibiP2.pdf) for Lecture 1/3 and **Lecture 2/3: Langlands parameters and the local Langlands conjecture** (last updated: July 14; still a draft version, with lecturer's comment) is now available._
+    - _Weil-Deligne groups;_
+    - _Langlands parameters;_
+    - _Reductions;_
+    - _Weil restriction;_
+    - _Crude local Langlands correspondence;_
+    - _Refined local Langlands for quasi-split groups._
 
 - **Sophie Morel** (ENS Lyon) - **Shimura Varieties** (1/3). ([video](https://www.youtube.com/watch?v=WIZdWvMJN34), [live-TeXed notes](././Morel1.pdf), [manuscript](././MorelM1.pdf)) <br/>
   Depending on your point of view, Shimura varieties are a special kind of locally symmetric spaces, a generalization of moduli spaces of abelian schemes with extra structures, or the imperfect characteristic 0 version of moduli spaces of shtuka. They play an important role in the Langlands program because they have many symmetries (the Hecke correspondences) allowing us to link their cohomology to the theory of automorphic representations, and on the other hand they are explicit enough for this cohomology to be computable. The goal of these lectures is to give an introduction to Shimura varieties, to present some examples, and to explain the conjectures on their cohomology (at least in the simplest case). 
-  - _See also this [**processed notes**](././MorelP1.pdf) for **Lecture 1/3: Locally symmetric spaces and Shimura varieties** (last updated: July 17; a draft version). Wenhan claims no originality and takes full responsibility for all errors made therein._
+  - _See also this [**processed notes**](././MorelP1.pdf) for **Lecture 1/3: Locally symmetric spaces and Shimura varieties** (last updated: July 17; a draft version)._
     - _Locally symmetric spaces;_
     - _The Siegel modular variety;_
     - _The Siegel upper half space as a moduli space of complex abelian varieties;_
@@ -61,7 +66,7 @@ _The [video links](https://www.youtube.com/playlist?list=PLx5f8IelFRgEv3qXY43HxV
 
 - **Sophie Morel** (ENS Lyon) - **Shimura Varieties** (2/3). ([video](https://www.youtube.com/watch?v=kLGfHTDsXTU), [live-TeXed notes](././Morel2.pdf), [manuscript](././MorelM2.pdf)) <br/>
   To continue the previous lecture.
-  - _The [**processed notes**](././MorelP2.pdf) for Lecture 1/3 and **Lecture 2/3: Arithmetic Shimura varieties** (last updated: July 19; still a draft version, with some typos and mistakes in Section 1 fixed). Wenhan claims no originality and takes full responsibility for all errors made therein._
+  - _The [**processed notes**](././MorelP2.pdf) for Lecture 1/3 and **Lecture 2/3: Arithmetic Shimura varieties** (last updated: July 19; still a draft version, with some typos and mistakes in Section 1 fixed)._
     - _PEL type Shimura varieties;_
     - _Hodge type and abelian type Shimura varieties;_
     - _General Shimura varieties;_
