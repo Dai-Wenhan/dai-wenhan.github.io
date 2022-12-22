@@ -30,6 +30,14 @@ _The [video links](https://www.youtube.com/playlist?list=PLx5f8IelFRgEv3qXY43HxV
 
 - **Olivier Taïbi** (ENS Lyon) - **The Local Langlands Conjecture** (1/3). ([video](https://www.youtube.com/watch?v=fJwLV6SZ8Fc), [live-TeXed notes](././Taibi1.pdf)) <br/>
   We formulate the local Langlands conjecture for connected reductive groups over local fields, including the internal parametrization of _L_-packets.
+  - _See also this [**processed notes**](././TaibiP1.pdf) for **Lecture 1/3: Representations of reductive groups and Langlands dual groups** (last updated: July 13; a draft version)._
+    - _Parabolic induction and the Jacquet functor;_
+    - _Asymptotic properties;_
+    - _Harish-Chandra characters;_
+    - _Based root data;_
+    - _Langlands dual groups;_
+    - _Parabolic subgroups and L-embeddings._
+    _Wenhan claims no originality and takes full responsibility for all errors made therein._
 
 - **Erez Lapid** (Weizmann Institute) - **Some Perspective on Eisenstein Series** (1/2). ([video](https://www.youtube.com/watch?v=l0yblUboBeM), [live-TeXed notes](././Lapid1.pdf)) <br/>
   This is a review of some developments in the theory of Eisenstein series since Corvallis. 
