@@ -52,7 +52,12 @@ _The [video links](https://www.youtube.com/playlist?list=PLx5f8IelFRgEv3qXY43HxV
 
 - **Sophie Morel** (ENS Lyon) - **Shimura Varieties** (2/3). ([video](https://www.youtube.com/watch?v=kLGfHTDsXTU), [live-TeXed notes](././Morel2.pdf), [manuscript](././MorelM2.pdf)) <br/>
   To continue the previous lecture.
-  - _The [**processed notes**](././MorelP2.pdf) for Lecture 1/3 & 2/3 (last updated: July 19; still a draft version, with some typos and mistakes in Section 1 fixed). Wenhan claims no originality and takes full responsibility for all errors made therein._
+  - _The [**processed notes**](././MorelP2.pdf) for Lecture 1/3 and **Lecture 2/3: Arithmetic Shimura varieties** (last updated: July 19; still a draft version, with some typos and mistakes in Section 1 fixed). Wenhan claims no originality and takes full responsibility for all errors made therein._
+    - _PEL type Shimura varieties;_
+    - _Hodge type and abelian type Shimura varieties;_
+    - _General Shimura varieties;_
+    - _Kottwitz’s simple Shimura varieties;_
+    - _p-adic uniformization and local Shimura varieties._
   - _[Kai-wen Lan's expository paper](././Lan.pdf) is an instructive reference that is particularly recommended. (Also available [here](https://www-users.cse.umn.edu/kwlan/articles/intro-sh-ex.pdf).)_
   - _[These notes](././Yihang.pdf) are based on a topics course on Shimura varieties delivered by Yihang Zhu at the University of Maryland in Spring of 2022._
   
@@ -61,7 +66,12 @@ _The [video links](https://www.youtube.com/playlist?list=PLx5f8IelFRgEv3qXY43HxV
 
 - **Sophie Morel** (ENS Lyon) - **Shimura Varieties** (3/3). ([video](https://www.youtube.com/watch?v=L7cn2Z87fSs), [live-TeXed notes](././Morel3.pdf), [manuscript](././MorelM3.pdf)) <br/>
   To continue the previous lecture.
-  - _This is the [**most recent version of notes**](././MorelP3.pdf) for all 3 lectures by Sophie Morel on Shimura varieties. (last updated: July 22; still a preliminary version.) There are still many gaps that may be fixed in the future, but this is not fully guaranteed._
+  - _This is the [**most recent version of notes**](././MorelP3.pdf) for all 3 lectures by Sophie Morel on Shimura varieties. It is updated with **Lecture 3/3: The cohomology of Shimura varieties** (last updated: July 22; still a preliminary version). There are still many gaps that may be fixed in the future, but this is not fully guaranteed._
+    - _Matsushima's formula;_
+    - _Étale cohomology of canonical models: the Kottwitz conjecture;_
+    - _Applications of the Kottwitz conjecture;_
+    - _Proving the Kottwitz conjecture;_
+    - _The general Kottwitz conjecture._
   
 
 
