@@ -29,13 +29,6 @@ Regarding language skills: Chinese native speaker; fluent in English and French 
   - **Time**: December 19-22, 2022.
   - **Instructor**: [Francesc Castella](https://web.math.ucsb.edu/~castella/) (UCSB), [Zheng Liu](https://web.math.ucsb.edu/~zliu/) (UCSB), [Xin Wan](http://www.mcm.ac.cn/people/members/202011/t20201113_593075.html) (Morningside Center of Mathematics, CAS).
 
-- [**Abelian Varieties (I)**](./AV/AV.md) (student seminar for the 3+X Program).
-
-  The goal of this learning seminar is to study the basics of abelian varieties. The pre-requisite is Chapters 2–3 of Hartshorne’s algebraic geometry, but this seminar can also be taken while reading Hartshorne’s book. Some familiarity with elliptic curves will be helpful to understand some of the materials. Each lecture will be two hours long. The textbook we are going to use is Mumford’s book. Another complementary reference is Milne’s online note. Mumford’s book is mostly about the geometry (i.e. abelian varieties over algebraically closed fields), while Milne’s note has more about the arithmetic (e.g. abelian varieties over finite fields or number fields). Moreover, Milne’s note has a chapter about Jacobian varieties.
-  - **Time**: Every Friday, 7:30-9:30pm.
-  - **Location**: School of Math 1418.
-  - **Instructor**: [Liang Xiao](https://bicmr.pku.edu.cn/~lxiao/index.htm) and [Xinyi Yuan](https://bicmr.pku.edu.cn/~yxy/).
-
 - [**_p_-adic Geometry Learning Seminar: On Banach-Colmez Spaces**](./padicBC/padicBC.md).
 
   The goal of this series of talks is to learn the basics of finite-dimensional Banach Spaces (aka. Banach-Colmez spaces). More details can be found here. There is a small chance we might have to deviate from this schedule if some topics end up taking longer/shorter than we expect.
