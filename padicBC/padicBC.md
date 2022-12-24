@@ -32,11 +32,11 @@ Please email Shizhang <lishizhang@amss.ac.cn> if you would like to join the mail
   Banach--Colmez spaces; [LB18, §2].
 - [x] (11/28) **Lecture 11** by **Ruochuan Liu** ([notes](././11.pdf)) - <br/>
   Pro-étale cohomology of affine spaces; [LB18, §3].
-- [ ] (12/5) **Lecture 12** by **Heng Du** ([notes](././12.pdf)) - <br/>
+- [x] (12/5) **Lecture 12** by **Heng Du** ([notes](././12.pdf)) - <br/>
   The category \mathscr{BC} in terms of the Fargues-Fontaine curve; [LB18, §5-7].
-- [ ] (12/12) **Lecture 13** by **Koji Shimizu** ([notes](././13.pdf)) - <br/>
+- [x] (12/12) **Lecture 13** by **Koji Shimizu** ([notes](././13.pdf)) - <br/>
   Overview and local syntomic computations; [CN17, §1-3].
-- [ ] (12/19) **Lecture 14** by **Shanwen Wang** ([notes](././14.pdf)) - <br/>
+- [x] (12/19) **Lecture 14** by **Shanwen Wang** ([notes](././14.pdf)) - <br/>
   Syntomic cohomology and (\phi, \Gamma)-modules; [CN17, §4].
 - [ ] (12/26) **Lecture 15** by **TBD** ([notes](././15.pdf)) - <br/>
   Semistable comparison theorem; [CN17, §5].
