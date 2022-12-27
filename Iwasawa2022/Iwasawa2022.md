@@ -10,19 +10,19 @@ Recently, there have been significant progresses in Iwasawa theory for elliptic 
 ### Contents
 
 1. Francesc Castella's
-   - (C1) **Some arithmetic applications** ([notes](././C1.pdf), [video]()).
-   - (C2) **Cuspidal Hida theory for semi-ordinary forms** ([notes](././C2.pdf), [video]()).
-   - (C3) **Proof of signed main conjectures** ([notes](././C3.pdf), [video]()).
+   - (12/19) **Some arithmetic applications** ([notes](././C1.pdf), [video]()).
+   - (12/20) **Cuspidal Hida theory for semi-ordinary forms** ([notes](././C2.pdf), [video]()).
+   - (12/21) **Proof of signed main conjectures** ([notes](././C3.pdf), [video]()).
 
 2. Zheng Liu
-   - (L1) **Non-cuspidal Hida theory for semi-ordinary forms on GU(3,1)** ([notes](././L1.pdf), [video]()).
-   - (L2) **The construction of Klingen-Eisenstein family and the constant term** ([notes](././L2.pdf), [video]()).
-   - (L3) **The non-degenerate Fourier-Jacobi coefficients** ([notes](././L3.pdf), [video]()).
+   - (12/20) **Non-cuspidal Hida theory for semi-ordinary forms on GU(3,1)** ([notes](././L1.pdf), [video]()).
+   - (12/21) **The construction of Klingen-Eisenstein family and the constant term** ([notes](././L2.pdf), [video]()).
+   - (12/22) **The non-degenerate Fourier-Jacobi coefficients** ([notes](././L3.pdf), [video]()).
    
 3. Xin Wan ([speaker's slides](././Wslide.pdf))
-   - (W1) **Main results and tools** ([notes](././W1.pdf), [video]()).
-   - (W2) **General strategy** ([notes](././W2.pdf), [video]()).
-   - (W3) **Lattice construction** ([notes](././W3.pdf), [video]()).
+   - (12/19) **Main results and tools** ([notes](././W1.pdf), [video]()).
+   - (12/20) **General strategy** ([notes](././W2.pdf), [video]()).
+   - (12/22) **Lattice construction** ([notes](././W3.pdf), [video]()).
    
 
 
