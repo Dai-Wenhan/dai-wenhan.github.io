@@ -32,6 +32,10 @@ _The original notes contained a large number of typos, gaps, and faults. Therefo
   Ramification theory, genus field continued (and the proof of the main theorem of genus theory, with Artin reciprocity involved).
 - (11/17) (Midterm exam.)
 - (11/20) **Lecture 12** ([notes](././lec12.pdf)) -- <br/>
+  Overflow of the Midterm exam, genus field revisited.
+- (11/30) **Lecture 13** ([notes](././lec13.pdf)) -- <br/>
+  Orders in imaginary quadratic field, the relation between orders and quadratic forms.
+- (12/4) **Lecture 14** ([notes](././lec14.pdf)) -- <br/>
 
 
 ### Assignments
