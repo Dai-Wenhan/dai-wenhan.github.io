@@ -38,7 +38,7 @@ Please email Shizhang <lishizhang@amss.ac.cn> if you would like to join the mail
   Overview and local syntomic computations; [CN17, §1-3].
 - [x] (12/19) **Lecture 14** by **Shanwen Wang** ([notes](././14.pdf)) - <br/>
   Syntomic cohomology and (\phi, \Gamma)-modules; [CN17, §4].
-- [ ] (12/26) **Lecture 15** by **TBD** ([notes](././15.pdf)) - <br/>
+- [x] (12/26) **Lecture 15** by **Yong-Suk Moon** ([notes](././15.pdf)) - <br/>
   Semistable comparison theorem; [CN17, §5].
 
 ### References
