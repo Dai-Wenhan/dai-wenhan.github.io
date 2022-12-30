@@ -1,14 +1,17 @@
 ## Seminars, Workshops, and Conferences Attended
 
+### 2023 Winter (upcoming)
+
+- [**Rigid and Formal Geometry**](./rigid/rigid.md).
+
+The goal of this learning seminar is to study basics of rigid analytic geometry, and at the same time to prepare for the topic course given by Yiwen Ding in the Spring semester on perfectoid spaces. The pre-requisite is Chapters 2-3 of Hartshorne’s algebraic geometry. Some basic familiarity with _p_-adic numbers is needed. Each lecture will be two hours long. The main reference we propose is Part I of Siegfried Bosch's book _Lectures on Formal and Rigid Geometry_. This reference is wonderful in that the logic flow is very clear, but the drawback is the lack of concrete examples and philosophical explanations. We recommend frequent consultation of Kedlaya’s lecture notes for intuitions and exercises.
+  - **Instructor**: Liang Xiao.
+  - **Organizers**: Shanxiao Huang, Yuji Yang. 
+  - **Time**: January 3--February 9; 14:00--16:00 on every Monday and Thursday, except the week of Chinese New Year. 
+  - **Venue**: Online via Zoom, TBA.
+
+
 ### 2022 Fall (ongoing)
-
-
-- [**_p_-adic Geometry Learning Seminar: On Banach-Colmez Spaces**](./padicBC/padicBC.md).
-
-  The goal of this series of talks is to learn the basics of finite-dimensional Banach Spaces (aka. Banach-Colmez spaces). More details can be found here. There is a small chance we might have to deviate from this schedule if some topics end up taking longer/shorter than we expect.
-  - **Time**: Every Monday, 3:00-5:00pm.
-  - **Location**: MCM 110 & Online (Zoom ID: 4663562952; Password: mcm1234).
-  - **Instructor**: Koji Shimizu (Tsinghua) and [Shizhang Li](http://shizhang.li) (MCM).
 
 - [**On the Ternary Goldbach Problem**](./Goldbach/Goldbach.md) (for fun only).
 
@@ -22,10 +25,13 @@
 
 #### 2022 Fall
 
-- (_Seminar_) [**Abelian Varieties (I)**](./AV/AV.md) (for the 3+X Program).
-- (_Talk_) [**The _p_-adic Borel Hyperbolicity of Ag**](./MiniTalks/Zhu1019.md) (POINTS).
-- (_Workshop_) - [**Lectures on mod _p_ Langlands program for GL(2)**](./ModpLL2022/ModpLL2022.md) (advanced guest lecture series).
 - (_Talk_) [**Multivariable (phi,Gamma)-modules and Modular Representations of Galois and GL(2)**](./MiniTalks/Breuil.md).
+- (_Workshop_) [**Lectures on mod _p_ Langlands program for GL(2)**](./ModpLL2022/ModpLL2022.md) (advanced guest lecture series).
+- (_Talk_) [**Ye Tian: Arithmetic of Quadratic Twists of Elliptic Curves**](./MiniTalks/Tian1102.pdf) (at Tianyuan Mathematical Center).
+- (_Workshop_) [**_p_-adic Geometry Learning Seminar: On Banach-Colmez Spaces**](./padicBC/padicBC.md).
+- (_Talk_) [**Xinwen Zhu: The _p_-adic Borel Hyperbolicity of Ag**](./MiniTalks/Zhu1019.md) (POINTS).
+- (_Seminar_) [**Abelian Varieties (I)**](./AV/AV.md) (for the 3+X Program).
+
 
 
 #### 2022 Summer
@@ -40,11 +46,11 @@
 - (_Seminar_) [**Geometry of Shimura Varieties mod _p_**](./modpShv/modpShv.md).
 - (_Seminar_) [**Locally Analytic _p_-adic Representations**](./locanRep/locanRep.md).
 - (_Seminar_) [**Springer Theory, Representation Theory, and Complex Geometry**](./Springer/2022spring.md) (intended to be in-person).
-- (_Mini-Course_) [**Lie Algebras and Representation Theory**](./genlie/lie2022.md) (Tianyuan Mathematical Center in Southwest China).
+- (_Mini-Course_) [**Jinpeng An: Lie Algebras and Representation Theory**](./genlie/lie2022.md) (Tianyuan Mathematical Center in Southwest China).
 
 #### 2021 Winter
 - (_Mini-Course_) [**Springer Fibers and Quiver Varieties**](./Springer/TMS-Springer.md) (by TMS Public).
-- (_Course Series_) **Arizona Winter School 2022**.
+- (_Course Series_) [**Arizona Winter School 2022**]().
 
 #### 2021 Fall
 
@@ -53,8 +59,8 @@
 
 #### 2021 Summer
 
-- (_Mini-Course_) [**From Modular Forms to Shimura Varieties**](./Sh2021summer/Sh2021summer.md) (by Liang Xiao).
-- (_Mini-Course_) [**Counting Points on Shimura Varieties**](./Zhu2021summer/Zhu2021summer.md) (by Yihang Zhu).
+- (_Mini-Course_) [**Liang Xiao: From Modular Forms to Shimura Varieties**](./Sh2021summer/Sh2021summer.md).
+- (_Mini-Course_) [**Yihang Zhu: Counting Points on Shimura Varieties**](./Zhu2021summer/Zhu2021summer.md).
 
 #### 2021 Spring
 
