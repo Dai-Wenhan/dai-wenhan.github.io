@@ -33,9 +33,16 @@ _The original notes contained a large number of typos, gaps, and faults. Therefo
 - (11/17) (Midterm exam.)
 - (11/20) **Lecture 12** ([notes](././lec12.pdf)) -- <br/>
   Overflow of the Midterm exam, genus field revisited.
-- (11/30) **Lecture 13** ([notes](././lec13.pdf)) -- <br/>
+- (11/24) **Lecture 13** ([notes](././lec13.pdf)) -- <br/>
   Orders in imaginary quadratic field, the relation between orders and quadratic forms.
 - (12/4) **Lecture 14** ([notes](././lec14.pdf)) -- <br/>
+  Orders in imaginary quadratic field (continued), Ideal prime to the conductor.
+- (12/8) **Lecture 15** ([notes](././lec15.pdf)) -- <br/>
+  Ideal prime to the conductor (continued), Global class field theory, the existence and uniqueness (with respect to congruence subgroups) of Artin reciprocity map.
+- (12/18) **Lecture 16** ([notes](././lec16.pdf)) -- <br/>
+  Class field theory and Artin reciprocity, Higher reciprocity law, Kronecker-Weber theorem, the equivariant character, Čebotarev density theorem.
+- (12/??) **Lecture 17** ([notes](././lec17.pdf)) -- <br/>
+
 
 
 ### Assignments
