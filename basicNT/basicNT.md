@@ -41,8 +41,12 @@ _The original notes contained a large number of typos, gaps, and faults. Therefo
   Ideal prime to the conductor (continued), Global class field theory, the existence and uniqueness (with respect to congruence subgroups) of Artin reciprocity map.
 - (12/18) **Lecture 16** ([notes](././lec16.pdf)) -- <br/>
   Class field theory and Artin reciprocity, Higher reciprocity law, Kronecker-Weber theorem, the equivariant character, Čebotarev density theorem.
-- (12/??) **Lecture 17** ([notes](././lec17.pdf)) -- <br/>
-
+- (12/22) **Lecture 17** ([notes](././lec17.pdf)) -- <br/>
+  Arguments on Čebotarev density theorem, ring class field and p=x^2+ny^2.
+- (12/29) **Lecture 18** ([notes](././lec18.pdf)) -- <br/>
+  Two applications of Čebotarev density theorem: primes represented by ppdfs (the density formula); Dirichlet's theorem about primes in arithmetic progressions (finite Fourier transform, Dirichlet _L_-function with non-vanishness and convergence). Class numbers.
+- (1/5) **Lecture 19** ([notes](././lec17.pdf)) -- <br/>
+  An introduction to complex multiplication theory. 
 
 
 ### Assignments
