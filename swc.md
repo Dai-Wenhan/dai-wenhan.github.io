@@ -4,10 +4,10 @@
 
 - [**Rigid and Formal Geometry**](./rigid/rigid.md).
 
-  The goal of this learning seminar is to study basics of rigid analytic geometry, and at the same time to prepare for the topic course given by Yiwen Ding in the Spring semester on perfectoid spaces. The pre-requisite is Chapters 2--3 of Hartshorne’s algebraic geometry. Some basic familiarity with _p_-adic numbers is needed. Each lecture will be two hours long. The main reference we propose is Part I of Siegfried Bosch's book _Lectures on Formal and Rigid Geometry_. This reference is wonderful in that the logic flow is very clear, but the drawback is the lack of concrete examples and philosophical explanations. We recommend frequent consultation of Kedlaya’s lecture notes for intuitions and exercises.
+  The goal of this learning seminar is to study basics of rigid analytic geometry, and at the same time to prepare for the topic course given by Yiwen Ding in the Spring semester on perfectoid spaces. The pre-requisite is Chapters 2-3 of Hartshorne’s algebraic geometry. Some basic familiarity with _p_-adic numbers is needed. Each lecture will be two hours long. The main reference we propose is Part I of Siegfried Bosch's book _Lectures on Formal and Rigid Geometry_. This reference is wonderful in that the logic flow is very clear, but the drawback is the lack of concrete examples and philosophical explanations. We recommend frequent consultation of Kedlaya’s lecture notes for intuitions and exercises.
   - **Instructor**: [Liang Xiao](https://bicmr.pku.edu.cn/~lxiao/index.htm).
   - **Organizers**: Shanxiao Huang, Yuji Yang. 
-  - **Time**: January 3--February 9; 14:00--16:00 on every Monday and Thursday, except the week of Chinese New Year. 
+  - **Time**: January 3-February 9; 14:00-16:00 on every Monday and Thursday, except the week of Chinese New Year. 
   - **Venue**: Online via Zoom, TBA.
 
 
