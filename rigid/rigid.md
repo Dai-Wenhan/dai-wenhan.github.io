@@ -35,7 +35,7 @@ Zoom password: 449503.
 - [x] (1/12) **Wenhan Dai** - Affinoid subdomains. ([TeXed notes](././3-4.pdf), [handout](././4.pdf)) <br/>
   Cover [Bos] Sect. 3.3. Understand the canonical topology of affinoid spaces and their affinoid subdomains, in particular, prove Prop. 11. Moreover, discuss some further properties about affinoid subdomains: Prop 12-Thm 20.
 - [x] (1/16) **Xiaozheng Han** - Affinoid functions I. ([TeXed notes](././5-6.pdf)) <br/>
-  Cover [Bos] P65-P76. Describe presheaf $\mathcal{O}_X$ and stalks $\mathcal{O}_{X,x}$. Prove Sect 4.1 Prop. 2 and Prop 6. Then discuss locally closed immersion and Runge immersion. Finally, state extension lemma 9 for the preparation of next talk.
+  Cover [Bos] P65-P76. Describe the canonical presheaf and its stalks $\mathcal{O}_{X,x}$. Prove Sect 4.1 Prop. 2 and Prop 6. Then discuss locally closed immersion and Runge immersion. Finally, state extension lemma 9 for the preparation of next talk.
 - [x] (1/19) **Xingzhu Fang** - Affinoid functions II. ([TeXed notes](././5-6.pdf)) <br/>
   Cover [Bos] P76-P91. Understand Gerritzen-Grauert theorem (Sect. 4.2, Thm. 10) and sketch the proof. Understand the Tate's acyclic theorem (Sect. 4.3, Thm. 1) and sketch the proof. If time permits, discuss the generalized version of Tate's acyclic theorem (Thm. 10, Cor. 11) (For more details, see [BGR] Chap. 8).
 - [ ] (1/30) **Tianwei Gao** - Grothendieck topologies and Rigid spaces. <br/>
