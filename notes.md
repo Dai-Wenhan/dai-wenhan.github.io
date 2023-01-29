@@ -16,6 +16,8 @@
 
 ### Expository Writing
 
+- [**Modularity lifting**](./miscellanea/modlift.pdf). <br/>
+ _A crucial ingredient in understanding Andrew Wiles' proof of Fermat's last theorem; McGill lecture notes by Patrick Allen._
 - [**Anabelian geometry and the ABC conjecture**](./miscellanea/AAGABC.pdf). <br/>
  _A review for Shinichi Mochizuki's work; manuscript and totally unreadable._
 
