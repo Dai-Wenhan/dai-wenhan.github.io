@@ -16,8 +16,8 @@ Regarding language skills: Chinese native speaker; fluent in English and French 
 
 ## Recent Updates
 
-1. **IMPORTANT:** Notes for [IHES 2022 Summer School on the Langlands Program](./IHES22/IHES22.md).
-2. (To appear) [**Modularity lifting**](./miscellanea/modlift.pdf) (notes for Patrick Allen's McGill lectures).
+1. **IMPORTANT:** Notes for [**IHES 2022 Summer School on the Langlands Program**](./IHES22/IHES22.md).
+2. **To appear:** [**Modularity lifting**](./miscellanea/modlift.pdf) (Patrick Allen's McGill lectures).
 
 ### Ongoing/Upcoming Events
 
