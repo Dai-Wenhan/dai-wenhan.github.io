@@ -8,9 +8,7 @@ In the winter of 2022, I offer a course on _Topics in Elementary Number Theory_ 
 
 - [Fermat's little theorem](././Fermat.pdf) - <br/>
   Statement and proof; primary applications (finding the remainder of a large number, Carmichael numbers, division problems); two more advanced problems (IMO 2005).
-  
 - [Euler's theorem](././Euler.pdf) - <br/>
   Statement and proof; primary applications; two difficult problems (Eulerian sum equation, triangle dual product).
-
 - [Pell equations](././Pell.pdf) - <br/>
   An introduction to Pell equations, the structure of solutions, type II Pell equations; problems and examples (IMO 2001 Shortlist).
