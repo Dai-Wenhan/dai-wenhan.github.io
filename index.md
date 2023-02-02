@@ -12,7 +12,7 @@ During the upcoming 2023-2024, I will be an international exchange student to [Ã
 
 A headshot of mine is posted [here](./headshot.jpg).
 
-Regarding language skills: Chinese native speaker; fluent in English and French at work, but can only use French for simple verbal communication outside of mathematics.
+Regarding language skills: Chinese native speaker; fluent in English and French at work.
 
 ## Recent Updates
 
