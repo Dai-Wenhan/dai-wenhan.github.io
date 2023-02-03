@@ -10,6 +10,8 @@ In the winter of 2022, I offer a course on _Topics in Elementary Number Theory_ 
   Statement and proof; primary applications (finding the remainder of a large number, Carmichael numbers, division problems); two more advanced problems (IMO 2005).
 - [Euler's theorem](././Euler.pdf) - <br/>
   Statement and proof; primary applications; two difficult problems (Eulerian sum equation, triangle dual product).
+- [Order theory and primitive root](././order.pdf) - <br/>
+  Basic notions, features of primitive root and order; a crash application to Mersenne integers.
 - [Prime power congruence and Hensel's lemma](././Hensel.pdf) - <br/>
   Congruence lifting, Hensel's 1st and 2nd lemmas, applications of Hensel's lemma on solving congruence equations.
 - [Pell equations](././Pell.pdf) - <br/>
