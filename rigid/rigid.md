@@ -38,9 +38,9 @@ Zoom password: 449503.
   Cover [Bos] P65-P76. Describe the canonical presheaf and its stalks $\mathcal{O}_{X,x}$. Prove Sect 4.1 Prop. 2 and Prop 6. Then discuss locally closed immersion and Runge immersion. Finally, state extension lemma 9 for the preparation of next talk.
 - [x] (1/19) **Xingzhu Fang** - Affinoid functions II. ([TeXed notes](././5-6.pdf)) <br/>
   Cover [Bos] P76-P91. Understand Gerritzen-Grauert theorem (Sect. 4.2, Thm. 10) and sketch the proof. Understand the Tate's acyclic theorem (Sect. 4.3, Thm. 1) and sketch the proof. If time permits, discuss the generalized version of Tate's acyclic theorem (Thm. 10, Cor. 11) (For more details, see [BGR] Chap. 8).
-- [ ] (1/30) **Tianwei Gao** - Grothendieck topologies and Rigid spaces. <br/>
+- [x] (1/30) **Tianwei Gao** - Grothendieck topologies and Rigid spaces. ([TeXed notes](././7-8.pdf), [speaker's handout](././7a.pdf), [appendix](././7b.pdf)) <br/>
   Cover [Bos] P93-P106. Define Grothendieck topology and understand the strong Grothendieck topologies on affinoid spaces. In particular, prove Sect. 5.1, Cor. 10. Then discuss the sheaves on $G$-topological spaces and prove Sect. 5.2, Prop. 4. Finally, define the rigid $K$-spaces.
-- [ ] (2/2) **Haoda Li** - The GAGA functor. <br/>
+- [x] (2/2) **Haoda Li** - The GAGA functor. ([TeXed notes](././7-8.pdf), [speaker's handout](././8.pdf)) <br/>
   [Bos] P106-P116. Finish Sect. 5.3. Construct the rigid analytifications of $K$-schemes of locally finite type and prove Sect. 5.4. Prop. 4. Then discuss the examples in the rest of Sect. 5.4.
 - [ ] (2/6) **Yu Xiao** - Coherent sheaves on rigid spaces. <br/>
   Cover [Bos] Sect. 5.1-5.3. Discuss the coherent sheaves of rigid spaces and sketch the proof of Sect. 5.1. Thm. 4. Then discuss the cohomologies of $\mathcal{O}_X$-modules. Finally, understand proper morphisms of rigid spaces and the proper mapping theorem.
