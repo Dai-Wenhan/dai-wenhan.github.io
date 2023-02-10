@@ -16,3 +16,5 @@ In the winter of 2022, I offer a course on _Topics in Elementary Number Theory_ 
   Congruence lifting, Hensel's 1st and 2nd lemmas, applications of Hensel's lemma on solving congruence equations.
 - [Pell equations](././Pell.pdf) - <br/>
   An introduction to Pell equations, the structure of solutions, type II Pell equations; problems and examples (IMO 2001 Shortlist).
+- [Lifting-the-exponent lemma](././LTE.pdf) - <br/>
+  Statements and proofs (for odd and even integers); some typical applications on solving Chinese GMO/TST problems.
