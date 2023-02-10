@@ -3,6 +3,7 @@
 ### 2023 Spring (Upcoming)
 
 - [**Seminar on Lawrence–Venkatesh’s proof of the Mordell conjecture**](./LV23/LV23.md)
+
   The purpose of this weekly seminar is to study Lawrence–Venkatesh’s proof of the Mordell conjecture. The main reference is [LV], and the survey [Po] gives a quick sketch for beginners. All talks will be given by participants, and each meeting will be about 90 minutes.
   - **Organizer:** [Xinyi Yuan](http://faculty.bicmr.pku.edu.cn/~yxy/).
   - **Time:** 10:30–12:00 Wednesdays (starting on March 1).
@@ -47,7 +48,7 @@
 
 #### 2021 Fall
 
-- (_Seminar_) [**3264 and All That -- Seminar on Enumerative Geometry**](./3264/3264.md).
+- (_Seminar_) [**3264 and All That -- A Seminar on Enumerative Geometry**](./3264/3264.md).
 - (_Workshop_) [**The Uniform Mordell-Lang Program**](./westlake2021/westlake2021.md) (Westlake Mathematics, Hangzhou).
 
 #### 2021 Summer
@@ -62,7 +63,7 @@
 
 #### 2020 Summer - 2021 Spring
 
-  Wenhan [called sick](./fati.md) in this extremely hard year. 
+  Wenhan _called sick_ in this extremely hard year. 
 
 #### 2020 Spring
 
