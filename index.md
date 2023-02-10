@@ -1,6 +1,6 @@
 # Wenhan Dai's Homepage / 戴文晗
 
-_Last updated on: December, 2022_
+_Last updated on: February, 2023_
 
 Hi!
 
@@ -16,30 +16,20 @@ Regarding language skills: Chinese native speaker; fluent in English and French 
 
 ## Recent Updates
 
-1. **IMPORTANT:** Notes for [**IHES 2022 Summer School on the Langlands Program**](./IHES22/IHES22.md).
-2. **To appear:** [**Modularity lifting**](./miscellanea/modlift.pdf) (Patrick Allen's McGill lectures).
+1. **To appear:** [**Modularity lifting**](./miscellanea/modlift.pdf) (Patrick Allen's McGill lectures).
+2. **IMPORTANT:** Notes for [**IHES 2022 Summer School on the Langlands Program**](./IHES22/IHES22.md).
+
 
 ### Ongoing/Upcoming Events
 
-- [**Rigid and Formal Geometry**](./rigid/rigid.md).
+#### 2023 Spring
 
-  The goal of this learning seminar is to study basics of rigid analytic geometry, and at the same time to prepare for the topic course given by Yiwen Ding in the Spring semester on perfectoid spaces. The pre-requisite is Chapters 2-3 of Hartshorne’s algebraic geometry. Some basic familiarity with _p_-adic numbers is needed. Each lecture will be two hours long. The main reference we propose is Part I of Siegfried Bosch's book _Lectures on Formal and Rigid Geometry_. This reference is wonderful in that the logic flow is very clear, but the drawback is the lack of concrete examples and philosophical explanations. We recommend frequent consultation of Kedlaya’s lecture notes for intuitions and exercises.
-  - **Instructor**: [Liang Xiao](https://bicmr.pku.edu.cn/~lxiao/index.htm).
-  - **Organizers**: Shanxiao Huang, Yuji Yang. 
-  - **Time**: January 3-February 9; 14:00-16:00 on every Monday and Thursday, except the week of Chinese New Year. 
-  - **Venue**: Online via Zoom, TBA.
+- [**Seminar on Lawrence–Venkatesh’s proof of the Mordell conjecture**](./LV23/LV23.md)
+  The purpose of this weekly seminar is to study Lawrence–Venkatesh’s proof of the Mordell conjecture. The main reference is [LV], and the survey [Po] gives a quick sketch for beginners. All talks will be given by participants, and each meeting will be about 90 minutes.
+  - **Organizer:** [Xinyi Yuan](http://faculty.bicmr.pku.edu.cn/~yxy/).
+  - **Time:** 10:30–12:00 Wednesdays (starting on March 1).
+  - **Venue:** BICMR 77201.
 
-- [**Instructional workshop on Iwasawa theory for automorphic forms**](./Iwasawa2022/Iwasawa2022.md) (online, Korean Institute for Advanced Study).
-
-  Recently, there have been significant progresses in Iwasawa theory for elliptic curves and modular forms. Remarkably, these progresses have important applications to the cerebrated Birch and Swinnerton-Dyer conjecture, one of the Millennium Prize Problems. The main goal of this instructional workshop is to go through many details of the recent work of Castella, Liu, and Wan on the Iwasawa main conjecture for automorphic forms on GU(3,1) ([arXiv:2109.08375](https://arxiv.org/abs/2109.08375)). In particular, this work plays an important role to establish the Iwasawa main conjecture for a large class of elliptic curves with supersingular reduction.
-  - **Time**: December 19-22, 2022.
-  - **Instructor**: [Francesc Castella](https://web.math.ucsb.edu/~castella/) (UCSB), [Zheng Liu](https://web.math.ucsb.edu/~zliu/) (UCSB), [Xin Wan](http://www.mcm.ac.cn/people/members/202011/t20201113_593075.html) (Morningside Center of Mathematics, CAS).
-
-- [**On the Ternary Goldbach Problem**](./Goldbach/Goldbach.md) (for fun only).
-
-  A coffee-break-seminar on additive and combinatoric number theory. We plan to follow [Ben Green's lecture notes](https://courses-archive.maths.ox.ac.uk/node/view_material/49404) (Oxon ver in 2020) closely.
-  - **Time**: October-November 2022; typically irregular. (Contact the organizers to join the WeChat group for detailed time syllabus.)
-  - **Venue**: Coffee Bar at Jingchun Yuan (behind Room 77201), BICMR; or alternatively, the Paradiso Coffee (泊星地咖啡) at Yan Yuan.
 
 
 ## [Seminars, Workshops, and Conferences Attended](./swc.md)

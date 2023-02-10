@@ -1,27 +1,19 @@
 ## Seminars, Workshops, and Conferences Attended
 
-### 2023 Winter (upcoming)
+### 2023 Spring (Upcoming)
 
-- [**Rigid and Formal Geometry**](./rigid/rigid.md).
-
-  The goal of this learning seminar is to study basics of rigid analytic geometry, and at the same time to prepare for the topic course given by Yiwen Ding in the Spring semester on perfectoid spaces. The pre-requisite is Chapters 2-3 of Hartshorne’s algebraic geometry. Some basic familiarity with _p_-adic numbers is needed. Each lecture will be two hours long. The main reference we propose is Part I of Siegfried Bosch's book _Lectures on Formal and Rigid Geometry_. This reference is wonderful in that the logic flow is very clear, but the drawback is the lack of concrete examples and philosophical explanations. We recommend frequent consultation of Kedlaya’s lecture notes for intuitions and exercises.
-  - **Instructor**: [Liang Xiao](https://bicmr.pku.edu.cn/~lxiao/index.htm).
-  - **Organizers**: Shanxiao Huang, Yuji Yang. 
-  - **Time**: January 3-February 9; 14:00-16:00 on every Monday and Thursday, except the week of Chinese New Year. 
-  - **Venue**: Online via Zoom, TBA.
-
-
-### 2022 Fall (ongoing)
-
-- [**On the Ternary Goldbach Problem**](./Goldbach/Goldbach.md) (for fun only).
-
-  A coffee-break-seminar on additive and combinatoric number theory. We plan to follow [Ben Green's lecture notes](https://courses-archive.maths.ox.ac.uk/node/view_material/49404) (Oxon ver in 2020) closely.
-  - **Time**: October-November 2022; typically irregular. (Contact the organizers to join the WeChat group for detailed time syllabus.)
-  - **Venue**: Coffee Bar at Jingchun Yuan (behind Room 77201), BICMR; or alternatively, the Paradiso Coffee (泊星地咖啡) at Yan Yuan.
-  
-  
+- [**Seminar on Lawrence–Venkatesh’s proof of the Mordell conjecture**](./LV23/LV23.md)
+  The purpose of this weekly seminar is to study Lawrence–Venkatesh’s proof of the Mordell conjecture. The main reference is [LV], and the survey [Po] gives a quick sketch for beginners. All talks will be given by participants, and each meeting will be about 90 minutes.
+  - **Organizer:** [Xinyi Yuan](http://faculty.bicmr.pku.edu.cn/~yxy/).
+  - **Time:** 10:30–12:00 Wednesdays (starting on March 1).
+  - **Venue:** BICMR 77201.
 
 ### Past Events
+
+#### 2023 Winter
+
+- (_Seminar_) [**Rigid and Formal Geometry**](./rigid/rigid.md).
+- (_Workshop_) [**Instructional workshop on Iwasawa theory for automorphic forms**](./Iwasawa2022/Iwasawa2022.md) (online, Korean Institute for Advanced Study).
 
 #### 2022 Fall
 
@@ -31,6 +23,7 @@
 - (_Workshop_) [**_p_-adic Geometry Learning Seminar: On Banach-Colmez Spaces**](./padicBC/padicBC.md).
 - (_Talk_) [**Xinwen Zhu: The _p_-adic Borel Hyperbolicity of Ag**](./MiniTalks/Zhu1019.md) (POINTS).
 - (_Seminar_) [**Abelian Varieties (I)**](./AV/AV.md) (for the 3+X Program).
+- (Coffee-break) [**On the Ternary Goldbach Problem**](./Goldbach/Goldbach.md) (for fun only).
 
 
 
