@@ -24,7 +24,11 @@ Regarding language skills: Chinese native speaker; fluent in English and French 
 
 #### 2023 Spring
 
-- [**Seminar on Lawrence–Venkatesh’s proof of the Mordell conjecture**](./LV23/LV23.md)
+- [**Geometry of Shimura varieties mod _p_**]().
+
+  Under planing.
+
+- [**Seminar on Lawrence–Venkatesh’s proof of the Mordell conjecture**](./LV23/LV23.md).
 
   The purpose of this weekly seminar is to study Lawrence–Venkatesh’s proof of the Mordell conjecture. The main reference is [LV], and the survey [Po] gives a quick sketch for beginners. All talks will be given by participants, and each meeting will be about 90 minutes.
   - **Organizer:** [Xinyi Yuan](http://faculty.bicmr.pku.edu.cn/~yxy/).
