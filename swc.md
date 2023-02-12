@@ -13,7 +13,7 @@
 
 #### 2023 Winter
 
-- (_Workshop_) [**Workshop on Geometrization of Local Langlands Correspondence**](./geometrization/geometrization.md).
+- (_Workshop_) [**On Geometrization of Local Langlands Correspondence**](./geometrization/geometrization.md) (Work review of Fargues-Scholze).
 - (_Seminar_) [**Rigid and Formal Geometry**](./rigid/rigid.md).
 - (_Workshop_) [**Instructional workshop on Iwasawa theory for automorphic forms**](./Iwasawa2022/Iwasawa2022.md) (online, Korean Institute for Advanced Study).
 

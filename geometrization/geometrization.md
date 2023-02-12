@@ -1,3 +1,15 @@
+<head>
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+            tex2jax: {
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+            inlineMath: [['$','$']]
+            }
+        });
+    </script>
+</head>
+
 ## Workshop on Geometrization of Local Langlands Correspondence
 
   The goal of this workshop is to understand the recent progress by Fargues–Scholze on the geometrization of local Langlands correspondence. The main reference is the long manuscript [FS] by Fargues–Scholze. Hopefully, with enough time for discussion, we may find some applications of the results in the near future.
