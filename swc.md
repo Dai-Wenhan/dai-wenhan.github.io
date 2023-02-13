@@ -19,11 +19,8 @@
 
 #### 2022 Fall
 
-- (_Talk_) [**Multivariable (phi,Gamma)-modules and Modular Representations of Galois and GL(2)**](./MiniTalks/Breuil.md).
 - (_Workshop_) [**Lectures on mod _p_ Langlands program for GL(2)**](./ModpLL2022/ModpLL2022.md) (advanced guest lecture series).
-- (_Talk_) [**Ye Tian: Arithmetic of Quadratic Twists of Elliptic Curves**](./MiniTalks/Tian1102.pdf) (at Tianyuan Mathematical Center).
 - (_Workshop_) [**_p_-adic Geometry Learning Seminar: On Banach-Colmez Spaces**](./padicBC/padicBC.md).
-- (_Talk_) [**Xinwen Zhu: The _p_-adic Borel Hyperbolicity of Ag**](./MiniTalks/Zhu1019.md) (POINTS).
 - (_Seminar_) [**Abelian Varieties (I)**](./AV/AV.md) (for the 3+X Program).
 - (Coffee-break) [**On the Ternary Goldbach Problem**](./Goldbach/Goldbach.md) (for fun only).
 
@@ -33,8 +30,7 @@
 
 - (_Course Series_) [**IHES 2022 Summer School on the Langlands Program**](./IHES22/IHES22.md).
 - (_Workshop_) [**Geometry of Shimura Varieties and Arithmetic Applications**](https://bicmr.pku.edu.cn/content/show/17-2759.html).
-- (_Talk_) [**Perfectoid Approaches to _p_-adic Modular Forms**](./MiniTalks/pAdicPerfectoid.md) (Lue Pan's work).
-- (_Talk_) [**Uniformly Bounded Multiplicities in the Branching Problem and _D_-modules**](./MiniTalks/unibd.md).
+
 
 #### 2022 Spring
 
@@ -69,3 +65,17 @@
 #### 2020 Spring
 
 - (_Seminar_) **Student Seminar on Hartshorne's _Algebraic Geometry_**.
+
+
+### Selected Mini-Talks
+
+#### 2022 Fall
+
+- (_Talk_) [**Ye Tian: Arithmetic of Quadratic Twists of Elliptic Curves**](./MiniTalks/Tian1102.pdf) (at Tianyuan Mathematical Center).
+- (_Talk_) [**Multivariable (phi,Gamma)-modules and Modular Representations of Galois and GL(2)**](./MiniTalks/Breuil.md).
+- (_Talk_) [**Xinwen Zhu: The _p_-adic Borel Hyperbolicity of Ag**](./MiniTalks/Zhu1019.md) (POINTS).
+
+#### 2022 Summer
+
+- [**Perfectoid Approaches to _p_-adic Modular Forms**](./MiniTalks/pAdicPerfectoid.md) (Lue Pan's work).
+- [**Uniformly Bounded Multiplicities in the Branching Problem and _D_-modules**](./MiniTalks/unibd.md).
