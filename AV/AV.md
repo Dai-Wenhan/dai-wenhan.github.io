@@ -2,9 +2,9 @@
 
 _Student seminar for the 3+X program._
 
-The goal of this learning seminar is to study the basics of abelian varieties. The pre-requisite is Chapters 2–3 of Hartshorne’s algebraic geometry, but this seminar can also be taken while reading Hartshorne’s book. Some familiarity with elliptic curves will be helpful to understand some of the materials. Each lecture will be two hours long. 
+The goal of this learning seminar is to study the basics of abelian varieties. The pre-requisite is Chapters 2–3 of Hartshorne's algebraic geometry, but this seminar can also be taken while reading Hartshorne's book. Some familiarity with elliptic curves will be helpful to understand some of the materials. Each lecture will be two hours long. 
 
-The textbook we are going to use is Mumford’s book. Another complementary reference is Milne’s online note. Mumford’s book is mostly about the geometry (i.e. abelian varieties over algebraically closed fields), while Milne’s note has more about the arithmetic (e.g. abelian varieties over finite fields or number fields). Moreover, Milne’s note has a chapter about Jacobian varieties.
+The textbook we are going to use is Mumford's book. Another complementary reference is Milne's online note. Mumford's book is mostly about the geometry (i.e. abelian varieties over algebraically closed fields), while Milne's note has more about the arithmetic (e.g. abelian varieties over finite fields or number fields). Moreover, Milne's note has a chapter about Jacobian varieties.
 - **Time**: Every Friday, 7:30-9:30pm.
 - **Location**: School of Math 1418 / Jia-Yi-Bing Building.
 - **Instructor**: [Liang Xiao](https://bicmr.pku.edu.cn/~lxiao/index.htm) and [Xinyi Yuan](https://bicmr.pku.edu.cn/~yxy/).
