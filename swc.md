@@ -71,9 +71,9 @@
 
 #### 2022 Fall
 
-- (_Talk_) [**Ye Tian: Arithmetic of Quadratic Twists of Elliptic Curves**](./MiniTalks/Tian1102.pdf) (at Tianyuan Mathematical Center).
-- (_Talk_) [**Multivariable (phi,Gamma)-modules and Modular Representations of Galois and GL(2)**](./MiniTalks/Breuil.md).
-- (_Talk_) [**Xinwen Zhu: The _p_-adic Borel Hyperbolicity of Ag**](./MiniTalks/Zhu1019.md) (POINTS).
+- [**Ye Tian: Arithmetic of Quadratic Twists of Elliptic Curves**](./MiniTalks/Tian1102.pdf) (at Tianyuan Mathematical Center).
+- [**Multivariable (phi,Gamma)-modules and Modular Representations of Galois and GL(2)**](./MiniTalks/Breuil.md).
+- [**Xinwen Zhu: The _p_-adic Borel Hyperbolicity of Ag**](./MiniTalks/Zhu1019.md) (POINTS).
 
 #### 2022 Summer
 
