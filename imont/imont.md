@@ -6,8 +6,10 @@ In the winter of 2022, I offer a course on _Topics in Elementary Number Theory_ 
 
 ### The Notes Directory
 
+- [On minimal prime divisors](././mindiv.pdf) - <br/>
+  Trick introduction; some basic examples and advanced problems (IMO 2020 involved).
 - [Fermat's little theorem](././Fermat.pdf) - <br/>
-  Statement and proof; primary applications (finding the remainder of a large number, Carmichael numbers, division problems); two more advanced problems (IMO 2005).
+  Statement and proof; primary applications (finding the remainder of a large number, Carmichael numbers, division problems); two more advanced problems (IMO 2005 involved).
 - [Euler's theorem](././Euler.pdf) - <br/>
   Statement and proof; primary applications; two difficult problems (Eulerian sum equation, triangle dual product).
 - [Order theory and primitive root](././order.pdf) - <br/>
@@ -15,6 +17,6 @@ In the winter of 2022, I offer a course on _Topics in Elementary Number Theory_ 
 - [Prime power congruence and Hensel's lemma](././Hensel.pdf) - <br/>
   Congruence lifting, Hensel's 1st and 2nd lemmas, applications of Hensel's lemma on solving congruence equations.
 - [Pell equations](././Pell.pdf) - <br/>
-  An introduction to Pell equations, the structure of solutions, type II Pell equations; problems and examples (IMO 2001 Shortlist).
+  An introduction to Pell equations, the structure of solutions, type II Pell equations; problems and examples (IMO 2001 Shortlist involved).
 - [Lifting-the-exponent lemma](././LTE.pdf) - <br/>
   Statements and proofs (for odd and even integers); some typical applications on solving Chinese GMO/TST problems.
