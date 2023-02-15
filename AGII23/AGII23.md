@@ -6,11 +6,12 @@ _Spring 2023, at Peking University._
 
 
 ### The Directory
-1. Week 1 - **Schemes: definition and basic properties**.
+
+- Week 1 - **Schemes: definition and basic properties**.
   1. [**Definition of schemes**](././1-1.pdf).
   2. [**Local properties of schemes**](././1-2.pdf).
   
-2. Week 2 - 
+- Week 2 - 
 
 
 
