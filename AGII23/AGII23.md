@@ -11,8 +11,9 @@ _Spring 2023, at Peking University._
 
   1. [**Definition of schemes**](././1-1.pdf).
   2. [**Local properties of schemes**](././1-2.pdf).
+  3. [**Morphisms of schemes**](././1-3.pdf).
     
-- Week 2 - 
+- Week 2 - ****.
 
 
 
