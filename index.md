@@ -16,8 +16,9 @@ Regarding language skills: Chinese native speaker; fluent in English and French 
 
 ## Recent Updates
 
-1. **To appear:** [**Modularity lifting**](./miscellanea/modlift.pdf) (Patrick Allen's McGill lectures).
-2. **IMPORTANT:** Notes for [**IHES 2022 Summer School on the Langlands Program**](./IHES22/IHES22.md).
+1. This semester I am working as a teaching assistant of [_Algebraic Geometry II_](./AGII23/AGII23.md).
+2. **To be submitted:** [**Modularity lifting**](./miscellanea/modlift.pdf) (Patrick Allen's McGill lectures).
+3. **IMPORTANT:** Notes for [**IHES 2022 Summer School on the Langlands Program**](./IHES22/IHES22.md).
 
 
 ### Ongoing/Upcoming Events
