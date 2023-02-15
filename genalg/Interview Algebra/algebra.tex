@@ -2727,6 +2727,31 @@ $\chi_{6}$ & 6 & 0 & $-2$ & 0 & 0 & 1 & 0
 
 \miquestion {\color{blue} State Artin's theorem and Brauer's theorem.}
 
+{\color{violet}
+\textit{Artin's Theorem.} Let $k$ be a field of characteristic 0 (but not necessarily algebraically closed) and $G$ be any group. Let $X$ be a set of subgroups in $G$.  Consider the map
+$$
+\Ind_X=\bigoplus_{H\in X} \Ind_H^G:\mathsf{Rep}(H)\to \mathsf{Rep}(G)
+$$
+between representations over $k$. Then the following are equivalent:
+\begin{itemize}
+\item[(1)] Up to conjugation, $G$ can be set-theoretically covered by subgroups in $X$, i.e.
+$$
+G=\bigcup_{H\in X}\bigcup_{g\in G} gHg^{-1}.
+$$
+\item[(2)] The map $\Ind_X\otimes_\Z \Q$ is surjective. That is, for any $\rho \in \mathsf{Rep}(G)$, there exist an integer $d\geqslant 1$ and $\rho_H\in \mathsf{Rep}(H)$ for each $H\in X$, such that
+$$
+d\cdot \rho=\sum_{H\in X} \Ind_H^G \rho_H.
+$$
+\end{itemize}
+}
+
+\textit{Conventions.} Let $p$ be a prime number. A finite group $H$ is called \textit{$p$-elementary} if $H=C\times P$, where $C$ is a cyclic group with prime-to-$p$ order and $P$ is a $p$-group. Denote $X(p)$ the set of all $p$-elementary subgroups of $G$.
+
+{\color{violet}
+\textit{Brauer's Theorem.} Suppose further $k$ is algebraically closed of characteristic 0 and $G$ is a finite group. If $X$ is the union of all the $X(p)$ for $p$ prime, then $\Ind_X$ is surjective.
+}
+
+
 \miquestion {\color{blue} What is a Lie group?  What is the Lie algebra? How do you get from a Lie algebra to a Lie group? The Jacobi identity?}
 
 \textit{Definition.} A Lie group is a topological group $G$ (such that the operation and the inverse function are smooth) that is a smooth manifold as well.
@@ -2783,6 +2808,8 @@ $$
 This is called {\color{violet} \textbf{Frobenius reciprocity}} in representation theory, which states tensor product as the functor for induced representations and $\Hom$ as the functor of restrictions, respectively.
 
 \miquestion {\color{blue} Can you get a long exact sequence from a short exact sequence of abelian groups together with another abelian group?}
+
+\textit{Answer.} This is just the long exact sequence of group cohomology. For a (discrete) group $G$, which is not necessarily abelian, acting on another abelian group $M$ (with discrete topology), which is called a $G$-module, we can define $H^i(G,M):=\Ext_{\Z[G]}^i(\Z,M)$. This theory is covariant in $M$ and contravariant in $G$. 
 
 \miquestion {\color{blue} Do you know what the Ext functor of an abelian group is? Do you know where it appears? What is $\Ext(\Z/m\Z,\Z/n\Z)$? What is $\Ext(\Z/m\Z,\Z)$?}
 
