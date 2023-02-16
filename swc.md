@@ -45,7 +45,7 @@
 
 #### 2021 Fall
 
-- (_Seminar_) [**3264 and All That -- A Seminar on Enumerative Geometry**](./3264/3264.md).
+- (_Seminar_) [**3264 and All That**](./3264/3264.md) (Seminar on Enumerative Geometry).
 - (_Workshop_) [**The Uniform Mordell-Lang Program**](./westlake2021/westlake2021.md) (Westlake Mathematics, Hangzhou).
 
 #### 2021 Summer
