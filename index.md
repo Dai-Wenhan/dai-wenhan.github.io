@@ -36,6 +36,13 @@ Regarding language skills: Chinese native speaker; fluent in English and French 
   - **Organizer:** [Xinyi Yuan](http://faculty.bicmr.pku.edu.cn/~yxy/).
   - **Time:** 10:30–12:00 Wednesdays (starting on March 1).
   - **Venue:** BICMR 77201.
+  
+- [**Abelian Varieties (II)**](./AV2/AV2.md) (Student seminar for the 3+X program; see also [**Abelian Varieties (I)**](https://dai-wenhan.github.io/AV/AV.html) during 2022 Fall).
+
+  The goal of this learning seminar is to study the basics of abelian varieties. The pre-requisite is Chapters 2–3 of Hartshorne's algebraic geometry, but this seminar can also be taken while reading Hartshorne's book. Some familiarity with elliptic curves will be helpful to understand some of the materials. Each lecture will be two hours long.
+  - **Instructor**: [Liang Xiao](https://bicmr.pku.edu.cn/~lxiao/index.htm).
+  - **Time**: Every Saturday, 7:00-9:00pm, during 2023 Spring semester.
+  - **Location**: Room 82J12 (Jia-yi-bing Building).
 
 
 
