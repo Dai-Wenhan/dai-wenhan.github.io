@@ -18,7 +18,8 @@ Regarding language skills: Chinese native speaker; fluent in English and French 
 
 1. This semester I am working as a teaching assistant of [_Algebraic Geometry II_](./AGII23/AGII23.md).
 2. **To be submitted:** [**Modularity lifting**](./miscellanea/modlift.pdf) (Patrick Allen's McGill lectures).
-3. **IMPORTANT:** Notes for [**IHES 2022 Summer School on the Langlands Program**](./IHES22/IHES22.md).
+3. **To appear**: **Local Langlands for _p_-adic reductive groups** (a review of Peter Scholze's work).
+4. **IMPORTANT:** Notes for [**IHES 2022 Summer School on the Langlands Program**](./IHES22/IHES22.md).
 
 
 ### Ongoing/Upcoming Events
