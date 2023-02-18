@@ -11,7 +11,7 @@
 - [**Selected Topics in Algebraic Topology**](./AT22/AT22.md) by Weinan Lin.
 
 #### 2021 Fall
-- [**The Arithmetic of Elliptic Curves**](./ellcurves2021.md) (see my [solution](../ellcurves2021-final.pdf) to the final) by Đào Văn Thịnh.
+- [**The Arithmetic of Elliptic Curves**](./ellcurves2021.md) (see my [solution](./miscellanea/ell21-final.pdf) to the final) by Đào Văn Thịnh.
 - [**Algebraic Geometry I**](./AGI2021.md) by Zhiyu Tian.
 - [**Homological Methods in Algebraic Geometry**](./homoalg2021/homoalg2021.md) by Yucheng Liu.
 
