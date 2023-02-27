@@ -26,9 +26,13 @@ Regarding language skills: Chinese native speaker; fluent in English and French 
 
 #### 2023 Spring
 
-- [**Geometry of Shimura varieties mod _p_**]().
+- [**Seminar on Geometry of Shimura varieties mod _p_**](./geomShv23/geomShv23.md).
 
-  Under planing.
+  The purpose of this weekly seminar is to study several research papers on the geometry of Shimura varieties mod _p_ as well as arithmetic applications, and hopefully forming new research ideas. All talks will be given by participants, and each meeting will be about 120 minutes.
+  - **Organizer:** [Liang Xiao](https://bicmr.pku.edu.cn/~lxiao/index.htm).
+  - **Time:** 16:00–18:00 Mondays (starting on February 20).
+  - **Venue:** Jingchun Yuan 78301.
+
 
 - [**Seminar on Lawrence–Venkatesh’s proof of the Mordell conjecture**](./LV23/LV23.md).
 
