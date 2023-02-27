@@ -9,6 +9,8 @@ The purpose of this weekly seminar is to study several research papers on the ge
 
 ### Syllabus (tentative)
 
+**Caveat:** _In order to protect our common intellectual property rights, these original results should not be made public for the time being. You should therefore keep all videos and notes in a safe place to prevent disclosure._
+
 - [x] (2/20) **Liang Xiao** - Overview. ([video](https://disk.pku.edu.cn/#/link/13D949E223D9C4F6145E8EE3B8EFCA44?gns=53F2170B7AA748348440F4C8CA8E9BAE%2F988401E1FBD343A79D36047AA9556A60%2F92D3A1D7B20C41C580B4E193FBC06652))
 - [x] (2/28) **Wenhan Dai** - Splitting models for U(2)-Shimura varieties (Hilbert case was discussed in [RX], please modify the discussion into the setup of U(2)-Shimura varieties). ([video](https://disk.pku.edu.cn/#/link/13D949E223D9C4F6145E8EE3B8EFCA44?gns=53F2170B7AA748348440F4C8CA8E9BAE%2F988401E1FBD343A79D36047AA9556A60%2FA061176617DD472B816F89CD1EEB98DA))
 - [ ] (3/6) **Deding Yang** - Ampleness criterion for automorphic line bundles on U(2)-Shimura varieties, I [Yang]. ([video]())
