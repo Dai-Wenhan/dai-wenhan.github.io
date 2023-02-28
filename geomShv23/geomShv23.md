@@ -2,8 +2,8 @@
 
 The purpose of this weekly seminar is to study several research papers on the geometry of Shimura varieties mod _p_ as well as arithmetic applications, and hopefully forming new research ideas. All talks will be given by participants, and each meeting will be about 120 minutes, consisting of 90 minutes lecture (with 10 minutes break in the middle) and 20 minutes discussion.
 
-- **Time**: Every Monday, 10–noon.
-- **Location**: BICMR 77201.
+- **Time**: Every Monday, 4:00-6:00pm.
+- **Location**: BICMR 77201 / 78301.
 - **Instructor**: [Liang Xiao](https://bicmr.pku.edu.cn/~lxiao/index.htm).
 
 
@@ -31,7 +31,7 @@ The purpose of this weekly seminar is to study several research papers on the ge
 - [ ] (6/17) **Zeyu Wang** - Hecke operators on coherent cohomology of unitary Shimura varieties, II [FP]. ([video]())
 
 
-_The link for recordings of this seminar series are perennially valid. The password is **??77**, where the first two characters denote the ring of integers of our imaginary quadratic extension field._
+**Readme:** _The link for recordings of this seminar series are perennially valid. The password is **??77**, where the first two characters denote the ring of integers of our imaginary quadratic extension field._
 
 ### References
 1. [Chai-Oort] C.-L. Chai and F. Oort, Monodromy and irreducibility of leaves, _Ann. of Math._ **173** (2011), 1359–1396. 
