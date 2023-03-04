@@ -19,7 +19,7 @@
 - (February 2023) [**Modularity lifting**](./miscellanea/modlift.pdf). <br/>
  _A crucial ingredient in understanding Andrew Wiles' proof of Fermat's last theorem; McGill lecture by Patrick Allen._
  
-- (August 2022) [**Shimura Varieties**](./miscellanea/Shvar). <br/>
+- (August 2022) [**Shimura Varieties**](./miscellanea/Shvar.pdf). <br/>
  _An introductory course by Sophie Morel at 2022 Summer School on the Langlands Program (IHES)._
  
 - (December 2019) [**Anabelian geometry and the ABC conjecture**](./miscellanea/AAGABC.pdf). <br/>
