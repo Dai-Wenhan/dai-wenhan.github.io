@@ -1,4 +1,4 @@
-## Notes and Expository Papers
+## Notes and Expository Writings
 
 ### Graduate's General Examination
 
@@ -14,7 +14,7 @@
 - [Representation Theory](./genrep/genrep.md).
 - [Lie Algebra and Representation](./genlie/genlie.md).
 
-### Expository Writing
+### Expository Writings
 
 - [**Modularity lifting**](./miscellanea/modlift.pdf). <br/>
  _A crucial ingredient in understanding Andrew Wiles' proof of Fermat's last theorem; McGill lecture notes by Patrick Allen._
@@ -23,8 +23,8 @@
 
 ### Miscellanea
 
-- (04/2022) **From Geometric Representation Theory to the Langlands Program** (an interview with ICM2022 invited presenter alumnus Xinwen Zhu). <br/>
+- (April 2022) **From Geometric Representation Theory to the Langlands Program** (an interview with ICM2022 invited presenter alumnus Xinwen Zhu). <br/>
   _See [English version](./miscellanea/Zhu-interview-en.pdf) or [Chinese version](./miscellanea/Zhu-interview-ch.pdf)._
 
-- (10/2022) **The Landau-Siegel Zero Problem in Number Theory**. <br/>
+- (October 2022) **The Landau-Siegel Zero Problem in Number Theory**. <br/>
   _[Notes](./miscellanea/Landau-Siegel.pdf) from a short public lecture given by Yitang Zhang in 2019._
