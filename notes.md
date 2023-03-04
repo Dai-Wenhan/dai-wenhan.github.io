@@ -1,4 +1,4 @@
-## Notes and Expository Writings
+## Studying Experiences
 
 ### Graduate's General Examination
 
@@ -14,21 +14,34 @@
 - [Representation Theory](./genrep/genrep.md).
 - [Lie Algebra and Representation](./genlie/genlie.md).
 
-### Expository Writings
 
-- (February 2023) [**Modularity lifting**](./miscellanea/modlift.pdf). <br/>
- _A crucial ingredient in understanding Andrew Wiles' proof of Fermat's last theorem; McGill lecture by Patrick Allen._
- 
-- (August 2022) [**Shimura Varieties**](./miscellanea/Shvar.pdf). <br/>
- _An introductory course by Sophie Morel at 2022 Summer School on the Langlands Program (IHES)._
- 
-- (December 2019) [**Anabelian geometry and the ABC conjecture**](./miscellanea/AAGABC.pdf). <br/>
- _A review for Shinichi Mochizuki's work; manuscript and totally unreadable._
+### School Courses at Peking University (2019-2023)
 
-### Miscellanea
+#### 2022 Fall
+- [**Prismatic Cohomology**]() by Kiran Kedlaya and Ruochuan Liu.
 
-- (April 2022) **From Geometric Representation Theory to the Langlands Program** (an interview with ICM2022 invited presenter alumnus Xinwen Zhu). <br/>
-  _See [English version](./miscellanea/Zhu-interview-en.pdf) or [Chinese version](./miscellanea/Zhu-interview-ch.pdf)._
+#### 2022 Spring
+- [**Hodge Theory and Complex Algebraic Geometry**](./hodge22/hodge22.md) by Qizheng Yin.
+- [**Triangulated and Derived Categories in Algebra and Geometry**](./dercat/dercat.md) by Anton Fonarev.
+- [**Selected Topics in Algebraic Topology**](./AT22/AT22.md) by Weinan Lin.
 
-- (October 2022) **The Landau-Siegel Zero Problem in Number Theory**. <br/>
-  _[Notes](./miscellanea/Landau-Siegel.pdf) from a short public lecture given by Yitang Zhang in 2019._
+#### 2021 Fall
+- [**The Arithmetic of Elliptic Curves**](./ellcurves2021.md) (see my [solution](./miscellanea/ell21-final.pdf) to the final) by Đào Văn Thịnh.
+- [**Algebraic Geometry I**](./AGI2021.md) by Zhiyu Tian.
+- [**Homological Methods in Algebraic Geometry**](./homoalg2021/homoalg2021.md) by Yucheng Liu.
+
+#### 2021 Spring
+- [**Algebraic Geometry II**](./AGII2021.md) by Zhiyu Tian.
+- [**Topics in Number Theory II: Étale Cohomology**](./etcoh.md) by Xinyi Yuan.
+
+#### 2020 Fall
+- [**Topics in Number Theory I: Fermat's Last Theorem**](./FLT2020/FLT2020.md) by Liang Xiao.
+- [**The Hodge Theory of Algebraic Maps**](./dCM05/dCM05.md) by Qizheng Yin.
+- [**Infinite Category**](./infcat/infcat.md) by Enlin Ouyang.
+- [**Basic Number Theory**](./basicNT/basicNT.md) by Ruochuan Liu.
+
+#### 2019 Summer
+- [**Topics in Modular Forms**]() by Yitang Zhang.
+
+
+### Exchanging Stories

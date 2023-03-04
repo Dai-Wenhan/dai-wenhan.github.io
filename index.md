@@ -14,9 +14,18 @@ A headshot of mine is posted [here](./headshot.jpg).
 
 Regarding language skills: Chinese native speaker; fluent in English and French at work.
 
+## [Selected Research/Expository Writings](./blurbs.md)
+
+## [Seminars, Workshops, and Conferences Attended](./swc.md)
+
+## [Courses and the General Qualify Exam](./notes.md)
+
+## [Teaching Experiences](./teaching.md)
+
+
 ## Recent Updates
 
-1. This semester I am working as a teaching assistant of [_Algebraic Geometry II_](./AGII23/AGII23.md).
+1. This semester I work as a teaching assistant of [_Algebraic Geometry II_](./AGII23/AGII23.md).
 2. **To be submitted:** [**Modularity lifting**](./miscellanea/modlift.pdf) (Patrick Allen's McGill lectures).
 3. **To appear**: **Local Langlands for _p_-adic reductive groups** (a review of Peter Scholze's work).
 4. **IMPORTANT:** Notes for [**IHES 2022 Summer School on the Langlands Program**](./IHES22/IHES22.md).
@@ -47,16 +56,6 @@ Regarding language skills: Chinese native speaker; fluent in English and French 
   - **Instructor**: [Liang Xiao](https://bicmr.pku.edu.cn/~lxiao/index.htm).
   - **Time**: Every Saturday, 7:00-9:00pm, during 2023 Spring semester.
   - **Location**: Room 82J12 (Jia-yi-bing Building).
-
-
-
-## [Seminars, Workshops, and Conferences Attended](./swc.md)
-
-## [Notes and Expository Papers](./notes.md)
-
-## [School Courses](./courses.md)
-
-## [Teaching Experiences](./teaching.md)
 
 
 ## Contact Info
