@@ -4,6 +4,11 @@ _Last updated on: February, 2023_
 
 Hi!
 
+- [**Selected Research/Expository Writings**](./blurbs.md).
+- [**Seminars, Workshops, and Conferences Attended**](./swc.md
+- [**Courses and the General Qualify Exam**](./notes.md)
+- [**Teaching Experiences**](./teaching.md)
+
 ### About Me
 
 Now I am an undergraduate student in [School of Mathematical Science](http://english.math.pku.edu.cn) at [Peking University](https://www.pku.edu.cn), China. My research interest includes **number theory**, **arithmetic geometry**, and **representation theory**. My instructor is Professor [Liang Xiao](https://bicmr.pku.edu.cn/~lxiao/index.htm) / 肖梁 at [Beijing International Center for Mathematical Research](https://bicmr.pku.edu.cn). 
@@ -12,12 +17,8 @@ During the upcoming 2023-2024, I will be an international exchange student to [�
 
 A headshot of mine is posted [here](./headshot.jpg).
 
-Regarding language skills: Chinese native speaker; fluent in English and French at work.
+**Regarding language skills:** Chinese native speaker; fluent in English and French at work.
 
-### [Selected Research/Expository Writings](./blurbs.md)
-### [Seminars, Workshops, and Conferences Attended](./swc.md)
-### [Courses and the General Qualify Exam](./notes.md)
-### [Teaching Experiences](./teaching.md)
 
 
 ## Recent Updates
