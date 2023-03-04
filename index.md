@@ -14,13 +14,10 @@ A headshot of mine is posted [here](./headshot.jpg).
 
 Regarding language skills: Chinese native speaker; fluent in English and French at work.
 
-## [Selected Research/Expository Writings](./blurbs.md)
-
-## [Seminars, Workshops, and Conferences Attended](./swc.md)
-
-## [Courses and the General Qualify Exam](./notes.md)
-
-## [Teaching Experiences](./teaching.md)
+### [Selected Research/Expository Writings](./blurbs.md)
+### [Seminars, Workshops, and Conferences Attended](./swc.md)
+### [Courses and the General Qualify Exam](./notes.md)
+### [Teaching Experiences](./teaching.md)
 
 
 ## Recent Updates
