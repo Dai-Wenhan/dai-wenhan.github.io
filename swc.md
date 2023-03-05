@@ -60,7 +60,7 @@
 
 #### 2020 Summer - 2021 Spring
 
-  Wenhan _called sick_ in this extremely hard year. 
+  Wenhan _called sick_ in this extremely tough year. 
 
 #### 2020 Spring
 
