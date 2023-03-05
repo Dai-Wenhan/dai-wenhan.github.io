@@ -2,7 +2,7 @@
 
 ### (Pre-)Publications
 
-1. [**Tate cycles on Pappas-Rapoport splitting model for unitary Shimura varieties**]() (in preparation).
+1. [**Tate cycles on unitary Shimura varieties mod ramified _p_**]() (in preparation).
 
 
 
