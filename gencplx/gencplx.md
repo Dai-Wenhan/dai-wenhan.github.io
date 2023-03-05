@@ -1,8 +1,10 @@
 ## Complex Analysis for the Generals
 
-**Instruction Watch:** My notes for complex analysis is available [here](././cplx.pdf). This note is intended to be written for the PhD Entrance and Qualifying Examination at the Beijing International Center of Mathematical Research in 2022. The first previous chapters do follow [SS10] loosely so that I claim no originality. Another standard reference for these notes is [Lan03]. The outline is as follows.
+**Instruction Watch:** My notes for complex analysis are available now. These notes are intended to be written for the PhD Entrance and Qualifying Examination at the Beijing International Center of Mathematical Research in 2022. The first previous chapters do follow [SS10] loosely so that I claim no originality. Another standard references for these notes are [Lan03] and [Kod07]. The outline is as follows.
 
 ### Outline
+
+**See the most recent [notes](././cplx.pdf).**
 
 - **Holomorphic Functions** - <br/>
   Cauchy-Riemann Equations; Cauchy Theorem of local and global versions: the
