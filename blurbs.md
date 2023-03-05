@@ -1,4 +1,4 @@
-## Selected Research/Expository Writings
+## Selected Research / Expository Writings
 
 ### (Pre-)Publications
 
@@ -9,13 +9,13 @@
 
 ### Expository Writings
 
-2. (February 2023) [**Modularity lifting**](./blurbs/modlift.pdf). <br/>
+1. (February 2023) [**Modularity lifting**](./blurbs/modlift.pdf). <br/>
  _A crucial ingredient in understanding Andrew Wiles' proof of Fermat's last theorem; McGill lecture by Patrick Allen._
  
-3. (September 2022) [**Shimura varieties**](./blurbs/Shvar.pdf). <br/>
+2. (September 2022) [**Shimura varieties**](./blurbs/Shvar.pdf). <br/>
  _An introductory course by Sophie Morel at 2022 Summer School on the Langlands Program (IHES)._
  
-4. (July 2022) [**The local Langlands conjecture**](./blurbs/LLC.pdf). <br/>
+3. (July 2022) [**The local Langlands conjecture**](./blurbs/LLC.pdf). <br/>
  _An introductory course by Oliver Taïbi at 2022 Summer School on the Langlands Program (IHES)._
 
 
