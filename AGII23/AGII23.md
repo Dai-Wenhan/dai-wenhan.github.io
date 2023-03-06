@@ -13,8 +13,11 @@ _Spring 2023, at Peking University._
   2. [**Local properties of schemes**](././1-2.pdf).
   3. [**Morphisms of schemes**](././1-3.pdf).
     
-- Week 2 - ****.
+- Week 2 - **Finiteness conditions; the functorial language**.
 
+  1. [**Four aspects for finiteness description**](././2-1.pdf).
+  2. [**Relations between finiteness conditions**](././2-2.pdf).
+  3. [**The functorial language**](././2-3.pdf).
 
 
 
