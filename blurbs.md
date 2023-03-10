@@ -34,10 +34,10 @@
 
 #### Digressions
 
-5. [**Complex analysis**](./blurbs/complex.pdf). <br/>
+6. [**Complex analysis**](./blurbs/complex.pdf). <br/>
  _Written for the preparation of BICMR PhD Qualification._
 
-6. [**Anabelian geometry and the ABC conjecture**](./blurbs/AAGABC.pdf). <br/>
+7. [**Anabelian geometry and the ABC conjecture**](./blurbs/AAGABC.pdf). <br/>
  _A review for Shinichi Mochizuki's work; manuscript and totally unreadable._
 
 
