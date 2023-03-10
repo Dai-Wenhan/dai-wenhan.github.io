@@ -9,9 +9,18 @@
 
 ### Expository Writings / Notes
 
-**Disclaimer:** The following scattered materials are written for studying goals only, and the originality is thus hardly claimed. These notes possibly obtain many major or minor gaps, typos, and logical mistakes due to the note-taker, as well as a lack of references.
+(_Disclaimer: The following scattered materials are written for studying goals only, and the originality is thus hardly claimed. These notes possibly obtain many major or minor gaps, typos, and logical mistakes due to the note-taker, as well as a lack of references._)
 
-#### About Galois representations and the local Langlands program
+#### (1) For geometry of arithmetic varieties:
+
+- [**Shimura varieties**](./blurbs/Shvar.pdf). <br/>
+ _Notes for an introductory course by Sophie Morel at 2022 Summer School on the Langlands Program (IHES); reviewed by the speaker._
+
+- [**The arithmetic of Hilbert modular varieties**](./blurbs/Hilb.pdf). <br/>
+ _To appear._
+
+
+#### (2) About Galois representations, automorphic forms, and _L_-functions:
 
 - [**Modularity lifting**](./blurbs/modlift.pdf). <br/>
  _A crucial ingredient in understanding Andrew Wiles' proof of Fermat's last theorem; McGill lecture by Patrick Allen._
@@ -19,26 +28,28 @@
 - [**The local Langlands conjecture**](./blurbs/LLC.pdf). <br/>
  _Notes for an introductory course by Oliver Taïbi at 2022 Summer School on the Langlands Program (IHES); reviewed by the speaker._
 
-#### About automorphic forms and Shimura varieties
 
-- [**Shimura varieties**](./blurbs/Shvar.pdf). <br/>
- _Notes for an introductory course by Sophie Morel at 2022 Summer School on the Langlands Program (IHES); reviewed by the speaker._
 
-- [**Geometric aspects of Hilbert modular forms**](./blurbs/Hilb.pdf). <br/>
- _To appear._
-
-#### About geometric Langlands
+#### (3) On geometric aspects of the Langlands program:
 
 - [**On Lusztig's middle extension of perverse sheaves**](./blurbs/MidExt.pdf). <br/>
  _A survey adapted from some seminar talk about Springer theory._
 
-#### Digressions
+- [**On the local Langlands conjectures for reductive groups over _p_-adic fields**]().
+
+#### (4) About algebraic geometry and Diophantine geometry:
+
+- [**_p_-divisible groups**]().
+
+- [**Anabelian geometry and the ABC conjecture**](./blurbs/AAGABC.pdf). <br/>
+ _A review for Shinichi Mochizuki's work; manuscript and totally unreadable._
+
+#### (5) Digressions:
 
 - [**Complex analysis**](./blurbs/complex.pdf). <br/>
  _Written for the preparation of BICMR PhD Qualification._
 
-- [**Anabelian geometry and the ABC conjecture**](./blurbs/AAGABC.pdf). <br/>
- _A review for Shinichi Mochizuki's work; manuscript and totally unreadable._
+
 
 
 
