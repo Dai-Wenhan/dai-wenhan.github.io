@@ -53,8 +53,7 @@
 ### Miscellanea
 
 - (April 2022) [**From Geometric Representation Theory to the Langlands Program**](./miscellanea/Zhu-interview-en.pdf). <br/>
- _An interview with ICM2022 invited presenter alumnus Xinwen Zhu. See also a [Chinese transcription](./miscellanea/Zhu-interview-ch.pdf)._
-
+ _An interview with ICM2022 invited presenter alumnus Xinwen Zhu. See also a [Chinese translation](./miscellanea/Zhu-interview-ch.pdf)._
 - (November 2019) [**The Landau-Siegel Zero Problem in Number Theory**](./miscellanea/Landau-Siegel.pdf). <br/>
  _A rewritten version of notes for a short public lecture given by Yitang Zhang in 2019._
   
