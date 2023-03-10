@@ -9,25 +9,42 @@
 
 ### Expository Writings / Notes
 
+**Disclaimer:** The following scattered materials are written for studying goals only, and the originality is thus hardly claimed. These notes possibly obtain many major or minor gaps, typos, and logical mistakes due to the note-taker, as well as a lack of references.
+
+#### About Galois representations and the local Langlands program
+
 1. [**Modularity lifting**](./blurbs/modlift.pdf). <br/>
  _A crucial ingredient in understanding Andrew Wiles' proof of Fermat's last theorem; McGill lecture by Patrick Allen._
- 
-2. [**Shimura varieties**](./blurbs/Shvar.pdf). <br/>
- _Notes for an introductory course by Sophie Morel at 2022 Summer School on the Langlands Program (IHES); reviewed by the speaker._
- 
-3. [**The local Langlands conjecture**](./blurbs/LLC.pdf). <br/>
+
+2. [**The local Langlands conjecture**](./blurbs/LLC.pdf). <br/>
  _Notes for an introductory course by Oliver Taïbi at 2022 Summer School on the Langlands Program (IHES); reviewed by the speaker._
+
+#### About automorphic forms and Shimura varieties
+
+3. [**Shimura varieties**](./blurbs/Shvar.pdf). <br/>
+ _Notes for an introductory course by Sophie Morel at 2022 Summer School on the Langlands Program (IHES); reviewed by the speaker._
+
+4. [**Geometric aspects of Hilbert modular forms**](./blurbs/Hilb.pdf). <br/>
+ _To appear._
+
+#### About _p_-adic geometry
+
+#### Digressions
+
+5. [**Complex analysis**](./blurbs/complex.pdf). <br/>
+ _Written for the preparation of BICMR PhD Qualification._
+
+6. [**Anabelian geometry and the ABC conjecture**](./blurbs/AAGABC.pdf). <br/>
+ _A review for Shinichi Mochizuki's work; manuscript and totally unreadable._
 
 
 
 
 ### Miscellanea
 
-- (April 2022) **From Geometric Representation Theory to the Langlands Program** (an interview with ICM2022 invited presenter alumnus Xinwen Zhu). <br/>
-  _[English version](./miscellanea/Zhu-interview-en.pdf) or [Chinese version](./miscellanea/Zhu-interview-ch.pdf)._
+- (April 2022) [**From Geometric Representation Theory to the Langlands Program**](./miscellanea/Zhu-interview-en.pdf). <br/>
+ _An interview with ICM2022 invited presenter alumnus Xinwen Zhu. See also a [Chinese transcription](./miscellanea/Zhu-interview-ch.pdf)._
 
-- (October 2022) **The Landau-Siegel Zero Problem in Number Theory**. <br/>
-  _[Notes](./miscellanea/Landau-Siegel.pdf) from a short public lecture given by Yitang Zhang in 2019._
+- (November 2019) [**The Landau-Siegel Zero Problem in Number Theory**](./miscellanea/Landau-Siegel.pdf). <br/>
+ _A rewritten version of notes for a short public lecture given by Yitang Zhang in 2019._
   
-- (December 2021) **Anabelian geometry and the ABC conjecture**. <br/>
- _A review for Shinichi Mochizuki's work; manuscript and totally unreadable [notes](./blurbs/AAGABC.pdf)._
