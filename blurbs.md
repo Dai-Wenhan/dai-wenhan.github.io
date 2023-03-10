@@ -27,7 +27,10 @@
 4. [**Geometric aspects of Hilbert modular forms**](./blurbs/Hilb.pdf). <br/>
  _To appear._
 
-#### About _p_-adic geometry
+#### About geometric Langlands
+
+5. [**On Lusztig's middle extension of perverse sheaves**](./blurbs/MidExt.pdf). <br/>
+ _A survey adapted from some seminar talk about Springer theory._
 
 #### Digressions
 
