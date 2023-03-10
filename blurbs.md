@@ -13,31 +13,31 @@
 
 #### About Galois representations and the local Langlands program
 
-1. [**Modularity lifting**](./blurbs/modlift.pdf). <br/>
+- [**Modularity lifting**](./blurbs/modlift.pdf). <br/>
  _A crucial ingredient in understanding Andrew Wiles' proof of Fermat's last theorem; McGill lecture by Patrick Allen._
 
-2. [**The local Langlands conjecture**](./blurbs/LLC.pdf). <br/>
+- [**The local Langlands conjecture**](./blurbs/LLC.pdf). <br/>
  _Notes for an introductory course by Oliver Taïbi at 2022 Summer School on the Langlands Program (IHES); reviewed by the speaker._
 
 #### About automorphic forms and Shimura varieties
 
-3. [**Shimura varieties**](./blurbs/Shvar.pdf). <br/>
+- [**Shimura varieties**](./blurbs/Shvar.pdf). <br/>
  _Notes for an introductory course by Sophie Morel at 2022 Summer School on the Langlands Program (IHES); reviewed by the speaker._
 
-4. [**Geometric aspects of Hilbert modular forms**](./blurbs/Hilb.pdf). <br/>
+- [**Geometric aspects of Hilbert modular forms**](./blurbs/Hilb.pdf). <br/>
  _To appear._
 
 #### About geometric Langlands
 
-5. [**On Lusztig's middle extension of perverse sheaves**](./blurbs/MidExt.pdf). <br/>
+- [**On Lusztig's middle extension of perverse sheaves**](./blurbs/MidExt.pdf). <br/>
  _A survey adapted from some seminar talk about Springer theory._
 
 #### Digressions
 
-6. [**Complex analysis**](./blurbs/complex.pdf). <br/>
+- [**Complex analysis**](./blurbs/complex.pdf). <br/>
  _Written for the preparation of BICMR PhD Qualification._
 
-7. [**Anabelian geometry and the ABC conjecture**](./blurbs/AAGABC.pdf). <br/>
+- [**Anabelian geometry and the ABC conjecture**](./blurbs/AAGABC.pdf). <br/>
  _A review for Shinichi Mochizuki's work; manuscript and totally unreadable._
 
 
