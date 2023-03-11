@@ -37,7 +37,7 @@
 #### About algebraic geometry and Diophantine geometry:
 
 - [**Abelian varieties**](./blurbs/AV2022.pdf). <br/>
- _Following Sections 1-14 of Mumford's book closely._
+ _Following David Mumford's book closely._
 - [**_p_-divisible groups**]().
 - [**Anabelian geometry and the ABC conjecture**](./blurbs/AAGABC.pdf). <br/>
  _A review for Shinichi Mochizuki's work; manuscript and totally unreadable._
