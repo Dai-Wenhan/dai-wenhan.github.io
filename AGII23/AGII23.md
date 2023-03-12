@@ -2,8 +2,9 @@
 
 _Spring 2023, at Peking University._
 
-**Readme**: This semester I host the office hour seminar on _Algebraic Geometry II_. This page is dedicated to updating my comments and notes for [Zhiyu Tian](http://faculty.bicmr.pku.edu.cn/~tianzhiyu/index.html)'s course. Some comments may particularly record the questions raised by some students during office hours; other notes of mine would closely refer to Grothendieck's EGA and SGA. 
+**Readme:** This semester I host the office hour seminar on _Algebraic Geometry II_. This page is dedicated to updating my comments and notes for [Zhiyu Tian](http://faculty.bicmr.pku.edu.cn/~tianzhiyu/index.html)'s course. Some comments may particularly record the questions raised by some students during office hours; other notes of mine would closely refer to Grothendieck's EGA and SGA. 
 
+**Prerequisites:** This course requires a (possibly superficial) understanding to fundamentals of scheme theory and sheaf theory. It would be sufficient if one had finished the course _Algebraic Geometry I_ or read about, for example, Chapter II of Hartshorne's textbook. See this [exam problems collection](./AGII23/pre-exam.pdf) (Algebraic Geometry I, 2022 Fall) to test yourself.
 
 ### The Directory
 
