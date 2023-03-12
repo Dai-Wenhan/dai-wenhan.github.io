@@ -13,7 +13,7 @@ The purpose of this weekly seminar is to study several research papers on the ge
 
 - [x] (2/20) **Liang Xiao** - Overview. ([video](https://disk.pku.edu.cn/#/link/13D949E223D9C4F6145E8EE3B8EFCA44?gns=53F2170B7AA748348440F4C8CA8E9BAE%2F988401E1FBD343A79D36047AA9556A60%2F92D3A1D7B20C41C580B4E193FBC06652))
 - [x] (2/28) **Wenhan Dai** - Splitting models for U(2)-Shimura varieties (Hilbert case was discussed in [RX], please modify the discussion into the setup of U(2)-Shimura varieties). ([video](https://disk.pku.edu.cn/#/link/13D949E223D9C4F6145E8EE3B8EFCA44?gns=53F2170B7AA748348440F4C8CA8E9BAE%2F988401E1FBD343A79D36047AA9556A60%2FA061176617DD472B816F89CD1EEB98DA))
-- [ ] (3/6) **Deding Yang** - Ampleness criterion for automorphic line bundles on U(2)-Shimura varieties, I [Yang]. ([video]())
+- [x] (3/6) **Deding Yang** - Ampleness criterion for automorphic line bundles on U(2)-Shimura varieties, I [Yang]. ([video](https://disk.pku.edu.cn/#/link/13D949E223D9C4F6145E8EE3B8EFCA44?gns=53F2170B7AA748348440F4C8CA8E9BAE%2F988401E1FBD343A79D36047AA9556A60%2F20A68DC028414D37B52AB8DFE410137D))
 - [ ] (3/13) **Deding Yang** - Ampleness criterion for automorphic line bundles on U(2)-Shimura varieties, II [Yang]. ([video]())
 - [ ] (3/20) **Haocheng Fan** - Irreducibility of nonordinary strata on U(2,1)-Shimura varieties mod _p_ [Fan]. ([video]())
 - [ ] (3/27) **Qijun Yan** - Galois representations associated to cohomology of automorphic line bundles on Hilbert modular varieties, I [ERX]. ([video]())
