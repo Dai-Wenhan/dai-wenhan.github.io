@@ -14,9 +14,11 @@ The textbook we are going to use is Mumford's book [Mum]. Another complementary 
 
 ### Syllabus (tentative)
 
-- [x] (2/25) **Liang Xiao** - Review and preview. (No notes to upload.)
-- [ ] (3/4) **Zhi Zheng** - [Mum, §16]. ([notes](././15.pdf))
-- [ ] (3/11) **Jiachen Chen** - [Mum, §17-18]. A nice exercise is to deduce Kodaira's vanishing theorem for abelian varieties (over any field). ([notes](././16.pdf))
+_I will not take handwritten notes for some talks during this semester. Instead, a TeXed readable version of notes will be uploaded at the end._
+
+- [x] (2/25) **Liang Xiao** - Review and preview. 
+- [x] (3/4) **Zhi Zheng** - [Mum, §16]. 
+- [x] (3/11) **Jiachen Chen** - [Mum, §17-18]. A nice exercise is to deduce Kodaira's vanishing theorem for abelian varieties (over any field). 
 - [ ] (3/18) **Xiaozheng Han** - [Mum, §19]. ([notes](././17.pdf))
 - [ ] (3/25) _No seminar; Liang Xiao away._
 - [ ] (4/1) **Huishi Yu** - [Mum, §20]. ([notes](././18.pdf))
