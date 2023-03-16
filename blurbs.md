@@ -32,6 +32,8 @@
 
 - [**On Lusztig's middle extension of perverse sheaves**](./blurbs/MidExt.pdf). <br/>
  _A survey adapted from some seminar talk about Springer theory._
+- [**Local shtukas and the Langlands program**](./blurbs/LocalShtukas.pdf). <br/>
+ _Notes for an introductory course by Oliver Taïbi at 2022 Summer School on the Langlands Program (IHES)._
 - [**On the local Langlands conjectures for reductive groups over _p_-adic fields**]().
 
 #### About algebraic geometry and Diophantine geometry:
