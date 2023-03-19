@@ -151,487 +151,280 @@
 
 \begin{document}
 
-\centerline {\textbf{Set I: Groups}}
+\centerline{\textbf{Set V: Matrices and Linear Algebra}}
 
 \begin{questions}
-\miquestion
-{\color{blue} What is a normal subgroup? Can you get some natural map from a normal subgroup? What topological objects can the original group, normal subgroup, and quotient group relate to?}
+\miquestion {\color{blue} What is a bilinear form on a vector space? When are two forms equivalent? What is an orthogonal matrix? What's special about them?}
 
-\textit{Answer.} A subgroup $H\subseteq G$ is normal if all conjugation of $H$ is itself, i.e. $\forall g\in G$, $H=g^{-1}Hg$. The normal subgroup defines the quotient group. The natural map is $H\hookrightarrow G \rightarrow G/H$. ``Sub'' means embedding, and ``quotient'' means gluing.
+\textit{Definitions.} A bilinear form is a function $B : V \times V \to K$ that is linear in each argument separately, where $V$ is a $K$-vector space. For bilinear forms $B_1$ and $B_2$ that map the diagonal $(v,v)$ to $v^TB_1v$ and $v^TB_2v$ respectively, they are equivalent if their diagonal images are differed by a linear transformation $\sigma$, say $B_1=\sigma^T B_2\sigma$. A matrix $X$ is orthogonal if and only if $X^TX=1$. Namely, the column vectors of an orthogonal matrix form an orthonormal basis. 
 
-%--------------------------
+\textit{Remark.} Note that over an algebraically closed field, two bilinear forms are equivalent if and only if they share the same rank; the assumption for the field here is necessary. Also note that orthogonality is equivalent to orthonormality for a matrix over any field of characteristic 0.
 
-\miquestion
-{\color{blue} Prove that a subgroup of index two is normal.}
+\miquestion {\color{blue} What are the possible images of the unit circle under a linear transformation of $\R^2$?}
 
-\textit{Proof.} There is no position for distinct $gH$ and $Hg$.
+\textit{Answer.} If the linear transformation degenerates, then the image can be a point or a line segment. Consider else the action of $\GL_2(\R)$. Each element $\sigma$ maps $(x,y)^T$ to $\sigma(x,y)^T$ and then
+$$
+x^2+y^2=\begin{pmatrix}
+x & y
+\end{pmatrix}
+\begin{pmatrix}
+1 & 0 \\ 0 & 1
+\end{pmatrix}
+\begin{pmatrix}
+x \\ y
+\end{pmatrix}\ \mapsto \ \begin{pmatrix}
+x & y
+\end{pmatrix} \sigma^T
+\begin{pmatrix}
+1 & 0 \\ 0 & 1
+\end{pmatrix} \sigma
+\begin{pmatrix}
+x \\ y
+\end{pmatrix}.
+$$
+Here the new quadratic form is defined by a positive-definite matrix $\sigma^T\sigma$, and hence defines an ellipse.
 
-%--------------------------
+\miquestion {\color{blue} Explain geometrically how you diagonalize a real quadratic form.}
 
-\miquestion
-{\color{blue} Find all normal subgroups of $A_4$.}
-
-\textit{Solution.} Note that $\#A_4=12$. By Sylow's Theorem, $n_2=1$ and either $n_3=1$ or $n_3=4$. Only the latter is possible because we obtain 3 elements of order 2 or 4, and 8 elements of order 3. \vspace{-4pt}
+\textit{Explanation.} For a real quadratic form $p(x,y)=Ax^2+2Bxy+Cy^2$ defined by real symmetric matrix $A$ (which is always diagonalizable), we have to real eigenvalues $\lambda_{1,2}$ such that $\lambda_1\lambda_2=\det A=AC-B^2=-\Delta/4$. Then there are three types from the aspect of affine geometry: \vspace{-6pt}
 \begin{itemize}
-    \item Order 4: $\{1,(12)(34),(13)(24),(14)(23)\}=K$, Klein 4-group.
-    \item Order 3: $\{1,(234),(243)\}$, $\{1,(134),(143)\}$, $\{1,(124),(142)\}$, $\{1,(123),(132)\}$.
-    \item Order 2: $\{1,(12)\}$, $\{1,(13)\}$, $\ldots$
-\end{itemize}
+\item[(1)] $\Delta<0$ and $\det A>0$: $p$ defines an ellipse. \vspace{-4pt}
 
-%--------------------------
+\item[(2)] $\Delta=0$ and $\det A=0$: $p$ defines a parabola. \vspace{-4pt}
 
-\miquestion
-{\color{blue} Give an example of a non-normal subgroup. Is $\operatorname{SO}_2(\R)$ normal inside $\operatorname{SL}_2(\R)$?}
-
-\textit{Example.}
-In $S_3$, $n_2=3$ and the order 2 subgroup $\{1,(12)\}$ is not normal.
-
-\textit{Answer.} 
-$\operatorname{SO}_2(\R)$ is normal. Apply {\color{violet}\textbf{Iwasawa decomposition}} to $\operatorname{SL}_2(\R)=KAN$:
-$$
-\forall g\in \operatorname{SL}_2(\R),\quad g=kan=\begin{pmatrix}\cos \theta & -\sin \theta \\ \sin \theta & \cos \theta
-\end{pmatrix} \begin{pmatrix}r & 0\\ 0 & 1/r\end{pmatrix} \begin{pmatrix}1 & x\\ 0 & 1\end{pmatrix},\quad r>0.
-$$
-It means that the geometric action of $\operatorname{SL}_2(\R)$, on $\mathbb{H}$, for example, can be decomposed into a shearing, a stretching that preserves areas, and a rotation.
-
-{\color{violet}
-\textit{Fact.} For sufficiently nice continuous group action $G\times X\to X$ on a locally compact and Hausdorff topological space, choosing $x\in X$, the orbit map
-$$
-G/\operatorname{Stab}_G (x)\longrightarrow G.x
-$$
-is a homeomorphism.
-}
-
-\textit{Alternative Answer.}
-Using the proceeding fact: note that $\operatorname{SL}_2(\R)$ has a transitive action towards $x=i\in \mathbb{H}=X$, and $\operatorname{Stab}_{\operatorname{SL}_2(\R)} (i)=\operatorname{SO}_2(\R)$. This construction naturally gives $\operatorname{SL}_2(\R)/\operatorname{SO}_2(\R)\cong \mathbb{H}$. The normality is automatically implied.
-
-%--------------------------
-
-\miquestion
-{\color{blue} Is normality transitive? That is, is a normal subgroup of a normal subgroup normal in the biggest group?}
-
-\textit{Answer.} No. Say $K\triangleleft H$ and $H\triangleleft G$. Then $G-H$ preserves $H$ but not necessarily preserves $K$.
-
-\textit{Counterexample.} A typical situation is when $H$ is abelian, e.g. 
-$$
-G=(\Z/p\Z)^{2} \rtimes S_{2},\quad H=(\Z/p\Z)^{2};
-$$
-here the semi-direct product is by letting $S_{2}$ to permute the two factors. If we take $K$ to be the first factor $\Z/p\Z$ of $H$, then $K$ is clearly normal in $H$ yet not normal in $G$.
-
-%--------------------------
-
-\miquestion
-{\color{blue} Define solvable group. Give an example of a solvable nonabelian group. Show $S_4$ is solvable. Do the Sylow theorems tell you anything about whether the index 3 subgroup of $A_4$ is normal?}
-
-\textit{Answer.} $G$ is solvable if it has a subnormal series $G=G_{0} \geq G_{1} \geq \cdots \geq G_{n}=1$, where each $G_i/G_{i+1}$ is abelian. $S_4$ is nonabelian but solvable, because $S_{4} \triangleright A_{4} \triangleright K \triangleright 1$, with quotients
-$$
-S_{4} / A_{4} \cong \Z / 2\Z, \quad A_{4} / K \cong \Z / 3\Z,\quad K \cong \Z / 2 \times \Z / 2.
-$$
-By Sylow, $n_2=1$ so $K$ is normal.
-
-%--------------------------
-
-\miquestion
-{\color{blue} Define lower central series, upper central series, nilpotent and solvable groups.}
-
-\textit{Answer.} Lower central series is $G=G_0\geq G_1 \cdots \geq G_{n}\geq \cdots$, where $G_{i+1}=[G,G_i]=[G_i,G]$. Upper central series is $1=Z_{0} \leq Z_{1} \leq Z_{2} \leq \ldots \leq Z_{n} \leq \ldots$, such that $Z_{1}=C(G)$, and for $n>1$, $Z_{n}$ is the unique subgroup of $G$ such that $Z_{n} / Z_{n-1}=C(G / Z_{n-1})$.
-
-If the upper central series terminate with $G$, then $G$ is called nilpotent. If the lower central series terminate with $1$, then $G$ is called solvable.
-
-%--------------------------
-
-\miquestion
-{\color{blue} Define the commutator. Define the derived series. State and prove two nontrivial theorems about derived series.}
-
-\textit{Answer.} For elements $g,h\in G$ the commutator is $[g,h]=g^{-1}h^{-1}gh$. The derived series of a group is a sequence of subgroups defined recursively: the first term of the series is just the group itself, and each successive term is defined as the commutator subgroup of the previous term, i.e. $G^{(0)}=G$ and $G^{(n)}=[G^{(n-1)},G^{(n-1)}]$ for $n\in\mathbb{N}$. 
-
-\textit{Results.} We have two significant results about solvability: \vspace{-4pt}
-\begin{itemize}
-\item Say $G$ is solvable if and only if it has a finite derived series that terminates in the trivial subgroup, i.e. $G^{(n)}=G^{(n+1)}=\{1\}$ for some $n\gg 0$.
-\item If $N$ is a normal subgroup of $G$ and both $N$ and $G/N$ are solvable, then so also is $G$. If $H$ is any subgroup of $G$ then $H^{(i)}\leq G^{(i)}$.
+\item[(3)] $\Delta>0$ and $\det A<0$: $p$ defines a hyperbola.
 \end{itemize}
 
 
-%--------------------------
+\miquestion {\color{blue} Do you know Witt's theorem on real quadratic forms?}
 
-\miquestion
-{\color{blue} Prove that $\operatorname{SL}_2(\Z)$ is not solvable.}
+\textit{Statement.} (Witt) Suppose $k$ is a field with $\operatorname{char}(k)\neq 2$. Let $V$ be a finite-dimensional $k$-vector space equipped with a skew-symmetric bilinear form $B:(u,v)\mapsto u^T B v$, i.e., $B^T=-B$. Then for any subspace $W$ of $V$, an arbitrary isometry $f:W\to W$ on $W$ extends to $\tilde f:V\to V$. (Recall that an isometry is a bijection that preserves the distance defined by the inner product with respect to $B$.)
 
-\textit{Proof.} It contains the Sanov subgroup
-$$
-S=\left\langle \begin{pmatrix}1&2\\0&1\end{pmatrix},\begin{pmatrix}1&0\\2&1\end{pmatrix}\right\rangle,
-$$
-which is free of rank 2, hence is not solvable (given by {\color{violet}\textbf{Ping-Pong Lemma}}).
+\miquestion {\color{blue} Classify real division algebras.}
 
-{\color{violet}
-\textit{Lemma.} If $G$ acts on a set $X$, and $a, b \in G$ and $A, B \subseteq X$ are such that neither $A$ nor $B$ is contained in the other. Suppose that $b^{n}(A) \subseteq B$ and $a^{n}(B) \subseteq A$ for all $n\neq 0$. Then $\langle a,b \rangle$ is a free subgroup of $G$. Here we take $G=\operatorname{SL}_2(\Z)$, $X=\Z^2$, $A=\{(x,y):|y|>|x|\}$, $B=\{(x,y):|x|>|y|\}$.
-}
+\textit{Answer.} Under the finite-dimensional assumption, it can be $\R$, $\C$, or $\mathbb{H}$ (see Question 49 in Set VI).
 
-%--------------------------
+\miquestion {\color{blue} Consider the simple operator on $\mathbb{C}$ given by multiplication by a complex number. It decomposes into a stretch and a rotation. What is the generalization of this to operators on a Hilbert space?}
 
-\miquestion
-{\color{blue} What are all possible orders of elements of $\operatorname{SL}_2(\Z)$?}
+{\color{violet}\textit{Proposition.} Let $A$ be a bounded linear operator between Hilbert spaces, then $A=UP$ for some partial isometry $U$ and non-negative self-adjoint operator $P$. Moreover, the initial space of $U$ is the closure of the range of $P$.}
 
-\textit{Solution.} The fact is that $\operatorname{SL}_2(\Z)=\langle S,T\rangle$, where
-$$
-S=\begin{pmatrix} 0 & -1 \\ 1 & 0\end{pmatrix},\quad T=\begin{pmatrix} 1 & 1 \\ 0 & 1\end{pmatrix}.
-$$
-Here $S^2=-I$ and $S$ has order 4, while $T$ has infinite order but $ST$ has order 6. So all possible orders are factors of 12. In fact, every group homomorphism $\operatorname{SL}_2(\Z)\to \mathbb{C}^\times$ has image in $\mu_{12}$.
+\textit{Answer.} The desired analogue is the {\color{violet}\textbf{Polar Decomposition}} as follows, dictating that each bounded linear operator between Hilbert spaces can decompose into an isometry (which preserves distance) and a non-negative operator (which scales distances).
 
-%--------------------------
+\miquestion {\color{blue} Do you know about singular value decomposition?}
 
-\miquestion
-{\color{blue} Can you show that all groups of order $p^n$ for $p$ prime are solvable? Do you know how to do this for groups of order $p^rq^s$?}
-
-\textit{Proof.} For $n=1$, $G$ is cyclic and abelian. And all abelian groups are solvable. Assume groups of order $p^k$ are solvable for all $k<n$. Let $G$ be of order $p^n$. By Question 13 below, $|Z(G)|>1$, so $|Z(G)|=p^{n-m}$ with $|G/Z(G)|=p^m$ for $m<n$, and hence both $Z(G)$ and $G/Z(G)$ are solvable. Since $Z(G)$ is normal in $G$, by the second theorem in Question 8, we see $G$ is solvable. 
-
-\textit{Comment.} The second statement is Burnside's theorem, which has a classical proof using representation theory. The sketch is as follows: \vspace{-4pt}
+\textit{Explanation.} The singular value decomposition of an $m\times n$ matrix $M$ over $\C$ is read as $M=U\Sigma V^*$, where $U$ is an $m\times m$ unitary matrix, $V$ is an $n\times n$ unitary matrix, and $\Sigma$ is an $m\times n$ rectangular unitary matrix. More precisely, \vspace{-6pt}
 \begin{itemize}
-\item $G$ is simple with $Z(G)=\{1\}$.
-\item There is some $g\in G$ with exactly $q^d$ conjugates for $d>0$.
-\item There exists a nontrivial irreducible representation $\rho$ with character $\chi$, such that $q\nmid \dim \rho$ and $\chi(g)\in\C\backslash\{0\}$.
-\item $\rho(g)$ is homothety, and hence $\rho(g)$ is central in $\rho(G)$, but $g\notin Z(G)$.
-\end{itemize}
-\vspace{-4pt}
-Recently, there arises a purely group-theoretic but more complicated proof.
+\item columns of $V$ are eigenvectors of $M^*M$; \vspace{-4pt}
+\item columns of $U$ are eigenvectors of $MM^*$; \vspace{-4pt}
+\item singular values on the diagonal of $\Sigma$ are non-negative square roots of eigenvalues of $MM^*$ and $M^*M$.
+\end{itemize} \vspace{-6pt}
+The geometric content of the SVD theorem can thus be summarized as follows: for every linear map $T:\C^n \to \C^m$ one can find orthonormal bases of $\C^n$ and $\C^m$ such that $T$ maps the $i$th basis vector of $\C^n$ to a non-negative multiple of the $i$th basis vector of $\C^m$, and sends the left-over basis vectors to zero. With respect to these bases, the map T is therefore represented by a diagonal matrix with non-negative real diagonal entries.
 
-%--------------------------
 
-\miquestion
-{\color{blue} Suppose a $p$-group $G$ acts on a set $S$ whose cardinality is not divisible by $p$. Prove that there is a fixed point for the action.}
+\miquestion {\color{blue} What are the eigenvalues of a symmetric matrix?}
 
-\textit{Proof.} Suppose not, and then each orbit of $S$ under the action of $G$ has at least two elements. By orbit-stabilizer formula, the size of orbits must divide $|G|$, hence is divided by $p$. Note that all these orbits are disjoint such that $|X|$ is a sum of powers of $p$, which leads to a contradiction.
+\textit{Answer.}
+All eigenvalues of a real symmetric (and hence Hermitian) matrix  must be real; moreover, a symmetric matrix can always be diagonalized orthogonally. The result for a general symmetric (e.g. yet not necessarily Hermitian) matrix is possibly unclear. 
 
-\miquestion
-{\color{blue} Prove that the centre of a group of order $p^r$ is not trivial.}
+\textit{Addendum.} All eigenvalues of an $n\times n$ skew-Hermitian matrix (i.e., $A^*=-A$) are either zero or purely imaginary. Furthermore, $\det A$ is purely imaginary or zero when $n$ is odd, and is real when $n$ is even.
 
-{\color{violet}
-\textit{Proposition.} (Center-counting formula) Define $Z(g):=\{s\in G: sg=gs\}$ as the centralizer of $g\in G$. Let $C_1,\ldots,C_n$ be conjugacy classes of $G$ whose representatives are $g_1,\ldots,g_n$. Note that $|C_i|=[G:Z(g_i)]$, and $g_i\in Z(G)=\{g\in G: sg=gs,\forall s\in G\}$ if and only if $|C_i|=1$. Therefore,
+As for a comparison to the real case, recall that a square matrix is Hermitian if and only if it is unitarily diagonalizable with real eigenvalues. 
+
+\miquestion {\color{blue} What can you say about the eigenvalues of a skew-symmetric matrix?}
+
+\textit{Answer.} See Question 8 above. Every skew-symmetric matrix has either zero or purely imaginary eigenvalues. In particular, real skew-symmetric matrix are Hermitian. To prove this, suppose $Av=\lambda v$ with $v\in \C^n$ and take $(\cdot)^*$ on both sides of $v^* Av=\lambda v^*v$, where $v^*v\in \R$.
+
+
+\miquestion {\color{blue} Prove that the eigenvalues of a Hermitian matrix are real and those of a unitary matrix are unitary.}
+
+\textit{Proof.} For the first part, use the same strategy as in Question 8. The second part means to say for a unitary matrix $U$, there is a unitary $P$ such that $P^*UP=D=\operatorname{diag}(\lambda_1,\ldots,\lambda_n)$ with $|\lambda_i|=1$. We only do prove for $n=2$ and the same argument can be used for the induction. Assuming the existence of $P$, it is easy to see
 $$
-|G|=\sum_{i=1}^{r}[G: Z(g_{i})]=\sum_{i=1}^{r} \frac{|G|}{|Z(g_{i})|}=|Z(G)|+\sum_{j\in J}\frac{|G|}{|Z(g_{j})|},
+D^*D=\begin{pmatrix}
+\lambda_1^*\lambda_1 & 0 \\ 0 & \lambda_2^*\lambda_2
+\end{pmatrix}=(P^*UP)^*(P^*UP)=P^*(U^*(PP^*)U)P=I.
 $$
-where the index set $J=\{1\leq j\leq n: |C_j|>1\}$. 
-}
+As for the existence of $U$, c.f. Question 11 below. 
 
-\textit{Proof.} Suppose $|G|=p^r$, and note that $[G:Z(g_j)]\mid p^r$ deduces $p\mid [G:Z(g_j)]$ for $j\in J$. This shows that $|Z(G)|>1$.
 
-%--------------------------
+\miquestion {\color{blue} Prove that unitary matrices can be diagonalized by unitary matrices.}
 
-\miquestion
-{\color{blue} Give examples of simple groups. Are there infinitely many?}
-
-\textit{Answer.} It turns out that $A_n$ for all $n\geq 5$ are simple. Hence there are infinitely many simple groups. See Question 21 for proof.
-
-\miquestion
-{\color{blue} State and prove the Jordan--H\"older theorem for finite groups.}
-
-\textit{Statement.} The composition series of $G$ is unique up to ``quotient permutations''. That is, if
+\textit{Proof.} Suppose the result is true for all unitary matrices of order $n-1$, and consider a unitary matrix $U=U_1$ of order $n$. Let $\lambda_1$ be an eigenvalue of $U$, and let $v_1$ be a unit eigenvector (scaled to have unity norm) associated with $\lambda_1$. Choose $V_1$ such that $P_1=\begin{pmatrix} v_1 & V_1 \end{pmatrix}$ is a unitary matrix. (Columns of $V_1$ complete $\{v_1\}$ to an orthonormal basis for $\C^{n \times 1}$.) Then $v_1^* V_1=0$ and $V_1^* v_1=0$ from which we obtain
 $$
-\{e\}=G_{0} \triangleleft G_{1} \triangleleft \cdots \triangleleft G_{r}=G,\quad \{e\}=\widetilde{G}_{0} \triangleleft \widetilde{G}_{1} \triangleleft \cdots \triangleleft \widetilde{G}_{s}=G
+P_1^* U_1 P_1 =\begin{pmatrix}
+v_1^* \\
+V_1^*
+\end{pmatrix} U_1 \begin{pmatrix} v_1 & V_1 \end{pmatrix} =\begin{pmatrix}
+\lambda_1 v_1^* v_1 & \lambda_1^* v_1^* V_1 \\
+\lambda_1 V_1^* v_1 & V_1^* U_1 V_1
+\end{pmatrix}=\begin{pmatrix}
+v_1^* U_1 v_1 & v_1^* U_1 V_1 \\
+V_1^* U_1 v_1 & V_1^* U_1 V_1
+\end{pmatrix}
 $$
-are both composition series for $G$ (that means the factors, i.e. quotients of successive two subgroups, in both series are simple groups) then $r=s$ and there is $\pi \in S_{r}$ such that $\widetilde{G}_{i} / \widetilde{G}_{i-1} \cong G_{\pi(i)} / G_{\pi(i)-1}$ for $1 \leq i \leq r$.
-
-\textit{Proof.} The ingredient is {\color{violet} \textbf{Schreier’s refinement theorem}}. If a group admits two composition series then Schreier’s says they can be refined to two normal series whose factor groups coincide up to isomorphism, counting multiplicity. The key feature of a composition series is that it can only be refined in a trivial way.
-
-%--------------------------
-
-\miquestion {\color{blue} What's Cayley's theorem? Give an example of a group of order $n$ that embeds in $S_m$ for some $m$ smaller than $n$. Give an example of a group where you have to use $S_n$.}
-
-\textit{Answer.} If $G$ admits an action on some set $X$ by left-multiplication, say $G\times X\to X$, then each $g\in G$ defines a permutation on $X$. Hence there is a natural map
+Since
 $$
-G\longrightarrow \operatorname{Sym}(X)\cong S_{|X|}.
+(P_1^* U_1 P_1)^*(P_1^* U_1 P_1)=P_1^* U_1^* P_1 P_1^* U_1 P_1=I,
 $$
-In particular, any finite group $G$ embeds into some permutation group $S_{|G|}$.
-
-\textit{Example.} Let $G$ be a group of order $n$ and $H\leq G$ be a subgroup of index $m$. Taking $X=G/H$ as the coset, we see
+we have
 $$
-G\longrightarrow \operatorname{Sym}(G/H)\cong S_m.
+\begin{pmatrix}
+\lambda_1^* \lambda_1 & 0 \\
+0 & U_2^* U_2
+\end{pmatrix}=\begin{pmatrix}
+1 & 0 \\
+0 & I
+\end{pmatrix}.
 $$
-Here $G$ embeds into $S_m$ for $m\leq n$. When $H=\{1\}$, we have to use $S_n$ instead of $S_m$.
-
-\miquestion {\color{blue} Is $A_4$ a simple group? What are the conjugacy classes in $S_4$? What about in $A_4$?}
-
-\textit{Answer.} $A_4$ is not simple because $V\cong \Z/2\Z\times \Z/2\Z$ is a normal subgroup in it. The 5 conjugacy classes in $S_4$ are represented by
-\begin{center}
-\begin{tabular}{c|ccccc}
-Representatives in $S_4$ & $(1)$ & $(12)(34)$ & $(12)$ & $(1234)$ & $(123)$ \\
-\hline Size of Classes in $S_4$ & 1 & 3 & 6 & 6 & 8
-\end{tabular}
-\end{center}
-Also, there are 4 conjugacy classes in $A_4$:
-\begin{center}
-\begin{tabular}{c|cccc}
-Representatives in $A_4$ & $(1)$ & $(12)(34)$ & $(123)$ & $(132)$ \\
-\hline Size of Classes in $A_4$ & 1 & 3 & 4 & 4
-\end{tabular}
-\end{center}
-Note that $(123)$ and $(132)$ are conjugate in $S_4$ whereas not in $A_4$.
-
-
-\miquestion {\color{blue} Talk about conjugacy classes in the symmetric group $S_n$.}
-
-{\color{violet}
-\textit{Fact.} For each cycle $(i_{1} \ i_{2} \ \cdots \ i_{k})$ in $S_{n}$ and each $\sigma \in S_{n}$,
+which implies that $\lambda_1^* \lambda_1=1$, that is, $\left|\lambda_1\right|^2=1$, and that $U_2$ is unitary. Let $U_2$ have the eigenvalues $\lambda_2, \ldots, \lambda_n$. Then they are also eigenvalues of $U=U_1$. Since $U_2$ is of order $n-1$, by induction hypothesis $\left|\lambda_2\right|^2=\cdots=|\lambda_n|^2=1$ and there exists a unitary matrix $P_2$ such that
 $$
-\sigma(i_{1} \ i_{2} \ \cdots \ i_{k}) \sigma^{-1}=(\sigma(i_{1}) \ \sigma(i_{2}) \ \cdots \ \sigma(i_{k})).
+P_2^* U_2 P_2=D_2=\operatorname{diag}(\lambda_2, \ldots, \lambda_n).
 $$
-
-\textit{Proposition.} All cycles of the same length in $S_n$ are conjugate. Any two permutations are conjugate in $S_n$ if and only if they share the same cycle type. For example,
+Let
+$$
+P=P_1\begin{pmatrix}
+1 & \\
+& P_2
+\end{pmatrix}.
+$$
+Then
 $$
 \begin{aligned}
-\pi_{1}&=(\underbrace{a_{1}\ a_{2}\ \cdots \ a_{m_{1}}}_{m_{1} \text { terms }})(\underbrace{a_{m_{1}+1}\ a_{m_{1}+2}\ \cdots \ a_{m_{1}+m_{2}}}_{m_{2} \text { terms }}) \cdots,\\
-\pi_{2}&=(\underbrace{b_{1}\ b_{2}\ \cdots\ b_{m_{1}}}_{m_{1} \text { terms }})(\underbrace{b_{m_{1}+1}\ b_{m_{1}+2}\ \cdots\ b_{m_{1}+m_{2}}}_{m_{2} \text { terms }}) \cdots
+P^* U P &=\begin{pmatrix}
+1 & \\
+& P_2^*
+\end{pmatrix} P_1^* U_1 P_1\begin{pmatrix}
+1 & \\
+& P_2
+\end{pmatrix} \\
+&=\begin{pmatrix}
+1 & \\
+& P_2^*
+\end{pmatrix}\begin{pmatrix}
+\lambda_1 & 0 \\
+0 & U_2
+\end{pmatrix}\begin{pmatrix}
+1 & \\
+& P_2
+\end{pmatrix} \\
+&=\begin{pmatrix}
+\lambda_1 & 0 \\
+0 & D_2
+\end{pmatrix}=D_1.
 \end{aligned}
 $$
-has the same type $(m_1,m_2,\ldots)$ so they are conjugate.
-}
-
-\miquestion {\color{blue} When do conjugacy classes in $S_n$ split in $A_n$?}
-
-\textit{Answer.} A conjugacy class in $S_n$ split in $A_n$ if and only if its cycle type consists of distinct odd integers. Otherwise, it remains a single conjugacy class in $A_n$. For example, in $S_3$, $(23)(123)(23)=(132)$, but $(123)$ and $(132)$ are not conjugate in $A_3$ because of $(23)\notin A_3$.
-
-\miquestion {\color{blue} What is the center of $S_n$? Prove it.}
-
-\textit{Answer.} Let's claim $Z(S_n)=\{1\}$. Suppose not and any nontrivial element $\sigma$ in it must commute with all transpositions. Since $\sigma$ has order at least 2, a non-disjoint transposition gives the contradiction.
-
-\miquestion {\color{blue} Prove that the alternating group $A_n$ is simple for $n \geq 5$.}
-
-\textit{Answer.} The proof is tedious and heavy. Refer to any group-theoretical reference. For example, see Theorem 1.1 of Keith Conrad's expository paper (available at \href{https://kconrad.math.uconn.edu/blurbs/grouptheory/Ansimple.pdf}{\color{blue}\texttt{https://kconrad.math.uconn.edu/blurbs/grouptheory/Ansimple.pdf}}).
 
 
-\miquestion {\color{blue} Prove the alternating group on $n$ letters is generated by the $3$-cycles for $n \geq 3$.}
+\textit{Remark.} As a corollary, real symmetric matrices can be diagonalized by orthogonal matrices. 
 
-\textit{Proof.} Note that the product of two transpositions (whether or not they are disjoint) is always a product of 3-cycles: 
-$$
-(a_{1} \ a_{2})(b_{1}\ b_{2})=(a_{1}\ b_{1}\ a_{2})(b_{1}\ b_{2}\ a_{1}).
-$$
-On the other hand, any $\sigma\in A_{n}$ can be written as a product of an even number of transpositions. Hence $\sigma$ is the product of 3-cycles. The converse direction is obvious.
 
-\miquestion {\color{blue} Prove that for $p$ prime, $S_p$ is generated by a $p$-cycle and a transposition.}
 
-\textit{Proof.} The key ingredient is the following fact. \vspace{-4pt}
+\miquestion {\color{blue} To which operators does the spectral theorem for symmetric matrices generalize?}
+
+\textit{Answer.} To self-adjoint operators on Hilbert spaces. \vspace{-4pt}
 \begin{itemize}
-\item[$\diamond$] For $1\leq a<b\leq n$, the transposition $(a \ b)$ and the $n$-cycle $(1\ 2 \cdots n)$ generate the group $S_n$ if and only if $(a-b,n)=1$.
-\end{itemize} \vspace{-4pt}
-An arbitrary $p$-cycle in $S_p$ can be written as $(1\ 2 \cdots p)$ by relabeling the objects being permuted (that means by applying an overall conjugation on $S_p$), so to show an arbitrary transposition and $p$-cycle generate $S_p$ it suffices to show each transposition and the specific $p$-cycle $(1\ 2 \ldots p)$ generate $S_p$. For a transposition $(a\ b)$ where $1 \leq a<b \leq p$, we have $(b-a, p)=1$, so $\langle(a\ b),(1\ 2 \cdots p)\rangle=S_p$ by the fact. 
+\item [(a)] (For symmetric matrices) If $A$ is Hermitian, then there exists an orthonormal basis of $V$ consisting of eigenvectors of $A$. Each eigenvalue is real.
+\item [(b)] (Generalized version) Suppose $A$ is a compact self-adjoint operator on a (real or complex) Hilbert space $V$. Then there is an orthonormal basis of $V$ consisting of eigenvectors of $A$. Each eigenvalue is real.
+\end{itemize}
+
+
+\miquestion {\color{blue} Given a skew-symmetric/skew-Hermitian matrix $S$, show that $U = (I+S)(I-S)^{-1}$ is orthogonal/unitary.}
+
+\textit{Proof.} We only work on $\C$ to show the rough idea. Recall that the spectrum of $S$ in contained in $i\R$ as all eigenvalues of a skew-Hermitian matrix are either purely imaginary or zero (see Question 9). Then the spectrum of $I-S$ cannot contain zero, and hence $A=I-S$ is nondegenerate and invertible. Note that $A^*=I+S$ by assumption. On the other hand, $A^*$ and $A$ are commutative as $(I+S)(I-S)=I-S^2$. Then
+$$
+(A^*A^{-1})^* A^*A^{-1}=(A^{-1})^* A A^* A^{-1}=(A^{-1})^* A^* A A^{-1}=(AA^{-1})^* AA^{-1}=I.
+$$
+
+\miquestion {\color{blue} If a linear transformation preserves a nondegenerate alternating form and has $k$ as an eigenvalue, prove that $1/k$ is also an eigenvalue.}
+
+\textit{Explanation.} A bilinear form $A$ on a vector space $V$ (over a field $k$) is called an alternating form if for all $v \in V$, $A(v, v)=0$. The matrix of $A$ essentially have the block form $\operatorname{diag}(r_1S,r_2S,\ldots,r_mS)$, where
+$$
+S=\begin{pmatrix}
+0 & 1 \\ -1 & 0
+\end{pmatrix}.
+$$
+
+\textit{Loose Proof.} Without loss of generality we suppose $\dim V=2$ and $A=S$. Then for such a linear transformation satisfying $P^TSP=S$, one can check this is equivalent to $\det P=1$. Once $P$ obtains an eigenvalue $k$, the other eigenvalue should be $1/k$.
+
+
+\miquestion {\color{blue} State/prove the Cayley--Hamilton theorem.}
 
 {\color{violet}
-\textit{Conclusion.} Various kinds of generating sets of some groups are listed below.
-\begin{center}
-\begin{tabular}{c|c|c}
-Group & Generating Set & Size of Generating Set \\
-\hline \multirow{6}*{$S_n (n \geq 2)$} & $(i \ j)$'s & $n(n-1)/2$ \\
-& $(1\ 2),(1\ 3), \ldots,(1\ n)$ & $n-1$ \\
-& $(1\ 2),(2\ 3), \ldots,(n-1\ n)$ & $n-1$ \\
-& $(1\ 2),(1\ 2 \cdots n)$ if $n \geq 3$ & 2 \\
-& $(1\ 2),(2\ 3 \cdots n)$ if $n \geq 3$ & 2 \\
-& $(a\ b),(1\ 2 \cdots n)$ if $(b-a, n)=1$ & 2 \\
-\hline \multirow{6}*{$A_n (n \geq 3)$} & 3-cycles & $n(n-1)(n-2)/3$ \\
-& $(1\ i\ j)$'s & $(n-1)(n-2)$ \\
-& $(1\ 2\ i)$'s & $n-2$ \\
-& $(i\ i+1\ i+2)$'s & $n-2$ \\
-& $(1\ 2\ 3),(1\ 2 \cdots n)$ if $n \geq 4$ odd & 2 \\
-& $(1\ 2\ 3),(2\ 3 \cdots n)$ if $n \geq 4$ even & 2 \\
-\hline $\mathrm{SL}_2(\Z)$ & $\begin{pmatrix}0 & -1 \\
-1 & 0\end{pmatrix},\begin{pmatrix}1 & 1 \\
-0 & 1\end{pmatrix}$ & 2 \\
-\hline $\mathrm{GL}_n(\R), \mathrm{SL}_n(\mathbb{R})$ & Elementary Matrices & $\infty$
-\end{tabular}
-\end{center}}
+\textit{Statement.} (Cayley--Hamilton) Over any field, matrices satisfy the equations given by their characteristic polynomials.}
 
-
-\miquestion {\color{blue} What is the symmetry group of a tetrahedron? Cube? Icosahedron?}
-
-\textit{Answer.} They are $S_4$, $S_4$ (which is exactly $\Aut(Q_8)$; see Set II, Question 13), and $S_5$, respectively.
-
-\miquestion {\color{blue} How many ways can you color the tetrahedron with $C$ colors if we identify symmetric colorings?}
-
-{\color{violet}
-\textit{Lemma.} (Burnside) The number of orbits of $G$ acting on a set $X$ is given by
+\textit{Proof.} Over an algebraically closed field $K$, use the Zariski topology on $M_n(K)\simeq \mathbb{A}_K^{n^2}$ and follow the recipe below.
+\begin{itemize}
+\item[(1)] Recall that all Zariski open sets are dense by definition. 
+\item[(2)] Denote $f_A$ by the characteristic polynomial of $A$. The set 
 $$
-|X/G|=\frac{1}{|G|}\sum_{g\in G}|X^g|,
+\{A\in M_n(K):f_A(A)=0\text{ for some }f\in K[x]\}=V(I)
 $$
-i.e. the average of invariant elements under the action of $G$.}
-
-\textit{Solution.} The set $X$ of all paintings of the tetrahedron by up to $C$ different colours has $C^4$ elements. Two equivalent paintings are differed by a $\sigma \in S_4$. Thus the number of different paintings is the number of orbits in $X$ under the action of the symmetry group of the cube. By Burnside's Lemma, 
+(for some ideal $I\subset K[x]$) is Zariski closed in $M_n(K)$ and contains all diagonalizable matrices with distinct eigenvalues.
+\item[(3)] The set for diagonalizable matrices with distinct eigenvalues is defined as 
 $$
-|X/S_4|=\frac{1}{24}(C^4+6C^3+11C^2+6C).
+\{A\in M_n(K):\operatorname{disc} f_A\neq 0\},
 $$
+which is Zariski open, and hence dense. 
+\item[(4)] Consequently, any closed set containing an open dense subset would also be the whole space.
+\end{itemize}
 
 
-\miquestion {\color{blue} What is the symmetry group of an icosahedron? What's the stabiliser of an edge? How many edges are there? How do you know the symmetry group of the icosahedron is the same as the symmetry group of the dodecahedron? Do you know the classification of higher-dimensional polyhedra?}
 
-\miquestion {\color{blue} Do you know what the quaternion group is? How many elements are there of each order?}
+\miquestion {\color{blue} Are diagonalizable $N \times N$ matrices over the complex numbers dense in the space of all $N \times N$ matrices over the complex numbers? How about over another algebraically closed field if we use the Zariski topology?}
 
-\textit{Answer.} By definition, the quaternion group
+\textit{Answer.} Yes. See Question 15 above. For general fields, use the same argument, by base extension of the field to its algebraic closure and using the fact that diagonalizable matrices are Zariski dense in the space of all matrices.        
+
+\miquestion {\color{blue} For a linear ODE with constant coefficients, how would you solve it using linear algebra?}
+
+\textit{Answer.} Formally, we obtain the solution of the initial value problem $X'=AX$ with initial data $X(t_0)=(c_1,c_2)^T$ as \vspace{-4pt}
 $$
-Q_8:=\langle i,j: i^2=j^2=-1, i j i^{-1} =j^{-1}\rangle.
+e^{A(t-t_0)} X(t_0), \vspace{-4pt}
 $$
-The $Q_8$ is not a semidirect product, but it is a quotient of a semidirect product. Let $H=\Z/4\Z\rtimes \Z/4\Z$ with $(a,b)(c,d)=(a+(-1)^b c,b+d)$. Then $(2,2)\in Z(H)$ has order 2. It turns out that $Q_8\cong H/\langle (2,2) \rangle$.
-
-From this, we know $Q_8$ is generated by two cyclic subgroups of order 4. Say $k=i j$ and there are 6 elements of order 4: $i^{\pm 1}, j^{\pm 1}, k^{\pm 1}$; the only element of order 2 is $i^2=j^2=k^2=-1$.
-
-\miquestion {\color{blue} What is the group of unit quaternions topologically? What does it have to do with $\SO(3)$?}
-
-\textit{Answer.} Over $\C$, the group of unit quaternions is given by 
+where for a given matrix $A$, the exponential $e^A$ is defined as \vspace{-4pt}
 $$
-\{a+bi+cj+dk:a,b,c,d\in\C,\ a^2+b^2+c^2+d^2=1\}.
-$$ 
-Topologically, it is homeomorphic to $\mathbb{S}^3\subset \C^4$. There is a natural surjective homomorphism to $\SO(3)$ with kernel $\{\pm 1\}$. There is a short exact sequence
+e^A=I+A+\frac{A^2}{2}+\cdots +\frac{A^n}{n!}+\cdots. 
 $$
-1\to \{\pm 1\}\to \mathbb{S}^3\to \SO(3)\to 1,
+Explicitly, take the case $n=2$ for example. For $X'=AX$ we suppose $\lambda_{1,2}$ are eigenvalues of $A$ and $v_{1,2}$ are corresponding eigenvectors (not necessarily real). \vspace{-6pt}
+\begin{itemize}
+\item When $\lambda_{1,2}$ are real and $A$ is diagonalizable, 
 $$
-meaning that the group of unit quaternions is a double cover of $\SO(3)$, i.e. $\mathbb{S}^3$ is a two-sheeted covering space of $\SO(3)$.
-
-\textit{Remark.} The group of unit quaternions can be viewed as $\Sp(1)$ or $\SU(2)$. In fact, the Lie algebra of $\Sp(1)$ is isomorphic to those of $\SO(3)$ and $\SU(2)$. The mappings between $\Sp(1)$, $\SU(2)$ and $\SO(3)$ are locally isomorphisms since their Lie algebras are isomorphic.
-
-\miquestion {\color{blue} What's the stabilizer of a point in the unit disk under the group of conformal automorphisms?}
-
-\textit{Solution.} Denote $\mathbb{D}$ the open unit disk. For any $f \in \operatorname{Aut}(\mathbb{D})$, there are some $\theta \in \mathbb{R}$ and $\alpha \in \mathbb{D}$ such that
+X(t)=c_1e^{\lambda_1 t}v_1+c_2e^{\lambda_2 t}v_2.
 $$
-f(z)=e^{i \theta} \cdot \frac{\alpha-z}{1-\overline{\alpha} z}, \quad \forall z \in \mathbb{D}.
+\item When $\lambda_{1}=\lambda_2=\lambda$ and $A$ is not diagonalizable, 
 $$
-It turns out that the second factor is an involution. For a fixed $z\in \mathbb{D}$ and $\theta\in \R$, we can choose $\alpha=2e^{-i\theta}z/(1+|z|^2)$ to get $f(z)=z$. Hence it is parameterized by $\mathbb{S}^1$. In particular, for $z=0$, we get $f(z)=e^{i\theta}\alpha$ with $\alpha=0$, for which $e^{i\theta}$ can be chosen arbitrarily on $\mathbb{S}^1$. 
-
-
-\miquestion {\color{blue} What group-theoretic construct relates the stabilizers of two points?}
-
-\textit{Answer.} It's conjugate, by definition (since two stabilizers are conjugate to each other).
-
-\miquestion {\color{blue} Consider $\SL_2(\R)$ acting on $\R^2$ by matrix multiplication. What is the stabiliser of a point? Does it depend which point? Do you know what sort of subgroup this is? What if $\SL_2(\R)$ acts by M\"{o}bius transformations instead?}
-
-\textit{Answer.} For example, we may compute
+X(t)=c_1e^{\lambda t}v_1+c_2(te^{\lambda t}v_1+e^{\lambda t}v_2),
 $$
-\operatorname{Stab}_{\SL_2(\R)}(1,0)=\left\{\begin{pmatrix}
-1 & a \\ 0 & b
-\end{pmatrix}: a,b\in \R \right\}
+where $(A-\lambda I)v_1=(A-\lambda I)^2 v_2=0$, $(A-\lambda I)v_2=v_1$.
+\item When $\lambda_{1,2}=\alpha\pm i\beta$ with $v_{1,2}=u\pm iw$,
 $$
-for the fixed point $(1,0)$. Indeed, this is one of Borel subgroups (i.e., the maximal Zariski closed, connected, and solvable algebraic subgroups) of $\SL_2(\R)$. Its explicit type depends on the point we choose, but the stabilizer is Borel for all points. $\SL_2(\R)$ acts by M\"{o}bius transformations on $\mathbb{H}$ by
+X(t)=c_{1} e^{\alpha t}((\cos \beta t) u-(\sin \beta t) w)+c_{2} e^{\alpha t}((\sin \beta t) u+(\cos \beta t) w).
 $$
-\gamma=\begin{pmatrix}
-a & b \\ c & d
-\end{pmatrix}: z\longmapsto \frac{az+b}{cz+d},\quad \gamma\in \SL_2(\R).
+\end{itemize}
+
+
+\miquestion {\color{blue} What can you say about the eigenspaces of two matrices that commute with each other?}
+
+\textit{Answer.} For two matrices that commute mutually, one fixes all eigenspaces of another. If they happen to be diagonalizable, they can be diagonalized by the same matrix simultaneously.
+
+\miquestion {\color{blue} What is a Toeplitz operator?}
+
+\textit{Answer.} A Toeplitz operator acting on the Hilbert space $L^2$ is defined by a two-sided complex sequence $(a_n)_{n=-\infty}^\infty$. It can be realized as a diagonal-constant matrix looking like
+$$
+T=\begin{pmatrix}
+a_{0} & a_{-1} & a_{-2} & \cdots \\
+a_{1} & a_{0} & a_{-1} & \ddots \\
+a_{2} & a_{1} & a_{0} & \ddots \\
+\vdots & \ddots & \ddots & \ddots
+\end{pmatrix}.
 $$
 
-\miquestion {\color{blue} What are the polynomials in two real variables that are invariant under the action of $D_4$, the symmetry group of a square, by rotations and reflections on the plane that the two variables form?}
+\textit{Punchline.} Recall that the spectrum of $T$ is $\{\lambda\in \C: \det (T-\lambda I)=0\}$. Then every Toeplitz operator has connected spectrum, and those $T-\lambda I$ are not invertible modulo the compact operators.
 
-\textit{Solution.} Consider the action of $D_4$ on the square with vertices $(\pm 1,0),(0,\pm i)$ over $\C\cong \R^2$. Since $D_4$ is generated by two elements $(x,y)\mapsto (y,x)$ and $(x,y)\mapsto (ix,iy)$, the polynomials $f(x,y)\in \C[x,y]$ such that $f(x,y)=f(y,x)$ and $f(x,y)=f(ix,iy)$ are the desired, for example, $x^4+y^4$ and $(x^2-y^2)^2$.
+\miquestion {\color{blue} What is the number of invertible matrices over $\Z/p\Z$?}
 
-
-\miquestion {\color{blue} Give an interesting example of a subgroup of the additive group of the rationals.}
-
-\textit{Boring Example.} All the rationals with a fixed denominator (and hence this subgroup can be realized as $\Z\hookrightarrow \Q$).
-
-\textit{Interesting Example.} The following is an additive subgroup of $\Q$:
+\textit{Solution.} Consider a matrix in $\GL_n(\Z/p\Z)$ from the first column. It has $p^n-1$ nonzero choices, and the 2nd column has $p^n-p$ choices because it is linearly independent from the first choice. Do this in iteration to get
 $$
-H=\{a/b\in \Q:b\neq 0,a+b\equiv 0\bmod 2\}.
+|\GL_n(\Z/p\Z)| = \prod_{i=0}^{n-1} (p^n-p^i).
 $$
-Check that $-a/b\in H$ because of $-a+b=a+b-2a\equiv 0 \bmod 2$.
-
-
-
-\miquestion {\color{blue} Talk about the isomorphism classes of subgroups of $\Q$. How many are there? Are the ones you've given involving denominators divisible only by certain primes distinct? So that gives you the cardinality. Are these all of them?}
-
-\textit{Answer.} There is only one nontrivial isomorphism class for $(\Q,+)$, and the other one is $\{0\}$. To show this, let $H,K$ be two subgroups and $h,k$ be nonzero elements. A group isomorphism can be given by $x\mapsto kx/h$. The class can be represented by any subset $S$ of primes corresponding to $\Q[\frac{1}{S}]$, the set of $\Q$ whose denominators are divisible by no primes outside of $S$. They are not distinct with intersection $\Z$ involved. These are indeed not all of them.
-
-
-
-\miquestion {\color{blue} Is the additive group of the reals isomorphic to the multiplicative group of the positive reals? Is the same result true with reals replaced by rationals?}
-
-\textit{Answer.} Yes, an isomorphism is given by
-$$
-(\R,+)\to (\R_{>0},\times),\quad x\mapsto e^x.
-$$
-However, the result does not hold for $\Q$, because $(\Q,+)$ contains elements of finite order (i.e. for some $x\in \Q$ we have $nx=0$ with $n\in \mathbb{N}$), while nontrivial element of $(\Q_{>0},\times)$ have the infinite order.
-
-\miquestion {\color{blue} What groups have nontrivial automorphisms?}
-
-\textit{Answer.} For example, any non-abelian group has nontrivial inner automorphisms. (An inner automorphism of a group $G$ is $x \mapsto g^{-1}xg$ for $g \in G$. If $G$ is non-abelian, then there exists some $g \in G$ such that $gx \neq xg$ for some $x \in G$.) Another example of a group with nontrivial automorphisms is the cyclic group of order $n>2$.
-
-\miquestion {\color{blue} A subgroup $H$ of a finite group $G$ that meets every conjugacy class is in fact $G$. Why is that true?}
-
-\textit{Proof.} Note that 
-$$
-N=\bigcap_{g\in G} gHg^{-1}
-$$
-is the largest normal subgroup of $G$ contained in $H$. The normality is easy to check. It is the largest because for another $N_0\triangleleft G$ such that $N_0\subset H$, $N_0=g N_0 g^{-1}\subset gHg^{-1}$ for all $g\in G$, and hence $N_0\subset N$. Since $H$ meets all conjugacy classes, so also does $N$. But for a normal subgroup, once it contains an element in some conjugacy class, it must involve the whole conjugacy class. Therefore, $N=G\subset H$.
-
-\miquestion {\color{blue} Let $G$ be the group of invertible $3 \times 3$ matrices over $\F_p$, for $p$ prime. What does basic group theory tell us about $G$? How many conjugates does a Sylow $p$-subgroup have? Give a matrix form for the elements in this subgroup. Give a matrix form for the normalizer of the Sylow $p$-subgroup.}
-
-\textit{Answer.} For $G=\GL_3(\F_p)$, it has order $(p^3-1)(p^3-p)(p^3-p^2)=p^3(p-1)^3(p+1)(p^2+p+1)$. By Sylow's theorems, there is a Sylow $p$-subgroup of order $p^3$ in $G$, and $n_p\equiv 1\bmod p$ with $n_p\mid (p-1)^3(p+1)(p^2+p+1)$. It turns out that $n_p=(p+1)(p^2+p+1)$. A Sylow $p$-subgroup of $G$, say $U$, is given by upper triangular matrices with all 1's on the diagonal. The number of conjugacy classes is equal to the index of its normalizer. In fact, the normalizer is $B_n(\F_p)$, the Borel subgroup of all upper triangular invertible matrices. The following argument shows this.
-
-{\color{teal} \textit{Addendum.} Consider a map $B_n(\F_p)\to B_n(\F_p)$ sending a matrix to a diagonal matrix by simply forgetting other items. This is in fact a homomorphism whose kernel is $U$, which is normal in $B_n(\F_p)$. Suppose $g\in G$ normalizes $U$. By Bruhat decomposition $g=b_1wb_2$ for some $b_1,b_2\in B_n(\F_p)$ and $w$ is a permutation matrix. Since $g$ and $b_1,b_2$ normalize $U$, so also does $w=b_1^{-1}gb_2^{-1}$. An easy matrix computation shows that the only permutation matrix normalizing $U$ is $I_n$. Hence $g=b_1b_2\in B_n(\F_p)$. On the other hand, we are able to find the order of the normalizer $B_n(\F_p)$ as well as its index in $G$.}
-
-
-
-
-
-\miquestion {\color{blue} Let's look at $\SL_2(\F_3)$. How many elements are in that group? What is its centre? Identify $\PSL_2(\F_3)$ as a permutation group.}
-
-{\color{violet}
-\textit{Fact.} The projective special linear groups $\PSL_n(\F_q):=\SL_n(\F_q)/Z(\SL_n(\F_q))$ is simple for all $n\geq 2$ and $\F_q$ except for $n=2$ and $q=2$ or 3. Indeed,
-$$
-\PSL_2(\F_2)\cong S_3,\quad \PSL_2(\F_3)\cong A_4,
-$$
-which are not simple but can be easily computed.}
-
-\textit{Solution.} By multiplicating $-1$ on the first row of any element in $\SL_2(\F_3)$, its determinant changes. This gives a bijection between those whose respective determinants are 1 and $-1$ in $\GL_2(\F_3)$. Therefore,
-$$
-|\SL_2(\F_3)|=\frac{1}{2}|\GL_2(\F_3)|=\frac{(3^2-1)(3^2-3)}{2}=24.
-$$
-In the sense of ``projective'', it is easy to check the center is given by those scalar matrices, i.e., $Z(\SL_2(\F_3))\cong \F_3^\times$.
-
-\miquestion {\color{blue} How many elements does $\GL_2(\F_q)$ have? How would you construct representations? What can you say about the $1$-dimensional representations? What can you say about simplicity of some related groups?}
-
-\textit{Answer.} There are $(q^2-1)(q^2-q)$ elements together with $(q-1)(q+1)$ conjugacy classes in $\GL_2(\F_q)$ (see Question 21 in Set IV). The representations of $\GL_2(\F_q)$ can be classified as follows.
-\begin{center}
-\begin{tabular}{c|ccc}
-Type & Example & Size & Representation\\
-\hline
-central & $\begin{pmatrix}
-x & 0 \\ 0 & x
-\end{pmatrix}$ & $q-1$ & 1-dimensional \\
-non-semisimple & $\begin{pmatrix}
-x & 1 \\ 0 & x
-\end{pmatrix}$ & $q-1$ & special\\
-split semisimple & $\begin{pmatrix}
-x & 0 \\ 0 & y
-\end{pmatrix}$ & $(q-1)(q-2)/2$ & regular principal series\\
-anisotropic semisimple & $\begin{pmatrix}
-* & * \\ * & *
-\end{pmatrix}$ & $(q^2-q)/2$ & supercuspidal
-\end{tabular}
-\end{center}
-Recall that ``anisotropic'' denotes the conjugacy classes whose eigenvalues lies properly in a (unique) quadratic extension of $\F_q$, and with Galois norm 1.
-
-\miquestion {\color{blue} A subgroup of a finitely-generated free abelian group is? A subgroup of a finitely-generated free group is? Prove your answers.}
-
-{\color{violet}
-\textit{Proposition.} Let $F$ be a free abelian group of rank $n$ and $H$ be a subgroup. Then there exists a basis $\{f_1,\ldots,f_n\}$ of $F$ and integers $d_1,\ldots,d_r \in \mathbb{N}$ with $r\leq n$ such that $d_i \mid d_{i+1}$ and
-$$
-\{d_1f_1,\ldots, d_r f_r\}
-$$
-is a basis of $H$ as a free abelian subgroup.
-
-\textit{Theorem.} (Nielsen--Schreier) Every subgroup of $H$ of a free group $F$ is free.}
-
-\textit{Answer.} In the free case, it is free as well and is generated by fewer generators. In the non-free case, it is free with unbounded generators.
-
-\textit{Proof Idea.} Consider covering spaces of a wedge product of loops. Note that finitely generated torsion free abelian implies free abelian.
-
-\miquestion {\color{blue} What are the subgroups of $\Z^2$?}
-
-\textit{Answer.} The question can be considered geometrically by viewing $\Z^2$ a full lattice of $\C$. Granting this, all subgroups of $\Z^2$ are generated by pairs of vectors $(a,b)$ and $(c,d)$ with $a,b,c,d\in\Z$. The index of such subgroup is $|ad-bc|$.
-
-\miquestion {\color{blue} What are the subgroups of the free group $F_2$? How many generators can you have? Can you find one with $3$ generators? $4$ generators? Countably many generators? Is the subgroup with $4$ generators you found normal? Why? Can you find a normal one?}
-
-\textit{Answer.} By definition, $F_2$ is generated by the words consisting of two non-commutative elements $a,b$ with $a^{-1},b^{-1}$. The subgroups of $F_2$ can be of any countable rank because there are countably infinitely many independent generators in $F_2$ to choose. An arbitrarily chosen subgroup is not necessarily normal, but we can take the normal closure to remedy this.
-
-
-
-\miquestion {\color{blue} Talk about the possible subgroups of $\Z \times \Z \times \Z$. Now suppose that you have a subgroup of $\Z \times \Z \times \Z$. What theorem tells you something about the structure of the quotient group?}
-
-\textit{Answer.} Like Question 42, any subgroup of $\Z \times \Z \times \Z$ is free and abelian of rank at most 3. Every group can be expressed as the quotient of a free group by a normal subgroup. Hence the quotient group can be essentially generated by at most 3 elements, and can have torsion structures. 
 
 \end{questions}
 
