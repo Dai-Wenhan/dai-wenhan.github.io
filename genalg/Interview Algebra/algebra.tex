@@ -2562,7 +2562,7 @@ is invariant under the action of $G$.
 $$
 f(v)=\frac{1}{|G|}\sum_{g\in G} g(\operatorname{pr}(g^{-1}(v)))
 $$
-is a $G$-invariant and $k$-linear automorphism on $V$, where $\operatorname{pr}: V\to W$ is the natural projection. It satisfies $f^2=f$, and by setting $W'=\ker f$, we obtain $V=W\oplus W'$.
+is a $G$-invariant and $k$-linear automorphism on $V$, where $\operatorname{pr}: V\to W$ is the natural projection. It satisfies $f^2=f$, and by setting $W'=\Ker f$, we obtain $V=W\oplus W'$.
 
 {\color{violet}
 \textit{Generalization.} Under the same assumption, the group algebra $k[G]$ is semisimple.}
@@ -2583,11 +2583,11 @@ If $\operatorname{char} k=p\mid |G|$, it turns out that $|G|=0$ and $f$ is not c
 
 In particular, every linear automorphism on $V$ that is irreducible over $\C$, commuting with $G$-actions, must be a scalar.}
 
-\textit{Proof.} For any $f\in \End_G(V)$, the condition that $f$ commutes with $G$-actions means both $\ker f$ and $\operatorname{im} f$ are $G$-invariant. Since $V$ is irreducible,
+\textit{Proof.} For any $f\in \End_G(V)$, the condition that $f$ commutes with $G$-actions means both $\Ker f$ and $\operatorname{im} f$ are $G$-invariant. Since $V$ is irreducible,
 $$
 \begin{aligned}
-\text{either }\quad & \ker f=0, \operatorname{im} f=V \quad \Longrightarrow \quad f \text{ is injective;}\\
-\text{or }\quad & \ker f=V, \operatorname{im} f=0 \quad \Longrightarrow \quad f=0.
+\text{either }\quad & \Ker f=0, \operatorname{im} f=V \quad \Longrightarrow \quad f \text{ is injective;}\\
+\text{or }\quad & \Ker f=V, \operatorname{im} f=0 \quad \Longrightarrow \quad f=0.
 \end{aligned}
 $$
 If $f$ is injective, it is naturally an isomorphism due to dimension reasons.
@@ -2710,7 +2710,11 @@ $$
 $$
 In other words, the functors $\Ind_H^G$ and $\Res_H^G$ are Hermitian adjoint.
 
-\miquestion {\color{red} Given a normal subgroup $H$ of a finite group $G$, we lift all the representations of $G/H$ to representations of $G$. Show that the intersection of the kernels of all these representations is precisely $H$. What can you say when $H$ is the commutator subgroup of $G$?}
+\miquestion {\color{blue} Given a normal subgroup $H$ of a finite group $G$, we lift all the representations of $G/H$ to representations of $G$. Show that the intersection of the kernels of all these representations is precisely $H$. What can you say when $H$ is the commutator subgroup of $G$?}
+
+\textit{Proof.} Since all irreducible representations of $G/H$ constitute the regular representation of $G/H$, it suffices to consider $\Ind_{G/H}^G \mathrm{reg}$. But its kernel is exactly $H$. 
+
+\textit{Answer.} When $H=[G,G]$ is the commutator subgroup, $G/H$ is abelian and every irreducible representation of it is 1-dimensional. The liftings of these characters to $G$ are decomposed into $\rho_H\otimes \chi_{G/H}$ and $H$ equals the intersection of all $\Ker \rho_H$.
 
 \miquestion {\color{blue} If you have two linear representations $\pi_1$ and $\pi_2$ of a finite group $G$ such that $\pi_1(g)$ is conjugate to $\pi_2(g)$ for every $g$ in $G$, is it true that the two representations are isomorphic?}
 
@@ -2963,6 +2967,13 @@ $\chi_{6}$ & 6 & 0 & $-2$ & 0 & 0 & 1 & 0
 
 \miquestion {\color{blue} Discuss representations of $\Z$, the infinite cyclic group. What is the group algebra of $\Z$? What is the connection with modules over PIDs? When is a representation of $\Z$ completely reducible? Why not always? Which are the indecomposable modules?}
 
+\textit{Answer.} Every infinite cyclic group is isomorphic to $\Z$. Each representation $\rho:\Z\to \GL(V)=\GL_1(\C)$ is determined by $\rho(1)\in\C$. So each such $\rho$ is characterized by a complex number $\rho(1)=z$. The group algebra 
+$$
+\C[\Z]=\left\{\sum_{n\in\Z} na_n\in\C:a_i\in\C,\ a_i=0\text{ for all but finitely many } i\in\Z\right\}.
+$$
+
+
+
 \miquestion {\color{blue} State Artin's theorem and Brauer's theorem.}
 
 {\color{violet}
@@ -3002,13 +3013,25 @@ A Lie algebra is a vector space $\mathfrak{g}$ equipped with a bilinear map $[\c
 
 \textit{Definition.} A representation $(\pi,V)$ of $G$ is unitary if $V$ is a complex Hilbert space and $\pi(g)$ is a unitary operator on $V$ for all $g\in G$.
 
-\textit{Statement.} Let $\pi$ be a unitary representation of a compact group $G$ on a complex Hilbert space $\mathcal{H}$. Then $\mathcal{H}$ splits into an orthogonal direct sum of irreducible finite-dimensional unitary representations of $G$.
+{\color{violet}
+\textit{Statement.} (Peter--Weyl) Let $\pi$ be a unitary representation of a compact group $G$ on a complex Hilbert space $\mathcal{H}$. Then $\mathcal{H}$ splits into an orthogonal direct sum of irreducible finite-dimensional unitary representations of $G$.}
 
 \textit{Corollary.} Every compact Lie group has a faithful finite-dimensional representation and is therefore isomorphic to a closed subgroup of $\GL_n(\C)$ for some $n$.
 
 \miquestion {\color{blue} What is the adjoint representation of a Lie algebra? What is the commutator of two vector fields on a manifold?}
 
+
+\textit{Answer.} The adjoint representation of a Lie algebra is a way of representing the elements of the Lie algebra as linear transformations of itself. This is done by associating each element $x$ of the Lie algebra with a linear transformation $\ad_x$ defined by $\ad_x(y) = [x,y]$, where $[x,y]$ denotes the Lie bracket of $x$ and $y$.
+
+The commutator of two vector fields on a manifold is another vector field defined by its action on functions. If $X$ and $Y$ are two vector fields on a manifold, then their commutator is given by $[X,Y]f = X(Yf) - Y(Xf)$ for any smooth function $f$ on the manifold.
+
+
+
 \miquestion {\color{blue} Talk about the representation theory of compact Lie groups. How do you know you have a finite-dimensional representation?}
+
+\textit{Answer.} Representation theory of a compact Lie group $G$ is concerned with studying continuous group homomorphisms $G\to \GL(V)$ with $\dim V<\infty$. One important result is the Peter--Weyl theorem (Question 35). Consequently, if we have a continuous homomorphism from $\rho:G\to\GL(W)$ with $\dim W=\infty$, then $\rho$ cannot be irreducible.
+
+
 
 \miquestion {\color{blue} How do you prove that any finite-dimensional representation of a compact Lie group is equivalent to a unitary one?}
 
@@ -3030,6 +3053,9 @@ is always injective for connected Lie groups $G,H$, and is bijective if $G$ is s
 
 \miquestion {\color{blue} What do you know about representations of $\SO(2)$? $\SO(3)$?}
 
+\textit{Comment.} The answer should be complicated and we choose to omit. For representation theory of compact Lie groups, it would be worthwhile to completely memorize everything about $\SU(n)$, $\SO(2n)$, $\Sp(n)$, and $\SO(2n+1)$ (i.e. their Lie algebras, maximal tori, Cartan subalgebras, simple roots, positive roots, roots, Weyl chambers, Weyl groups, Dynkin diagrams, etc.). 
+
+
 \end{questions}
 
 
@@ -3049,7 +3075,37 @@ This is called {\color{violet} \textbf{Frobenius reciprocity}} in representation
 
 \textit{Answer.} This is just the long exact sequence of group cohomology. For a (discrete) group $G$, which is not necessarily abelian, acting on another abelian group $M$ (with discrete topology), which is called a $G$-module, we can define $H^i(G,M):=\Ext_{\Z[G]}^i(\Z,M)$. This theory is covariant in $M$ and contravariant in $G$. 
 
-\miquestion {\color{blue} Do you know what the Ext functor of an abelian group is? Do you know where it appears? What is $\Ext(\Z/m\Z,\Z/n\Z)$? What is $\Ext(\Z/m\Z,\Z)$?}
+\miquestion {\color{blue} Do you know what the Ext functor of an abelian group is? Do you know where it appears? What is $\Ext(\Z/m\Z,\Z/n\Z)$? What is $\Ext(\Z/m\Z,\Z)$? How about $\Ext(\Z/m\Z,\Q)$?}
+
+\textit{Answer.} The Ext functor is a derived functor that measures the failure of a short exact sequence of modules to split. Also, $\Ext(A,B)$ classifies abelian extensions of $A$ by $B$. It appears in Cartan--Eilenberg's 1956 book \textit{Homological Algebra}.
+
+\textit{Solution.} For any $\Z$-module $M$, the homomorphism $\Z\to M$ is defined by the image of 1 in $H$. So 
+$$
+\Hom(\Z,M)=M,\quad \Ext(\Z,M)=0
+$$
+because $\Z$ is a projective module (c.f. Set 7, Question 8). We begin the computation with a projective resolution of $\Z/m\Z$ as follows:
+$$
+0\longrightarrow \Z \stackrel{\times m}{\longrightarrow} \Z \longrightarrow \Z/m\Z\longrightarrow 0.
+$$
+Taking the contravariant functor $\Hom(-,M)$, we get \vspace{-4pt}
+\begin{center}
+\begin{tikzcd}[row sep=6pt, column sep=normal]
+& & M \ar[d,"="{rotate=-90,description,near start}] & M \ar[d,"="{rotate=-90,description,near start}]\\
+0 \ar[r] & \Hom(\Z/m\Z,M) \ar[r] & \Hom(\Z,M) \ar[r,"\times m"] & \Hom(\Z,M) \ar[lld,out=-5,in=175,overlay] \\
+& \Ext(\Z/m\Z,M) \ar[r] & \Ext(\Z,M)=0.
+\end{tikzcd}
+\end{center}\vspace{-4pt}
+It follows that
+$$
+\Hom(\Z/m\Z,M)=\Ker m=M[m],\quad \Ext(\Z/m\Z,M)=M/mM.
+$$
+In particular, for $d=(m,n)$, $\Hom(\Z/m\Z,\Z)=0$ and $\Hom(\Z/m\Z,\Z/n\Z)=\Z/d\Z$. Moreover,
+$$
+\Ext(\Z/m\Z,\Z/n\Z)=\Z/d\Z,\quad \Ext(\Z/m\Z,\Z)=\Z/m\Z.
+$$
+Also, we have $\Hom(\Z/m\Z,\Q)=\Ext(\Z/m\Z,\Q)=0$.
+
+
 
 
 

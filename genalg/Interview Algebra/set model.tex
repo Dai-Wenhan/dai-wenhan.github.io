@@ -151,281 +151,54 @@
 
 \begin{document}
 
-\centerline{\textbf{Set V: Matrices and Linear Algebra}}
+\centerline{\textbf{Set IX: Categories and Functors}}
 
 \begin{questions}
-\miquestion {\color{blue} What is a bilinear form on a vector space? When are two forms equivalent? What is an orthogonal matrix? What's special about them?}
+\miquestion {\color{blue} Which is the connection between $\Hom$ and tensor product? What is this called in representation theory?}
 
-\textit{Definitions.} A bilinear form is a function $B : V \times V \to K$ that is linear in each argument separately, where $V$ is a $K$-vector space. For bilinear forms $B_1$ and $B_2$ that map the diagonal $(v,v)$ to $v^TB_1v$ and $v^TB_2v$ respectively, they are equivalent if their diagonal images are differed by a linear transformation $\sigma$, say $B_1=\sigma^T B_2\sigma$. A matrix $X$ is orthogonal if and only if $X^TX=1$. Namely, the column vectors of an orthogonal matrix form an orthonormal basis. 
-
-\textit{Remark.} Note that over an algebraically closed field, two bilinear forms are equivalent if and only if they share the same rank; the assumption for the field here is necessary. Also note that orthogonality is equivalent to orthonormality for a matrix over any field of characteristic 0.
-
-\miquestion {\color{blue} What are the possible images of the unit circle under a linear transformation of $\R^2$?}
-
-\textit{Answer.} If the linear transformation degenerates, then the image can be a point or a line segment. Consider else the action of $\GL_2(\R)$. Each element $\sigma$ maps $(x,y)^T$ to $\sigma(x,y)^T$ and then
+\textit{Answer.} They are a pair of adjoint functors, i.e., in some small category $\mathcal{C}$, 
 $$
-x^2+y^2=\begin{pmatrix}
-x & y
-\end{pmatrix}
-\begin{pmatrix}
-1 & 0 \\ 0 & 1
-\end{pmatrix}
-\begin{pmatrix}
-x \\ y
-\end{pmatrix}\ \mapsto \ \begin{pmatrix}
-x & y
-\end{pmatrix} \sigma^T
-\begin{pmatrix}
-1 & 0 \\ 0 & 1
-\end{pmatrix} \sigma
-\begin{pmatrix}
-x \\ y
-\end{pmatrix}.
+\Hom_{\mathcal{C}}(X\otimes Y, Z)\longrightarrow \Hom_{\mathcal{C}}(X,\Hom(Y,Z)).
 $$
-Here the new quadratic form is defined by a positive-definite matrix $\sigma^T\sigma$, and hence defines an ellipse.
+This is called {\color{violet} \textbf{Frobenius reciprocity}} in representation theory, which states tensor product as the functor for induced representations and $\Hom$ as the functor of restrictions, respectively.
 
-\miquestion {\color{blue} Explain geometrically how you diagonalize a real quadratic form.}
+\miquestion {\color{blue} Can you get a long exact sequence from a short exact sequence of abelian groups together with another abelian group?}
 
-\textit{Explanation.} For a real quadratic form $p(x,y)=Ax^2+2Bxy+Cy^2$ defined by real symmetric matrix $A$ (which is always diagonalizable), we have to real eigenvalues $\lambda_{1,2}$ such that $\lambda_1\lambda_2=\det A=AC-B^2=-\Delta/4$. Then there are three types from the aspect of affine geometry: \vspace{-6pt}
-\begin{itemize}
-\item[(1)] $\Delta<0$ and $\det A>0$: $p$ defines an ellipse. \vspace{-4pt}
+\textit{Answer.} This is just the long exact sequence of group cohomology. For a (discrete) group $G$, which is not necessarily abelian, acting on another abelian group $M$ (with discrete topology), which is called a $G$-module, we can define $H^i(G,M):=\Ext_{\Z[G]}^i(\Z,M)$. This theory is covariant in $M$ and contravariant in $G$. 
 
-\item[(2)] $\Delta=0$ and $\det A=0$: $p$ defines a parabola. \vspace{-4pt}
+\miquestion {\color{blue} Do you know what the Ext functor of an abelian group is? Do you know where it appears? What is $\Ext(\Z/m\Z,\Z/n\Z)$? What is $\Ext(\Z/m\Z,\Z)$? How about $\Ext(\Z/m\Z,\Q)$?}
 
-\item[(3)] $\Delta>0$ and $\det A<0$: $p$ defines a hyperbola.
-\end{itemize}
+\textit{Answer.} The Ext functor is a derived functor that measures the failure of a short exact sequence of modules to split. Also, $\Ext(A,B)$ classifies abelian extensions of $A$ by $B$. It appears in Cartan--Eilenberg's 1956 book \textit{Homological Algebra}.
 
-
-\miquestion {\color{blue} Do you know Witt's theorem on real quadratic forms?}
-
-\textit{Statement.} (Witt) Suppose $k$ is a field with $\operatorname{char}(k)\neq 2$. Let $V$ be a finite-dimensional $k$-vector space equipped with a skew-symmetric bilinear form $B:(u,v)\mapsto u^T B v$, i.e., $B^T=-B$. Then for any subspace $W$ of $V$, an arbitrary isometry $f:W\to W$ on $W$ extends to $\tilde f:V\to V$. (Recall that an isometry is a bijection that preserves the distance defined by the inner product with respect to $B$.)
-
-\miquestion {\color{blue} Classify real division algebras.}
-
-\textit{Answer.} Under the finite-dimensional assumption, it can be $\R$, $\C$, or $\mathbb{H}$ (see Question 49 in Set VI).
-
-\miquestion {\color{blue} Consider the simple operator on $\mathbb{C}$ given by multiplication by a complex number. It decomposes into a stretch and a rotation. What is the generalization of this to operators on a Hilbert space?}
-
-{\color{violet}\textit{Proposition.} Let $A$ be a bounded linear operator between Hilbert spaces, then $A=UP$ for some partial isometry $U$ and non-negative self-adjoint operator $P$. Moreover, the initial space of $U$ is the closure of the range of $P$.}
-
-\textit{Answer.} The desired analogue is the {\color{violet}\textbf{Polar Decomposition}} as follows, dictating that each bounded linear operator between Hilbert spaces can decompose into an isometry (which preserves distance) and a non-negative operator (which scales distances).
-
-\miquestion {\color{blue} Do you know about singular value decomposition?}
-
-\textit{Explanation.} The singular value decomposition of an $m\times n$ matrix $M$ over $\C$ is read as $M=U\Sigma V^*$, where $U$ is an $m\times m$ unitary matrix, $V$ is an $n\times n$ unitary matrix, and $\Sigma$ is an $m\times n$ rectangular unitary matrix. More precisely, \vspace{-6pt}
-\begin{itemize}
-\item columns of $V$ are eigenvectors of $M^*M$; \vspace{-4pt}
-\item columns of $U$ are eigenvectors of $MM^*$; \vspace{-4pt}
-\item singular values on the diagonal of $\Sigma$ are non-negative square roots of eigenvalues of $MM^*$ and $M^*M$.
-\end{itemize} \vspace{-6pt}
-The geometric content of the SVD theorem can thus be summarized as follows: for every linear map $T:\C^n \to \C^m$ one can find orthonormal bases of $\C^n$ and $\C^m$ such that $T$ maps the $i$th basis vector of $\C^n$ to a non-negative multiple of the $i$th basis vector of $\C^m$, and sends the left-over basis vectors to zero. With respect to these bases, the map T is therefore represented by a diagonal matrix with non-negative real diagonal entries.
-
-
-\miquestion {\color{blue} What are the eigenvalues of a symmetric matrix?}
-
-\textit{Answer.}
-All eigenvalues of a real symmetric (and hence Hermitian) matrix  must be real; moreover, a symmetric matrix can always be diagonalized orthogonally. The result for a general symmetric (e.g. yet not necessarily Hermitian) matrix is possibly unclear. 
-
-\textit{Addendum.} All eigenvalues of an $n\times n$ skew-Hermitian matrix (i.e., $A^*=-A$) are either zero or purely imaginary. Furthermore, $\det A$ is purely imaginary or zero when $n$ is odd, and is real when $n$ is even.
-
-As for a comparison to the real case, recall that a square matrix is Hermitian if and only if it is unitarily diagonalizable with real eigenvalues. 
-
-\miquestion {\color{blue} What can you say about the eigenvalues of a skew-symmetric matrix?}
-
-\textit{Answer.} See Question 8 above. Every skew-symmetric matrix has either zero or purely imaginary eigenvalues. In particular, real skew-symmetric matrix are Hermitian. To prove this, suppose $Av=\lambda v$ with $v\in \C^n$ and take $(\cdot)^*$ on both sides of $v^* Av=\lambda v^*v$, where $v^*v\in \R$.
-
-
-\miquestion {\color{blue} Prove that the eigenvalues of a Hermitian matrix are real and those of a unitary matrix are unitary.}
-
-\textit{Proof.} For the first part, use the same strategy as in Question 8. The second part means to say for a unitary matrix $U$, there is a unitary $P$ such that $P^*UP=D=\operatorname{diag}(\lambda_1,\ldots,\lambda_n)$ with $|\lambda_i|=1$. We only do prove for $n=2$ and the same argument can be used for the induction. Assuming the existence of $P$, it is easy to see
+\textit{Solution.} For any $\Z$-module $M$, the homomorphism $\Z\to M$ is defined by the image of 1 in $H$. So 
 $$
-D^*D=\begin{pmatrix}
-\lambda_1^*\lambda_1 & 0 \\ 0 & \lambda_2^*\lambda_2
-\end{pmatrix}=(P^*UP)^*(P^*UP)=P^*(U^*(PP^*)U)P=I.
+\Hom(\Z,M)=M,\quad \Ext(\Z,M)=0
 $$
-As for the existence of $U$, c.f. Question 11 below. 
-
-
-\miquestion {\color{blue} Prove that unitary matrices can be diagonalized by unitary matrices.}
-
-\textit{Proof.} Suppose the result is true for all unitary matrices of order $n-1$, and consider a unitary matrix $U=U_1$ of order $n$. Let $\lambda_1$ be an eigenvalue of $U$, and let $v_1$ be a unit eigenvector (scaled to have unity norm) associated with $\lambda_1$. Choose $V_1$ such that $P_1=\begin{pmatrix} v_1 & V_1 \end{pmatrix}$ is a unitary matrix. (Columns of $V_1$ complete $\{v_1\}$ to an orthonormal basis for $\C^{n \times 1}$.) Then $v_1^* V_1=0$ and $V_1^* v_1=0$ from which we obtain
+because $\Z$ is a projective module (c.f. Set 7, Question 8). We begin the computation with a projective resolution of $\Z/m\Z$ as follows:
 $$
-P_1^* U_1 P_1 =\begin{pmatrix}
-v_1^* \\
-V_1^*
-\end{pmatrix} U_1 \begin{pmatrix} v_1 & V_1 \end{pmatrix} =\begin{pmatrix}
-\lambda_1 v_1^* v_1 & \lambda_1^* v_1^* V_1 \\
-\lambda_1 V_1^* v_1 & V_1^* U_1 V_1
-\end{pmatrix}=\begin{pmatrix}
-v_1^* U_1 v_1 & v_1^* U_1 V_1 \\
-V_1^* U_1 v_1 & V_1^* U_1 V_1
-\end{pmatrix}
+0\longrightarrow \Z \stackrel{\times m}{\longrightarrow} \Z \longrightarrow \Z/m\Z\longrightarrow 0.
 $$
-Since
+Taking the contravariant functor $\Hom(-,M)$, we get \vspace{-4pt}
+\begin{center}
+\begin{tikzcd}[row sep=6pt, column sep=normal]
+& & M \ar[d,"="{rotate=-90,description,near start}] & M \ar[d,"="{rotate=-90,description,near start}]\\
+0 \ar[r] & \Hom(\Z/m\Z,M) \ar[r] & \Hom(\Z,M) \ar[r,"\times m"] & \Hom(\Z,M) \ar[lld,out=-5,in=175,overlay] \\
+& \Ext(\Z/m\Z,M) \ar[r] & \Ext(\Z,M)=0.
+\end{tikzcd}
+\end{center}\vspace{-4pt}
+It follows that
 $$
-(P_1^* U_1 P_1)^*(P_1^* U_1 P_1)=P_1^* U_1^* P_1 P_1^* U_1 P_1=I,
+\Hom(\Z/m\Z,M)=\Ker m=M[m],\quad \Ext(\Z/m\Z,M)=M/mM.
 $$
-we have
+In particular, for $d=(m,n)$, $\Hom(\Z/m\Z,\Z)=0$ and $\Hom(\Z/m\Z,\Z/n\Z)=\Z/d\Z$. Moreover,
 $$
-\begin{pmatrix}
-\lambda_1^* \lambda_1 & 0 \\
-0 & U_2^* U_2
-\end{pmatrix}=\begin{pmatrix}
-1 & 0 \\
-0 & I
-\end{pmatrix}.
+\Ext(\Z/m\Z,\Z/n\Z)=\Z/d\Z,\quad \Ext(\Z/m\Z,\Z)=\Z/m\Z.
 $$
-which implies that $\lambda_1^* \lambda_1=1$, that is, $\left|\lambda_1\right|^2=1$, and that $U_2$ is unitary. Let $U_2$ have the eigenvalues $\lambda_2, \ldots, \lambda_n$. Then they are also eigenvalues of $U=U_1$. Since $U_2$ is of order $n-1$, by induction hypothesis $\left|\lambda_2\right|^2=\cdots=|\lambda_n|^2=1$ and there exists a unitary matrix $P_2$ such that
-$$
-P_2^* U_2 P_2=D_2=\operatorname{diag}(\lambda_2, \ldots, \lambda_n).
-$$
-Let
-$$
-P=P_1\begin{pmatrix}
-1 & \\
-& P_2
-\end{pmatrix}.
-$$
-Then
-$$
-\begin{aligned}
-P^* U P &=\begin{pmatrix}
-1 & \\
-& P_2^*
-\end{pmatrix} P_1^* U_1 P_1\begin{pmatrix}
-1 & \\
-& P_2
-\end{pmatrix} \\
-&=\begin{pmatrix}
-1 & \\
-& P_2^*
-\end{pmatrix}\begin{pmatrix}
-\lambda_1 & 0 \\
-0 & U_2
-\end{pmatrix}\begin{pmatrix}
-1 & \\
-& P_2
-\end{pmatrix} \\
-&=\begin{pmatrix}
-\lambda_1 & 0 \\
-0 & D_2
-\end{pmatrix}=D_1.
-\end{aligned}
-$$
-
-
-\textit{Remark.} As a corollary, real symmetric matrices can be diagonalized by orthogonal matrices. 
+Also, we have $\Hom(\Z/m\Z,\Q)=\Ext(\Z/m\Z,\Q)=0$.
 
 
 
-\miquestion {\color{blue} To which operators does the spectral theorem for symmetric matrices generalize?}
 
-\textit{Answer.} To self-adjoint operators on Hilbert spaces. \vspace{-4pt}
-\begin{itemize}
-\item [(a)] (For symmetric matrices) If $A$ is Hermitian, then there exists an orthonormal basis of $V$ consisting of eigenvectors of $A$. Each eigenvalue is real.
-\item [(b)] (Generalized version) Suppose $A$ is a compact self-adjoint operator on a (real or complex) Hilbert space $V$. Then there is an orthonormal basis of $V$ consisting of eigenvectors of $A$. Each eigenvalue is real.
-\end{itemize}
-
-
-\miquestion {\color{blue} Given a skew-symmetric/skew-Hermitian matrix $S$, show that $U = (I+S)(I-S)^{-1}$ is orthogonal/unitary.}
-
-\textit{Proof.} We only work on $\C$ to show the rough idea. Recall that the spectrum of $S$ in contained in $i\R$ as all eigenvalues of a skew-Hermitian matrix are either purely imaginary or zero (see Question 9). Then the spectrum of $I-S$ cannot contain zero, and hence $A=I-S$ is nondegenerate and invertible. Note that $A^*=I+S$ by assumption. On the other hand, $A^*$ and $A$ are commutative as $(I+S)(I-S)=I-S^2$. Then
-$$
-(A^*A^{-1})^* A^*A^{-1}=(A^{-1})^* A A^* A^{-1}=(A^{-1})^* A^* A A^{-1}=(AA^{-1})^* AA^{-1}=I.
-$$
-
-\miquestion {\color{blue} If a linear transformation preserves a nondegenerate alternating form and has $k$ as an eigenvalue, prove that $1/k$ is also an eigenvalue.}
-
-\textit{Explanation.} A bilinear form $A$ on a vector space $V$ (over a field $k$) is called an alternating form if for all $v \in V$, $A(v, v)=0$. The matrix of $A$ essentially have the block form $\operatorname{diag}(r_1S,r_2S,\ldots,r_mS)$, where
-$$
-S=\begin{pmatrix}
-0 & 1 \\ -1 & 0
-\end{pmatrix}.
-$$
-
-\textit{Loose Proof.} Without loss of generality we suppose $\dim V=2$ and $A=S$. Then for such a linear transformation satisfying $P^TSP=S$, one can check this is equivalent to $\det P=1$. Once $P$ obtains an eigenvalue $k$, the other eigenvalue should be $1/k$.
-
-
-\miquestion {\color{blue} State/prove the Cayley--Hamilton theorem.}
-
-{\color{violet}
-\textit{Statement.} (Cayley--Hamilton) Over any field, matrices satisfy the equations given by their characteristic polynomials.}
-
-\textit{Proof.} Over an algebraically closed field $K$, use the Zariski topology on $M_n(K)\simeq \mathbb{A}_K^{n^2}$ and follow the recipe below.
-\begin{itemize}
-\item[(1)] Recall that all Zariski open sets are dense by definition. 
-\item[(2)] Denote $f_A$ by the characteristic polynomial of $A$. The set 
-$$
-\{A\in M_n(K):f_A(A)=0\text{ for some }f\in K[x]\}=V(I)
-$$
-(for some ideal $I\subset K[x]$) is Zariski closed in $M_n(K)$ and contains all diagonalizable matrices with distinct eigenvalues.
-\item[(3)] The set for diagonalizable matrices with distinct eigenvalues is defined as 
-$$
-\{A\in M_n(K):\operatorname{disc} f_A\neq 0\},
-$$
-which is Zariski open, and hence dense. 
-\item[(4)] Consequently, any closed set containing an open dense subset would also be the whole space.
-\end{itemize}
-
-
-
-\miquestion {\color{blue} Are diagonalizable $N \times N$ matrices over the complex numbers dense in the space of all $N \times N$ matrices over the complex numbers? How about over another algebraically closed field if we use the Zariski topology?}
-
-\textit{Answer.} Yes. See Question 15 above. For general fields, use the same argument, by base extension of the field to its algebraic closure and using the fact that diagonalizable matrices are Zariski dense in the space of all matrices.        
-
-\miquestion {\color{blue} For a linear ODE with constant coefficients, how would you solve it using linear algebra?}
-
-\textit{Answer.} Formally, we obtain the solution of the initial value problem $X'=AX$ with initial data $X(t_0)=(c_1,c_2)^T$ as \vspace{-4pt}
-$$
-e^{A(t-t_0)} X(t_0), \vspace{-4pt}
-$$
-where for a given matrix $A$, the exponential $e^A$ is defined as \vspace{-4pt}
-$$
-e^A=I+A+\frac{A^2}{2}+\cdots +\frac{A^n}{n!}+\cdots. 
-$$
-Explicitly, take the case $n=2$ for example. For $X'=AX$ we suppose $\lambda_{1,2}$ are eigenvalues of $A$ and $v_{1,2}$ are corresponding eigenvectors (not necessarily real). \vspace{-6pt}
-\begin{itemize}
-\item When $\lambda_{1,2}$ are real and $A$ is diagonalizable, 
-$$
-X(t)=c_1e^{\lambda_1 t}v_1+c_2e^{\lambda_2 t}v_2.
-$$
-\item When $\lambda_{1}=\lambda_2=\lambda$ and $A$ is not diagonalizable, 
-$$
-X(t)=c_1e^{\lambda t}v_1+c_2(te^{\lambda t}v_1+e^{\lambda t}v_2),
-$$
-where $(A-\lambda I)v_1=(A-\lambda I)^2 v_2=0$, $(A-\lambda I)v_2=v_1$.
-\item When $\lambda_{1,2}=\alpha\pm i\beta$ with $v_{1,2}=u\pm iw$,
-$$
-X(t)=c_{1} e^{\alpha t}((\cos \beta t) u-(\sin \beta t) w)+c_{2} e^{\alpha t}((\sin \beta t) u+(\cos \beta t) w).
-$$
-\end{itemize}
-
-
-\miquestion {\color{blue} What can you say about the eigenspaces of two matrices that commute with each other?}
-
-\textit{Answer.} For two matrices that commute mutually, one fixes all eigenspaces of another. If they happen to be diagonalizable, they can be diagonalized by the same matrix simultaneously.
-
-\miquestion {\color{blue} What is a Toeplitz operator?}
-
-\textit{Answer.} A Toeplitz operator acting on the Hilbert space $L^2$ is defined by a two-sided complex sequence $(a_n)_{n=-\infty}^\infty$. It can be realized as a diagonal-constant matrix looking like
-$$
-T=\begin{pmatrix}
-a_{0} & a_{-1} & a_{-2} & \cdots \\
-a_{1} & a_{0} & a_{-1} & \ddots \\
-a_{2} & a_{1} & a_{0} & \ddots \\
-\vdots & \ddots & \ddots & \ddots
-\end{pmatrix}.
-$$
-
-\textit{Punchline.} Recall that the spectrum of $T$ is $\{\lambda\in \C: \det (T-\lambda I)=0\}$. Then every Toeplitz operator has connected spectrum, and those $T-\lambda I$ are not invertible modulo the compact operators.
-
-\miquestion {\color{blue} What is the number of invertible matrices over $\Z/p\Z$?}
-
-\textit{Solution.} Consider a matrix in $\GL_n(\Z/p\Z)$ from the first column. It has $p^n-1$ nonzero choices, and the 2nd column has $p^n-p$ choices because it is linearly independent from the first choice. Do this in iteration to get
-$$
-|\GL_n(\Z/p\Z)| = \prod_{i=0}^{n-1} (p^n-p^i).
-$$
 
 \end{questions}
-
 \end{document}
