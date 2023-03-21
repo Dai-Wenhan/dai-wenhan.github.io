@@ -1,6 +1,6 @@
 ## Seminars, Workshops, and Conferences Attended
 
-### 2023 Spring (ongoing)
+### Ongoing Events during 2023 Spring
 
 - [**Seminar on Geometry of Shimura varieties mod _p_**](./geomShv23/geomShv23.md).
 
@@ -25,7 +25,8 @@
   - **Location**: Room 82J12 (Jia-yi-bing Building).
 
 
-### Past Events
+
+### Past Events Attended
 
 #### 2023 Winter
 
@@ -35,17 +36,20 @@
 
 #### 2022 Fall
 
-- (_Workshop_) [**Lectures on mod _p_ Langlands program for GL(2)**](./ModpLL2022/ModpLL2022.md) (advanced guest lecture series).
 - (_Workshop_) [**_p_-adic Geometry Learning Seminar: On Banach-Colmez Spaces**](./padicBC/padicBC.md).
-- (_Seminar_) [**Abelian Varieties (I)**](./AV/AV.md) (for the 3+X Program).
+- (Mini-talk) [**Ye Tian (MCM): Arithmetic of Quadratic Twists of Elliptic Curves**](./MiniTalks/Tian1102.pdf) (at Tianyuan Mathematical Center).
+- (_Workshop_) [**Lectures on mod _p_ Langlands program for GL(2)**](./ModpLL2022/ModpLL2022.md) (advanced guest lecture series).
+- (Mini-talk) [**Christophe Breuil (CNRS-Orsay): Multivariable (phi,Gamma)-modules and Modular Representations of Galois and GL(2)**](./MiniTalks/Breuil.md).
 - (Coffee-break) [**On the Ternary Goldbach Problem**](./Goldbach/Goldbach.md) (for fun only).
-
+- (Mini-talk) [**Xinwen Zhu (Stanford): The _p_-adic Borel Hyperbolicity of Ag**](./MiniTalks/Zhu1019.md) (POINTS).
+- (_Seminar_) [**Abelian Varieties (I)**](./AV/AV.md) (for the 3+X Program).
 
 
 #### 2022 Summer
 
 - (_Course Series_) [**IHES 2022 Summer School on the Langlands Program**](./IHES22/IHES22.md).
 - (_Workshop_) [**Geometry of Shimura Varieties and Arithmetic Applications**](https://bicmr.pku.edu.cn/content/show/17-2759.html).
+- (Mini-talk) [**Lue Pan (Princeton): Perfectoid Approaches to _p_-adic Modular Forms**](./MiniTalks/pAdicPerfectoid.md).
 
 
 #### 2022 Spring
@@ -74,24 +78,11 @@
 - (_Seminar_) **Revisiting Padova 2017: Serre Conjecture and the _p_-adic local Langlands Program**.
 - (_Workshop_) **Automorphic Forms and the Langlands Program**.
 
-#### 2020 Summer - 2021 Spring
-
-  Wenhan _called sick_ in this extremely tough year. 
-
-#### 2020 Spring
+#### Before 2021
 
 - (_Seminar_) **Student Seminar on Hartshorne's _Algebraic Geometry_**.
+- (_Seminar_) **Student Seminar on Naive Lie Theory**.
 
 
-### Selected Mini-Talks
 
-#### 2022 Fall
 
-- [**Ye Tian: Arithmetic of Quadratic Twists of Elliptic Curves**](./MiniTalks/Tian1102.pdf) (at Tianyuan Mathematical Center).
-- [**Multivariable (phi,Gamma)-modules and Modular Representations of Galois and GL(2)**](./MiniTalks/Breuil.md).
-- [**Xinwen Zhu: The _p_-adic Borel Hyperbolicity of Ag**](./MiniTalks/Zhu1019.md) (POINTS).
-
-#### 2022 Summer
-
-- [**Perfectoid Approaches to _p_-adic Modular Forms**](./MiniTalks/pAdicPerfectoid.md) (Lue Pan's work).
-- [**Uniformly Bounded Multiplicities in the Branching Problem and _D_-modules**](./MiniTalks/unibd.md).
