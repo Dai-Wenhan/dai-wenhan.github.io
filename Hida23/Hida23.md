@@ -21,9 +21,14 @@ In this mini-course, we give an introduction to Hida's construction of analytic 
 
 ### Syllabus
 
-**Announcement:** The collated notes will be available with gaps and typos fixed.
+**Announcement:** The collated notes will be available [here](./blurbs/HidaMF.pdf) with gaps and typos fixed.
 
-- [x] (3/2) **Lecture 1**: Introduction. ([live-TeXed notes])
+- [x] (3/2) **Lecture 1** -- Introduction. ([live-TeXed notes](././1.pdf))
+- [x] (3/3) **Lecture 2** -- Cohomological approach to modular forms. ([live-TeXed notes](././2.pdf))
+- [x] (3/9) **Lecture 3** -- Geometric approach to modular forms. ([live-TeXed notes](././3.pdf))
+- [x] (3/10) **Lecture 4** -- "False" modular forms à la Deligne. ([live-TeXed notes](././4.pdf))
+- [x] (3/16) **Lecture 5** -- Ordinary family of _p_-adic modular forms. ([live-TeXed notes](././5.pdf))
+- [x] (3/17) **Lecture 6** -- Hecke algebras and universal Galois deformation. ([live-TeXed notes](././6.pdf))
 
 
 ### References
