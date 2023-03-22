@@ -34,7 +34,7 @@ In this mini-course, we give an introduction to Hida's construction of analytic 
 ### References
 
 1. Haruzo Hida, Iwasawa modules attached to congruences of cusp forms, Ann. Sci. Ec. Norm. Sup. 4th series **19** (1986), 231-273;
-2. Haruzo Hida, Galois representations into $\mathrm{GL}_2(\mathbb{Z}_p[\![X]\!]$ attached to ordinary cusp forms, Inventiones Math. **85** (1986), 545-613;
+2. Haruzo Hida, Galois representations into $\mathrm{GL}_2(\mathbb{Z}_p[\![X]\!])$ attached to ordinary cusp forms, Inventiones Math. **85** (1986), 545-613;
 3. Haruzo Hida, Elementary Theory of _L_-functions and Eisenstein series, LMSST 26, Cambridge University Press, Cambridge, 1993;
 4. Haruzo Hida, Geometric Modular Forms and Elliptic Curves, 2nd edition, World Scientific Publishing Company, Singapore, 2011.
 5. Haruzo Hida, Hecke fields of analytic families of modular forms, J. Amer. Math. Soc. **24** (2011), 51-80.
