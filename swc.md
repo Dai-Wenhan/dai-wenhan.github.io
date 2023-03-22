@@ -28,6 +28,10 @@
 
 ### Past Events Attended
 
+#### 2023 Spring
+
+- (_Lectures_) [**Hida's theory on _p_-adic modular forms**](./Hida23/Hida23.md) by Bin Zhao (Capital Normal University).
+
 #### 2023 Winter
 
 - (_Workshop_) [**On Geometrization of Local Langlands Correspondence**](./geometrization/geometrization.md) (Work review of Fargues-Scholze).
@@ -37,17 +41,17 @@
 #### 2022 Fall
 
 - (_Workshop_) [**_p_-adic Geometry Learning Seminar: On Banach-Colmez Spaces**](./padicBC/padicBC.md).
-- (Mini-talk) [**Ye Tian (MCM): Arithmetic of Quadratic Twists of Elliptic Curves**](./MiniTalks/Tian1102.pdf) (at Tianyuan Mathematical Center).
+- (_Talk_) [**Ye Tian (MCM): Arithmetic of Quadratic Twists of Elliptic Curves**](./MiniTalks/Tian1102.pdf) (at Tianyuan Mathematical Center).
 - (_Workshop_) [**Lectures on mod _p_ Langlands program for GL(2)**](./ModpLL2022/ModpLL2022.md) (advanced guest lecture series).
-- (Mini-talk) [**Christophe Breuil (CNRS-Orsay): Multivariable (phi,Gamma)-modules and Modular Representations of Galois and GL(2)**](./MiniTalks/Breuil.md).
+- (_Talk_) [**Christophe Breuil (CNRS-Orsay): Multivariable (phi,Gamma)-modules and Modular Representations of Galois and GL(2)**](./MiniTalks/Breuil.md).
 - (Coffee-break) [**On the Ternary Goldbach Problem**](./Goldbach/Goldbach.md) (for fun only).
-- (Mini-talk) [**Xinwen Zhu (Stanford): The _p_-adic Borel Hyperbolicity of Ag**](./MiniTalks/Zhu1019.md) (POINTS).
+- (_Talk_) [**Xinwen Zhu (Stanford): The _p_-adic Borel Hyperbolicity of Ag**](./MiniTalks/Zhu1019.md) (POINTS).
 - (_Seminar_) [**Abelian Varieties (I)**](./AV/AV.md) (for the 3+X Program).
 
 
 #### 2022 Summer
 
-- (_Course Series_) [**IHES 2022 Summer School on the Langlands Program**](./IHES22/IHES22.md).
+- (_Lectures_) [**IHES 2022 Summer School on the Langlands Program**](./IHES22/IHES22.md).
 - (_Workshop_) [**Geometry of Shimura Varieties and Arithmetic Applications**](https://bicmr.pku.edu.cn/content/show/17-2759.html).
 - (Mini-talk) [**Lue Pan (Princeton): Perfectoid Approaches to _p_-adic Modular Forms**](./MiniTalks/pAdicPerfectoid.md).
 
@@ -61,7 +65,7 @@
 
 #### 2021 Winter
 - (_Mini-Course_) [**Springer Fibers and Quiver Varieties**](./Springer/TMS-Springer.md) (by TMS Public).
-- (_Course Series_) [**Arizona Winter School 2022**]().
+- (_Lectures_) [**Arizona Winter School 2022**]().
 
 #### 2021 Fall
 
@@ -70,8 +74,8 @@
 
 #### 2021 Summer
 
-- (_Mini-Course_) [**Liang Xiao: From Modular Forms to Shimura Varieties**](./Sh2021summer/Sh2021summer.md).
-- (_Mini-Course_) [**Yihang Zhu: Counting Points on Shimura Varieties**](./Zhu2021summer/Zhu2021summer.md).
+- (_Mini-Course_) [**From Modular Forms to Shimura Varieties**](./Sh2021summer/Sh2021summer.md) by Liang Xiao.
+- (_Mini-Course_) [**Counting Points on Shimura Varieties**](./Zhu2021summer/Zhu2021summer.md) by Yihang Zhu (Maryland).
 
 #### 2021 Spring
 
