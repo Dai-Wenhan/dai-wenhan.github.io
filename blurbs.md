@@ -13,16 +13,19 @@
 
 #### For geometry of arithmetic varieties:
 
-- [**Shimura varieties**](./blurbs/Shvar.pdf). <br/>
- _Notes for an introductory course by Sophie Morel at 2022 Summer School on the Langlands Program (IHES); reviewed by the speaker._
 - [**The arithmetic of Hilbert modular varieties**](./blurbs/Hilb.pdf). <br/>
  _To appear._
+- [**Shimura varieties**](./blurbs/Shvar.pdf). <br/>
+ _Notes for an introductory course by Sophie Morel at 2022 Summer School on the Langlands Program (IHES); reviewed by the speaker._
+
 
 
 #### About Galois representations, automorphic forms, and _L_-functions:
 
+- [**Hida theory on _p_-adic modular forms**](./blurbs/Hida.pdf). <br/>
+ _About Haruzo Hida's construction of analytic families of ordinary p-adic modular forms and their associated Galois representations; notes for lectures by Bin Zhao at BICMR._
 - [**Modularity lifting**](./blurbs/modlift.pdf). <br/>
- _A crucial ingredient in understanding Andrew Wiles' proof of Fermat's last theorem; McGill lecture by Patrick Allen._
+ _The crucial ingredient in understanding Andrew Wiles' proof of Fermat's last theorem; McGill lecture by Patrick Allen._
 - [**The local Langlands conjecture**](./blurbs/LLC.pdf). <br/>
  _Notes for an introductory course by Oliver Taïbi at 2022 Summer School on the Langlands Program (IHES); reviewed by the speaker._
 
