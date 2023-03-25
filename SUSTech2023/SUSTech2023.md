@@ -13,7 +13,7 @@
 
 ## Shenzhen Workshop on Arithmetic Geometry.
 
-_Department of Mathematics at SUSTech - [Southern University of Science and Technology](https://huigaomath.github.io/arithgeom2023.html)_
+_Department of Mathematics at SUSTech - [Southern University of Science and Technology](https://math.sustech.edu.cn/conference/12651.html)_
 
 See pdf version of [conference handbook](././handbook.pdf).
 
@@ -85,3 +85,5 @@ See pdf version of [conference handbook](././handbook.pdf).
 **Time**: 10:50-11:50, March 26. <br/>
 **Speaker**: [Zhiyu Tian](http://faculty.bicmr.pku.edu.cn/~tianzhiyu/), Peking Univ. <br/>
 **Abstract**: I will talk about my recent results about local-global principles for zero cycles and rational points on geometrically rational surfaces defined over global function fields, which is deduced from certain integral version of the Tate conjecture for some classes of varieties over finite fields. The key ingredient is a new geometric understanding of algebraic equivalence of one cycles on smooth projective varieties that has been recently obtained in a joint work with János Kollár.
+
+![SUSTech-landscape](././SUSTech-landscape.png)

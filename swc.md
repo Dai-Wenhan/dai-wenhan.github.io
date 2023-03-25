@@ -30,6 +30,7 @@
 
 #### 2023 Spring
 
+- (_Conference_) [**Shenzhen Workshop on Arithmetic Geometry**](./SUSTech2023/SUSTech2023.md) (Southern University of Science and Technology).
 - (_Lectures_) [**Hida's theory on _p_-adic modular forms**](./Hida23/Hida23.md) by Bin Zhao (Capital Normal University).
 
 #### 2023 Winter
@@ -79,7 +80,7 @@
 
 #### 2021 Spring
 
-- (_Seminar_) **Revisiting Padova 2017: Serre Conjecture and the _p_-adic local Langlands Program**.
+- (_Conference_) **Revisiting Padova 2017: Serre Conjecture and the _p_-adic local Langlands Program**.
 - (_Workshop_) **Automorphic Forms and the Langlands Program**.
 
 #### Before 2021
