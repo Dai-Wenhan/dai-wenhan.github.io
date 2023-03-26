@@ -45,7 +45,7 @@ See pdf version of [conference handbook](././handbook.pdf).
 4. **Monodromy of subrepresentations and irreducibility of low degree automorphic Galois representations** ([notes](././Hui.pdf)) -- <br/>
 **Time**: 14:10-15:10, March 24. <br/>
 **Speaker**: [Chunyin Hui](https://www.math.cuhk.edu.hk/alumni/hui-chun-yin), CUHK. <br/>
-**Abstract**: Given a compatible system $(\rho_{\lambda})$ of semisimple $\lambda$-adic Galois representations of a number field $K$ satisfying mild local conditions, we prove that for almost all $\lambda$, any type A irreducible subrepresentation of the $\ell$-adic descent of $\rho_{\lambda}$ is residually irreducible. We apply this result and some potential automorphy theorem to prove that those are residually irreducible for almost all $\lambda$ if the compatible system is attached to a regular algebraic, polarized, cuspidal automorphic representation of $\mathrm{GL}_{n}(\mathbb{A}_{\mathbb{Q}})$ and $n\leqslant 6$.
+**Abstract**: Given a compatible system $(\rho_{\lambda})$ of semisimple $\lambda$-adic Galois representations of a number field $K$ satisfying mild local conditions, we prove that for almost all $\lambda$, any type A irreducible subrepresentation of the $\ell$-adic descent of $\rho_{\lambda}$ is residually irreducible. We apply this result and some potential automorphy theorem to prove that those are residually irreducible for almost all $\lambda$ if the compatible system is attached to a regular algebraic, polarized, cuspidal automorphic representation of $\mathrm{GL}_{n}(\mathbb{A})$ and $n\leqslant 6$.
 
 5. **Drinfeld lemma for _F_-isocrystals** ([article](https://arxiv.org/abs/2210.14872), [notes](././Xu.pdf)) -- <br/>
 **Time**: 9:30-10:30, March 25. <br/>
