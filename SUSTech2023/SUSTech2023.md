@@ -21,6 +21,8 @@ See pdf version of [conference handbook](././handbook.pdf).
 - **Venue**: Dept. of Mathematics at SUSTech, Shenzhen.
 - **Organizers**: [Hui Gao](https://huigaomath.github.io/), [Yong Hu](https://math.sustech.edu.cn/c/huyong?lang=en), [Yannan Qiu](https://math.sustech.edu.cn/c/qiuyannan?lang=en).
 
+![group](././group.png)
+
 ### Contents
 
 1. **Étale cohomology and ultraproducts** ([article](https://link.springer.com/article/10.1007/s00229-020-01234-x), [notes](././Zheng.pdf)) -- <br/>
@@ -29,13 +31,13 @@ See pdf version of [conference handbook](././handbook.pdf).
 **Abstract**: The ultraproduct of étale cohomology provides a family of Weil cohomology theories of algebraic varieties, whose properties are closely related with the torsion-freeness and independence of $\ell$ for $\ell$-adic cohomologies. This talk reports some recent progresses in research of ultraproduct cohomology.
 
 
-2. **_F_-zips with additional structure on splitting models of Shimura varieties** ([article](https://arxiv.org/abs/2212.13763), [slides](././Shen.pdf)) -- <br/>
+2. **_F_-zips with additional structure on splitting models of Shimura varieties** ([article](https://arxiv.org/abs/2212.13763)) -- <br/>
 **Time**: 10:30-11:30, March 24. <br/>
 **Speaker**: [Xu Shen](http://www.mcm.ac.cn/people/members/202012/t20201207_599977.html), MCM. <br/>
 **Abstract**: We will talk about constructions on certain mod _p_ Hodge structure for the smooth Pappas-Rapoport splitting models of Shimura varieties. These integral models are resolutions of singularities of the corresponding canonical models for ramified groups. We will also discuss applications to Galois representations associated to torsion classes in coherent cohomology. This is a joint work with Yuqiang Zheng.
 
 
-3. **On the image of Galois representations attached to modular forms** ([slides](././Cheng.pdf), article in preparation) -- <br/>
+3. **On the image of Galois representations attached to modular forms** (article in preparation) -- <br/>
 **Time**: 13:00-14:00, March 24. <br/>
 **Speaker**: [Chuangxun Cheng](http://maths.nju.edu.cn/~ccheng/), Nanjing Univ. <br/>
 **Abstract**: In this presentation, starting with the results of Swinnerton-Dyer on the congruences of Fourier coefficients of modular forms (small image case) and the results of Serre on the image of Galois representations attached to elliptic curves (big image case), we explain two applications of Galois representations in the study of Fourier coefficients of modular forms.
@@ -50,7 +52,7 @@ See pdf version of [conference handbook](././handbook.pdf).
 5. **Drinfeld lemma for _F_-isocrystals** ([article](https://arxiv.org/abs/2210.14872), [notes](././Xu.pdf)) -- <br/>
 **Time**: 9:30-10:30, March 25. <br/>
 **Speaker**: [Daxin Xu](http://www.mcm.ac.cn/people/members/202012/t20201207_599986.html), MCM. <br/>
-**Abstract**: Drinfeld's lemma for $\ell$-adic local systems is a fundamental result in arithmetic geometry. It plays an important role in the Langlands correspondence for a reductive group over the function field of a curve over a finite field, pioneered by Drinfeld for $\mathrm{GL}_2$ and subsequently extended by L. Lafforgue and then V. Lafforgue. In this talk, we will discuss Drinfeld's lemma for _p_-adic local systems: overconvergent/convergent _F_-isocrystals. This is based on a joint work with Kiran Kedlaya.
+**Abstract**: Drinfeld's lemma for $\ell$-adic local systems is a fundamental result in arithmetic geometry. It plays an important role in the Langlands correspondence for a reductive group over the function field of a curve over a finite field, pioneered by Drinfeld for GL(2) and subsequently extended by L. Lafforgue and then V. Lafforgue. In this talk, we will discuss Drinfeld's lemma for _p_-adic local systems: overconvergent/convergent _F_-isocrystals. This is based on a joint work with Kiran Kedlaya.
 
 6. **Singularity of intertwining operators and some applications** ([article](https://arxiv.org/abs/2112.03531), [notes](././Luo.pdf)) -- <br/>
 **Time**: 10:50-11:50 , March 25. <br/>
@@ -74,16 +76,16 @@ See pdf version of [conference handbook](././handbook.pdf).
 **Abstract**: We define the quadratic Artin conductor of a motivic spectrum over a smooth scheme under some assumptions, and use it to prove a quadratic refinement of the Grothendieck-Ogg-Shafarevich formula. This is a joint work with Enlin Yang.
 
 
-10. **Group-theoretical applications of Diophantine approximation** ([article](https://link.springer.com/article/10.1007/s00222-021-01064-y), [notes](././Ren.pdf)) -- <br/>
+10. **Group-theoretical applications of Diophantine approximation** ([article](https://link.springer.com/article/10.1007/s00222-021-01064-y)) -- <br/>
 **Time**: 9:30-10:30, March 26. <br/>
 **Speaker**: [Jinbo Ren](https://math.xmu.edu.cn/info/1081/18819.htm), Xiamen Univ. <br/>
 **Abstract**: An abstract group $\Gamma$ is called boundedly generated if it can be written as the product of finitely many cyclic subgroups, i.e. $\Gamma=\langle g_1\rangle \cdots \langle g_r\rangle$. This notion applies widely in the theory of arithmetic groups, for example, for rigidity property, the congruence subgroup problem, Kazhdan property (T), etc.. We show that over a characteristic 0 field, a linear group is boundedly generated via semisimple elements if and only if it is virtually abelian. In particular, over a number field, arithmetic subgroups of some anisotrypic algebraic group is not boundedly generated. Moreover, we can deduce that a set that can be boundely generated by semisimple elements has growth rate equal to $c(\log T)^s$ with respect to height, where $T$ denotes the height function. The proof deeply uses subspace theorem in Diophantine approximation and generic element theory in Galois theory. This is a joint work with Corvaja, Demeio, Rapinchuk, and Zannier.
 
 
 
-11. **Local-global principle, integral Tate conjecture, and algebraic equivalence** ([article I](https://arxiv.org/abs/2211.15915), [article II](https://arxiv.org/abs/2302.07069), [notes](././Tian.pdf)) -- <br/>
+11. **Local-global principle, integral Tate conjecture, and algebraic equivalence** ([article I](https://arxiv.org/abs/2211.15915), [article II](https://arxiv.org/abs/2302.07069)) -- <br/>
 **Time**: 10:50-11:50, March 26. <br/>
 **Speaker**: [Zhiyu Tian](http://faculty.bicmr.pku.edu.cn/~tianzhiyu/), Peking Univ. <br/>
 **Abstract**: I will talk about my recent results about local-global principles for zero cycles and rational points on geometrically rational surfaces defined over global function fields, which is deduced from certain integral version of the Tate conjecture for some classes of varieties over finite fields. The key ingredient is a new geometric understanding of algebraic equivalence of one cycles on smooth projective varieties that has been recently obtained in a joint work with János Kollár.
 
-![SUSTech-landscape](././SUSTech-landscape.png)
+![SUSTech-landscape](././landscape.png)
