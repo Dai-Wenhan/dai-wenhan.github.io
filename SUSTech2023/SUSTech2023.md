@@ -37,7 +37,7 @@ See pdf version of [conference handbook](././handbook.pdf).
 **Abstract**: We will talk about constructions on certain mod _p_ Hodge structure for the smooth Pappas-Rapoport splitting models of Shimura varieties. These integral models are resolutions of singularities of the corresponding canonical models for ramified groups. We will also discuss applications to Galois representations associated to torsion classes in coherent cohomology. This is a joint work with Yuqiang Zheng.
 
 
-3. **On the image of Galois representations attached to modular forms** (article in preparation) -- <br/>
+3. **On the image of Galois representations attached to modular forms** ([preprint](././Cheng.pdf), in preparation) -- <br/>
 **Time**: 13:00-14:00, March 24. <br/>
 **Speaker**: [Chuangxun Cheng](http://maths.nju.edu.cn/~ccheng/), Nanjing Univ. <br/>
 **Abstract**: In this presentation, starting with the results of Swinnerton-Dyer on the congruences of Fourier coefficients of modular forms (small image case) and the results of Serre on the image of Galois representations attached to elliptic curves (big image case), we explain two applications of Galois representations in the study of Fourier coefficients of modular forms.
