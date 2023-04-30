@@ -54,7 +54,7 @@
 - [**Shenzhen Workshop on Arithmetic Geometry**](./SUSTech2023/SUSTech2023.md). <br/>
  _A conference held by Southern University of Science and Technology at Shenzhen, China; some recent results by participants involved._
 - [**Hida's Theory on _p_-adic Modular Forms**](./Hida23/Hida23.md). <br/>
- _Lectures by Bin Zhao (Capital Normal University); about Hida's analytic families of ordinary _p_-adic modular forms and their associated Galois representations._
+ _Lectures by Bin Zhao (Capital Normal University); about Hida's analytic families of ordinary p-adic modular forms and their associated Galois representations._
 
 #### 2023 Winter
 
@@ -67,11 +67,10 @@
 
 #### 2022 Fall
 
-- (_Workshop_) [**_p_-adic Geometry Learning Seminar: On Banach-Colmez Spaces**](./padicBC/padicBC.md).
-
+- (_Workshop_) [**_p_-adic Geometry Learning Seminar: On Banach-Colmez Spaces**](./padicBC/padicBC.md). <br/>
+ _To learn about basics of finite-dimensional Banach-Colmez spaces; held at MCM._
 - [**Lectures on mod _p_ Langlands program for GL(2)**](./ModpLL2022/ModpLL2022.md). <br/>
  _Advanced guest lecture series by Yongquan Hu (MCM); to introduce recent progress on the mod p Langlands program for GL(2)._
-
 - [**On the Ternary Goldbach Problem**](./Goldbach/Goldbach.md). <br/>
  _Students' for-fun-only discussions during the coffee break; covered basics of additive and combinatoric number theory._
 - [**Abelian Varieties (I)**](./AV/AV.md). <br/>
@@ -80,23 +79,29 @@
 
 #### 2022 Summer
 
-- (_Lectures_) [**IHES 2022 Summer School on the Langlands Program**](./IHES22/IHES22.md).
-- (_Workshop_) [**Geometry of Shimura Varieties and Arithmetic Applications**](https://bicmr.pku.edu.cn/content/show/17-2759.html). <br/>
+- [**IHES 2022 Summer School on the Langlands Program**](./IHES22/IHES22.md). <br/>
+ _Participated online._
+- [**Geometry of Shimura Varieties and Arithmetic Applications**](https://bicmr.pku.edu.cn/content/show/17-2759.html). <br/>
  _On recent developments; supported by Tianyuan Research Grant of Chinese NSF._
 
 
 
 #### 2022 Spring
 
-- (_Seminar_) [**Geometry of Shimura Varieties mod _p_**](./modpShv/modpShv.md).
-- (_Seminar_) [**Locally Analytic _p_-adic Representations**](./locanRep/locanRep.md).
-- (_Seminar_) [**Springer Theory, Representation Theory, and Complex Geometry**](./Springer/2022spring.md) (intended to be in-person).
+- [**Geometry of Shimura Varieties mod _p_**](./modpShv/modpShv.md). <br/>
+ _A mix of learning and research; mainly follow the work of David Helm, Yichao Tian, and Liang Xiao in this area._
+- [**Locally Analytic _p_-adic Representations**](./locanRep/locanRep.md). <br/>
+ _On continuous and locally analytic representations of p-adic groups._
+- [**Springer Theory, Representation Theory, and Complex Geometry**](./Springer/2022spring.md). <br/>
+ _About classical Springer theory with an emphasis on concreteness; intended to be in-person._
 - [**Lie Algebras and Representation Theory**](./genlie/lie2022.md). <br/>
-_A mini-course by Jinpeng An at Tianyuan Mathematical Center in Southwest China._
+ _A mini-course by Jinpeng An at Tianyuan Mathematical Center in Southwest China._
 
 #### 2021 Winter
-- (_Mini-Course_) [**Springer Fibers and Quiver Varieties**](./Springer/TMS-Springer.md) (by TMS Public).
-- (_Lectures_) [**Arizona Winter School 2022**]().
+- [**Springer Fibers and Quiver Varieties**](./Springer/TMS-Springer.md). <br/>
+ _To realize irreducible components of two-row Springer fibers in terms of Nakajima quiver varieties; by TMS, National Central University, Taiwan._
+- [**Algebraicity and Automorphic Forms on Unitary Groups**](https://swc-math.github.io/aws/2022/index.html). <br/>
+ _One of the topics in Arizona Winter School 2022; by Ellen Eischen._
 
 #### 2021 Fall
 
@@ -107,8 +112,10 @@ _A mini-course by Jinpeng An at Tianyuan Mathematical Center in Southwest China.
 
 #### 2021 Summer
 
-- (_Mini-Course_) [**From Modular Forms to Shimura Varieties**](./Sh2021summer/Sh2021summer.md) by Liang Xiao.
-- (_Mini-Course_) [**Counting Points on Shimura Varieties**](./Zhu2021summer/Zhu2021summer.md) by Yihang Zhu (Maryland).
+- [**From Modular Forms to Shimura Varieties**](./Sh2021summer/Sh2021summer.md). <br/>
+ _A week-long summer school basic course by Liang Xiao at BICMR; with many exercises._
+- [**Counting Points on Shimura Varieties**](./Zhu2021summer/Zhu2021summer.md). <br/>
+ _A short course proposed by Yihang Zhu (Maryland) about his recent work._
 
 #### 2021 Spring
 
