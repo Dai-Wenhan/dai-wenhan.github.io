@@ -1,6 +1,6 @@
 ## Seminars, Workshops, and Conferences Attended
 
-### Ongoing Events during 2023 Spring
+### Ongoing Events During 2023 Spring
 
 - [**Seminar on Geometry of Shimura Varieties mod _p_**](./geomShv23/geomShv23.md).
 
