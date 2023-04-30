@@ -49,7 +49,7 @@ A headshot of mine is posted [here](./headshot.jpg).
   The purpose of this weekly half-seminar-half-discussion-session is to study several constructions of cycles and motivic elements, in particular _K_(1)-elements via Borcherds product. All talks will be given by participants, and each meeting will be about 120 minutes, with 80 minutes lecture, 10 minutes break in the middle, and 30 minutes discussion time.
   - **Organizer:** [Liang Xiao](https://bicmr.pku.edu.cn/~lxiao/index.htm).
   - **Time:** 13:00–15:00 Tuesdays (starting on February 21).
-  - **Venue:** Jingchun Yuan 78301.
+  - **Venue:** Jia-yi-bing Building, Room 82J12.
 
 - [**Seminar on Lawrence–Venkatesh’s Proof of the Mordell Conjecture**](./LV23/LV23.md).
 

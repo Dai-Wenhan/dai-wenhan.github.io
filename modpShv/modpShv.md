@@ -1,9 +1,11 @@
 ## Geometry of Shimura varieties mod _p_.
 
 This seminar will be a mix of learning and research, on the topic of geometry of Shimura varieties mod _p_. We mainly follow some work by David Helm, Yichao Tian, and Liang Xiao. The purpose of this semester-long seminar is to go over basic facts and constructions around the concept of automorphic forms, especially its _p_-adic aspects: eigencurves, overconvergent automorphic forms. Most talks will be given by participants. For each talk, please prepare 90 minutes talk, followed by a 30 minutes exercise/discussion time. Talks will be given in English.
-- **Time**: Every Monday, 10–noon.
-- **Location**: BICMR 77201.
-- **Instructor**: [Liang Xiao](https://bicmr.pku.edu.cn/~lxiao/index.htm).
+
+- **Organizer:** [Liang Xiao](https://bicmr.pku.edu.cn/~lxiao/index.htm).
+- **Time:** Every Monday, 10–noon.
+- **Venue:** BICMR 77201.
+
 
 Before your participation, an instructive talk [_Generic Tate cycles on certain unitary Shimura varieties over finite fields_](https://www.youtube.com/watch?v=Bzg5hsiUgPw) to [HTX] by Yichao Tian at Centre International de Rencontres Mathématiques is strongly recommended ([notes](././tatecycles-tian.pdf)).
 

@@ -3,7 +3,7 @@
 This short course is an introduction to the problem of computing the zeta function of Shimura varieties, or more concretely counting points. We will discuss the ideas of Langlands and Kottwitz of comparing the point counting with trace formulas, which eventually relates the zeta function with automorphic L functions.  We will start with the basics and the historic roots, and in the end talk about some more recent developments for general abelian-type Shimura varieties. The course consists of six lectures, each 1.5 hours long.  It is a natural follow-up of Liang Xiao's short course in late July at BICMR.
 
 - **Lecturer:** [Yihang Zhu](http://math.umd.edu/~yhzhu/) (University of Maryland, College Park).
-- **Dates:** August 9-20, 2021.
+- **Time:** August 9-20, 2021.
 - **Venue:** Online (Zoom ID: 860 6562 2199; Code: 822154).
 
 
