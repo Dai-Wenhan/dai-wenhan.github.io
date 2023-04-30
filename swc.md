@@ -49,37 +49,38 @@
 
 #### 2023 Spring
 
-- [**Shenzhen Workshop on Arithmetic Geometry**](./SUSTech2023/SUSTech2023.md).
+- [**Shenzhen Workshop on Arithmetic Geometry**](./SUSTech2023/SUSTech2023.md). <br/>
  _A conference held by Southern University of Science and Technology at Shenzhen, China; some recent results by participants involved._
-- [**Hida's theory on _p_-adic modular forms**](./Hida23/Hida23.md).
+- [**Hida's theory on _p_-adic modular forms**](./Hida23/Hida23.md). <br/>
  _Lectures by Bin Zhao (Capital Normal University); about Hida's analytic families of ordinary _p_-adic modular forms and their associated Galois representations._
 
 #### 2023 Winter
 
-- [**On Geometrization of Local Langlands Correspondence**](./geometrization/geometrization.md).
+- [**On Geometrization of Local Langlands Correspondence**](./geometrization/geometrization.md). <br/>
  _Reading workshop about recent progress by Fargues–Scholze; held by BICMR and MCM._
-- [**Rigid and Formal Geometry**](./rigid/rigid.md).
+- [**Rigid and Formal Geometry**](./rigid/rigid.md). <br/>
  _Student learning seminar on basics of rigid analytic geometry; to prepare for an upcoming course on perfectoid spaces._
-- [**Instructional workshop on Iwasawa theory for automorphic forms**](./Iwasawa2022/Iwasawa2022.md).
+- [**Instructional workshop on Iwasawa theory for automorphic forms**](./Iwasawa2022/Iwasawa2022.md). <br/>
  _Online workshop at Korean Institute for Advanced Study (KIAS); introduction to breakthrough works on Iwasawa theory._
 
 #### 2022 Fall
 
 - (_Workshop_) [**_p_-adic Geometry Learning Seminar: On Banach-Colmez Spaces**](./padicBC/padicBC.md).
 
-- [**Lectures on mod _p_ Langlands program for GL(2)**](./ModpLL2022/ModpLL2022.md) (advanced guest lecture series).
- _Advanced guest lecture series by Yongquan Hu (MCM); to introduce recent progress on the mod _p_ Langlands program for GL(2)._
+- [**Lectures on mod _p_ Langlands program for GL(2)**](./ModpLL2022/ModpLL2022.md). <br/>
+ _Advanced guest lecture series by Yongquan Hu (MCM); to introduce recent progress on the mod p Langlands program for GL(2)._
 
-- [**On the Ternary Goldbach Problem**](./Goldbach/Goldbach.md).
+- [**On the Ternary Goldbach Problem**](./Goldbach/Goldbach.md). <br/>
  _Students' for-fun-only discussions during the coffee break; covered basics of additive and combinatoric number theory._
-- [**Abelian Varieties (I)**](./AV/AV.md).
+- [**Abelian Varieties (I)**](./AV/AV.md). <br/>
  _The first-half of a student learning seminar for the 3+X Program at PKU._
 
 
 #### 2022 Summer
 
 - (_Lectures_) [**IHES 2022 Summer School on the Langlands Program**](./IHES22/IHES22.md).
-- (_Workshop_) [**Geometry of Shimura Varieties and Arithmetic Applications**](https://bicmr.pku.edu.cn/content/show/17-2759.html).
+- (_Workshop_) [**Geometry of Shimura Varieties and Arithmetic Applications**](https://bicmr.pku.edu.cn/content/show/17-2759.html). <br/>
+ _On recent developments; supported by Tianyuan Research Grant of Chinese NSF._
 
 
 
@@ -96,9 +97,9 @@
 
 #### 2021 Fall
 
-- [**3264 and All That**](./3264/3264.md).
+- [**3264 and All That**](./3264/3264.md). <br/>
  _A student learning seminar on enumerative geometry._
-- [**The Uniform Mordell-Lang Program**](./westlake2021/westlake2021.md).
+- [**The Uniform Mordell-Lang Program**](./westlake2021/westlake2021.md). <br/>
  _Workshop around Junyi Xie and Xinyi Yuan's proof on Bogomolov conjecture; held by Institute for Theoretical Sciences, Westlake University, at Hangzhou._
 
 #### 2021 Summer
