@@ -15,7 +15,7 @@
   The goal of this workshop is to understand the recent progress by Fargues–Scholze on the geometrization of local Langlands correspondence. The main reference is the long manuscript [FS] by Fargues–Scholze. Hopefully, with enough time for discussion, we may find some applications of the results in the near future.
   - **Organizer:** [Liang Xiao](http://faculty.bicmr.pku.edu.cn/~lxiao/).
   - **Time:** Jan 2–13, all talks will be at 1–2:30pm or 3–4:30pm on weekdays (except for the last day).
-  - **Format:** Tencent Meeting (_The room is closed now_).
+  - **Venue:** Tencent Meeting (_The room is closed now_).
 
 
 ### Schedule

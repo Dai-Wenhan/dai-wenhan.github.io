@@ -4,7 +4,7 @@ This seminar will be about classical Springer theory with an emphasis on concret
 
 - **Instructor:** Marc Besson.
 - **Time:** Every Tuesday, 1–3pm.
-- **Location:** Quan 09.
+- **Venue:** Quan 09.
 
 Click [here](././middleext.pdf) to download my notes for Talk 10.
 
