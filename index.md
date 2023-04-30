@@ -38,6 +38,7 @@ A headshot of mine is posted [here](./headshot.jpg).
   - **Venue:** Jingchun Yuan 78301.
 
 - [**Seminar on _p_-divisible Groups**](./pdiv23/pdiv23.md).
+  
   The purpose of this weekly seminar is to study the basics of _p_-divisible groups. All talks will be givenby participants, and each meeting will be about 110 minutes, with a ten minutes break in the middle.
   - **Organizer:** [Yiwen Ding](http://faculty.bicmr.pku.edu.cn/~dingyiwen/).
   - **Time:** 10:00–12:00 Tuesdays (the first talk is specially on February 22).

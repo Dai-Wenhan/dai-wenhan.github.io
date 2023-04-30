@@ -9,7 +9,9 @@
   - **Time:** 16:00–18:00 Mondays (starting on February 20).
   - **Venue:** Jingchun Yuan 78301.
 
+
 - [**Seminar on _p_-divisible Groups**](./pdiv23/pdiv23.md).
+  
   The purpose of this weekly seminar is to study the basics of _p_-divisible groups. All talks will be givenby participants, and each meeting will be about 110 minutes, with a ten minutes break in the middle.
   - **Organizer:** [Yiwen Ding](http://faculty.bicmr.pku.edu.cn/~dingyiwen/).
   - **Time:** 10:00–12:00 Tuesdays (the first talk is specially on February 22).
@@ -24,7 +26,7 @@
 
 - [**Seminar on Lawrence–Venkatesh’s Proof of the Mordell Conjecture**](./LV23/LV23.md).
 
-  The purpose of this weekly seminar is to study Lawrence–Venkatesh’s proof of the Mordell conjecture. The main reference is [LV], and the survey [Po] gives a quick sketch for beginners. All talks will be given by participants, and each meeting will be about 90 minutes.
+  The purpose of this weekly seminar is to study Lawrence-Venkatesh’s proof of the Mordell conjecture. The main reference is [LV], and the survey [Po] gives a quick sketch for beginners. All talks will be given by participants, and each meeting will be about 90 minutes.
   - **Organizer:** [Xinyi Yuan](http://faculty.bicmr.pku.edu.cn/~yxy/).
   - **Time:** 10:30–12:00 Wednesdays (starting on March 1).
   - **Venue:** BICMR 77201.
