@@ -58,7 +58,7 @@ A headshot of mine is posted [here](./headshot.jpg).
   - **Time:** 10:30–12:00 Wednesdays (starting on March 1).
   - **Venue:** BICMR 77201.
   
-- [**Seminar Beyond Fargues-Scholze**](./FS23/FS23.md)
+- [**Seminar Beyond Fargues-Scholze**](./FS23/FS23.md).
 
   The purpose of this weekly seminar is to study some of the recent works that are built on Fargues-Scholze. We will focus on those works in the Langlands program. All talks will be given by participants, and each meeting will be about 110 minutes, with a ten minutes break in the middle.
   - **Organizer:** Zhiyou Wu (MCM).

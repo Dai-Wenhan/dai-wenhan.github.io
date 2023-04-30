@@ -31,7 +31,7 @@
   - **Time:** 10:30–12:00 Wednesdays (starting on March 1).
   - **Venue:** BICMR 77201.
   
-- [**Seminar Beyond Fargues-Scholze**](./FS23/FS23.md)
+- [**Seminar Beyond Fargues-Scholze**](./FS23/FS23.md).
 
   The purpose of this weekly seminar is to study some of the recent works that are built on Fargues-Scholze. We will focus on those works in the Langlands program. All talks will be given by participants, and each meeting will be about 110 minutes, with a ten minutes break in the middle.
   - **Organizer:** Zhiyou Wu (MCM).
@@ -53,7 +53,7 @@
 
 - [**Shenzhen Workshop on Arithmetic Geometry**](./SUSTech2023/SUSTech2023.md). <br/>
  _A conference held by Southern University of Science and Technology at Shenzhen, China; some recent results by participants involved._
-- [**Hida's theory on _p_-adic modular forms**](./Hida23/Hida23.md). <br/>
+- [**Hida's Theory on _p_-adic Modular Forms**](./Hida23/Hida23.md). <br/>
  _Lectures by Bin Zhao (Capital Normal University); about Hida's analytic families of ordinary _p_-adic modular forms and their associated Galois representations._
 
 #### 2023 Winter
@@ -62,7 +62,7 @@
  _Reading workshop about recent progress by Fargues–Scholze; held by BICMR and MCM._
 - [**Rigid and Formal Geometry**](./rigid/rigid.md). <br/>
  _Student learning seminar on basics of rigid analytic geometry; to prepare for an upcoming course on perfectoid spaces._
-- [**Instructional workshop on Iwasawa theory for automorphic forms**](./Iwasawa2022/Iwasawa2022.md). <br/>
+- [**Instructional Workshop on Iwasawa Theory for Automorphic Forms**](./Iwasawa2022/Iwasawa2022.md). <br/>
  _Online workshop at Korean Institute for Advanced Study (KIAS); introduction to breakthrough works on Iwasawa theory._
 
 #### 2022 Fall
@@ -91,7 +91,8 @@
 - (_Seminar_) [**Geometry of Shimura Varieties mod _p_**](./modpShv/modpShv.md).
 - (_Seminar_) [**Locally Analytic _p_-adic Representations**](./locanRep/locanRep.md).
 - (_Seminar_) [**Springer Theory, Representation Theory, and Complex Geometry**](./Springer/2022spring.md) (intended to be in-person).
-- (_Mini-Course_) [**Jinpeng An: Lie Algebras and Representation Theory**](./genlie/lie2022.md) (Tianyuan Mathematical Center in Southwest China).
+- [**Lie Algebras and Representation Theory**](./genlie/lie2022.md). <br/>
+_A mini-course by Jinpeng An at Tianyuan Mathematical Center in Southwest China._
 
 #### 2021 Winter
 - (_Mini-Course_) [**Springer Fibers and Quiver Varieties**](./Springer/TMS-Springer.md) (by TMS Public).
