@@ -4,7 +4,7 @@ _Morningside Center of Mathematics, CAS._
 
 The goal of this series of talks is to explain the recent work [LTXZ1] and [LTXZ2] on slopes of modular forms and its various arithmetic applications.
 
-- **Speakers:** [Ruochuan Liu](http://faculty.bicmr.pku.edu.cn/~ruochuan/), [Liang Xiao](https://bicmr.pku.edu.cn/~lxiao/index.htm), and [Bin Zhao](https://www.cs.cmu.edu/~bzhao/).
+- **Speakers:** [Ruochuan Liu](http://faculty.bicmr.pku.edu.cn/~ruochuan/), [Liang Xiao](https://bicmr.pku.edu.cn/~lxiao/index.htm), and Bin Zhao.
 - **Time:** Fridays in April - 
     - 9:00am-3:30pm on April 7 & 14,
     - 9:00am-17:30pm on April 21,
