@@ -11,11 +11,6 @@
 - (2021 Fall) Online tutorial for [Advanced Calculus (B)](./cal2021/cal2021.md) / [高等数学(B)](./cal2021/cal2021.md).
 - (2021 Spring) Online tutorial for [Advanced Linear Algebra (B)]() / [线性代数(B)]().
 
-### As Committee Volunteer
-
-- (2022 Winter) Chinese Mathematical Olympiad / 2022年全国中学生奥林匹克数学竞赛决赛于12月29日-30日在深圳中学线上举办 ([第一天试题](./miscellanea/1229B.pdf), [第二天试题](./miscellanea/1230A.pdf)).
-- (2022 Spring) [Chinese Team Selection Test](./miscellanea/2022集训队二期终稿.pdf) (in Chinese) / 2022年IMO[中国国家队选拔考试](./miscellanea/2022集训队二期终稿.pdf). 
-
 
 
 
