@@ -23,7 +23,7 @@ A headshot of mine is posted [here](./headshot.jpg).
 
 ## Recent Updates
 
-1. This semester I work as a teaching assistant of [_Algebraic Geometry II_](./AGII23/AGII23.md).
+1. This semester I work on geometry of Shimura varieties mod _p_.
 
 
 ### Ongoing/Upcoming Events
