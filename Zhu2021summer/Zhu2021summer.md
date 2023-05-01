@@ -13,11 +13,11 @@ The latest version (edited by the lecturer) of the TeXed notes can be found [her
 
 _The [recoding videos collection](https://www.bilibili.com/video/BV1HL4y1z7e2/) is available at the [BICMR Bilibili account](https://space.bilibili.com/525670297). One-button-triplet (一键三连) is warmly appreciated!_
 
-1. Hasse-Weil zeta functions. ([notes](././1.pdf), [video](https://www.bilibili.com/video/BV1hf4y1w76X/))
-2. Integral models and the counting formula. ([notes](././2.pdf), [video](https://www.bilibili.com/video/BV13M4y137oE/))
-3. General way for computing (I). ([notes](././3.pdf), [video](https://www.bilibili.com/video/BV1eu411f7yh/))
-4. General way for computing (II). ([notes](././4.pdf), [video](https://www.bilibili.com/video/BV1N64y187Gc/))
-5. General counting formula and the trace formula. ([notes](././5.pdf), [video](https://www.bilibili.com/video/BV1mg411c7Pg/))
-6. Stabilization and proof of PCF in Hodge-type. ([notes](././6.pdf), [video](https://www.bilibili.com/video/BV1s34y1D7jh/))
+- **Lecture 1:** Hasse-Weil zeta functions. ([notes](././1.pdf), [video](https://www.bilibili.com/video/BV1hf4y1w76X/))
+- **Lecture 2:** Integral models and the counting formula. ([notes](././2.pdf), [video](https://www.bilibili.com/video/BV13M4y137oE/))
+- **Lecture 3:** General way for computing (I). ([notes](././3.pdf), [video](https://www.bilibili.com/video/BV1eu411f7yh/))
+- **Lecture 4:** General way for computing (II). ([notes](././4.pdf), [video](https://www.bilibili.com/video/BV1N64y187Gc/))
+- **Lecture 5:** General counting formula and the trace formula. ([notes](././5.pdf), [video](https://www.bilibili.com/video/BV1mg411c7Pg/))
+- **Lecture 6:** Stabilization and proof of PCF in Hodge-type. ([notes](././6.pdf), [video](https://www.bilibili.com/video/BV1s34y1D7jh/))
 
 ![8757](././8757.jpg)

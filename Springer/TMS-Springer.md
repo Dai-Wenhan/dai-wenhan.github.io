@@ -9,13 +9,13 @@ Our goal is to explain the explicit realization of irreducible components of two
 - **Organizer:** [Yung-Ning Peng](https://w2.math.ncu.edu.tw/member/full/56%20) / 彭勇寧, [Chih-Whi Chen](https://ncts.ntu.edu.tw/people_detail.php?gid=130&bgid=7) / 陳志瑋.
 
 ### Outline
-- Lecture 1: Lie Algebras ([video](https://www.youtube.com/watch?v=vm093FmD68Q&list=PLQZfZKhc0kiDn4b7Z6hU59_TKwSuAAvhS&index=5), [notes](././TMS1.pdf)) - <br/>
-  A crash course on the Lie algebras including the Schur duality and properties of the nilpotent orbits.
-- Lecture 2: Symmetric Groups ([video](https://www.youtube.com/watch?v=JCsp0H20hTk&list=PLQZfZKhc0kiDn4b7Z6hU59_TKwSuAAvhS&index=2), [notes](././TMS2.pdf)) - <br/>
-  Reviewing the representation theory of the symmetric groups and their related combinatorics and geometry.
-- Lecture 3: Springer Fibers ([video](https://www.youtube.com/watch?v=aBSkLG6CaZ0&list=PLQZfZKhc0kiDn4b7Z6hU59_TKwSuAAvhS&index=3), [notes](././TMS3.pdf)) - <br/>
-  The Springer correspondence as well as combinatorics related to irreducible components of two-row Springer fibers.
-- Lecture 4: Quiver Representations ([video](https://www.youtube.com/watch?v=qlpigzwOrCg&list=PLQZfZKhc0kiDn4b7Z6hU59_TKwSuAAvhS&index=4), [notes](././TMS4.pdf)) - <br/>
-  Basic properties of quiver representations.
-- Lecture 5: Nakajima Quiver Varieties ([video](https://www.youtube.com/watch?v=UmdFhh558Lg&list=PLQZfZKhc0kiDn4b7Z6hU59_TKwSuAAvhS&index=5), [notes](././TMS5.pdf)) - <br/>
-  How Springer fibers are realized as Nakajima quiver varieties.
+- **Lecture 1:** Lie Algebras. ([video](https://www.youtube.com/watch?v=vm093FmD68Q&list=PLQZfZKhc0kiDn4b7Z6hU59_TKwSuAAvhS&index=5), [notes](././TMS1.pdf)) <br/>
+  _A crash course on the Lie algebras including the Schur duality and properties of the nilpotent orbits._
+- **Lecture 2:** Symmetric Groups. ([video](https://www.youtube.com/watch?v=JCsp0H20hTk&list=PLQZfZKhc0kiDn4b7Z6hU59_TKwSuAAvhS&index=2), [notes](././TMS2.pdf)) <br/>
+  _Reviewing the representation theory of the symmetric groups and their related combinatorics and geometry._
+- **Lecture 3:** Springer Fibers. ([video](https://www.youtube.com/watch?v=aBSkLG6CaZ0&list=PLQZfZKhc0kiDn4b7Z6hU59_TKwSuAAvhS&index=3), [notes](././TMS3.pdf)) <br/>
+  _The Springer correspondence as well as combinatorics related to irreducible components of two-row Springer fibers._
+- **Lecture 4:** Quiver Representations. ([video](https://www.youtube.com/watch?v=qlpigzwOrCg&list=PLQZfZKhc0kiDn4b7Z6hU59_TKwSuAAvhS&index=4), [notes](././TMS4.pdf)) <br/>
+  _Basic properties of quiver representations._
+- **Lecture 5:** Nakajima Quiver Varieties. ([video](https://www.youtube.com/watch?v=UmdFhh558Lg&list=PLQZfZKhc0kiDn4b7Z6hU59_TKwSuAAvhS&index=5), [notes](././TMS5.pdf)) <br/>
+  _How Springer fibers are realized as Nakajima quiver varieties._

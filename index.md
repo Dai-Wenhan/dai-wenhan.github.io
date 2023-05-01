@@ -6,7 +6,7 @@ Hi!
 
 - [**Selected Research / Expository Writings**](./blurbs.md)
 - [**Seminars, Workshops, and Conferences Attended**](./swc.md)
-- [**Courses and the General Qualify Exam**](./notes.md)
+- [**Courses and the General Qualify Exam**](./studying.md)
 - [**Teaching Experiences**](./teaching.md)
 
 ### About Me

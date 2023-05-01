@@ -10,23 +10,23 @@ The purpose of this weekly half-seminar-half-discussion-session is to study seve
 
 ### Syllabus (tentative)
 
-- [x] (2/21) **Liang Xiao** - Introduction.
-- [x] (2/28) **Wenxuan Qi** - Higher regulators, I [Deninger].
-- [x] (3/7) **Wenxuan Qi** - Higher regulators, II [Deninger].
+- [x] (2/21) **Liang Xiao:** Introduction.
+- [x] (2/28) **Wenxuan Qi:** Higher regulators, I [Deninger].
+- [x] (3/7) **Wenxuan Qi:** Higher regulators, II [Deninger].
 - [ ] (3/14) No seminar, LX away.
-- [x] (3/21) **Hao Fu** - Arithmetic theta lifting, I [Liu].
+- [x] (3/21) **Hao Fu:** Arithmetic theta lifting, I [Liu].
 - [ ] (3/28) No seminar, LX away.
-- [x] (4/4) **Ruiqi Bai** - Arithmetic theta lifting, II [Liu].
-- [x] (4/11) **Wenxuan Qi** - Higher regulators, III [Deninger].
+- [x] (4/4) **Ruiqi Bai:** Arithmetic theta lifting, II [Liu].
+- [x] (4/11) **Wenxuan Qi:** Higher regulators, III [Deninger].
 - [ ] (4/18) No seminar, LX away.
-- [x] (4/25) **Wenxuan Qi** - Higher regulators, IV [Deninger].
+- [x] (4/25) **Wenxuan Qi:** Higher regulators, IV [Deninger].
 - [ ] (5/2) _National Labor-Day Holiday._
 - [ ] (5/9) No seminar, HIM summer school.
-- [ ] (5/16) **Ruiqi Bai** - Arithmetic theta lifting, III [Liu].
-- [ ] (5/23) **Liang Xiao** - Borcherds product, I (content TBA).
-- [ ] (5/30) **Liang Xiao** - Borcherds product, II (content TBA).
-- [ ] (6/6) **Ruiqi Bai / Hao Fu** - Cycles on _U_(_n_)×_U_(_n_)-Shimura varieties, I [Liu21].
-- [ ] (6/13) **Ruiqi Bai / Hao Fu** - Cycles on _U_(_n_)×_U_(_n_)-Shimura varieties, II [Liu21].
+- [ ] (5/16) **Ruiqi Bai:** Arithmetic theta lifting, III [Liu].
+- [ ] (5/23) **Liang Xiao:** Borcherds product, I (content TBA).
+- [ ] (5/30) **Liang Xiao:** Borcherds product, II (content TBA).
+- [ ] (6/6) **Ruiqi Bai / Hao Fu:** Cycles on U(_n_)×U(_n_)-Shimura varieties, I [Liu21].
+- [ ] (6/13) **Ruiqi Bai / Hao Fu:** Cycles on U(_n_)×U(_n_)-Shimura varieties, II [Liu21].
 
 
 ### References
