@@ -8,10 +8,10 @@ _A coffee-break-seminar on additive and combinatoric number theory._
 
 All over the world, there are a large number of amateur maths enthusiasts who make their own elementary and non-professional attempts at all kinds of number-theoretic conjectures. In the case of the Goldbach Problem, this phenomenon is more evident in China than elsewhere for historical reasons. This series of discussions, which took place during the coffee break, was intended to explain why the Goldbach Problem is so difficult to prove and the great difficulties that lie beneath its elementary appearance.
 
-- **Organizers**: Zekun Chen (<chenzekun@pku.edu.cn>), Wenhan Dai (me), and Sister Xiao (<944058846@qq.com>).
-- **Time**: October-November 2022; typically irregular. (Contact the organizers to join the WeChat group for detailed time syllabus.)
-- **Venue**: Coffee Bar at Jingchun Yuan (behind Room 77201), BICMR; or alternatively, the Paradiso Coffee (泊星地咖啡) at Yan Yuan.
-- **Prerequisite**: Analytic NT / Fourier analysis, assumedly useful but not necessary. 
+- **Organizers:** Zekun Chen (<chenzekun@pku.edu.cn>), Wenhan Dai (me), and Sister Xiao (<944058846@qq.com>).
+- **Time:** October-November 2022; typically irregular. (Contact the organizers to join the WeChat group for detailed time syllabus.)
+- **Venue:** Coffee Bar at Jingchun Yuan (behind Room 77201), BICMR; or alternatively, the Paradiso Coffee (泊星地咖啡) at Yan Yuan.
+- **Prerequisite:** Analytic NT / Fourier analysis, assumedly useful but not necessary. 
 
 We plan to follow [Ben Green's lecture notes](https://courses-archive.maths.ox.ac.uk/node/view_material/49404) (Oxon ver in 2020) closely.
 

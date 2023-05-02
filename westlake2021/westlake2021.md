@@ -2,8 +2,8 @@
 
 _Institute for Theoretical Sciences - [Westlake Mathematics Seminar 2021](https://its.westlake.edu.cn/info/1071/1271.htm)_
 
-- **Time**: September 25th-26th, 2021.
-- **Venue**: Hua Jia Shan Resort (花家山莊).
+- **Time:** September 25th-26th, 2021.
+- **Venue:** Hua Jia Shan Resort (花家山莊).
 
 ### Contents
 

@@ -68,9 +68,9 @@ A headshot of mine is posted [here](./headshot.jpg).
 - [**Abelian Varieties (II)**](./AV2/AV2.md) (Student seminar for the 3+X program; see also [**Abelian Varieties (I)**](https://dai-wenhan.github.io/AV/AV.html) during 2022 Fall).
 
   The goal of this learning seminar is to study the basics of abelian varieties. The pre-requisite is Chapters 2–3 of Hartshorne's algebraic geometry, but this seminar can also be taken while reading Hartshorne's book. Some familiarity with elliptic curves will be helpful to understand some of the materials. Each lecture will be two hours long.
-  - **Instructor**: [Liang Xiao](https://bicmr.pku.edu.cn/~lxiao/index.htm).
-  - **Time**: Every Saturday, 7:00-9:00pm, during 2023 Spring semester.
-  - **Venue**: Jia-yi-bing Building, Room 82J12.
+  - **Instructor:** [Liang Xiao](https://bicmr.pku.edu.cn/~lxiao/index.htm).
+  - **Time:** Every Saturday, 7:00-9:00pm, during 2023 Spring semester.
+  - **Venue:** Jia-yi-bing Building, Room 82J12.
 
 
 ## Contact Info
@@ -82,7 +82,7 @@ No.5 Yiheyuan Road, Haidian District
 Beijing, 100871, China.
 ```
 
-**Email**: daiwenhan [at] pku [dot] edu [dot] cn (he/him/él/il)
+**Email:** daiwenhan [at] pku [dot] edu [dot] cn (he/him/él/il)
 <br/>
 Bien que ce site ne soit disponible qu'en anglais, je peux répondre aux courriels en français (avec difficulté).
 

@@ -1,11 +1,11 @@
 ## Basic Number Theory (2020 Fall)
 
-- **Lecturer**: [Ruochuan Liu](http://faculty.bicmr.pku.edu.cn/~ruochuan/).
-- **Teaching Assistant**: [Jiedong Jiang]().
+- **Lecturer:** [Ruochuan Liu](http://faculty.bicmr.pku.edu.cn/~ruochuan/).
+- **Teaching Assistant:** [Jiedong Jiang]().
 
 ### Notes
 
-**Announcement**: _The original notes contained a large number of typos, gaps, and faults. Therefore, the notes for this course had been rewritten into TeXed files in 2022._
+**Announcement:** _The original notes contained a large number of typos, gaps, and faults. Therefore, the notes for this course had been rewritten into TeXed files in 2022._
 
 - [x] (9/22) **Lecture 1:** Motivation (Fermat's conjecture), the quadratic reciprocity law, the main theorem of the course (higher reciprocity). ([notes](././lec1.pdf))
 

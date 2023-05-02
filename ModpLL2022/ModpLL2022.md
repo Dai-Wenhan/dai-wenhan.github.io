@@ -5,7 +5,7 @@ _Advanced guest lecture series._
 This lecture series aims to give an introduction to some recent progress on the mod _p_ Langlands program for GL(2). 
 
 - **Lecturer:** [Yongquan Hu](http://www.mcm.ac.cn/faculty/huyongquan/201509/t20150909_306981.html) (MCM, AMSS).
-- **Other Invited Participants**: Yiwen Ding, Ruochuan Liu, Yichao Tian, Haoran Wang, Liang Xiao, etc..
+- **Other Invited Participants:** Yiwen Ding, Ruochuan Liu, Yichao Tian, Haoran Wang, Liang Xiao, etc..
 - **Time:** November 2 - November 16, 2022.
 - **Venue:** Lecture Hall, 82J12, Jingchunyuan 82, BICMR.
 
@@ -17,11 +17,11 @@ You are suggested to concern about this [talk](https://dai-wenhan.github.io/Mini
 
 ### Syllabus
 
-- [x] (11/2) **Lecture 1**: Serre weights and Breuil-Paskunas’ construction. ([notes](././ModpLL1.pdf))
-- [x] (11/9) **Lecture 2**: Gelfand-Kirillov dimension of some representations of GL(2). ([notes](././ModpLL2.pdf))
+- [x] (11/2) **Lecture 1:** Serre weights and Breuil-Paskunas’ construction. ([notes](././ModpLL1.pdf))
+- [x] (11/9) **Lecture 2:** Gelfand-Kirillov dimension of some representations of GL(2). ([notes](././ModpLL2.pdf))
 - [ ] (11/16) (The lecture scheduled for this time has been cancelled due to force majeure.)
-- [x] (11/23) **Lecture 3**: Finite length results. ([notes](././ModpLL3.pdf))
-- [x] (11/30) **Lecture 4**: Generalized Colmez’s functor. ([notes](././ModpLL4.pdf))
+- [x] (11/23) **Lecture 3:** Finite length results. ([notes](././ModpLL3.pdf))
+- [x] (11/30) **Lecture 4:** Generalized Colmez’s functor. ([notes](././ModpLL4.pdf))
 
 ### References
 

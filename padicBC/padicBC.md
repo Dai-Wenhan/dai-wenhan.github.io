@@ -1,9 +1,9 @@
 ## _p_-adic Geometry Learning Seminar: On Banach-Colmez Spaces.
 
   The goal of this series of talks is to learn the basics of finite-dimensional Banach Spaces (aka. Banach-Colmez spaces). More details can be found on Shizhang's [organizing page](http://shizhang.li/seminars/BC%20spaces_22%20Fall.html). There is a small chance we might have to deviate from this schedule if some topics end up taking longer/shorter than we expect.
-  - **Organizers**: Koji Shimizu (Tsinghua) and [Shizhang Li](http://shizhang.li) (MCM).
-  - **Time**: Every Monday, 3:00-5:00pm.
-  - **Venue**: MCM 110 & Online (Zoom ID: 4663562952; Password: mcm1234).
+  - **Organizers:** Koji Shimizu (Tsinghua) and [Shizhang Li](http://shizhang.li) (MCM).
+  - **Time:** Every Monday, 3:00-5:00pm.
+  - **Venue:** MCM 110 & Online (Zoom ID: 4663562952; Password: mcm1234).
 
   
 Please email Shizhang <lishizhang@amss.ac.cn> if you would like to join the mailing list for this seminar.
