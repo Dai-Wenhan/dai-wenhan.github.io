@@ -16,7 +16,7 @@ The goal of this series of talks is to explain the recent work [LTXZ1] and [LTXZ
 - [x] (4/7) **Liang Xiao:** Talk 1 -- Introduction to ghost conjecture and its local version. ([notes](././1.pdf)) <br/>
 _Review the ghost conjecture raised by Bergdall and Pollack in [BP16+, BP17+]. Explain the formulation of local ghost conjecture following [LTXZ1, §2]._
 
-- [x] (4/7) **Liang Xiao:** Talk 2 -- Application of ghost conjectures. <br/> 
+- [x] (4/7) **Liang Xiao:** Talk 2 -- Application of ghost conjectures. ([notes](././2.pdf)) <br/> 
 _Give an overview of the proof of ghost conjecture and introduce its applications following [LTXZ2, §1]._
 
 - [x] (4/7) **Ruochuan Liu:** Talk 3 -- Abstract _p_-adic modular forms and corank theorem. ([notes](././3.pdf)) <br/>
