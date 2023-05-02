@@ -16,21 +16,21 @@ The textbook we are going to use is Mumford's book [Mum]. Another complementary 
 
 _I will not take handwritten notes for some talks during this semester. Instead, a TeXed readable version of notes will be uploaded at the end._
 
-- [x] (2/25) **Liang Xiao** - Review and preview. 
-- [x] (3/4) **Zhi Zheng** - [Mum, §16]. 
-- [x] (3/11) **Jiachen Chen** - [Mum, §17-18]. A nice exercise is to deduce Kodaira's vanishing theorem for abelian varieties (over any field). 
-- [ ] (3/18) **Xiaozheng Han** - [Mum, §19]. ([notes](././17.pdf))
+- [x] (2/25) **Liang Xiao:** Review and preview. 
+- [x] (3/4) **Zhi Zheng:** [Mum, §16]. 
+- [x] (3/11) **Jiachen Chen:** [Mum, §17-18]. A nice exercise is to deduce Kodaira's vanishing theorem for abelian varieties (over any field). 
+- [ ] (3/18) **Xiaozheng Han:** [Mum, §19]. ([notes](././17.pdf))
 - [ ] (3/25) _No seminar; Liang Xiao away._
-- [ ] (4/1) **Huishi Yu** - [Mum, §20]. ([notes](././18.pdf))
-- [ ] (4/8) **Liang Xiao** - [Mum, §21]. ([notes](././19.pdf))
+- [ ] (4/1) **Huishi Yu:** [Mum, §20]. ([notes](././18.pdf))
+- [ ] (4/8) **Liang Xiao:** [Mum, §21]. ([notes](././19.pdf))
 - [ ] (4/15) _No seminar; Liang Xiao away._
-- [ ] (4/22) **Zhanhao Yu** - [Mum, §22]. ([notes](././20.pdf))
+- [ ] (4/22) **Zhanhao Yu:** [Mum, §22]. ([notes](././20.pdf))
 - [ ] (5/1) _No seminar; Liang Xiao away._
-- [ ] (5/13) **Xingzhu Fang** - [Mum, §23-24]. ([notes](././21.pdf))
-- [ ] (5/20) **Haoda Li** - [Mum, §23-24]. ([notes](././22.pdf))
-- [ ] (5/27) **Xiaolong Hu** - §III.1-III.6 of [Mil]. Sketch the theory of Jacobian varieties. ([notes](././23.pdf))
-- [ ] (6/3) **Shun Yin** - §IV.2 of [Mil] Sketch a proof of Tate's theorem over finite fields. This is also in Appendix I of [Mum], but Milne's approach is simplified with Zarhin's trick on principal polarizations. ([notes](././24.pdf))
-- [ ] (6/10) **Han Hu** - Appendix II of [Mum] Sketch a proof of the Mordell–Weil theorem. ([notes](././25.pdf))
+- [ ] (5/13) **Xingzhu Fang:** [Mum, §23-24]. ([notes](././21.pdf))
+- [ ] (5/20) **Haoda Li:** [Mum, §23-24]. ([notes](././22.pdf))
+- [ ] (5/27) **Xiaolong Hu:** §III.1-III.6 of [Mil]. Sketch the theory of Jacobian varieties. ([notes](././23.pdf))
+- [ ] (6/3) **Shun Yin:** §IV.2 of [Mil] Sketch a proof of Tate's theorem over finite fields. This is also in Appendix I of [Mum], but Milne's approach is simplified with Zarhin's trick on principal polarizations. ([notes](././24.pdf))
+- [ ] (6/10) **Han Hu:** Appendix II of [Mum] Sketch a proof of the Mordell–Weil theorem. ([notes](././25.pdf))
 
 
 ### References

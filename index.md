@@ -30,30 +30,31 @@ A headshot of mine is posted [here](./headshot.jpg).
 
 #### 2023 Spring
 
-- [**Seminar on Geometry of Shimura Varieties mod _p_**](./geomShv23/geomShv23.md).
+- [**Geometry of Shimura Varieties mod _p_**](./geomShv23/geomShv23.md).
 
   The purpose of this weekly seminar is to study several research papers on the geometry of Shimura varieties mod _p_ as well as arithmetic applications, and hopefully forming new research ideas. All talks will be given by participants, and each meeting will be about 120 minutes.
   - **Organizer:** [Liang Xiao](https://bicmr.pku.edu.cn/~lxiao/index.htm).
   - **Time:** 16:00–18:00 Mondays (starting on February 20).
   - **Venue:** Jingchun Yuan 78301.
 
-- [**Seminar on _p_-divisible Groups**](./pdiv23/pdiv23.md).
+
+- [**On _p_-divisible Groups**](./pdiv23/pdiv23.md).
   
   The purpose of this weekly seminar is to study the basics of _p_-divisible groups. All talks will be givenby participants, and each meeting will be about 110 minutes, with a ten minutes break in the middle.
   - **Organizer:** [Yiwen Ding](http://faculty.bicmr.pku.edu.cn/~dingyiwen/).
   - **Time:** 10:00–12:00 Tuesdays (the first talk is specially on February 22).
   - **Venue:** BICMR 77201.
 
-- [**Seminar on Constructions of Motivic Elements**](./motivic23/motivic23.md).
+- [**Constructions of Motivic Elements**](./motivic23/motivic23.md).
 
   The purpose of this weekly half-seminar-half-discussion-session is to study several constructions of cycles and motivic elements, in particular _K_(1)-elements via Borcherds product. All talks will be given by participants, and each meeting will be about 120 minutes, with 80 minutes lecture, 10 minutes break in the middle, and 30 minutes discussion time.
   - **Organizer:** [Liang Xiao](https://bicmr.pku.edu.cn/~lxiao/index.htm).
   - **Time:** 13:00–15:00 Tuesdays (starting on February 21).
   - **Venue:** Jia-yi-bing Building, Room 82J12.
 
-- [**Seminar on Lawrence–Venkatesh’s Proof of the Mordell Conjecture**](./LV23/LV23.md).
+- [**On Lawrence–Venkatesh’s Proof of the Mordell Conjecture**](./LV23/LV23.md).
 
-  The purpose of this weekly seminar is to study Lawrence–Venkatesh’s proof of the Mordell conjecture. The main reference is [LV], and the survey [Po] gives a quick sketch for beginners. All talks will be given by participants, and each meeting will be about 90 minutes.
+  The purpose of this weekly seminar is to study Lawrence-Venkatesh’s proof of the Mordell conjecture. The main reference is [LV], and the survey [Po] gives a quick sketch for beginners. All talks will be given by participants, and each meeting will be about 90 minutes.
   - **Organizer:** [Xinyi Yuan](http://faculty.bicmr.pku.edu.cn/~yxy/).
   - **Time:** 10:30–12:00 Wednesdays (starting on March 1).
   - **Venue:** BICMR 77201.
