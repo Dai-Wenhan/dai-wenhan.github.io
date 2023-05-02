@@ -7,31 +7,33 @@ My solutions to Hartshorne's exercises are attached, whereas I claim no original
 ### Notes
 
 - [**Sheaves**](././genag-sheaves.pdf). <br/>
-  _Presheaves, Sheaves, Defining Sheaves on a Basis, Stalks, Stalks and Morphisms, Sheafification, Direct and Inverse Image._
+  _Presheaves, sheaves, defining sheaves on a basis, stalks, stalks and morphisms, sheafification, direct and inverse image._
 - [**Abelian Sheaves**](././genag-absh.pdf). <br/>
-  _Abelian Groups (and Diagram-Chasing Lemmas), Exact Functors, Abelian Sheaves, Abelian Categories._
+  _Abelian groups (and diagram-chasing lemmas), exact functors, abelian sheaves, abelian categories._
+- [**Schemes**](././genag-schemes.pdf). <br/>
+  _Ringed and locally ringed spaces, the prime spectrum of a ring, presheaf of rings, the fundamental theorem of affine schemes, definition of schemes, gluding of schemes with examples._
 - [**Projective Morphisms (I)**](././genag-proj1.pdf). <br/>
-  _Proj of a Graded Ring, The Sheaf O(1), Closed Subschemes of Projective Spaces, Projective Implies Proper, Comment on Definitions of Projective Morphism._
+  _Proj of a graded ring, The sheaf O(1), closed subschemes of projective spaces, projective implies proper, comment on definitions of projective morphism._
 - [**Projective Morphisms (II)**](././genag-proj2.pdf). <br/>
-  _Relative Proj, Very Ample Sheaves, Blowups, Chow's Lemma._
+  _Relative Proj, very ample sheaves, blowups, Chow's Lemma._
 - [**Divisors, Linear Systems, and Projective Embeddings**](././genag-div1.pdf). <br/>
-  _Weil Divisors, Cartier Divisors, The Picard Group, Linear Systems._
+  _Weil divisors, Cartier divisors, the Picard group, linear systems._
 - [**Divisors on Curves and Riemann-Roch**](././genag-div2.pdf). <br/>
-  _The Riemann-Roch Theorem (without proof yet), The Canonical (almost) Embedding, The Riemann-Hurwitz Formula._
+  _The Riemann-Roch Theorem (without proof yet), the canonical (almost) embedding, the Riemann-Hurwitz Formula._
 - [**Homological Algebra**](././genag-homalg.pdf). <br/>
-  _Abelian Categories, Complexes and Exact Sequences, The Long Exact Sequence in Cohomology, Cohomological Functors, Derived Functors, Some Examples._
+  _Abelian categories, complexes and exact sequences, the long exact sequence in cohomology, cohomological functors, derived functors, some examples._
 - [**Sheaf Cohomology**](././genag-shcohom.pdf). <br/>
-  _"Having Enough Injectives", Grothendieck's Criterion, Sheaf Cohomology for Topological and Ringed Spaces, Sheaf Cohomology and Singular Cohomology, Čech Cohomology._
+  _"Having enough injectives", Grothendieck's Criterion, sheaf cohomology for topological and ringed spaces, sheaf cohomology and singular cohomology, Čech cohomology._
 - [**Cohomology of Quasicoherent Sheaves**](././genag-qcohcohom.pdf). <br/>
-  _Acyclic Theorem of Quasicoherent Sheaves on Affine Schemes (a bogus proof and a correct proof), Cartan's Theorem, Comparison of Čech and Sheaf Cohomology._
+  _Acyclic theorem of quasicoherent sheaves on affine schemes (a bogus proof and a correct proof), Cartan's theorem, comparison of Čech and sheaf cohomology._
 - [**Cohomology of Projective Spaces**](././genag-cohomserre.pdf). <br/>
-  _Finitely Generated Sheaves, Serre's Result on Cohomology of Twisting Sheaves over Projective Spaces, Finiteness of Cohomology on Projective Schemes, Serre Vanishing._
+  _Finitely generated sheaves, Serre's result on cohomology of twisting sheaves over projective spaces, finiteness of cohomology on projective schemes, Serre Vanishing._
 - [**Hilbert Polynomials and Flatness**](././genag-hilbpoly.pdf). <br/>
-  _Definition of Hilbert Polynomial, Flatness, Hilbert Scheme, Degree and Dimension Argument on Hilbert Polynomials._
+  _Definition of Hilbert polynomial, flatness, Hilbert scheme, degree and dimension argument on Hilbert polynomials._
 - [**Serre Duality for Projective Spaces**](././genag-serredualty.pdf). <br/>
-  _Ext Groups and Sheaf Ext, Serre Duality Theorem, Differentials and Duality, Interpretation via the Canonical Sheaf._
+  _Ext groups and sheaf Ext, Serre Duality, differentials and duality, interpretation via the canonical sheaf._
 - [**Cohen-Macaulay Schemes and Serre Duality**](././genag-cm-serredual.pdf). <br/>
-  _Cohen-Macaulay Schemes and Duality, Recudtion to a Local Property, The Cohen-Macaulay Condition._
+  _Cohen-Macaulay schemes and duality, recudtion to a local property, the Cohen-Macaulay condition._
 
 ### Exercise Solutions
 
@@ -41,10 +43,10 @@ My solutions to Hartshorne's exercises are attached, whereas I claim no original
 The followings are pregnant and unreadable (to be updated incidentally)...
 
 - [**Derived Categories**](././genag-dercat.pdf). <br/>
-  _Ind and Pro Categories, Localization of Rings as Localization of Categories, Derived Categories and Its Basic Properties._
+  _Ind and Pro categories, localization of rings as localization of categories, derived categories and its basic properties._
 - [**Fujita Vanishing**](././genag-fujita.pdf). <br/>
-  _Statement and Proof in all characteristics, Application of Grothendieck Duality, Weak Generalization of Kodaira Vanishing, Fujita's Numerical characterization of nef and big line bundles, Boundedness of Polynomial-Type Cohomology Dimensions for Twisted Coherent Sheaves._
+  _Statement and proof in all characteristics, application of Grothendieck Duality, weak generalization of Kodaira Vanishing, Fujita's numerical characterization of nef and big line bundles, boundedness of polynomial-type cohomology dimensions for twisted coherent sheaves._
 - [**Serre Duality**](././genag-serreduality.pdf). <br/>
-  _Statement and Proof, Preliminaries on Ext (resp. Sheaf-Ext), The Dualizing Sheaf Exists in General, Canonical Bundle of Smooth Varieties._
+  _Statement and proof, preliminaries on Ext (resp. sheaf-Ext), the dualizing sheaf exists in general, canonical bundle of smooth carieties._
 - [**Chow's Lemma**](././genag-chow.pdf) (a quick transcript following Hartshorne). <br/>
-  _Relative Projections, Projective Nullstellensatz, Proper and Projective Morphisms, "Higher Twist Becomes Finite" à la Serre, Chow's Lemma._
+  _Relative projections, projective Nullstellensatz, proper and projective morphisms, "higher twist becomes finite" à la Serre, Chow's Lemma._

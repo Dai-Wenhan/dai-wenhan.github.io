@@ -2,7 +2,7 @@
 
 ### (Pre-)Publications
 
-1. [**Tate cycles on unitary Shimura varieties mod ramified _p_**]() (in preparation).
+1. [**Tate Cycles on Unitary Shimura Varieties mod Ramified _p_**]() (thesis, in preparation).
 
 
 
@@ -13,43 +13,43 @@
 
 #### For geometry of arithmetic varieties:
 
-- [**The arithmetic of Hilbert modular varieties**](./blurbs/Hilb.pdf). <br/>
+- [**The Arithmetic of Hilbert Modular Varieties**](./blurbs/Hilb.pdf). <br/>
  _To appear._
-- [**Shimura varieties**](./blurbs/Shvar.pdf). <br/>
+- [**Shimura Varieties**](./blurbs/Shvar.pdf). <br/>
  _Notes for an introductory course by Sophie Morel at 2022 Summer School on the Langlands Program (IHES); reviewed by the speaker._
 
 
 
 #### About Galois representations, automorphic forms, and _L_-functions:
 
-- [**Hida theory on _p_-adic modular forms**](./blurbs/Hida.pdf). <br/>
+- [**Hida Theory on _p_-adic Modular Forms**](./blurbs/Hida.pdf). <br/>
  _About Haruzo Hida's construction of analytic families of ordinary p-adic modular forms and their associated Galois representations; notes for lectures by Bin Zhao at BICMR._
-- [**Modularity lifting**](./blurbs/modlift.pdf). <br/>
+- [**Modularity Lifting**](./blurbs/modlift.pdf). <br/>
  _The crucial ingredient in understanding Andrew Wiles' proof of Fermat's last theorem; McGill lecture by Patrick Allen._
-- [**The local Langlands conjecture**](./blurbs/LLC.pdf). <br/>
+- [**The Local Langlands Conjecture**](./blurbs/LLC.pdf). <br/>
  _Notes for an introductory course by Oliver Taïbi at 2022 Summer School on the Langlands Program (IHES); reviewed by the speaker._
 
 
 
 #### On geometric aspects of the Langlands program:
 
-- [**On Lusztig's middle extension of perverse sheaves**](./blurbs/MidExt.pdf). <br/>
+- [**On Lusztig's Middle Extension of Perverse Sheaves**](./blurbs/MidExt.pdf). <br/>
  _A survey adapted from some seminar talk about Springer theory._
-- [**Local shtukas and the Langlands program**](./blurbs/LocalShtukas.pdf). <br/>
+- [**Local Shtukas and the Langlands Program**](./blurbs/LocalShtukas.pdf). <br/>
  _Notes for an introductory course by Oliver Taïbi at 2022 Summer School on the Langlands Program (IHES)._
-- [**On the local Langlands conjectures for reductive groups over _p_-adic fields**]().
+- [**On the Local Langlands Conjectures for Reductive Groups over _p_-adic Fields**]().
 
 #### About algebraic geometry and Diophantine geometry:
 
-- [**Abelian varieties**](./blurbs/AV2022.pdf). <br/>
+- [**Abelian Varieties**](./blurbs/AV2022.pdf). <br/>
  _Following David Mumford's book closely._
-- [**_p_-divisible groups**]().
-- [**Anabelian geometry and the ABC conjecture**](./blurbs/AAGABC.pdf). <br/>
+- [**_p_-divisible Groups**]().
+- [**Anabelian Geometry and the ABC Conjecture**](./blurbs/AAGABC.pdf). <br/>
  _A review for Shinichi Mochizuki's work; manuscript and totally unreadable._
 
 #### Digressions:
 
-- [**Complex analysis**](./blurbs/complex.pdf). <br/>
+- [**Complex Analysis**](./blurbs/complex.pdf). <br/>
  _Written for the preparation of BICMR PhD Qualification._
 
 
