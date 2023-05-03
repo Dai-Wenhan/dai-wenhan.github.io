@@ -142,3 +142,5 @@
   [**Perfectoid Approaches to _p_-adic Modular Forms**](./MiniTalks/pAdicPerfectoid.md).
 - (Aug 24, 2022) **Masatoshi Kitagawa** (Waseda University), POINTS: <br/>
   [**Uniformly Bounded Multiplicities in the Branching Problem and D-modules**](./MiniTalks/unibd.md).
+- (Nov 15, 2019) **Yitang Zhang** (UCSB), a public talk (notes rewritten in 2022): <br/>
+  [**The Landau-Siegel Zero Problem in Number Theory**](./miscellanea/Landau-Siegel.pdf). 
