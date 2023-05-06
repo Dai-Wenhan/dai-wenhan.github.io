@@ -11,7 +11,7 @@
 
 (_Disclaimer: The following scattered materials are written for studying goals only, and the originality is thus hardly claimed. These notes possibly obtain many major or minor gaps, typos, and logical mistakes due to the note-taker, as well as a lack of references._)
 
-#### For geometry of arithmetic varieties:
+#### Arithmetic geometry:
 
 - [**The Arithmetic of Hilbert Modular Varieties**](./blurbs/Hilb.pdf). <br/>
  _To appear._
@@ -20,7 +20,7 @@
 
 
 
-#### About Galois representations, automorphic forms, and _L_-functions:
+#### Galois representations, automorphic forms, and _L_-functions:
 
 - [**Hida Theory on _p_-adic Modular Forms**](./blurbs/Hida.pdf). <br/>
  _About Haruzo Hida's construction of analytic families of ordinary p-adic modular forms and their associated Galois representations; notes for lectures by Bin Zhao at BICMR._
@@ -31,7 +31,7 @@
 
 
 
-#### On geometric aspects of the Langlands program:
+#### Geometric aspects of the Langlands program:
 
 - [**On Lusztig's Middle Extension of Perverse Sheaves**](./blurbs/MidExt.pdf). <br/>
  _A survey adapted from some seminar talk about Springer theory._
@@ -39,7 +39,11 @@
  _Notes for an introductory course by Oliver Taïbi at 2022 Summer School on the Langlands Program (IHES)._
 - [**On the Local Langlands Conjectures for Reductive Groups over _p_-adic Fields**]().
 
-#### About algebraic geometry and Diophantine geometry:
+#### Representation theory:
+
+- None yet.
+
+#### Algebraic geometry and Diophantine geometry:
 
 - [**Abelian Varieties**](./blurbs/AV2022.pdf). <br/>
  _Following David Mumford's book closely._
