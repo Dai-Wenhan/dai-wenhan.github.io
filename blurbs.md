@@ -41,7 +41,8 @@
 
 #### Representation theory:
 
-- None yet.
+- [**On Representations of Lie Algebras**](./blurbs/Lie.pdf). <br/>
+ _Notes for a basic course by Jinpeng An; routine work._
 
 #### Algebraic geometry and Diophantine geometry:
 
