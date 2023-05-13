@@ -68,3 +68,4 @@
  _An interview with ICM2022 invited presenter alumnus Xinwen Zhu. See also a [Chinese translation](./miscellanea/Zhu-interview-ch.pdf)._
 
   
+![moon](./moon.png)
