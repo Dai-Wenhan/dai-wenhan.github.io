@@ -14,7 +14,7 @@
 #### Arithmetic geometry:
 
 - [**The Arithmetic of Hilbert Modular Varieties**](./blurbs/Hilb.pdf). <br/>
- _To appear._
+ _In process._
 - [**Shimura Varieties**](./blurbs/Shvar.pdf). <br/>
  _Notes for an introductory course by Sophie Morel at 2022 Summer School on the Langlands Program (IHES); reviewed by the speaker._
 
@@ -37,7 +37,8 @@
  _A survey adapted from some seminar talk about Springer theory._
 - [**Local Shtukas and the Langlands Program**](./blurbs/LocalShtukas.pdf). <br/>
  _Notes for an introductory course by Oliver Taïbi at 2022 Summer School on the Langlands Program (IHES)._
-- [**On the Local Langlands Conjectures for Reductive Groups over _p_-adic Fields**]().
+- [**On the Local Langlands Conjectures for Reductive Groups over _p_-adic Fields**](). <br/>
+ _In process._
 
 #### Representation theory:
 
@@ -48,7 +49,6 @@
 
 - [**Abelian Varieties**](./blurbs/AV2022.pdf). <br/>
  _Following David Mumford's book closely._
-- [**_p_-divisible Groups**]().
 - [**Anabelian Geometry and the ABC Conjecture**](./blurbs/AAGABC.pdf). <br/>
  _A review for Shinichi Mochizuki's work; manuscript and totally unreadable._
 
