@@ -56,7 +56,7 @@
 
 - [**Complex Analysis**](./blurbs/complex.pdf). <br/>
  _Written for the preparation of BICMR PhD Qualification._
-- [**Notes on Ratner's Measure Classification Theorem**](./blurbs/Ratner.pdf) <br/>
+- [**Notes on Ratner's Measure Classification Theorem**](./blurbs/Ratner.pdf). <br/>
  _Survey context on homogeneous dynamics and unipotent flows; including Oppenheim conjecture but lack of precision._
 
 
