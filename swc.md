@@ -47,7 +47,7 @@
 
 
 
-### Past Events Attended
+### Notes and Archives of Past Events
 
 #### 2023 Spring
 
