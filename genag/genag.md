@@ -35,12 +35,8 @@ My solutions to Hartshorne's exercises are attached, whereas I claim no original
 - [**Cohen-Macaulay Schemes and Serre Duality**](././genag-cm-serredual.pdf). <br/>
   _Cohen-Macaulay schemes and duality, recudtion to a local property, the Cohen-Macaulay condition._
 
-### Exercise Solutions
 
-
-### Odd Transcripts
-
-The followings are pregnant and unreadable (to be updated incidentally)...
+The following files are very preliminary manuscripts (which are to be updated incidentally).
 
 - [**Derived Categories**](././genag-dercat.pdf). <br/>
   _Ind and Pro categories, localization of rings as localization of categories, derived categories and its basic properties._
@@ -48,5 +44,6 @@ The followings are pregnant and unreadable (to be updated incidentally)...
   _Statement and proof in all characteristics, application of Grothendieck Duality, weak generalization of Kodaira Vanishing, Fujita's numerical characterization of nef and big line bundles, boundedness of polynomial-type cohomology dimensions for twisted coherent sheaves._
 - [**Serre Duality**](././genag-serreduality.pdf). <br/>
   _Statement and proof, preliminaries on Ext (resp. sheaf-Ext), the dualizing sheaf exists in general, canonical bundle of smooth carieties._
-- [**Chow's Lemma**](././genag-chow.pdf) (a quick transcript following Hartshorne). <br/>
+- [**Chow's Lemma**](././genag-chow.pdf). <br/>
   _Relative projections, projective Nullstellensatz, proper and projective morphisms, "higher twist becomes finite" à la Serre, Chow's Lemma._
+

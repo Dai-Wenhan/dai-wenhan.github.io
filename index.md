@@ -4,10 +4,10 @@ _Last updated on: February, 2023_
 
 Hi!
 
-- [**Selected Research / Expository Writings**](./blurbs.md)
-- [**Seminars, Workshops, and Conferences Attended**](./swc.md)
-- [**Courses and the General Qualify Exam**](./studying.md)
-- [**Teaching Experiences**](./teaching.md)
+- [**Selected Research / Expository Writings**](./blurbs.md).
+- [**Seminars, Conferences, and Workshops Attended**](./swc.md).
+- [**Notes Repository**](./notes.md).
+- [**Teaching Experiences**](./teaching.md).
 
 ### About Me
 

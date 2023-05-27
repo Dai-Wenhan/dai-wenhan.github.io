@@ -25,80 +25,38 @@ _The [video links](https://www.youtube.com/playlist?list=PLx5f8IelFRgEv3qXY43HxV
 
 #### July 11
 
-- **Organizers** - **Warm-up Introduction**. ([video](https://www.youtube.com/watch?v=SZOVszZ9ZVs), [captions](././Intro.pdf)) <br/>
-  Organizers' answers to: What is the Langlands Program? Why a summer school on the Langlands Program in 2022? What do you hope to achieve during these three weeks?
+- **Organizers** -- **Warm-up Introduction**. ([video](https://www.youtube.com/watch?v=SZOVszZ9ZVs), [captions](././Intro.pdf)) <br/>
+  _Organizers' answers to: What is the Langlands Program? Why a summer school on the Langlands Program in 2022? What do you hope to achieve during these three weeks?_
 
-- **Olivier Taïbi** (ENS Lyon) - **The Local Langlands Conjecture** (1/3). ([video](https://www.youtube.com/watch?v=fJwLV6SZ8Fc), [live-TeXed notes](././Taibi1.pdf), [manuscript](././TaibiM1.pdf)) <br/>
-  We formulate the local Langlands conjecture for connected reductive groups over local fields, including the internal parametrization of _L_-packets.
-  - _See also this [**processed notes**](././TaibiP1.pdf) for **Lecture 1/3: Representations of reductive groups and Langlands dual groups** (last updated: July 13; a draft version). Wenhan claims no originality and takes full responsibility for all errors made therein._
-    - _Parabolic induction and the Jacquet functor;_
-    - _Asymptotic properties;_
-    - _Harish-Chandra characters;_
-    - _Based root data;_
-    - _Langlands dual groups;_
-    - _Parabolic subgroups and L-embeddings._
+- **Olivier Taïbi** (ENS Lyon) -- **The Local Langlands Conjecture (1/3)**. ([video](https://www.youtube.com/watch?v=fJwLV6SZ8Fc), [live-TeXed notes](././Taibi1.pdf), [manuscript](././TaibiM1.pdf)) <br/>
+  _We formulate the local Langlands conjecture for connected reductive groups over local fields, including the internal parametrization of _L_-packets._
+
+- **Erez Lapid** (Weizmann Institute) -- **Some Perspective on Eisenstein Series (1/2)**. ([video](https://www.youtube.com/watch?v=l0yblUboBeM), [live-TeXed notes](././Lapid1.pdf)) <br/>
+  _This is a review of some developments in the theory of Eisenstein series since Corvallis. It seems that some unusual beast appeared in his talk. This [**expository writing on Eisenstein series**](././Lapid0.pdf) contains a relatively mild introduction to the background._
 
 
-- **Erez Lapid** (Weizmann Institute) - **Some Perspective on Eisenstein Series** (1/2). ([video](https://www.youtube.com/watch?v=l0yblUboBeM), [live-TeXed notes](././Lapid1.pdf)) <br/>
-  This is a review of some developments in the theory of Eisenstein series since Corvallis. 
-  - _It seems that some unusual beast appeared in his talk. This [expository writing](././Lapid0.pdf) contains a relatively mild introduction to the background._
+- **Olivier Taïbi** (ENS Lyon) -- **The Local Langlands Conjecture (2/3)**. ([video](https://www.youtube.com/watch?v=JCd4py4uNe4), [live-TeXed notes](././Taibi2.pdf), [manuscript](././TaibiM2.pdf)) <br/>
+  _This is a follow-up to the morning session._
 
 
-- **Olivier Taïbi** (ENS Lyon) - **The Local Langlands Conjecture** (2/3). ([video](https://www.youtube.com/watch?v=JCd4py4uNe4), [live-TeXed notes](././Taibi2.pdf), [manuscript](././TaibiM2.pdf)) <br/>
-  This is a follow-up to the morning session.
-  - _The [**processed notes**](././TaibiP2.pdf) for Lecture 1/3 and **Lecture 2/3: Langlands parameters and the local Langlands conjecture** (last updated: July 14; still a draft version, with lecturer's comment) is now available._
-    - _Weil-Deligne groups;_
-    - _Langlands parameters;_
-    - _Reductions;_
-    - _Weil restriction;_
-    - _Crude local Langlands correspondence;_
-    - _Refined local Langlands for quasi-split groups._
-
-
-- **Sophie Morel** (ENS Lyon) - **Shimura Varieties** (1/3). ([video](https://www.youtube.com/watch?v=WIZdWvMJN34), [live-TeXed notes](././Morel1.pdf), [manuscript](././MorelM1.pdf)) <br/>
-  Depending on your point of view, Shimura varieties are a special kind of locally symmetric spaces, a generalization of moduli spaces of abelian schemes with extra structures, or the imperfect characteristic 0 version of moduli spaces of shtuka. They play an important role in the Langlands program because they have many symmetries (the Hecke correspondences) allowing us to link their cohomology to the theory of automorphic representations, and on the other hand they are explicit enough for this cohomology to be computable. The goal of these lectures is to give an introduction to Shimura varieties, to present some examples, and to explain the conjectures on their cohomology (at least in the simplest case). 
-  - _See also this [**processed notes**](././MorelP1.pdf) for **Lecture 1/3: Locally symmetric spaces and Shimura varieties** (last updated: July 17; a draft version)._
-    - _Locally symmetric spaces;_
-    - _The Siegel modular variety;_
-    - _The Siegel upper half space as a moduli space of complex abelian varieties;_
-    - _Complex Shimura varieties;_
-    - _Canonical models._
+- **Sophie Morel** (ENS Lyon) -- **Shimura Varieties (1/3)**. ([video](https://www.youtube.com/watch?v=WIZdWvMJN34), [live-TeXed notes](././Morel1.pdf), [manuscript](././MorelM1.pdf)) <br/>
+  _Depending on your point of view, Shimura varieties are a special kind of locally symmetric spaces, a generalization of moduli spaces of abelian schemes with extra structures, or the imperfect characteristic 0 version of moduli spaces of shtuka. They play an important role in the Langlands program because they have many symmetries (the Hecke correspondences) allowing us to link their cohomology to the theory of automorphic representations, and on the other hand they are explicit enough for this cohomology to be computable. The goal of these lectures is to give an introduction to Shimura varieties, to present some examples, and to explain the conjectures on their cohomology (at least in the simplest case)._
 
 
 #### July 12
 
-- **Sophie Morel** (ENS Lyon) - **Shimura Varieties** (2/3). ([video](https://www.youtube.com/watch?v=kLGfHTDsXTU), [live-TeXed notes](././Morel2.pdf), [manuscript](././MorelM2.pdf)) <br/>
-  To continue the previous lecture.
-  - _The [**processed notes**](././MorelP2.pdf) for Lecture 1/3 and **Lecture 2/3: Arithmetic Shimura varieties** (last updated: July 19; still a draft version, with some typos and mistakes in Section 1 fixed)._
-    - _PEL type Shimura varieties;_
-    - _Hodge type and abelian type Shimura varieties;_
-    - _General Shimura varieties;_
-    - _Kottwitz’s simple Shimura varieties;_
-    - _p-adic uniformization and local Shimura varieties._
-  - _[Kai-wen Lan's expository paper](././Lan.pdf) is an instructive reference that is particularly recommended. (Also available [here](https://www-users.cse.umn.edu/kwlan/articles/intro-sh-ex.pdf).)_
-  - _[Yihang Zhu's notes](././Yihang.pdf) are based on a topics course on Shimura varieties at the University of Maryland in Spring of 2022._
+- **Sophie Morel** (ENS Lyon) -- **Shimura Varieties (2/3)**. ([video](https://www.youtube.com/watch?v=kLGfHTDsXTU), [live-TeXed notes](././Morel2.pdf), [manuscript](././MorelM2.pdf)) <br/>
+  _To continue the previous lecture. [Kai-wen Lan's expository paper](././Lan.pdf) is an instructive reference that is particularly recommended. [Yihang Zhu's notes](././Yihang.pdf) are based on a topics course on Shimura varieties at the University of Maryland in Spring of 2022._
 
 
-- **Olivier Taïbi** (ENS Lyon) - **The Local Langlands Conjecture** (3/3). ([video](https://www.youtube.com/watch?v=fSGFL_N0zYE), [live-TeXed notes](././Taibi3.pdf), [manuscript](././TaibiM3.pdf)) <br/>
-  This is a follow-up to the yesterday session.
-  - _The [**processed notes**](././TaibiP3.pdf) of all 3 lectures by Oliver Taïbi is now available. It is updated with **Lecture 3/3: The refined local Langlands conjecture; Gerbs and Tannakian categories** (last updated: July 16; need more supplement)._
-    - _Refined Langlands correspondence for non-quasi-split groups;_
-    - _Reduction to the isocrystal case;_
-    - _Relation with the crude version;_
-    - _A few known cases for LLC;_
-    - _Gerbs and Tannakian categories._
+- **Olivier Taïbi** (ENS Lyon) -- **The Local Langlands Conjecture (3/3)**. ([video](https://www.youtube.com/watch?v=fSGFL_N0zYE), [live-TeXed notes](././Taibi3.pdf), [manuscript](././TaibiM3.pdf)) <br/>
+  _This is a follow-up to the yesterday session. The [**most recent version of notes**](././TaibiP3.pdf) of all 3 lectures by Oliver Taïbi is now available._
   
   
 #### July 13
 
-- **Sophie Morel** (ENS Lyon) - **Shimura Varieties** (3/3). ([video](https://www.youtube.com/watch?v=L7cn2Z87fSs), [live-TeXed notes](././Morel3.pdf), [manuscript](././MorelM3.pdf)) <br/>
-  To continue the previous lecture.
-  - _This is the [**most recent version of notes**](././MorelP3.pdf) for all 3 lectures by Sophie Morel on Shimura varieties. It is updated with **Lecture 3/3: The cohomology of Shimura varieties** (last updated: July 22; still a preliminary version). There are still many gaps that may be fixed in the future, but this is not fully guaranteed._
-    - _Matsushima's formula;_
-    - _Étale cohomology of canonical models: the Kottwitz conjecture;_
-    - _Applications of the Kottwitz conjecture;_
-    - _Proving the Kottwitz conjecture;_
-    - _The general Kottwitz conjecture._
+- **Sophie Morel** (ENS Lyon) -- **Shimura Varieties (3/3)**. ([video](https://www.youtube.com/watch?v=L7cn2Z87fSs), [live-TeXed notes](././Morel3.pdf), [manuscript](././MorelM3.pdf)) <br/>
+  _To continue the previous lecture. See the [**most recent version of notes**](././MorelP3.pdf) for all 3 lectures by Sophie Morel on Shimura varieties._
   
 
 
