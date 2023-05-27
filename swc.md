@@ -82,7 +82,7 @@
 #### 2022 Summer
 
 - [**IHES 2022 Summer School on the Langlands Program**](./IHES22/IHES22.md). <br/>
- _Participated online._
+ _Partially participated with a focus on the Galois side of the Langlands program._
 - [**Geometry of Shimura Varieties and Arithmetic Applications**](https://bicmr.pku.edu.cn/content/show/17-2759.html). <br/>
  _On recent developments; supported by Tianyuan Research Grant of Chinese NSF._
 
