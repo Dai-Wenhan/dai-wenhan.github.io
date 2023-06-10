@@ -49,13 +49,6 @@ A headshot of mine is posted [here](./headshot.jpg).
   - **Organizer:** [Liang Xiao](https://bicmr.pku.edu.cn/~lxiao/index.htm).
   - **Time:** 13:00–15:00 Tuesdays (starting on February 21).
   - **Venue:** Jia-yi-bing Building, Room 82J12.
-
-- [**On Lawrence–Venkatesh’s Proof of the Mordell Conjecture**](./LV23/LV23.md).
-
-  The purpose of this weekly seminar is to study Lawrence-Venkatesh’s proof of the Mordell conjecture. The main reference is [LV], and the survey [Po] gives a quick sketch for beginners. All talks will be given by participants, and each meeting will be about 90 minutes.
-  - **Organizer:** [Xinyi Yuan](http://faculty.bicmr.pku.edu.cn/~yxy/).
-  - **Time:** 10:30–12:00 Wednesdays (starting on March 1).
-  - **Venue:** BICMR 77201.
   
 - [**Seminar Beyond Fargues-Scholze**](./FS23/FS23.md).
 

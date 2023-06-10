@@ -11,9 +11,9 @@
 </head>
 
 
-## Arithmetic Algebraic Geometry in honor of Shouwu Zhang's 60th birthday
+## Hong Kong Conference on Arithmetic Algebraic Geometry.
 
-_Department of Mathematics, the Chinese University of Hong Kong._
+_In honor of Shouwu Zhang's 60th birthday, the Chinese University of Hong Kong._
 
 See pdf version of [conference handbook](././handbook.pdf).
 
