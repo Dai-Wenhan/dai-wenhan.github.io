@@ -13,8 +13,6 @@ Hi!
 
 Now I am an undergraduate student in [School of Mathematical Science](http://english.math.pku.edu.cn) at [Peking University](https://www.pku.edu.cn), China. My research interest includes **number theory**, **arithmetic geometry**, and **representation theory**. My instructor is Professor [Liang Xiao](https://bicmr.pku.edu.cn/~lxiao/index.htm) / 肖梁 at [Beijing International Center for Mathematical Research](https://bicmr.pku.edu.cn). 
 
-During the upcoming 2023-2024, I will be an international exchange student to [École Normale Supérieure Paris-Saclay](https://ens-paris-saclay.com), France; with the support of Chinese Scholarship Council (CSC), I will be under the supervision of Professor [Sophie Morel](https://perso.ens-lyon.fr/sophie.morel/) (she had moved to ENS Lyon from [somewhere else](https://www.math.princeton.edu/people/sophie-morel)). 
-
 A headshot of mine is posted [here](./headshot.jpg).
 
 **Regarding language skills:** Chinese native speaker; fluent in English and French at work.
