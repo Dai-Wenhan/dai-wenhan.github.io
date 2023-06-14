@@ -15,6 +15,8 @@
 
 - [**The Arithmetic of Hilbert Modular Varieties**](./blurbs/Hilb.pdf). <br/>
  _In process._
+- [**Integral Model of Shimura Varieties of Hodge Type**](./blurbs/IntegralModel.pdf). <br/>
+ _Following Kisin's work on smooth integral models after classification of Breuil-Kisin modules of p-divisible groups; notes for lectures by Xu Shen at BICMR._
 - [**Shimura Varieties**](./blurbs/Shvar.pdf). <br/>
  _Notes for an introductory course by Sophie Morel at 2022 Summer School on the Langlands Program (IHES); reviewed by the speaker._
 
