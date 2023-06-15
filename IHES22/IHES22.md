@@ -29,7 +29,7 @@ _The [video links](https://www.youtube.com/playlist?list=PLx5f8IelFRgEv3qXY43HxV
   _Organizers' answers to: What is the Langlands Program? Why a summer school on the Langlands Program in 2022? What do you hope to achieve during these three weeks?_
 
 - **Olivier Taïbi** (ENS Lyon) -- **The Local Langlands Conjecture (1/3)**. ([video](https://www.youtube.com/watch?v=fJwLV6SZ8Fc), [live-TeXed notes](././Taibi1.pdf), [manuscript](././TaibiM1.pdf)) <br/>
-  _We formulate the local Langlands conjecture for connected reductive groups over local fields, including the internal parametrization of _L_-packets._
+  _We formulate the local Langlands conjecture for connected reductive groups over local fields, including the internal parametrization of L-packets._
 
 - **Erez Lapid** (Weizmann Institute) -- **Some Perspective on Eisenstein Series (1/2)**. ([video](https://www.youtube.com/watch?v=l0yblUboBeM), [live-TeXed notes](././Lapid1.pdf)) <br/>
   _This is a review of some developments in the theory of Eisenstein series since Corvallis. It seems that some unusual beast appeared in his talk. This [**expository writing on Eisenstein series**](././Lapid0.pdf) contains a relatively mild introduction to the background._
