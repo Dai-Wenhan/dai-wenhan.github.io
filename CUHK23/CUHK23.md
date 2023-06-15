@@ -15,13 +15,11 @@
 
 _In honor of Shouwu Zhang's 60th birthday, the Chinese University of Hong Kong._
 
-See pdf version of [conference handbook](././handbook.pdf).
-
 - **Time:** June 5 to 8, 2023.
 - **Venue:** Yasumoto International Academic Park, LT2, CUHK.
 - **Organizers:** [Xuhua He](https://www.math.cuhk.edu.hk/~xuhuahe/), [Michael McBreen](https://sites.google.com/view/mmcbreen/home), [Wei Zhang](https://math.mit.edu/~wz2113/).
 
-![group](././group0.png)
+![group](././group0.jpg)
 
 ### Lecture Notes (in chronological order)
 
