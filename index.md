@@ -26,35 +26,12 @@ A headshot of mine is posted [here](./headshot.jpg).
 
 ### Ongoing/Upcoming Events
 
-#### 2023 Spring
-
-- [**Geometry of Shimura Varieties mod _p_**](./geomShv23/geomShv23.md).
-
-  The purpose of this weekly seminar is to study several research papers on the geometry of Shimura varieties mod _p_ as well as arithmetic applications, and hopefully forming new research ideas. All talks will be given by participants, and each meeting will be about 120 minutes.
-  - **Organizer:** [Liang Xiao](https://bicmr.pku.edu.cn/~lxiao/index.htm).
-  - **Time:** 16:00–18:00 Mondays (starting on February 20).
-  - **Venue:** Jingchun Yuan 78301.
-
-
-- [**On _p_-divisible Groups**](./pdiv23/pdiv23.md).
+#### 2023 Summer
   
-  The purpose of this weekly seminar is to study the basics of _p_-divisible groups. All talks will be givenby participants, and each meeting will be about 110 minutes, with a ten minutes break in the middle.
-  - **Organizer:** [Yiwen Ding](http://faculty.bicmr.pku.edu.cn/~dingyiwen/).
-  - **Time:** 10:00–12:00 Tuesdays (the first talk is specially on February 22).
-  - **Venue:** BICMR 77201.
+- [**PKU Mathematics Forum on Pure Mathematics**]().
 
-- [**Constructions of Motivic Elements**](./motivic23/motivic23.md).
-
-  The purpose of this weekly half-seminar-half-discussion-session is to study several constructions of cycles and motivic elements, in particular _K_(1)-elements via Borcherds product. All talks will be given by participants, and each meeting will be about 120 minutes, with 80 minutes lecture, 10 minutes break in the middle, and 30 minutes discussion time.
-  - **Organizer:** [Liang Xiao](https://bicmr.pku.edu.cn/~lxiao/index.htm).
-  - **Time:** 13:00–15:00 Tuesdays (starting on February 21).
-  - **Venue:** Jia-yi-bing Building, Room 82J12.
-  
-- [**Seminar Beyond Fargues-Scholze**](./FS23/FS23.md).
-
-  The purpose of this weekly seminar is to study some of the recent works that are built on Fargues-Scholze. We will focus on those works in the Langlands program. All talks will be given by participants, and each meeting will be about 110 minutes, with a ten minutes break in the middle.
-  - **Organizer:** Zhiyou Wu (MCM).
-  - **Time:** 13:00–15:00 Wednesdays (starting on March 1).
+  ?
+  - **Time:** August 2 to 5.
   - **Venue:** Jingchun Yuan 78301.
 
 

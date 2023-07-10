@@ -22,11 +22,11 @@ The purpose of this weekly half-seminar-half-discussion-session is to study seve
 - [x] (4/25) **Wenxuan Qi:** Higher regulators, IV [Deninger].
 - [ ] (5/2) _National Labor-Day Holiday._
 - [ ] (5/9) No seminar, HIM summer school.
-- [ ] (5/16) **Ruiqi Bai:** Arithmetic theta lifting, III [Liu].
-- [ ] (5/23) **Liang Xiao:** Borcherds product, I (content TBA).
-- [ ] (5/30) **Liang Xiao:** Borcherds product, II (content TBA).
-- [ ] (6/6) **Ruiqi Bai / Hao Fu:** Cycles on U(_n_)×U(_n_)-Shimura varieties, I [Liu21].
-- [ ] (6/13) **Ruiqi Bai / Hao Fu:** Cycles on U(_n_)×U(_n_)-Shimura varieties, II [Liu21].
+- [x] (5/16) **Ruiqi Bai:** Arithmetic theta lifting, III [Liu].
+- [x] (5/23) **Liang Xiao:** Borcherds product, I (content TBA).
+- [x] (5/30) **Liang Xiao:** Borcherds product, II (content TBA).
+- [x] (6/6) **Ruiqi Bai / Hao Fu:** Cycles on U(_n_)×U(_n_)-Shimura varieties, I [Liu21].
+- [x] (6/13) **Ruiqi Bai / Hao Fu:** Cycles on U(_n_)×U(_n_)-Shimura varieties, II [Liu21].
 
 
 ### References

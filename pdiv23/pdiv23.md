@@ -25,19 +25,20 @@ The purpose of this weekly seminar is to study the basics of _p_-divisible group
 #### Part B
 
 - [x] (4/25) **Liang Xiao:** Introduction and organization.
-- [ ] (5/2) _No seminar on national holidays._
-- [ ] (5/9) **Jiachen Chen:** Lubin–Tate spaces I, following [Ansc, §2.1–2.3]
-- [ ] (5/16) **Shun Yin:** Lubin–Tate spaces II, following [Ansc, §2.4–2.6]
-- [ ] (5/23) **Xingzhu Fang:** Gross–Hopkins period morphism I, [Ansc, §5.1].
-- [ ] (5/30) **Haoda Li:** Gross–Hopkins period morphism II, [Ansc, §5.2].
+- [x] (5/2) _No seminar on national holidays._
+- [x] (5/9) **Jiachen Chen:** Lubin–Tate spaces I, following [Ansc, §2.1–2.3]
+- [x] (5/16) **Shun Yin:** Lubin–Tate spaces II, following [Ansc, §2.4–2.6]
+- [x] (5/23) **Xingzhu Fang:** Gross–Hopkins period morphism I, [Ansc, §5.1].
+- [x] (5/30) **Haoda Li:** Gross–Hopkins period morphism II, [Ansc, §5.2].
 
 #### Part C
 
-- [ ] (6/13) **Yiwen Ding:** Moduli of _p_-divisible groups I, [SW, §2-3].
-- [ ] (6/20) **Jiahong Yu:** Moduli of _p_-divisible groups II, [SW, §4].
-- [ ] (6/27) **Tian Qiu:** Moduli of _p_-divisible groups III, [SW, §5].
-- [ ] (7/4) **Daming Zhou:** Moduli of _p_-divisible groups IV, [SW, §6].
-- [ ] (7/11) **Wenhan Dai:** Moduli of _p_-divisible groups V, [SW, §7].
+- [x] (6/13) **Yiwen Ding:** Moduli of _p_-divisible groups I, [SW, §2-3].
+- [x] (6/20) **Yiwen Ding:** Moduli of _p_-divisible groups II, [SW, §2-3].
+- [x] (6/27) **Jiahong Yu:** Moduli of _p_-divisible groups III, [SW, §4].
+- [x] (7/4) **Tian Qiu:** Moduli of _p_-divisible groups III, [SW, §5].
+- [ ] (Postponed) **Daming Zhou:** Moduli of _p_-divisible groups IV, [SW, §6].
+- [ ] (Postponed) **Wenhan Dai:** Moduli of _p_-divisible groups V, [SW, §7].
 
 
 ### References

@@ -7,7 +7,7 @@ The purpose of this weekly seminar is to study several research papers on the ge
 - **Instructor:** [Liang Xiao](https://bicmr.pku.edu.cn/~lxiao/index.htm).
 
 
-### Syllabus (tentative)
+### Syllabus
 
 **Caveat:** _In order to protect our common intellectual property rights, these original results should not be made public for the time being. You should therefore keep all videos and notes in a safe place to prevent disclosure._
 
@@ -23,13 +23,13 @@ The purpose of this weekly seminar is to study several research papers on the ge
 - [x] (4/17) **Ruiqi Bai:** _G_-zips, II. ([video](https://disk.pku.edu.cn/#/link/13D949E223D9C4F6145E8EE3B8EFCA44?gns=53F2170B7AA748348440F4C8CA8E9BAE%2F988401E1FBD343A79D36047AA9556A60%2F56F47007A4AB4C3E8B45A3AF64FDDC94))
 - [x] (4/24) **Deding Yang:** _G_-zips, III. ([video](https://disk.pku.edu.cn/#/link/13D949E223D9C4F6145E8EE3B8EFCA44?gns=53F2170B7AA748348440F4C8CA8E9BAE%2F988401E1FBD343A79D36047AA9556A60%2F6305AB67411F42D7A291428261523395))
 - [ ] (The meeting is canceled during the PKU spring holiday.)
-- [ ] (5/8) **Ruiqi Bai:** An example of stratifications on unitary Shimura varieties. ([video]())
-- [ ] (5/15) **TBA:** Galois representations associated to cohomology of automorphic bundles on Shimura varieties of Hodge type, I [GK]. ([video]())
-- [ ] (5/22) **TBA:** Galois representations associated to cohomology of automorphic bundles on Shimura varieties of Hodge type, II [GK]. ([video]())
-- [ ] (5/29) **TBA:** Galois representations associated to cohomology of automorphic bundles on Shimura varieties of Hodge type, III [GK]. ([video]())
-- [ ] (6/5) **Wenhan Dai:** Description of strata for splitting model of U(2)-Shimura varieties mod _p_. ([video]())
-- [ ] (6/12) **Zeyu Wang:** Hecke operators on coherent cohomology of unitary Shimura varieties, I [FP]. ([video]())
-- [ ] (6/17) **Zeyu Wang:** Hecke operators on coherent cohomology of unitary Shimura varieties, II [FP]. ([video]())
+- [x] (5/8) **Ruiqi Bai:** An example of stratifications on unitary Shimura varieties. ([video]())
+- [x] (5/15) **Qijun Yan:** Galois representations associated to cohomology of automorphic bundles on Shimura varieties of Hodge type, I [GK]. ([video]())
+- [x] (5/22) **Qijun Yan:** Galois representations associated to cohomology of automorphic bundles on Shimura varieties of Hodge type, II [GK]. 
+- [x] (5/29) **Wenhan Dai:** Description of strata for splitting model of U(2)-Shimura varieties mod _p_. ([video]())
+- [x] (6/12) **Qijun Yan:** Galois representations associated to cohomology of automorphic bundles on Shimura varieties of Hodge type, III [GK]. ([video]())
+- [x] (6/19) **Zeyu Wang:** Hecke operators on coherent cohomology of unitary Shimura varieties, I [FP]. ([video]())
+- [x] (6/26) **Zeyu Wang:** Hecke operators on coherent cohomology of unitary Shimura varieties, II [FP]. 
 
 
 **Readme:** _The link for recordings of this seminar series are perennially valid. The password is **??77**, where the first two characters denote the ring of integers of our imaginary quadratic extension field._
