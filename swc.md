@@ -1,42 +1,27 @@
 ## Seminars, Workshops, and Conferences Attended
 
-### Ongoing Events During 2023 Spring
+### Ongoing Events During 2023 Summer
 
-- [**Geometry of Shimura Varieties mod _p_**](./geomShv23/geomShv23.md).
-
-  The purpose of this weekly seminar is to study several research papers on the geometry of Shimura varieties mod _p_ as well as arithmetic applications, and hopefully forming new research ideas. All talks will be given by participants, and each meeting will be about 120 minutes.
-  - **Organizer:** [Liang Xiao](https://bicmr.pku.edu.cn/~lxiao/index.htm).
-  - **Time:** 16:00–18:00 Mondays (starting on February 20).
-  - **Venue:** Jingchun Yuan 78301.
-
-
-- [**On _p_-divisible Groups**](./pdiv23/pdiv23.md).
-  
-  The purpose of this weekly seminar is to study the basics of _p_-divisible groups. All talks will be givenby participants, and each meeting will be about 110 minutes, with a ten minutes break in the middle.
-  - **Organizer:** [Yiwen Ding](http://faculty.bicmr.pku.edu.cn/~dingyiwen/).
-  - **Time:** 10:00–12:00 Tuesdays (the first talk is specially on February 22).
-  - **Venue:** BICMR 77201.
-
-- [**Constructions of Motivic Elements**](./motivic23/motivic23.md).
-
-  The purpose of this weekly half-seminar-half-discussion-session is to study several constructions of cycles and motivic elements, in particular _K_(1)-elements via Borcherds product. All talks will be given by participants, and each meeting will be about 120 minutes, with 80 minutes lecture, 10 minutes break in the middle, and 30 minutes discussion time.
-  - **Organizer:** [Liang Xiao](https://bicmr.pku.edu.cn/~lxiao/index.htm).
-  - **Time:** 13:00–15:00 Tuesdays (starting on February 21).
-  - **Venue:** Jia-yi-bing Building, Room 82J12.
-  
-- [**Seminar Beyond Fargues-Scholze**](./FS23/FS23.md).
-
-  The purpose of this weekly seminar is to study some of the recent works that are built on Fargues-Scholze. We will focus on those works in the Langlands program. All talks will be given by participants, and each meeting will be about 110 minutes, with a ten minutes break in the middle.
-  - **Organizer:** Zhiyou Wu (MCM).
-  - **Time:** 13:00–15:00 Wednesdays (starting on March 1).
-  - **Venue:** Jingchun Yuan 78301.
-
+- [**Satellite Conference in Number Theory of International Congress of Basic Science**](). <br/>
+  _To discuss recent developments in number theory, representation theory, and arithmetic geometry, with a focus on subjects related to Langlands program._
 
 
 ### Notes and Archives of Past Events
 
 #### 2023 Spring
 
+- [**HIM Conference on Local Langlands and _p_-adic methods**](). <br/>
+  _On aspects of the local Langlands correspondence over p-adic fields and methods from p-adic Hodge theory; at Hausdorff Research Institute for Mathematics, Universität Bonn._
+- [**HIM Summer School on the Arithmetic of the Langlands Program**](). <br/>
+  _Courses about automorphy lifting, categorical local Langlands, p-adic automorphic forms, p-adic geometry, and shtukas; at Hausdorff Research Institute for Mathematics, Universität Bonn._
+- [**Geometry of Shimura Varieties mod _p_**](./geomShv23/geomShv23.md). <br/>
+  _On the geometry of Shimura varieties mod p as well as arithmetic applications, and hopefully forming new research ideas._
+- [**On _p_-divisible Groups**](./pdiv23/pdiv23.md). <br/>
+  _A seminar to study the basics of p-divisible groups, including the moduli construction by Scholze-Weinstein._ 
+- [**Constructions of Motivic Elements**](./motivic23/motivic23.md). <br/>
+  _To study several constructions of cycles and motivic elements, in particular K(1)-elements via Borcherds product._
+- [**Seminar Beyond Fargues-Scholze**](./FS23/FS23.md). <br/>
+  _Seminar for studying; focusing on works in the Langlands program that follow from Fargues-Scholze._
 - [**Abelian Varieties (II)**](./AV2/AV2.md). <br/>
  _The second-half of a student learning seminar for the 3+X Program at PKU._
 - [**Hong Kong Conference on Arithmetic Algebraic Geometry**](./CUHK23/CUHK23.md). <br/>
@@ -124,6 +109,8 @@
 
 ### Past Notable Talks
 
+- (June 10, 2023) **Koji Shimizu** (YMSC): <br/>
+  [**Robba Site and Robba Cohomology**](./MiniTalks/Shimizu610.pdf).
 - (Nov 30, 2022) **Christophe Breuil** (CNRS-Orsay): <br/>
   [**Multivariable (phi,Gamma)-modules and Modular Representations of Galois and GL(2)**](./MiniTalks/Breuil.md).
 - (Nov 02, 2022) **Ye Tian** (MCM), at Tianyuan Mathematical Center: <br/>
