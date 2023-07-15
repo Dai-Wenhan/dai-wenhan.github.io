@@ -2,11 +2,13 @@
 
 ### Ongoing Events During 2023 Summer
 
-- [**Satellite Conference in Number Theory of International Congress of Basic Science**](). <br/>
-  _To discuss recent developments in number theory, representation theory, and arithmetic geometry, with a focus on subjects related to Langlands program._
-
 
 ### Notes and Archives of Past Events
+
+#### 2023 Summer
+
+- [**Satellite Conference in Number Theory of ICBS**](). <br/>
+  _To discuss recent developments in number theory, representation theory, and arithmetic geometry, with a focus on subjects related to Langlands program._
 
 #### 2023 Spring
 
