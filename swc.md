@@ -7,7 +7,7 @@
 
 #### 2023 Summer
 
-- [**Satellite Conference in Number Theory of ICBS**](). <br/>
+- [**Satellite Conference in Number Theory of ICBS**](./Satellite23/Satellite23.md). <br/>
   _To discuss recent developments in number theory, representation theory, and arithmetic geometry, with a focus on subjects related to Langlands program._
 
 #### 2023 Spring
