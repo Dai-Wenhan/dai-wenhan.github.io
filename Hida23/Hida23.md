@@ -21,7 +21,7 @@ In this mini-course, we give an introduction to Hida's construction of analytic 
 
 ### Syllabus
 
-The [collated notes](./blurbs/Hida.pdf) is now available with gaps and typos fixed.
+The [collated notes](././Hida.pdf) is now available with gaps and typos fixed.
 
 - [x] (3/2) **Lecture 1:** Introduction. 
 - [x] (3/3) **Lecture 2:** Cohomological approach to modular forms. 
