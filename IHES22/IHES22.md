@@ -5,7 +5,7 @@ _[IHES 2022 Summer School](https://www.ihes.fr/en/summer-school-2022/)_
 - **Time:** July 11 to 29, 2022.
 - **Organizers:** Pierre-Henri Chaudouard (IMJ-PRG), Wee Teck Gan (National Univ. of Singapore), Tasho Kaletha (Univ. of Michigan), and Yiannis Sakellaridis (Johns Hopkins Univ.).
 - **Scientific Committee:** Gérard Laumon (Univ. Paris-Sud), Colette Mœglin (IMJ-PRG), Bảo Châu NGÔ (Chicago Univ.) and Jean-Loup Waldspurger (IMJ-PRG).
-- **List of Participants:** see on the [list file](././ParticipantsList.pdf).
+
 
 It has been almost 45 years since the influential summer school held in Corvallis, Oregon in 1977 brought together the leading experts of the Langlands program and defined the research agenda in this area for subsequent decades, at the same time inspiring and enabling several generations of young researchers to join in this exciting journey. This 3-week IHES summer school aims to do the same for the next phase of development in the Langlands program.
 
