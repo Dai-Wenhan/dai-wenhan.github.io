@@ -19,7 +19,7 @@ _In honor of Shouwu Zhang's 60th birthday, the Chinese University of Hong Kong._
 - **Venue:** Yasumoto International Academic Park, LT2, CUHK.
 - **Organizers:** [Xuhua He](https://www.math.cuhk.edu.hk/~xuhuahe/), [Michael McBreen](https://sites.google.com/view/mmcbreen/home), [Wei Zhang](https://math.mit.edu/~wz2113/).
 
-![group](././group0.jpg)
+![group](././group0.png)
 
 ### Lecture Notes (in chronological order)
 
