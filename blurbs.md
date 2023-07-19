@@ -44,6 +44,8 @@
 
 #### Representation theory:
 
+- [**On the mod _p_ Jacquet-Langlands correspondence for GL(2)**](./blurbs/modpJL.pdf). <br/>
+ _Notes for Yongquan Hu's lecture series at BICMR in 2021; including basic preliminaries and recent works, such as topics on Serre weight, Gelfand-Kirillov dimension, and Scholze's functor._
 - [**On Representations of Lie Algebras**](./blurbs/Lie.pdf). <br/>
  _Notes for a basic course by Jinpeng An; routine work._
 
