@@ -27,7 +27,7 @@ In recent years, there have been substantial progress in number theory, represen
 
 #### July 10
 
-- **Sug Woo Shin** (UC Berkeley) -- **Endoscopic classification for unitary groups**. <br/>
+- **Sug Woo Shin** (UC Berkeley) -- **Endoscopic classification for unitary groups**. ([slides](././Shin.pdf)) <br/>
 _It is a monumental achievement that Arthur proved the endoscopic classification theorem for automorphic representations of quasi-split symplectic and orthogonal groups. It was extended to quasi-split unitary groups by Mok. For non-quasi-split unitary groups, this is work in progress by Kaletha, Minguez, and myself (based on the earlier work together with White). All of these theorems are conditional on certain expected results, which are however highly nontrivial (at least to the speaker). I will discuss the current status. This talk is also based on joint work in progress with Hiraku Atobe, Wee Teck Gan, Atsushi Ichino, Tasho Kaletha, and Alberto Minguez._
 
 - **Yihang Zhu** (Maryland) -- **Zeta functions of Shimura varieties: past, present, and the near future**.  <br/>
@@ -49,11 +49,11 @@ _Let N and p be prime numbers larger than 6 such that p divides N-1. We prove a 
 
 #### July 11
 
-- **Fei Xu** (Capital Normal University) -- **Arithmetic of Markoff surfaces**. ([article](././Xu.pdf)) <br/>
+- **Fei Xu** (Capital Normal University) -- **Arithmetic of Markoff surfaces**. ([slides](././Xu.pdf), [article](././Xu1.pdf)) <br/>
 _The integral solutions of Markoff surfaces has been studied by Markoff, Hurwitz, Mordell, ... etc, and more recently by Ghosh and Sarnak. In this talk, we will study integral points of Markoff surfaces from geometric point of view by using Brauer-Manin obstruction and prove that any Markoff surface does not satisfy strong approximation with Brauer-Manin obstruction. Part of this work has also been obtained by Loughran and Mitankin independently. This is a joint work with Colliot-Thelene and Dasheng Wei._
 
 
-- **Ping Xi** (Xi'an Jiaotong University) -- **Amplifications in analytic number theory**. ([notes]()) <br/>
+- **Ping Xi** (Xi'an Jiaotong University) -- **Amplifications in analytic number theory**. ([slides](././Xi.pdf)) <br/>
 _The idea of amplifications, dating back at least to van der Corput, Vinogradov, Kloosterman and Selberg, is quite elementary in the sense that one embeds the object of interests into a suitable family, and the individual information can be reflected on average. Such observations turns out to be very powerful in the developments of sieve methods, estimates for oscillatory sums and L-function theory. In this talk, we aim to give a short survey on the underlying ideas, and some recent applications to the above three typical objects will also be discussed._
 
 
@@ -71,11 +71,11 @@ _This talk discusses the ongoing project to establish an equivalence between sem
 
 #### July 12
 
-- **Marie-France Vignéras** (Sorbonne Université) -- **Admissible representations of _p_-adic groups near the identity**. ([notes]()) <br/>
+- **Marie-France Vignéras** (Sorbonne Université) -- **Admissible representations of _p_-adic groups near the identity**. ([slides](././Vigneras.pdf)) <br/>
 _Let R be a field. Is the dimension of the restriction to the j-th congruence subgroup of a parahoric subgroup of an irreducible admissible R-representation of a p-adic reductive group G always given by the value at the j-th power of p of a polynomial with integer coefficients. I will explain why the answer is yes when p is odd and G=GL(2,Qp), if the characteristic of R is p (Morra 2013), or when G is an inner form of GL(n,Qp) or GL(n,Fp(t)), if the characteristic of R is not p (Henniart-Vigneras 2023)._
 
 
-- **Xinwen Zhu** (Stanford) -- **The unipotent categorical local Langlands correspondence**. ([notes]()) <br/>
+- **Xinwen Zhu** (Stanford) -- **The unipotent categorical local Langlands correspondence**. ([slides](././XZhu.pdf)) <br/>
 _I will discuss a conjectural categorical form of the local Langlands correspondence for p-adic groups and establish the unipotent part of such correspondence (for characteristic zero coefficient field). Joint work with Tamir Hemo._
 
 
@@ -106,5 +106,5 @@ _On Shimura varieties, there are p-adic local systems which should be regarded a
 _In 1981, Drinfeld enumerated the number of irreducible l-adic local systems of rank two on a projective smooth curve fixed by the Frobenius endomorphism. Interestingly, this number looks like the number of points on a variety over a finite field. Deligne proposed conjectures to extend and comprehend Drinfeld's result. In this talk, I will present Deligne's conjectures and discuss some mysterious phenomena that have emerged in various cases where this number is related to the number of stable Higgs bundles._
 
 
-- **Yifeng Liu** (Zhejiang University) -- **Congruence of automorphic forms and arithmetic of Shimura varieties**. ([notes]()) <br/>
+- **Yifeng Liu** (Zhejiang University) -- **Congruence of automorphic forms and arithmetic of Shimura varieties**. ([slides](././YLiu.pdf)) <br/>
 _The congruence of modular forms is an important phenomenon in the arithmetic study of modular forms, or more generally, automorphic forms. For classical modular forms, many results have been obtained by Serre, Ribet, et al, for more than thirty years. In particular, Ribet used the arithmetic geometry of modular curves to find such congruence relation, also known as level raising. In an ongoing joint work with Yichao Tian and Liang Xiao, we generalize this phenomenon to higher-dimensional unitary Shimura varieties at inert places (which remains a conjecture in general), and its relation with a certain Ihara type lemma for such varieties. In the talk, I will explain cases for which we have confirmed such conjecture; and if time permits, we will mention its number- theoretical implications._
