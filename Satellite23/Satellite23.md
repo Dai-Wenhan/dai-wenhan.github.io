@@ -30,11 +30,11 @@ In recent years, there have been substantial progress in number theory, represen
 - **Sug Woo Shin** (UC Berkeley) -- **Endoscopic classification for unitary groups**. ([slides](././Shin.pdf)) <br/>
 _It is a monumental achievement that Arthur proved the endoscopic classification theorem for automorphic representations of quasi-split symplectic and orthogonal groups. It was extended to quasi-split unitary groups by Mok. For non-quasi-split unitary groups, this is work in progress by Kaletha, Minguez, and myself (based on the earlier work together with White). All of these theorems are conditional on certain expected results, which are however highly nontrivial (at least to the speaker). I will discuss the current status. This talk is also based on joint work in progress with Hiraku Atobe, Wee Teck Gan, Atsushi Ichino, Tasho Kaletha, and Alberto Minguez._
 
-- **Yihang Zhu** (Maryland) -- **Zeta functions of Shimura varieties: past, present, and the near future**.  <br/>
+- **Yihang Zhu** (Maryland) -- **Zeta functions of Shimura varieties: past, present, and the near future**. ([notes](././YZhu.pdf)) <br/>
 _I will first recall the general expectations of Shimura, Langlands, and Kottwtiz on the shape of the zeta function of a Shimura variety, or more generally its etale cohomology. I will then report on some recent progress which partially fulfills these expectations, for Shimura varieties of unitary groups and special orthogonal groups. Finally, I will give a preview of some foreseeable developments in the near future._
 
 
-- **Dipendra Prasad** (IIT Bonbay) -- **Degenerate Whittaker models**. ([notes]()) <br/>
+- **Dipendra Prasad** (IIT Bonbay) -- **Degenerate Whittaker models**. <br/>
 _Whittaker models have played a large role in the representation theory of reductive groups over finite, local and global fields. They are not available for all representations. There are the degenerate Whittaker models which are available more generally, usually studied when there are no Whittaker models, however, they have interest even when there is a Whittaker model. The lecture will be an exposition of some results, some due to me and others due to others._
 
 
