@@ -7,6 +7,11 @@
 
 #### 2023 Summer
 
+- [**The 5th _Kyoto+_ Conference on Algebraic Geometry and Arithmetic Geometry at Nanjing**]().
+- [**Peking University Mathematics Forum on Pure Mathematics**](). <br/>
+  _To celebrate the 110th anniversary of PKU Mathematics (SMS)._
+- [**IHES Summer School on Recent Advances in Algebraic K-theory**](). <br/>
+  _To update the exciting developments, via research lectures, mini-courses, and an Arbeitsgemeinschaft on the topic of syntomic and étale motivic cohomology._
 - [**Satellite Conference in Number Theory of ICBS**](./Satellite23/Satellite23.md). <br/>
   _To discuss recent developments in number theory, representation theory, and arithmetic geometry, with a focus on subjects related to Langlands program._
 
@@ -60,8 +65,8 @@
 
 #### 2022 Summer
 
-- [**IHES 2022 Summer School on the Langlands Program**](./IHES22/IHES22.md). <br/>
- _Partially participated with a focus on the Galois side of the Langlands program._
+- [**IHES Summer School on the Langlands Program**](./IHES22/IHES22.md). <br/>
+ _Aims to do the same for the next phase of development in the Langlands program as the Corvallis 45 years ago._
 - [**Geometry of Shimura Varieties and Arithmetic Applications**](https://bicmr.pku.edu.cn/content/show/17-2759.html). <br/>
  _On recent developments; supported by Tianyuan Research Grant of Chinese NSF._
 

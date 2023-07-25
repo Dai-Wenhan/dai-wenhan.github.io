@@ -217,56 +217,56 @@ _The [video links](https://www.youtube.com/playlist?list=PLx5f8IelFRgEv3qXY43HxV
 
 #### July 26
 
-- **** () -- ****. ([video](), [notes]()) <br/>
+- **Laurent Fargues** (IMJ-PRG) -- **The Langlands Program and the Moduli of Bundles on the Curve (3/3)**. ([video](https://www.youtube.com/watch?v=I0EZnQaSMZQ), [notes]()) <br/>
   _This is a follow-up to the previous session._
 
-- **** () -- ****. ([video](), [notes]()) <br/>
+- **Sug Woo Shin** (UC Berkeley) -- **Shimura Varieties and Modularity (1/3)**. ([video](https://youtu.be/zux6NdB8sZg), [notes]()) <br/>
+  _We describe the construction of Galois representations associated to regular algebraic cuspidal automorphic representations of GL(n) over a CM field, as well as those Galois representations associated to torsion classes that occur in the Betti cohomology of the corresponding locally symmetric spaces. The emphasis will be on Scholze's proof, which applies to torsion classes and which uses perfectoid Shimura varieties and the Hodge-Tate period morphism._
+
+- **Ana Caraiani** (Imperial College) -- **Shimura Varieties and Modularity (2/3)**. ([video](https://youtu.be/9NoXFdG3u7E), [notes]()) <br/>
   _This is a follow-up to the previous session._
 
-- **** () -- ****. ([video](), [notes]()) <br/>
-  _This is a follow-up to the previous session._
-
-- **** () -- ****. ([video](), [notes]()) <br/>
-  _This is a follow-up to the previous session._
+- **Chao Li** (Columbia Univ.) -- **Geometric and Arithmetic Theta Correspondences (1/2)**. ([video](https://youtu.be/s05jwE2jPw4), [notes]()) <br/>
+  _Geometric/arithmetic theta correspondences provide correspondences between automorphic forms and cohomology classes/algebraic cycles on Shimura varieties. I will give an introduction focusing on the example of unitary groups and highlight recent advances in the arithmetic theory (also known as the Kudla program) and their applications._
 
 #### July 27
 
-- **** () -- ****. ([video](), [notes]()) <br/>
+- **Ana Caraiani** (Imperial College) -- **Shimura Varieties and Modularity (3/3)**. ([video](https://youtu.be/o58f7i3Ge6I), [notes]()) <br/>
   _This is a follow-up to the previous session._
 
-- **** () -- ****. ([video](), [notes]()) <br/>
+- **Chao Li** (Columbia Univ.) -- **Geometric and Arithmetic Theta Correspondences (2/2)**. ([video](https://youtu.be/h5yiaH2zDvM), [notes]()) <br/>
   _This is a follow-up to the previous session._
 
-- **** () -- ****. ([video](), [notes]()) <br/>
-  _This is a follow-up to the previous session._
+- **Akshay Venkatesh** (IAS) -- **Hamiltonian Actions and Langlands Duality (1/2)**. <br/>
+  _We will give a gentle introduction to my joint work with Ben-Zvi and Sakellaridis, in which we seek to formulate various phenomena in the Langlands program in terms of Hamiltonian actions of reductive groups. In particular, this makes visible a duality underlying the relative Langlands program._
 
-- **** () -- ****. ([video](), [notes]()) <br/>
+- **Akshay Venkatesh** (IAS) -- **Hamiltonian Actions and Langlands Duality (2/2)**. <br/>
   _This is a follow-up to the previous session._
 
 #### July 28
 
-- **** () -- ****. ([video](), [notes]()) <br/>
-  _This is a follow-up to the previous session._
+- **Wei Zhang** (MIT) -- **High-dimensional Gross–Zagier Formula (1/2)**. ([video](https://youtu.be/-SyyDQsxr2E), [notes]()) <br/>
+  _We discuss various generalizations of the Gross-Zagier formula to high-dimensional Shimura varieties, with an emphasis on the AGGP conjecture and the relative trace formula approach. Roughly the first lecture will be devoted to the global aspect and the second one to the local aspect._
 
-- **** () -- ****. ([video](), [notes]()) <br/>
-  _This is a follow-up to the previous session._
+- **David Ben-Zvi** (UT Austin) -- **Between Coherent and Constructible Local Langlands Correspondences**. ([video](https://youtu.be/iN2AAiiRUVI), [notes]()) <br/>
+  _(Joint with Harrison Chen, David Helm, and David Nadler.) Refined forms of the local Langlands correspondence seek to relate representations of reductive groups over local fields with sheaves on stacks of Langlands parameters. But what kind of sheaves? Conjectures in the spirit of Kazhdan-Lusztig theory describe representations of a group and its pure inner forms with fixed central character in terms of constructible sheaves. Conjectures in the spirit of geometric Langlands describe representations with varying central character of a large family of groups associated to isocrystals in terms of coherent sheaves. The latter conjectures also take place on a larger parameter space, in which Frobenius (or complex conjugation) is allowed a unipotent part. In this talk, we propose a general mechanism that interpolates between these two settings. This mechanism derives from the theory of cyclic homology, as interpreted through circle actions in derived algebraic geometry. We apply this perspective to categorical forms of the local Langlands conjectures for both archimedean and non-archimedean local fields. In the archimedean case, we explain a conjectural realization of coherent local Langlands as geometric Langlands on the twistor line, the real counterpart of the Fargues-Fontaine curve, and its relation to constructible local Langlands via circle actions. In the non-archimedean case, we describe how circle actions relate coherent and constructible realizations of affine Hecke algebras and of all smooth representations of GL(n), and propose a mechanism to relate the two settings in general._
 
-- **** () -- ****. ([video](), [notes]()) <br/>
-  _This is a follow-up to the previous session._
+- **Tony Feng** (MIT) -- **Derived Aspects of the Langlands Program (1/3)**. ([video](https://youtu.be/W8hAZP36-c4), [notes]()) <br/>
+  _We discuss ways in which derived structures have recently emerged in connection with the Langlands correspondence, with an emphasis on derived Galois deformation rings and derived Hecke algebras._
 
-- **** () -- ****. ([video](), [notes]()) <br/>
-  _This is a follow-up to the previous session._
+- **Yiannis Sakellaridis** (Johns Hopkins Univ.) -- **Local and Global Questions "Beyond Endoscopy" (1/2)**. ([video](https://youtu.be/NjUdyYE4vBM), [notes]()) <br/>
+  _The near completion of the program of endoscopy poses the question of what lies next. These talks will take a broad view of ideas beyond the program of endoscopy, highlighting the connections among them, and emphasizing the relationship between local and global aspects. Central among those ideas is the one proposed in a 2000 lecture of R. P. Langlands, aiming to extract from the stable trace formula of a group G the bulk of those automorphic representations in the image of the conjectural functorial lift corresponding to a morphism of L-groups. With the extension of the problem of functionality to the "relative" setting of spherical varieties and related spaces, some structure behind such comparisons has started to reveal itself. In a seemingly unrelated direction, a program initiated by Braverman-Kazhdan, also around 2000, to generalize the Godement-Jacquet proof of the functional equation to arbitrary L-functions, has received renewed attention in recent years. We survey ideas and developments in this direction, as well, and discuss the relationship between the two programs._
 
 #### July 29
 
-- **** () -- ****. ([video](), [notes]()) <br/>
+- **Tony Feng** (MIT) -- **Derived Aspects of the Langlands Program (2/3)**. ([video](https://youtu.be/rzeOJaWnj80), [notes]()) <br/>
   _This is a follow-up to the previous session._
 
-- **** () -- ****. ([video](), [notes]()) <br/>
+- **Wei Zhang** (MIT) -- **High-dimensional Gross–Zagier Formula (2/2)**. ([video](https://youtu.be/vmaTwRXt6ys), [notes]()) <br/>
   _This is a follow-up to the previous session._
 
-- **** () -- ****. ([video](), [notes]()) <br/>
+- **Yiannis Sakellaridis** (Johns Hopkins Univ.) -- **Local and Global Questions "Beyond Endoscopy" (2/2)**. ([video](https://www.youtube.com/watch?v=7QogYVn5kVo), [notes]()) <br/>
   _This is a follow-up to the previous session._
 
-- **** () -- ****. ([video](), [notes]()) <br/>
+- **Michael Harris** (Columbia Univ.) -- **Derived Aspects of the Langlands Program (3/3)**. ([video](https://youtu.be/5q9EZufhgVA), [notes]()) <br/>
   _This is a follow-up to the previous session._

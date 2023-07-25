@@ -6,7 +6,7 @@ Hi!
 
 - [**Selected Research / Expository Writings**](./blurbs.md).
 - [**Seminars, Conferences, and Workshops Attended**](./swc.md).
-- [**Notes Repository**](./notes.md).
+- [**Studying Notes Repository**](./notes.md).
 - [**Teaching Experiences**](./teaching.md).
 
 ### About Me
@@ -39,7 +39,7 @@ A headshot of mine is posted [here](./headshot.jpg).
   - **Time:** August 2 to 5.
   - **Venue:** Jingchun Yuan 78301.
 
-- [**The 5th _Kyoto+_ Conference on Algebraic Geometry and Arithmetic Geometry, Nanjing**]()
+- [**The 5th _Kyoto+_ Conference on Algebraic Geometry and Arithmetic Geometry, Nanjing**]().
 
   TBA.
   - **Time:** August 24 to 28.
