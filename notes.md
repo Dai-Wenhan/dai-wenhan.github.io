@@ -1,6 +1,6 @@
 ## Notes Repository
 
-This page collects some of my handwritten notes, which come from a variety of sources, either from public lectures or conferences that I have not attended, or from certain books, papers, or course notes of others.
+This page collects some of my handwritten or TeXed notes, which come from a variety of sources such as public lectures or conferences that I have not attended, certain books and papers, as well as the course notes of others.
 
 ### General Algebraic Geometry 
 
