@@ -210,7 +210,7 @@ _The [video links](https://www.youtube.com/playlist?list=PLx5f8IelFRgEv3qXY43HxV
   _This is a follow-up to the previous session._
 
 - **Dipendra Prasad** (IIT Bombay) -- **Branching Laws: Homological Aspects**. ([video](https://www.youtube.com/watch?v=qPjb7KOhnNc), [notes]()) <br/>
-  _This is a follow-up to the previous session._
+  _We will see the question about decomposing a representation of a group when restricted to a subgroup which is referred to as the branching law. In this lecture, we focus attention on homological aspects of the branching law. The lecture will survey this topic beginning from the beginning going up to several results which have recently been proved._
 
 - **Jean-François Dat** (IMJ-PRG) -- **On Moduli Spaces of Local Langlands Parameters (2/2)**. ([video](https://www.youtube.com/watch?v=X-95_fz7Pt0), [notes]()) <br/>
   _This is a follow-up to the previous session._
