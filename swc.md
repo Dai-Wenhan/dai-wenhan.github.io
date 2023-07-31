@@ -1,15 +1,17 @@
-## Seminars, Workshops, and Conferences Attended
+## Conferences, Seminars, and Workshops Attended
 
 ### Ongoing Events During 2023 Summer
 
+- [**The 5th _Kyoto+_ Conference on Algebraic Geometry and Arithmetic Geometry at Nanjing**]().
+- [**PKU Mathematics Forum on Pure Mathematics**](). <br/>
+  _To celebrate the 110th anniversary of PKU Mathematics (SMS)._
 
 ### Notes and Archives of Past Events
 
 #### 2023 Summer
 
-- [**The 5th _Kyoto+_ Conference on Algebraic Geometry and Arithmetic Geometry at Nanjing**]().
-- [**Peking University Mathematics Forum on Pure Mathematics**](). <br/>
-  _To celebrate the 110th anniversary of PKU Mathematics (SMS)._
+- [**PKU Algebra & Geometry Mini-Forum**](). <br/>
+  _A one-day junior faculty salon to warm up the PKU alumni forum._
 - [**IHES Summer School on Recent Advances in Algebraic K-theory**](). <br/>
   _To update the exciting developments, via research lectures, mini-courses, and an Arbeitsgemeinschaft on the topic of syntomic and étale motivic cohomology._
 - [**Satellite Conference in Number Theory of ICBS**](./Satellite23/Satellite23.md). <br/>

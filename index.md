@@ -5,15 +5,13 @@ _Last updated on: July, 2023_
 Hi!
 
 - [**Selected Research / Expository Writings**](./blurbs.md).
-- [**Seminars, Conferences, and Workshops Attended**](./swc.md).
+- [**Conferences, Seminars, and Workshops Attended**](./swc.md).
 - [**Studying Notes Repository**](./notes.md).
 - [**Teaching Experiences**](./teaching.md).
 
 ### About Me
 
 Since 2023 Fall, I am a first-year Ph.D. student at [Yau Mathematical Sciences Center](https://ymsc.tsinghua.edu.cn) (YMSC), China. My advisor [Yihang ZHU](http://math.umd.edu/~yhzhu/) / 朱艺航 also joins YMSC as a distinguished professor at the same time. 
-
-<span style="color:blue;">这是蓝色文字</span>
 
 My research interest includes **number theory**, **arithmetic geometry**, and **(automorphic) representation theory**.
 
