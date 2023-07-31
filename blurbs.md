@@ -2,8 +2,8 @@
 
 ### (Pre-)Publications
 
-1. [**Tate Cycles on Unitary Shimura Varieties mod Ramified _p_**]() (thesis, in preparation).
-
+2. [**Tate Cycles on Unitary Shimura Varieties mod Ramified _p_**]() (in preparation).
+1. [**A Geometric Jacquet-Langlands Correspondence for mod _p_ Unitary Shimura Varieties: the Ramified Case**](./blurbs/undergradthesis.pdf), undergraduate thesis (supervisor: [Liang Xiao](https://bicmr.pku.edu.cn/~lxiao/index.htm)), Peking University, 2023.
 
 
 
