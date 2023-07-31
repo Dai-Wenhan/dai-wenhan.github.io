@@ -1,4 +1,4 @@
-## Notes Repository
+## Studying Notes Repository
 
 This page collects some of my handwritten or TeXed notes, which come from a variety of sources such as public lectures or conferences that I have not attended, certain books and papers, as well as the course notes of others.
 

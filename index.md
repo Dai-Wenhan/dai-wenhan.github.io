@@ -13,9 +13,11 @@ Hi!
 
 Since 2023 Fall, I am a first-year Ph.D. student at [Yau Mathematical Sciences Center](https://ymsc.tsinghua.edu.cn) (YMSC), China. My advisor [Yihang ZHU](http://math.umd.edu/~yhzhu/) / 朱艺航 also joins YMSC as a distinguished professor at the same time. 
 
+<span style="color:blue;">这是蓝色文字</span>
+
 My research interest includes **number theory**, **arithmetic geometry**, and **(automorphic) representation theory**.
 
-Previousely, I have finished my Bachelor's Degree at [Peking University](https://www.pku.edu.cn). My supervisor was Professor [Liang XIAO](https://bicmr.pku.edu.cn/~lxiao/index.htm) / 肖梁 at [Beijing International Center for Mathematical Research](https://bicmr.pku.edu.cn) (BICMR). 
+Previousely, I have finished my Bachelor's Degree at [Peking University](https://www.pku.edu.cn) in June 2023. My supervisor was Professor [Liang XIAO](https://bicmr.pku.edu.cn/~lxiao/index.htm) / 肖梁 at [Beijing International Center for Mathematical Research](https://bicmr.pku.edu.cn) (BICMR). 
 
 A headshot of mine is posted [here](./headshot.jpg).
 
