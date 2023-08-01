@@ -175,7 +175,7 @@ _The [video links](https://www.youtube.com/playlist?list=PLx5f8IelFRgEv3qXY43HxV
 
 #### July 21
 
-- **Peter Scholze** (Univ. Bonn) -- **The Langlands Program and the Moduli of Bundles on the Curve (1/3)**. ([video](https://www.youtube.com/watch?v=3jsV9OHxmy0), [notes]()) <br/>
+- **Peter Scholze** (Univ. Bonn) -- **The Langlands Program and the Moduli of Bundles on the Curve (1/3)**. ([video](https://www.youtube.com/watch?v=3jsV9OHxmy0), [notes](././ScholzeM1.pdf)) <br/>
   _The speaker will talk about his joint work on the geometrization of the local Langlands correspondence._
 
 - **Wee Teck Gan** (Nat. Univ. Singapour) -- **Explicit Constructions of Automorphic Forms (1/2)**. ([video](https://www.youtube.com/watch?v=AaRH-eWxW3Q), [notes]()) <br/>
