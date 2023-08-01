@@ -4,8 +4,8 @@ _Last updated on: July, 2023_
 
 Hi!
 
-- [**Selected Research / Expository Writings**](./blurbs.md).
-- [**Conferences, Seminars, and Workshops Attended**](./swc.md).
+- [**Research / Expository Writings**](./blurbs.md).
+- [**Conference / Seminar Activities**](./activities.md).
 - [**Studying Notes Repository**](./notes.md).
 - [**Teaching Experiences**](./teaching.md).
 

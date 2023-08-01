@@ -1,4 +1,4 @@
-## Selected Research / Expository Writings
+## Research / Expository Writings
 
 ### (Pre-)Publications
 

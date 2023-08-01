@@ -1,4 +1,4 @@
-## Conferences, Seminars, and Workshops Attended
+## Conference / Seminar Activities
 
 ### Ongoing Events During 2023 Summer
 
