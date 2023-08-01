@@ -3,14 +3,14 @@
 ### Ongoing Events During 2023 Summer
 
 - [**The 5th _Kyoto+_ Conference on Algebraic Geometry and Arithmetic Geometry at Nanjing**]().
-- [**PKU Mathematics Forum on Pure Mathematics**](). <br/>
+- [**PKU Mathematics Forum on Pure Mathematics**](./PKUforum/PKUforum.md). <br/>
   _To celebrate the 110th anniversary of PKU Mathematics (SMS)._
 
 ### Notes and Archives of Past Events
 
 #### 2023 Summer
 
-- [**PKU Algebra & Geometry Mini-Forum**](). <br/>
+- [**PKU Algebra & Geometry Mini-Forum**](./miniforum2023/miniforum2023.md). <br/>
   _A one-day junior faculty salon to warm up the PKU alumni forum._
 - [**IHES Summer School on Recent Advances in Algebraic K-theory**](). <br/>
   _To update the exciting developments, via research lectures, mini-courses, and an Arbeitsgemeinschaft on the topic of syntomic and étale motivic cohomology._
