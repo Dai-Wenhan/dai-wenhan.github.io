@@ -41,7 +41,7 @@ _I will describe the moduli space of non-archimedean holomorphic disks in affine
 _We survey recent progress on Gromov-Hausdorff convergence of Kähler manifolds with geometric applications._
 
 
-- **Zhouli Xu 徐宙利** (UCSD) -- **The Adams differentials on the classes $h(j,3)$**. <br/>
+- **Zhouli Xu 徐宙利** (UCSD) -- **The Adams differentials on the classes $h(j,3)$**. ([article](https://arxiv.org/pdf/2302.11869.pdf)) <br/>
 _In filtration 1 of the Adams spectral sequence, using secondary cohomology operations, Adams computed the differentials on the classes $h(j)$, resolving the Hopf invariant one problem. In Adams filtration 2, using equivariant and chromatic homotopy theory, Hill-Hopkins-Ravenel proved that the classes $h(j,2)$ support non-trivial differentials for $j \geq 7$, resolving the celebrated Kervaire invariant one problem._
 
 
