@@ -3,6 +3,7 @@
 - **Time:** August 2 to 5, 2023.
 - **Venue:** Big Hall, Jia-yi-bing Building, Jingchunyuan 82, BICMR, Peking University.
 
+![group](././group.png)
 
 ### Lecture Archives (in chronological order)
 
