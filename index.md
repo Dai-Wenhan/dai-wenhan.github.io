@@ -32,12 +32,7 @@ A headshot of mine is posted [here](./headshot.jpg).
 ### Ongoing/Upcoming Events
 
 #### 2023 Summer
-  
-- [**PKU Mathematics Forum on Pure Mathematics**]().
 
-  TBA.
-  - **Time:** August 2 to 5.
-  - **Venue:** Jingchun Yuan 78301.
 
 - [**The 5th _Kyoto+_ Conference on Algebraic Geometry and Arithmetic Geometry, Nanjing**]().
 

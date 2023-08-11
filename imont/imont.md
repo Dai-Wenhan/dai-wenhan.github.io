@@ -1,6 +1,6 @@
 ## Elementary Number Theory (in English).
 
-During the Summer of 2022, I offered a course on _Topics in Elementary Number Theory_ for second-year high school students, in response to a request for preparing the Chinese Mathematical Olympiad in 2023. At the end of the course, the lecture notes will be translated into English, collated into a number of documents, and gradually uploaded onto this page. 
+During the Summer of 2022, I offered a basic course on _Topics in Elementary Number Theory_ for first-year high school students, in response to a request for preparing the Chinese National High School Mathematics League in 2023. At the end of the course, for the convenience of the AMC/AIME/AHSME/USAMO participants, the lecture notes will be translated into English, collated into a number of documents, and gradually uploaded onto this page. 
 
 - **Reference:** Lecture Notes of Mr. Tao Han.
 

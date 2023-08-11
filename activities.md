@@ -1,15 +1,18 @@
 ## Conference / Seminar Activities
 
-### Ongoing Events During 2023 Summer
+### Ongoing / Upcoming Events During 2023 Summer
 
 - [**The 5th _Kyoto+_ Conference on Algebraic Geometry and Arithmetic Geometry at Nanjing**]().
-- [**PKU Mathematics Forum on Pure Mathematics**](./PKUforum/PKUforum.md). <br/>
-  _To celebrate the 110th anniversary of PKU Mathematics._
+
 
 ### Notes and Archives of Past Events
 
 #### 2023 Summer
 
+- [**HIM Conference on Global Langlands, Shimura varieties, and shtukas**](). <br/>
+  _On various aspects of the global Langlands correspondence; about in particular the geometry and cohomology of Shimura varieties and more general locally symmetric spaces, or moduli spaces of shtukas._
+- [**PKU Mathematics Forum on Pure Mathematics**](./PKUforum/PKUforum.md). <br/>
+  _To celebrate the 110th anniversary of PKU Mathematics._
 - [**PKU Algebra & Geometry Mini-Forum**](./miniforum2023/miniforum2023.md). <br/>
   _A one-day junior faculty salon to warm up the PKU alumni forum._
 - [**IHES Summer School on Recent Advances in Algebraic K-theory**](./IHES23/IHES23.md). <br/>
