@@ -11,25 +11,24 @@
 
 (_Disclaimer: The following scattered materials are written for studying goals only, and the originality is thus hardly claimed. These notes possibly obtain many major or minor gaps, typos, and logical mistakes due to the note-taker, as well as a lack of references._)
 
-#### Arithmetic geometry:
+
+
+#### Galois representations, automorphic forms, Shimura varieties, and L-functions:
 
 - [**The Arithmetic of Hilbert Modular Varieties**](./blurbs/Hilb.pdf). <br/>
  _In process._
 - [**Integral Model of Shimura Varieties of Hodge Type**](./blurbs/IntegralModel.pdf). <br/>
  _Following Kisin's work on smooth integral models after classification of Breuil-Kisin modules of p-divisible groups; notes for lectures by Xu Shen at BICMR._
-- [**Shimura Varieties**](./blurbs/Shvar.pdf). <br/>
- _Notes for an introductory course by Sophie Morel at 2022 Summer School on the Langlands Program (IHES); reviewed by the speaker._
-
-
-
-#### Galois representations, automorphic forms, and _L_-functions:
-
 - [**Hida Theory on _p_-adic Modular Forms**](./blurbs/Hida.pdf). <br/>
  _About Haruzo Hida's construction of analytic families of ordinary p-adic modular forms and their associated Galois representations; notes for lectures by Bin Zhao at BICMR._
 - [**Modularity Lifting**](./blurbs/modlift.pdf). <br/>
  _The crucial ingredient in understanding Andrew Wiles' proof of Fermat's last theorem; McGill lecture by Patrick Allen._
+- [**Higher Dimensional Gross-Zagier Formula**](./blurbs/HigherDimGZ.pdf). <br/>
+ _Notes for an introductory course by Wei Zhang at 2022 Summer School on the Langlands Program (IHES)._
 - [**The Local Langlands Conjecture**](./blurbs/LLC.pdf). <br/>
- _Notes for an introductory course by Oliver Taïbi at 2022 Summer School on the Langlands Program (IHES); reviewed by the speaker._
+ _Notes for an introductory course by Oliver Taïbi at 2022 Summer School on the Langlands Program (IHES); revised by the speaker._
+- [**Shimura Varieties**](./blurbs/Shvar.pdf). <br/>
+ _Notes for an introductory course by Sophie Morel at 2022 Summer School on the Langlands Program (IHES); revised by the speaker._
 
 
 
@@ -38,7 +37,7 @@
 - [**On Lusztig's Middle Extension of Perverse Sheaves**](./blurbs/MidExt.pdf). <br/>
  _A survey adapted from some seminar talk about Springer theory._
 - [**Local Shtukas and the Langlands Program**](./blurbs/LocalShtukas.pdf). <br/>
- _Notes for an introductory course by Oliver Taïbi at 2022 Summer School on the Langlands Program (IHES)._
+ _Notes for an introductory course by Jared Weinstein at 2022 Summer School on the Langlands Program (IHES)._
 - [**On the Local Langlands Conjectures for Reductive Groups over _p_-adic Fields**](). <br/>
  _In process._
 
@@ -49,7 +48,7 @@
 - [**On Representations of Lie Algebras**](./blurbs/Lie.pdf). <br/>
  _Notes for a basic course by Jinpeng An; routine work._
 
-#### Algebraic geometry and Diophantine geometry:
+#### Arithmetic geometry, Arakelov geometry, and Algebraic geometry:
 
 - [**Abelian Varieties**](./blurbs/AV2022.pdf). <br/>
  _Following David Mumford's book closely._
