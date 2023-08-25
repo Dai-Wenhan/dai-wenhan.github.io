@@ -13,7 +13,7 @@
 
 
 
-#### Galois representations, automorphic forms, Shimura varieties, and L-functions:
+#### Automorphic forms, Shimura varieties, and L-functions:
 
 - [**The Arithmetic of Hilbert Modular Varieties**](./blurbs/Hilb.pdf). <br/>
  _In process._
@@ -21,8 +21,6 @@
  _Following Kisin's work on smooth integral models after classification of Breuil-Kisin modules of p-divisible groups; notes for lectures by Xu Shen at BICMR._
 - [**Hida Theory on _p_-adic Modular Forms**](./blurbs/Hida.pdf). <br/>
  _About Haruzo Hida's construction of analytic families of ordinary p-adic modular forms and their associated Galois representations; notes for lectures by Bin Zhao at BICMR._
-- [**Modularity Lifting**](./blurbs/modlift.pdf). <br/>
- _The crucial ingredient in understanding Andrew Wiles' proof of Fermat's last theorem; McGill lecture by Patrick Allen._
 - [**Higher Dimensional Gross-Zagier Formula**](./blurbs/HigherDimGZ.pdf). <br/>
  _Notes for an introductory course by Wei Zhang at 2022 Summer School on the Langlands Program (IHES)._
 - [**The Local Langlands Conjecture**](./blurbs/LLC.pdf). <br/>
@@ -41,10 +39,12 @@
 - [**On the Local Langlands Conjectures for Reductive Groups over _p_-adic Fields**](). <br/>
  _In process._
 
-#### Representation theory:
+#### Representation theory and Galois representations:
 
 - [**On the mod _p_ Jacquet-Langlands correspondence for GL(2)**](./blurbs/modpJL.pdf). <br/>
  _Notes for Yongquan Hu's lecture series at BICMR in 2021; including basic preliminaries and recent works, such as topics on Serre weight, Gelfand-Kirillov dimension, and Scholze's functor._
+- [**Modularity Lifting**](./blurbs/modlift.pdf). <br/>
+ _The crucial ingredient in understanding Andrew Wiles' proof of Fermat's last theorem; McGill lecture by Patrick Allen._
 - [**On Representations of Lie Algebras**](./blurbs/Lie.pdf). <br/>
  _Notes for a basic course by Jinpeng An; routine work._
 
@@ -54,6 +54,7 @@
  _Following David Mumford's book closely._
 - [**Anabelian Geometry and the ABC Conjecture**](./blurbs/AAGABC.pdf). <br/>
  _A review for Shinichi Mochizuki's work; manuscript and totally unreadable._
+
 
 #### Digressions:
 
