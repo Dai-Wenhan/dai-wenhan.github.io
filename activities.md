@@ -2,13 +2,14 @@
 
 ### Ongoing / Upcoming Events During 2023 Summer
 
-- [**The 5th _Kyoto+_ Conference on Algebraic Geometry and Arithmetic Geometry at Nanjing**]().
+
 
 
 ### Notes and Archives of Past Events
 
 #### 2023 Summer
-
+- [**The 5th _Kyoto+_ Conference on Algebraic Geometry and Arithmetic Geometry at Nanjing**](./Nanjing23/Nanjing23.md). <br/>
+  __
 - [**HIM Conference on Global Langlands, Shimura varieties, and shtukas**](). <br/>
   _On various aspects of the global Langlands correspondence; about in particular the geometry and cohomology of Shimura varieties and more general locally symmetric spaces, or moduli spaces of shtukas._
 - [**PKU Mathematics Forum on Pure Mathematics**](./PKUforum/PKUforum.md). <br/>
@@ -51,7 +52,7 @@
 
 - [**On Geometrization of Local Langlands Correspondence**](./geometrization/geometrization.md). <br/>
  _Reading workshop about recent progress by Fargues–Scholze; held by BICMR and MCM._
-- [**Rigid and Formal Geometry**](./rigid/rigid.md). <br/>
+- [**Rigid and Formal Geometry Learning Seminar**](./rigid/rigid.md). <br/>
  _Student learning seminar on basics of rigid analytic geometry; to prepare for an upcoming course on perfectoid spaces._
 - [**Instructional Workshop on Iwasawa Theory for Automorphic Forms**](./Iwasawa2022/Iwasawa2022.md). <br/>
  _Online workshop at Korean Institute for Advanced Study (KIAS); introduction to breakthrough works on Iwasawa theory._

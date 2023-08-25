@@ -1,4 +1,4 @@
-## PKU Algebra & Geometry Mini-forum.
+## PKU Algebra & Geometry Mini-forum
 
 - **Time:** August 2 to 5, 2023.
 - **Venue:** Big Hall, Jia-yi-bing Building, Jingchunyuan 82, BICMR, Peking University.

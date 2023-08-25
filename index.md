@@ -34,9 +34,9 @@ A headshot of mine is posted [here](./headshot.jpg).
 #### 2023 Summer
 
 
-- [**The 5th _Kyoto+_ Conference on Algebraic Geometry and Arithmetic Geometry, Nanjing**]().
+- [**The 5th _Kyoto+_ Conference on Algebraic Geometry and Arithmetic Geometry at Nanjing**](./Nanjing23/Nanjing23.md).
 
-  TBA.
+  By Arithmetic & Homotopic Galois Theory, a France-Japan international network.
   - **Time:** August 24 to 28.
   - **Venue:** Yifu Hall, Nanjing University Gulou / 南京大学鼓楼校区逸夫馆.
 

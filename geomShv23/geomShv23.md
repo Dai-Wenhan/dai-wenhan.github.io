@@ -1,4 +1,4 @@
-## Geometry of Shimura Varieties mod _p_.
+## Geometry of Shimura Varieties mod _p_
 
 The purpose of this weekly seminar is to study several research papers on the geometry of Shimura varieties mod _p_ as well as arithmetic applications, and hopefully forming new research ideas. All talks will be given by participants, and each meeting will be about 120 minutes, consisting of 90 minutes lecture (with 10 minutes break in the middle) and 20 minutes discussion.
 

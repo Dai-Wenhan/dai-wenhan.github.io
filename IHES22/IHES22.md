@@ -1,4 +1,4 @@
-## Lectures on the Langlands Program.
+## Lectures on the Langlands Program
 
 _[IHES 2022 Summer School](https://www.ihes.fr/en/summer-school-2022/)_
 

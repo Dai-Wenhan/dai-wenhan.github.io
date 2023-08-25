@@ -1,4 +1,4 @@
-## Lectures on mod _p_ Langlands program for GL(2).
+## Lectures on mod _p_ Langlands program for GL(2)
 
 _Advanced guest lecture series._
 

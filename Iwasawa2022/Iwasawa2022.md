@@ -1,4 +1,4 @@
-## Instructional Workshop on Iwasawa Theory for Automorphic Forms.
+## Instructional Workshop on Iwasawa Theory for Automorphic Forms
 
 _Online, [Korean Institute for Advanced Study](http://events.kias.re.kr/h/IWIA/?pageNo=4827)._
 

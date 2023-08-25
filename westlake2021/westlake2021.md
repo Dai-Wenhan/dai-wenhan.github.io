@@ -1,4 +1,4 @@
-## The Uniform Mordell-Lang Program.
+## The Uniform Mordell-Lang Program
 
 _Institute for Theoretical Sciences - [Westlake Mathematics Seminar 2021](https://its.westlake.edu.cn/info/1071/1271.htm)_
 

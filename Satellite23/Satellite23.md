@@ -11,7 +11,7 @@
 </head>
 
 
-## Satellite Conference in Number Theory of International Congress of Basic Science.
+## Satellite Conference in Number Theory of International Congress of Basic Science
 
 _Morningside Center of Mathematics, CAS._
 

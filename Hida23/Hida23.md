@@ -10,7 +10,7 @@
     </script>
 </head>
 
-## Hida's Theory on _p_-adic Modular Forms.
+## Hida's Theory on _p_-adic Modular Forms
 
 In this mini-course, we give an introduction to Hida's construction of analytic families of ordinary _p_-adic modular forms and their associated Galois representations. We will explain Hida's control theorems for ordinary _p_-adic modular forms and show how these theorems have been useful in relating certain Hecke algebras with universal Galois deformation rings. We will also explain examples and open problems on these topics.
 - **Lecturer:** Bin Zhao (Capital Normal University).

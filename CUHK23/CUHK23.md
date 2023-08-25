@@ -11,7 +11,7 @@
 </head>
 
 
-## Hong Kong Conference on Arithmetic Algebraic Geometry.
+## Hong Kong Conference on Arithmetic Algebraic Geometry
 
 _In honor of Shouwu Zhang's 60th birthday, the Chinese University of Hong Kong._
 

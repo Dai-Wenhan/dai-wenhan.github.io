@@ -1,4 +1,4 @@
-## Locally Analytic _p_-adic Representations.
+## Locally Analytic _p_-adic Representations
 
 The purpose of this semester-long seminar is to go over the theory of continuous and locally analytic representations of _p_-adic groups. The first half will focus on the theory of Schneider-Teitelbaum, following their Hangzhou note. The second half may learn Orlik-Strauch representations and some results of Arkedov.
 - **Time:** Every Tuesday, 10–noon.

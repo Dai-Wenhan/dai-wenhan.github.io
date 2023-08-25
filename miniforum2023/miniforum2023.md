@@ -1,4 +1,4 @@
-## PKU Algebra & Geometry Mini-forum.
+## PKU Algebra & Geometry Mini-forum
 
 This is a one-day salon proposed by alumnus/alumnae, as a warm-up activity followed by [PKU Mathematics Forum on Pure Mathematics](./PKUforum/PKUforum.md).
 

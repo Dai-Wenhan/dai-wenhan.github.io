@@ -1,4 +1,4 @@
-## Recent Advances in Algebraic K-theory.
+## Recent Advances in Algebraic K-theory
 
 _[IHES 2023 Summer School](https://indico.math.cnrs.fr/event/8837/)_
 

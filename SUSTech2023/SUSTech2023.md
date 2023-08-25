@@ -11,7 +11,7 @@
 </head>
 
 
-## Shenzhen Workshop on Arithmetic Geometry.
+## Shenzhen Workshop on Arithmetic Geometry
 
 _Department of Mathematics at SUSTech - [Southern University of Science and Technology](https://math.sustech.edu.cn/conference/12651.html)_
 
