@@ -46,36 +46,36 @@ _Recent developments in K-stability provide a nice moduli space, called a K-modu
 - **Burt Totaro** (UCLA) -- **Endomorphisms of varieties**. ([notes](././Totaro.pdf)) <br/>
 _A natural class of dynamical systems is obtained by iterating polynomial maps, which can be viewed as maps from projective space to itself. One can ask which other projective varieties admit endomorphisms of degree greater than 1. This seems to be an extremely restrictive property, with all known examples coming from toric varieties (such as projective space) or abelian varieties. We describe what is known in this direction, with the new ingredient being the “Bott vanishing” property. Joint work with Tatsuro Kawakami._
 
-- **Janos Kollár** (Princeton) -- **What determines an algebraic variety?** ([notes](././)) <br/>
+- **Janos Kollár** (Princeton) -- **What determines an algebraic variety?** <br/>
 _We discuss how to describe the sheaf theory of an algebraic variety, if we are given only the underlying Zariski topological space. (Joint work with Max Lieblich, Martin Olsson and Will Sawin)._
 
-- **Chenyang Xu** (Princeton) -- **Higher rank finite generation**. ([notes](././)) <br/>
+- **Chenyang Xu** (Princeton) -- **Higher rank finite generation**. <br/>
 _Finite generation for higher rank quasi-monomial valuation plays a key role in K-stability theory of Fano varieties. It is the main step to establish the “compactedness”. In this talk, we want to outline our proof of it. The talk is based on joint works with Yuchen Liu and Ziquan Zhuang._
 
 
 #### August 26
 
-- **Bin Zhao** (Capital Normal Univ.) -- **Slopes of modular forms and geometry of eigencurves**. ([notes](././)) <br/>
+- **Bin Zhao** (Capital Normal Univ.) -- **Slopes of modular forms and geometry of eigencurves**. <br/>
 _In this talk, we will report my recent joint work with Ruochuan Liu, Nha Xuan Truong and Liang Xiao on the ghost conjecture, which gives an effective algorithm to compute the p-adic slopes of certain eigenforms. we will then explain the applications of our work to the study of Galois representations and eigencurves. If time allows, we will also discuss the potential generalizations of ghost conjecture._
 
-- **Koji Shimizu** (YMSC) -- **Moduli stacks of crystals and isocrystals**. ([notes](././)) <br/>
+- **Koji Shimizu** (YMSC) -- **Moduli stacks of crystals and isocrystals**. ([notes](././Shimizu.pdf)) <br/>
 _To a smooth projective curve over a finite field, we associate rigid-analytic moduli stacks of isocrystals together with the Verschiebung endomorphism. We discuss the first examples and properties of such objects. This is a joint work in progress with Gyujin Oh._
 
-- **Jilong Tong** (Capital Normal Univ.) -- **Harder-Narasimhan stratification in _p_-adic Hodge theory**. ([notes](././)) <br/>
+- **Jilong Tong** (Capital Normal Univ.) -- **Harder-Narasimhan stratification in _p_-adic Hodge theory**. <br/>
 _We will construct the Harder-Narasimhan stratification on the de Rham $B^+$-Grassmannian and study its basic geometric properties, such as non-emptiness, dimension and relation with other stratifications. This generalizes the work of Dat-Orlik-Rapoport, Cornut-Peche Irissarry, Nguyen-Viehmann and Shen. This is a joint work in progress with Miaofen Chen._
 
-- **Deding Yang** (Peking Univ.) -- **Ampleness of automorphic line bundles over Hilbert modular varieties and some generalizations**. ([notes](././)) <br/>
+- **Deding Yang** (Peking Univ.) -- **Ampleness of automorphic line bundles over Hilbert modular varieties and some generalizations**. <br/>
 _We will talk about an ampleness criterion of line bundles on special fibers of unitary Shimura varieties to solve a conjecture proposed by Tian-Xiao. We will also talk about its generalizations to the flag space over some unitary Shimura varieties._
 
 #### August 27
 
-- **Xinyi Yuan** (Peking Univ.) -- **Recent development of uniform Mordell conjecture**. ([notes](././)) <br/>
+- **Xinyi Yuan** (Peking Univ.) -- **Recent development of uniform Mordell conjecture**. ([notes](././Yuan.pdf)) <br/>
 _This talk will introduce some recent progresses on the uniform Mordell conjecture over global fields by Dimitrov-Gao-Habegger, Kuhn, Yuan, Looper-Silverman-Wilms, and Yu._
 
 - **Carlos Simpson** (CNRS and Université Côte d’Azur) -- **The Donagi-Pantev program for geometric Langlands on a curve of genus 2**. ([notes](././)) <br/>
 _Let X be a Riemann surface. To a representation of the fundamental group, the geometric Langlands correspondence associates a perverse sheaf on the moduli space Bun of vector bundles. This perverse sheaf yields a representation of the fundamental group of a Zariski open subset of Bun. Ron Donagi and Tony Pantev made conjectures and initiated a program of analyzing this relationship using the nonabelian Hodge correspondence between Higgs bundles and representations of fundamental groups. Their picture is related to the “electro-magnetic duality” of Kapustin and Witten. We’ll explain the Donagi-Pantev program, its relation to the nonabelian Hodge correspondence, and then discuss our current work on this project for the case of rank 2 local systems on a curve of genus 2._
 
-- **Junliang Shen** (Yale) -- **Perverse filtrations, compactified Jacobians, and Hitchin systems**. ([notes](././)) <br/>
+- **Junliang Shen** (Yale) -- **Perverse filtrations, compactified Jacobians, and Hitchin systems**. ([notes](././Shen.pdf)) <br/>
 _The cohomology of the Hitchin moduli space exhibits striking similarities to the cohomology of the compactified Jacobian of a curve with a planar singularity. Remarkably, both cohomology groups possess perverse filtrations. In the Hitchin scenario, the P = W conjecture, which has now been established as a theorem, establishes a link between the perverse filtration and the mixed Hodge structure of the corresponding character variety through the non-abelian Hodge theory. In the Jacobian case, the OblomkovRasmussen-Shende conjecture predicts a connection between the perverse filtration and the link of the curve singularity. In this talk, we will delve into a unified approach aimed at undastanding the perverse filtrations in both cases. This approach not only offers a proof of the P=W conjecture but also establishes the multiplicativity of the perverse filtration of a compactified Jacobian, thereby generalizing a theorem of Oblomkov-Yun. Based on ongoing joint work with Davesh Maulik and Qizheng Yin._
 
 
