@@ -51,7 +51,7 @@ _The p-adic valuations of the Up eigenvalues of modular forms are called the (p-
 
 
 - **Miaofen Chen** (ECNU) -- **Harder-Narasimhan stratification in _p_-adic Hodge theory**. ([notes](././Chen.pdf)) <br/>
-_We will talk about the construction of Harder-Narasimhan stratification on the $B_{\mathrm{dR}}^+$-Grassmannian and study its basic geometric properties, such as non-emptiness, dimension and relation with other stratifications, which generalizes the work of Dat-Orlik-Rapoport, Cornut-Peche Irissarry, Nguyen-Viehmann and Shen. This is a joint work in progress with Jilong Tong._
+_We will talk about the construction of Harder-Narasimhan stratification on the de Rham $B^+$-Grassmannian and study its basic geometric properties, such as non-emptiness, dimension and relation with other stratifications, which generalizes the work of Dat-Orlik-Rapoport, Cornut-Peche Irissarry, Nguyen-Viehmann and Shen. This is a joint work in progress with Jilong Tong._
 
 
 - **Yichao Tian** (MCM) -- **An prismatic-étale comparison theorem in the semi-stable case**. ([notes](././YichaoTian.pdf)) <br/>
@@ -62,7 +62,7 @@ _Various p-adic comparison theorems are important  topics in p-adic Hodge theory
 - **Xuhua He** (CUHK) -- **Affine Deligne-Lusztig varieties and affine Lusztig varieties**. ([notes](././He.pdf)) <br/>
 _Roughly speaking, an affine Deligne-Lusztig variety describes the intersection of a given Iwahori double coset with a Frobenius-twisted conjugacy class in the loop group; while an affine Lusztig variety describes the intersection of a given Iwahori double coset with an ordinary conjugacy class in the loop group. The affine Deligne-Lusztig varieties provide a group-theoretic model for the reduction of Shimura varieties and play an important role in the arithmetic geometry and Langlands program. The affine Lusztig varieties encode the information of the orbital integrals of Iwahori-Hecke functions and serve as building blocks for the (conjectural) theory of affine character sheaves. In this talk, we will explain a close relationship between affine Lusztig varieties and affine Deligne-Lusztig varieties, and consequently, proivde an explicit nonemptiness pattern and dimension formula for affine Lusztig varieties in most cases. This talk is based on He's preprint [arXiv:2302.03203](https://arxiv.org/abs/2302.03203)._
 
-- **Sian Nie** (AMSS) -- **Steinberg's cross-section of Newton strata**. <br/>
+- **Si-an Nie** (AMSS) -- **Steinberg's cross-section of Newton strata**. <br/>
 _Let $G$ be a simply connected semisimple group of rank $r$ over an algebraically closed field. Steinberg has associated to each minimal length Coxeter element an $r$-dimensional affine space in $G$, which is a cross-section of all regular conjugacy classes of $G$. In this talk, we will consider natural analogues of Steinberg’s cross-sections in the context of a loop group equipped with a Frobenius automorphism. We will show how Steinberg’s cross-section intersects Frobenius twisted conjugacy classes (which are parameterized by "Newton polygons"). Some interesting applications will also be discussed._
 
 
