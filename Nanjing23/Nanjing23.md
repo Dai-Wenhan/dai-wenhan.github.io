@@ -22,7 +22,7 @@ _By Arithmetic & Homotopic Galois Theory, a France-Japan international network._
 
 ### Lecture Notes (in chronological order)
 
-**Please use with caution and do not disseminate.**
+**Some slides of online speakers are exclusive.**
 
 #### August 24
 
@@ -72,7 +72,7 @@ _We will talk about an ampleness criterion of line bundles on special fibers of 
 - **Xinyi Yuan** (Peking Univ.) -- **Recent development of uniform Mordell conjecture**. ([notes](././Yuan.pdf)) <br/>
 _This talk will introduce some recent progresses on the uniform Mordell conjecture over global fields by Dimitrov-Gao-Habegger, Kuhn, Yuan, Looper-Silverman-Wilms, and Yu._
 
-- **Carlos Simpson** (CNRS and Université Côte d’Azur) -- **The Donagi-Pantev program for geometric Langlands on a curve of genus 2**. ([notes](././)) <br/>
+- **Carlos Simpson** (CNRS and Université Côte d’Azur) -- **The Donagi-Pantev program for geometric Langlands on a curve of genus 2**. ([notes](././Simpson.pdf)) <br/>
 _Let X be a Riemann surface. To a representation of the fundamental group, the geometric Langlands correspondence associates a perverse sheaf on the moduli space Bun of vector bundles. This perverse sheaf yields a representation of the fundamental group of a Zariski open subset of Bun. Ron Donagi and Tony Pantev made conjectures and initiated a program of analyzing this relationship using the nonabelian Hodge correspondence between Higgs bundles and representations of fundamental groups. Their picture is related to the “electro-magnetic duality” of Kapustin and Witten. We’ll explain the Donagi-Pantev program, its relation to the nonabelian Hodge correspondence, and then discuss our current work on this project for the case of rank 2 local systems on a curve of genus 2._
 
 - **Junliang Shen** (Yale) -- **Perverse filtrations, compactified Jacobians, and Hitchin systems**. ([notes](././Shen.pdf)) <br/>
@@ -81,10 +81,10 @@ _The cohomology of the Hitchin moduli space exhibits striking similarities to th
 
 #### August 28
 
-- **Yifeng Liu** (Zhejiang Univ.) -- **Selmer theta lifts**. ([notes](././)) <br/>
+- **Yifeng Liu** (Zhejiang Univ.) -- **Selmer theta lifts**. <br/>
 _We construct Kudla’s generating functions valued in Selmer groups, and prove its modularity under certain conditions. We then define Selmer theta lifts and compute their p-adic heights, which can be regarded as a p-adic analogue of the arithmetic inner product formula._
 
-- **Yichao Tian** (MCM) -- **A prismatic-étale comparison theorem in the semi-stable case**. ([notes](././)) <br/>
+- **Yichao Tian** (MCM) -- **A prismatic-étale comparison theorem in the semi-stable case**. ([notes](././Tian.pdf)) <br/>
 _Various p-adic comparison theorems are important topics in p-adic Hodge theory. In recent years, the prismatic cohomology theorem introduced by Bhatt and Scholze provide us with a uniform framework to compare various p-adic cohomology theories. In this talk, we will explain a p-adic comparison theorem between the prismatic cohomology for F-crystals and the étale cohomology for local systems on semistable p-adic formal schemes over the ring of integers of a p-adic fields._
 
 
