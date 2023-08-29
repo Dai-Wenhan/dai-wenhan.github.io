@@ -4,6 +4,8 @@ This page collects some of my handwritten or TeXed notes, which come from a vari
 
 ### General Algebraic Geometry 
 
+This part mainly refers to an MIT course by [Kiran Kedlaya](https://kskedlaya.org).
+
 #### Scheme Theory
 
 - [**Sheaves**](./genag/genag-sheaves.pdf). <br/>
@@ -51,4 +53,10 @@ These can be unreadable and are to be updated incidentally in the future.
   _Statement and proof, preliminaries on Ext (resp. sheaf-Ext), the dualizing sheaf exists in general, canonical bundle of smooth carieties._
 - [**Chow's Lemma**](./genag/genag-chow.pdf). <br/>
   _Relative projections, projective Nullstellensatz, proper and projective morphisms, "higher twist becomes finite" à la Serre, Chow's Lemma._
+
+### Representation Theory
+
+Cette partie fait principalement référence aux notes de cours de [Sophie Morel](https://perso.ens-lyon.fr/sophie.morel/) à Princeton.
+
+
 

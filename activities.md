@@ -9,7 +9,7 @@
 
 #### 2023 Summer
 - [**The 5th _Kyoto+_ Conference on Algebraic Geometry and Arithmetic Geometry at Nanjing**](./Nanjing23/Nanjing23.md). <br/>
-  __
+  _By Arithmetic & Homotopic Galois Theory, a France-Japan international network._
 - [**HIM Conference on Global Langlands, Shimura varieties, and shtukas**](). <br/>
   _On various aspects of the global Langlands correspondence; about in particular the geometry and cohomology of Shimura varieties and more general locally symmetric spaces, or moduli spaces of shtukas._
 - [**PKU Mathematics Forum on Pure Mathematics**](./PKUforum/PKUforum.md). <br/>
