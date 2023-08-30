@@ -17,6 +17,8 @@
 
 - [**The Arithmetic of Hilbert Modular Varieties**](./blurbs/Hilb.pdf). <br/>
  _In process._
+- [**Chow groups and L-derivatives of automorphic motives for unitary groups**](./blurbs/Li-Liu.pdf). <br/>
+ _Based on Chao Li's talk at Columbia in February, 2021; we survey the background of the joint work by Chao Li and Yifeng Liu on Beilinson–Bloch conjecture for unitary Shimura varieties._
 - [**Integral Model of Shimura Varieties of Hodge Type**](./blurbs/IntegralModel.pdf). <br/>
  _Following Kisin's work on smooth integral models after classification of Breuil-Kisin modules of p-divisible groups; notes for lectures by Xu Shen at BICMR._
 - [**Hida Theory on _p_-adic Modular Forms**](./blurbs/Hida.pdf). <br/>
