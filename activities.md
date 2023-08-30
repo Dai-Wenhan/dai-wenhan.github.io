@@ -1,14 +1,15 @@
 ## Conference / Seminar Activities
 
-### Ongoing / Upcoming Events During 2023 Summer
+### Ongoing / Upcoming Events During 2023 Fall
 
-
+- [**The 24th Autumn Workshop on Number Theory in Sapporo**]().
+- [**Princeton special-year-workshop on _p_-adic arithmetic geometry**]().
 
 
 ### Notes and Archives of Past Events
 
 #### 2023 Summer
-- [**The 5th _Kyoto+_ Conference on Algebraic Geometry and Arithmetic Geometry at Nanjing**](./Nanjing23/Nanjing23.md). <br/>
+- [**The 5th _Kyoto+_ Conference on Algebraic Geometry and Arithmetic Geometry in Nanjing**](./Nanjing23/Nanjing23.md). <br/>
   _By Arithmetic & Homotopic Galois Theory, a France-Japan international network._
 - [**HIM Conference on Global Langlands, Shimura varieties, and shtukas**](). <br/>
   _On various aspects of the global Langlands correspondence; about in particular the geometry and cohomology of Shimura varieties and more general locally symmetric spaces, or moduli spaces of shtukas._
@@ -18,7 +19,7 @@
   _A one-day junior faculty salon to warm up the PKU alumni forum._
 - [**IHES Summer School on Recent Advances in Algebraic K-theory**](./IHES23/IHES23.md). <br/>
   _To update the exciting developments, via research lectures, mini-courses, and an Arbeitsgemeinschaft on the topic of syntomic and étale motivic cohomology._
-- [**Satellite Conference in Number Theory of ICBS**](./Satellite23/Satellite23.md). <br/>
+- [**MCM Satellite Conference in Number Theory of ICBS**](./Satellite23/Satellite23.md). <br/>
   _To discuss recent developments in number theory, representation theory, and arithmetic geometry, with a focus on subjects related to Langlands program._
 
 #### 2023 Spring
