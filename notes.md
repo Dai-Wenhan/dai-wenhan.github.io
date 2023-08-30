@@ -58,5 +58,10 @@ These can be unreadable and are to be updated incidentally in the future.
 
 Cette partie fait principalement référence aux notes de cours de [Sophie Morel](https://perso.ens-lyon.fr/sophie.morel/) à Princeton.
 
+#### Characteristic 0 Theory
+
+- [**Characters**](./genrep/Characters.pdf). <br/>
+ _Definitions, Orthogonality of characters, Schur's lemma, Inner product formula, Characters and representation rings, the complex case, representation of a product of groups._
 
 
+ 
