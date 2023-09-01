@@ -24,7 +24,7 @@
 
 #### 2023 Spring
 
-- [**HIM Conference on Local Langlands and _p_-adic methods**](). <br/>
+- [**HIM Conference on Local Langlands and _p_-adic methods**](./HIM23june/HIM23june.md). <br/>
   _On aspects of the local Langlands correspondence over p-adic fields and methods from p-adic Hodge theory; at Hausdorff Research Institute for Mathematics, Universität Bonn._
 - [**HIM Summer School on the Arithmetic of the Langlands Program**](). <br/>
   _Courses about automorphy lifting, categorical local Langlands, p-adic automorphic forms, p-adic geometry, and shtukas; at Hausdorff Research Institute for Mathematics, Universität Bonn._
