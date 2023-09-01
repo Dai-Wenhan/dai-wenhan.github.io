@@ -28,14 +28,14 @@ This conference will be on various aspects of the local Langlands correspondence
 
 #### June 12
 
-- **Tasho Kaletha** (University of Michigan) -- **A local Langlands conjecture for disconnected groups**. ([notes](./.)) <br/>
+- **Tasho Kaletha** (University of Michigan) -- **A local Langlands conjecture for disconnected groups**. ([notes](././Kaletha.pdf)) <br/>
 _Langlands' conjectures are usually phrased in the setting of connected reductive groups. In this talk we will explore a generalization of the statement of the local conjectures to the setting of disconnected groups, subject to a certain mild restriction. Proving these conjectures in the simplest case -- that of a disconnected group whose identity component is a torus -- already shows an interesting new phenomenon. Time permitting, we will mention an application to the reduction of the refined local Langlands correspondence, both for connected and disconnected groups, to the case of discrete parameters._
 
 - **Charlotte Chan** (University of Michigan) -- **Generic character sheaves for parahoric subgroups**. ([notes](./.)) <br/>
 _Lusztig's theory of character sheaves for connected reductive groups is one of the most important developments in representation theory in the last few decades. In this talk, we will describe a construction which extends this "depth zero" picture to give positive-depth character sheaves associated to generic data. In the simplest nontrivial case, this resolves a conjecture of Lusztig and produces perverse sheaves associated to suffciently generic multiplicative local systems whose trace-of-Frobenius function coincides with parahoric Deligne-Lusztig induction. This is joint work with R. Bezrukavnikov.
 _
 
-- **Andrea Dotto** (University of Chicago) -- **Some consequences of mod _p_ multiplicity one for Shimura curves**. ([notes](./.)) <br/>
+- **Andrea Dotto** (University of Chicago) -- **Some consequences of mod _p_ multiplicity one for Shimura curves**. ([notes](././Dotto.pdf)) <br/>
 _The multiplicity of Hecke eigenspaces in the mod p cohomology of Shimura curves is a classical invariant, which has been computed in significant generality when the group is split at p. This talk will focus on the complementary case of nonsplit quaternion algebras, and will describe a new multiplicity one result, as well as some of its consequences regarding the structure of completed cohomology. I will also discuss applications towards the categorical mod p Langlands correspondence for the nonsplit inner form of GL(2,Qp). Part of the talk will comprise a joint work in progress with Bao Le Hung._
 
 - **David Helm** (Imperial College London) -- **Finiteness for Hecke algebras of _p_-adic reductive groups**. ([notes](./.)) <br/>
@@ -56,7 +56,7 @@ _In this talk I will explain an equivalence between the categories of locally an
 - **Eva Viehmann** (Universität Münster) -- **Admissibility and weak admissibility**. ([notes](./.)) <br/>
 _I will give an overview of the relation between the weakly admissible locus and the admis- sible locus, and of the associated Harder-Narasimhan stratification resp. Newton stratification of the de Rham $B^+$-affine Grassmannian._
 
-- **David Hansen** (National University of Singapore) -- **What can categorical local Langlands do for YOU?**. ([notes](./.)) <br/>
+- **David Hansen** (National University of Singapore) -- **What can categorical local Langlands do for YOU?**. ([notes](././Hansen.pdf)) <br/>
 _I will formulate some conjectures relating the categorical and classical local Langlands correspondences, and discuss what is known about them._
 
 
@@ -67,13 +67,13 @@ _I will formulate some conjectures relating the categorical and classical local 
 _
 Abstract: I will explain how the recent six functor formalism of Lucas Mann together with finiteness results of Scholze imply some rather concrete vanishing and finiteness properties for the mod _p_ cohomology of the Lubin-Tate and Drinfeld spaces in dimension 1, and related results for Hecke eigenspaces in mod _p_ cohomology of quaternionic Shimura curves ramified at _p_. This is joint work (in progress) with Juan Esteban Rodríguez Camargo._
 
-- **Wieslawa Niziol** (CNRS/Sorbonne University) -- **Duality in _p_-adic pro-etale cohomology of analytic curves**. ([notes](./.)) <br/>
+- **Wieslawa Niziol** (CNRS/Sorbonne University) -- **Duality in _p_-adic pro-etale cohomology of analytic curves**. ([notes](././Niziol.pdf)) <br/>
 _I will discuss duality theorems in p-adic pro-etale cohomology of analytic curves. This is joint work with Pierre Colmez and Sally Gilles._
 
 
 #### June 15
 
-- **Ian Gleason** (Universität Bonn) -- **Meromorphic vector bundles on the Fargues-Fontaine curve**. ([notes](./.)) <br/>
+- **Ian Gleason** (Universität Bonn) -- **Meromorphic vector bundles on the Fargues-Fontaine curve**. ([notes](././Gleason.pdf)) <br/>
 _Recent progress in p-adic and perfect geometry has led experts to conjecture a precise categorical (or geometric) version of the local Langlands correspondence. There are mainly two approaches to state the conjecture, one using p-adic geometry and the stack of vector bundles on the Fargues-Fontaine curve and the other one using perfect geometry and the Kottwitz stack parametrizing families of isocrystals. One can ask how do the two conjectures compare. Motivated by this question we introduce and study a third object, the stack of meromorphic vector bundles on the Fargues-Fontaine curve. We provide evidence that this object should "mediate" between the two conjectures. This is joint work in progress with Alex Ivanov._
 
 - **João Lourenço** (WWU Münster) -- **Towards Bezrukavnikov via _p_-adic central sheaves**. ([notes](./.)) <br/>
@@ -83,7 +83,7 @@ _In the 80s Kazhdan-Lusztig computed the equivariant coherent Grothendieck group
 - **Marie-France Vigneras** (Université de Paris) -- **Representations of GL(_n_,_D_) near the identity**. ([notes](./.)) <br/>
 _For mod p irreducible admissible representations $\pi$ of $G = \mathrm{GL}(2,\mathbb{Q}p)$, parahoric subgroups $\mathfrak{k}^{\ast}$ of $G$ of congruence subgroups $K(j) = 1+p^j \mathfrak{k}$, $j \geqslant 1$, Morra (2013) proved that $\operatorname{dim} \pi^{K(j)}=a+bp^j$ with two explicit integers $a, b$. I will explain that a similar result holds true for the representations of the inner forms of the general linear groups over a finite extension of $\mathbb{Q}p$ or of $\mathbb{F}p((t))$, when the coefficient field has characteristic $\neq p$. This is common work with Guy Henniart (2023)._
 
-- **Lucas Mann** (Universität Münster) -- **Representation Theory via 6-Functor Formalisms**. ([notes](./.)) <br/>
+- **Lucas Mann** (Universität Münster) -- **Representation Theory via 6-Functor Formalisms**. ([notes](././Mann.pdf)) <br/>
 _We present recent advances on the abstract theory of 6-functor formalisms and apply them to the representation theory of locally profinite groups. This sheds new light on classical results like preservation of admissibility under various operations, Bernstein-Zelevinsky duality and Second Adjointness. As an application we obtain new results on the p-adic representation theory of p-adic Lie groups._
 
 - **Ashwin Iyengar** (Johns Hopkins University) -- **Gamma factors for mod $\ell$ representations of finite general linear groups**. ([notes](./.)) <br/>
@@ -93,7 +93,7 @@ _In the spirit of works going back to Jacquet-Piatetski-Shapiro-Shalika's "Ranki
 #### June 16
 
 
-- **Brandon Levin** (Rice University) -- **The weight part of Serre's conjecture and the Emerton-Gee stack**. ([notes](./.)) <br/>
+- **Brandon Levin** (Rice University) -- **The weight part of Serre's conjecture and the Emerton-Gee stack**. ([notes](././Levin.pdf)) <br/>
 _The Breuil-Mezard conjecture predicts the geometry of local deformation rings with p-adic Hodge theory conditions in terms of modular representation theory. I will describe a version of this conjecture on the Emerton-Gee moduli stack of mod p Galois representations and its connection with the weight part of Serre's conjecture. I will then discuss joint work with Daniel Le, Bao V. Le Hung, and Stefano Morra on both these conjectures for certain classes of potentially crystalline substacks._
 
 - **Tony Feng** (Berkeley) -- **A new approach to Breuil-Mezard cycles**. ([notes](./.)) <br/>
