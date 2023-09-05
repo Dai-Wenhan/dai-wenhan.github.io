@@ -222,7 +222,7 @@ here the semi-direct product is by letting $S_{2}$ to permute the two factors. I
 \miquestion
 {\color{blue} Define solvable group. Give an example of a solvable nonabelian group. Show $S_4$ is solvable. Do the Sylow theorems tell you anything about whether the index 3 subgroup of $A_4$ is normal?}
 
-\textit{Answer.} $G$ is solvable if it has a subnormal series $G=G_{0} \geq G_{1} \geq \cdots \geq G_{n}=1$, where each $G_i/G_{i+1}$ is abelian. $S_4$ is nonabelian but solvable, because $S_{4} \triangleright A_{4} \triangleright K \triangleright 1$, with quotients
+\textit{Answer.} $G$ is solvable if it has a subnormal series $G=G_{0} \geqslant G_{1} \geqslant \cdots \geqslant G_{n}=1$, where each $G_i/G_{i+1}$ is abelian. $S_4$ is nonabelian but solvable, because $S_{4} \triangleright A_{4} \triangleright K \triangleright 1$, with quotients
 $$
 S_{4} / A_{4} \cong \Z / 2\Z, \quad A_{4} / K \cong \Z / 3\Z,\quad K \cong \Z / 2 \times \Z / 2.
 $$
@@ -233,7 +233,7 @@ By Sylow, $n_2=1$ so $K$ is normal.
 \miquestion
 {\color{blue} Define lower central series, upper central series, nilpotent and solvable groups.}
 
-\textit{Answer.} Lower central series is $G=G_0\geq G_1 \cdots \geq G_{n}\geq \cdots$, where $G_{i+1}=[G,G_i]=[G_i,G]$. Upper central series is $1=Z_{0} \leq Z_{1} \leq Z_{2} \leq \ldots \leq Z_{n} \leq \ldots$, such that $Z_{1}=C(G)$, and for $n>1$, $Z_{n}$ is the unique subgroup of $G$ such that $Z_{n} / Z_{n-1}=C(G / Z_{n-1})$.
+\textit{Answer.} Lower central series is $G=G_0\geqslant G_1 \cdots \geqslant G_{n}\geqslant \cdots$, where $G_{i+1}=[G,G_i]=[G_i,G]$. Upper central series is $1=Z_{0} \leqslant Z_{1} \leqslant Z_{2} \leqslant \ldots \leqslant Z_{n} \leqslant \ldots$, such that $Z_{1}=C(G)$, and for $n>1$, $Z_{n}$ is the unique subgroup of $G$ such that $Z_{n} / Z_{n-1}=C(G / Z_{n-1})$.
 
 If the upper central series terminate with $G$, then $G$ is called nilpotent. If the lower central series terminate with $1$, then $G$ is called solvable.
 
@@ -247,7 +247,7 @@ If the upper central series terminate with $G$, then $G$ is called nilpotent. If
 \textit{Results.} We have two significant results about solvability: \vspace{-4pt}
 \begin{itemize}
 \item Say $G$ is solvable if and only if it has a finite derived series that terminates in the trivial subgroup, i.e. $G^{(n)}=G^{(n+1)}=\{1\}$ for some $n\gg 0$.
-\item If $N$ is a normal subgroup of $G$ and both $N$ and $G/N$ are solvable, then so also is $G$. If $H$ is any subgroup of $G$ then $H^{(i)}\leq G^{(i)}$.
+\item If $N$ is a normal subgroup of $G$ and both $N$ and $G/N$ are solvable, then so also is $G$. If $H$ is any subgroup of $G$ then $H^{(i)}\leqslant G^{(i)}$.
 \end{itemize}
 
 
@@ -307,9 +307,9 @@ Recently, there arises a purely group-theoretic but more complicated proof.
 {\color{violet}
 \textit{Proposition.} (Center-counting formula) Define $Z(g):=\{s\in G: sg=gs\}$ as the centralizer of $g\in G$. Let $C_1,\ldots,C_n$ be conjugacy classes of $G$ whose representatives are $g_1,\ldots,g_n$. Note that $|C_i|=[G:Z(g_i)]$, and $g_i\in Z(G)=\{g\in G: sg=gs,\forall s\in G\}$ if and only if $|C_i|=1$. Therefore,
 $$
-|G|=\sum_{i=1}^{r}[G: Z(g_{i})]=\sum_{i=1}^{r} \frac{|G|}{|Z(g_{i})|}=|Z(G)|+\sum_{j\in J}\frac{|G|}{|Z(g_{j})|},
+|G|=\sum_{i=1}^{n}[G: Z(g_{i})]=\sum_{i=1}^{n} \frac{|G|}{|Z(g_{i})|}=|Z(G)|+\sum_{j\in J}\frac{|G|}{|Z(g_{j})|},
 $$
-where the index set $J=\{1\leq j\leq n: |C_j|>1\}$. 
+where the index set $J=\{1\leqslant j\leqslant n: |C_j|>1\}$. 
 }
 
 \textit{Proof.} Suppose $|G|=p^r$, and note that $[G:Z(g_j)]\mid p^r$ deduces $p\mid [G:Z(g_j)]$ for $j\in J$. This shows that $|Z(G)|>1$.
@@ -319,7 +319,7 @@ where the index set $J=\{1\leq j\leq n: |C_j|>1\}$.
 \miquestion
 {\color{blue} Give examples of simple groups. Are there infinitely many?}
 
-\textit{Answer.} It turns out that $A_n$ for all $n\geq 5$ are simple. Hence there are infinitely many simple groups. See Question 21 for proof.
+\textit{Answer.} It turns out that $A_n$ for all $n\geqslant 5$ are simple. Hence there are infinitely many simple groups. See Question 21 for proof.
 
 \miquestion
 {\color{blue} State and prove the Jordan--H\"older theorem for finite groups.}
@@ -328,7 +328,7 @@ where the index set $J=\{1\leq j\leq n: |C_j|>1\}$.
 $$
 \{e\}=G_{0} \triangleleft G_{1} \triangleleft \cdots \triangleleft G_{r}=G,\quad \{e\}=\widetilde{G}_{0} \triangleleft \widetilde{G}_{1} \triangleleft \cdots \triangleleft \widetilde{G}_{s}=G
 $$
-are both composition series for $G$ (that means the factors, i.e. quotients of successive two subgroups, in both series are simple groups) then $r=s$ and there is $\pi \in S_{r}$ such that $\widetilde{G}_{i} / \widetilde{G}_{i-1} \cong G_{\pi(i)} / G_{\pi(i)-1}$ for $1 \leq i \leq r$.
+are both composition series for $G$ (that means the factors, i.e. quotients of successive two subgroups, in both series are simple groups) then $r=s$ and there is $\pi \in S_{r}$ such that $\widetilde{G}_{i} / \widetilde{G}_{i-1} \cong G_{\pi(i)} / G_{\pi(i)-1}$ for $1 \leqslant i \leqslant r$.
 
 \textit{Proof.} The ingredient is {\color{violet} \textbf{Schreier’s refinement theorem}}. If a group admits two composition series then Schreier’s says they can be refined to two normal series whose factor groups coincide up to isomorphism, counting multiplicity. The key feature of a composition series is that it can only be refined in a trivial way.
 
@@ -342,11 +342,11 @@ G\longrightarrow \operatorname{Sym}(X)\cong S_{|X|}.
 $$
 In particular, any finite group $G$ embeds into some permutation group $S_{|G|}$.
 
-\textit{Example.} Let $G$ be a group of order $n$ and $H\leq G$ be a subgroup of index $m$. Taking $X=G/H$ as the coset, we see
+\textit{Example.} Let $G$ be a group of order $n$ and $H\leqslant G$ be a subgroup of index $m$. Taking $X=G/H$ as the coset, we see
 $$
 G\longrightarrow \operatorname{Sym}(G/H)\cong S_m.
 $$
-Here $G$ embeds into $S_m$ for $m\leq n$. When $H=\{1\}$, we have to use $S_n$ instead of $S_m$.
+Here $G$ embeds into $S_m$ for $m\leqslant n$. When $H=\{1\}$, we have to use $S_n$ instead of $S_m$.
 
 \miquestion {\color{blue} Is $A_4$ a simple group? What are the conjugacy classes in $S_4$? What about in $A_4$?}
 
@@ -393,12 +393,12 @@ has the same type $(m_1,m_2,\ldots)$ so they are conjugate.
 
 \textit{Answer.} Let's claim $Z(S_n)=\{1\}$. Suppose not and any nontrivial element $\sigma$ in it must commute with all transpositions. Since $\sigma$ has order at least 2, a non-disjoint transposition gives the contradiction.
 
-\miquestion {\color{blue} Prove that the alternating group $A_n$ is simple for $n \geq 5$.}
+\miquestion {\color{blue} Prove that the alternating group $A_n$ is simple for $n \geqslant 5$.}
 
 \textit{Answer.} The proof is tedious and heavy. Refer to any group-theoretical reference. For example, see Theorem 1.1 of Keith Conrad's expository paper (available at \href{https://kconrad.math.uconn.edu/blurbs/grouptheory/Ansimple.pdf}{\color{blue}\texttt{https://kconrad.math.uconn.edu/blurbs/grouptheory/Ansimple.pdf}}).
 
 
-\miquestion {\color{blue} Prove the alternating group on $n$ letters is generated by the $3$-cycles for $n \geq 3$.}
+\miquestion {\color{blue} Prove the alternating group on $n$ letters is generated by the $3$-cycles for $n \geqslant 3$.}
 
 \textit{Proof.} Note that the product of two transpositions (whether or not they are disjoint) is always a product of 3-cycles: 
 $$
@@ -410,27 +410,27 @@ On the other hand, any $\sigma\in A_{n}$ can be written as a product of an even 
 
 \textit{Proof.} The key ingredient is the following fact. \vspace{-4pt}
 \begin{itemize}
-\item[$\diamond$] For $1\leq a<b\leq n$, the transposition $(a \ b)$ and the $n$-cycle $(1\ 2 \cdots n)$ generate the group $S_n$ if and only if $(a-b,n)=1$.
+\item[$\diamond$] For $1\leqslant a<b\leqslant n$, the transposition $(a \ b)$ and the $n$-cycle $(1\ 2 \cdots n)$ generate the group $S_n$ if and only if $(a-b,n)=1$.
 \end{itemize} \vspace{-4pt}
-An arbitrary $p$-cycle in $S_p$ can be written as $(1\ 2 \cdots p)$ by relabeling the objects being permuted (that means by applying an overall conjugation on $S_p$), so to show an arbitrary transposition and $p$-cycle generate $S_p$ it suffices to show each transposition and the specific $p$-cycle $(1\ 2 \ldots p)$ generate $S_p$. For a transposition $(a\ b)$ where $1 \leq a<b \leq p$, we have $(b-a, p)=1$, so $\langle(a\ b),(1\ 2 \cdots p)\rangle=S_p$ by the fact. 
+An arbitrary $p$-cycle in $S_p$ can be written as $(1\ 2 \cdots p)$ by relabeling the objects being permuted (that means by applying an overall conjugation on $S_p$), so to show an arbitrary transposition and $p$-cycle generate $S_p$ it suffices to show each transposition and the specific $p$-cycle $(1\ 2 \ldots p)$ generate $S_p$. For a transposition $(a\ b)$ where $1 \leqslant a<b \leqslant p$, we have $(b-a, p)=1$, so $\langle(a\ b),(1\ 2 \cdots p)\rangle=S_p$ by the fact. 
 
 {\color{violet}
 \textit{Conclusion.} Various kinds of generating sets of some groups are listed below.
 \begin{center}
 \begin{tabular}{c|c|c}
 Group & Generating Set & Size of Generating Set \\
-\hline \multirow{6}*{$S_n (n \geq 2)$} & $(i \ j)$'s & $n(n-1)/2$ \\
+\hline \multirow{6}*{$S_n (n \geqslant 2)$} & $(i \ j)$'s & $n(n-1)/2$ \\
 & $(1\ 2),(1\ 3), \ldots,(1\ n)$ & $n-1$ \\
 & $(1\ 2),(2\ 3), \ldots,(n-1\ n)$ & $n-1$ \\
-& $(1\ 2),(1\ 2 \cdots n)$ if $n \geq 3$ & 2 \\
-& $(1\ 2),(2\ 3 \cdots n)$ if $n \geq 3$ & 2 \\
+& $(1\ 2),(1\ 2 \cdots n)$ if $n \geqslant 3$ & 2 \\
+& $(1\ 2),(2\ 3 \cdots n)$ if $n \geqslant 3$ & 2 \\
 & $(a\ b),(1\ 2 \cdots n)$ if $(b-a, n)=1$ & 2 \\
-\hline \multirow{6}*{$A_n (n \geq 3)$} & 3-cycles & $n(n-1)(n-2)/3$ \\
+\hline \multirow{6}*{$A_n (n \geqslant 3)$} & 3-cycles & $n(n-1)(n-2)/3$ \\
 & $(1\ i\ j)$'s & $(n-1)(n-2)$ \\
 & $(1\ 2\ i)$'s & $n-2$ \\
 & $(i\ i+1\ i+2)$'s & $n-2$ \\
-& $(1\ 2\ 3),(1\ 2 \cdots n)$ if $n \geq 4$ odd & 2 \\
-& $(1\ 2\ 3),(2\ 3 \cdots n)$ if $n \geq 4$ even & 2 \\
+& $(1\ 2\ 3),(1\ 2 \cdots n)$ if $n \geqslant 4$ odd & 2 \\
+& $(1\ 2\ 3),(2\ 3 \cdots n)$ if $n \geqslant 4$ even & 2 \\
 \hline $\mathrm{SL}_2(\Z)$ & $\begin{pmatrix}0 & -1 \\
 1 & 0\end{pmatrix},\begin{pmatrix}1 & 1 \\
 0 & 1\end{pmatrix}$ & 2 \\
@@ -523,9 +523,8 @@ $$
 
 \textit{Interesting Example.} The following is an additive subgroup of $\Q$:
 $$
-H=\{a/b\in \Q:b\neq 0,a+b\equiv 0\bmod 2\}.
+H=\{a/b\in \Q:b\neq 0,a\equiv 0\bmod 2, (a,b)=1\}.
 $$
-Check that $-a/b\in H$ because of $-a+b=a+b-2a\equiv 0 \bmod 2$.
 
 
 
@@ -568,7 +567,7 @@ is the largest normal subgroup of $G$ contained in $H$. The normality is easy to
 \miquestion {\color{blue} Let's look at $\SL_2(\F_3)$. How many elements are in that group? What is its centre? Identify $\PSL_2(\F_3)$ as a permutation group.}
 
 {\color{violet}
-\textit{Fact.} The projective special linear groups $\PSL_n(\F_q):=\SL_n(\F_q)/Z(\SL_n(\F_q))$ is simple for all $n\geq 2$ and $\F_q$ except for $n=2$ and $q=2$ or 3. Indeed,
+\textit{Fact.} The projective special linear groups $\PSL_n(\F_q):=\SL_n(\F_q)/Z(\SL_n(\F_q))$ is simple for all $n\geqslant 2$ and $\F_q$ except for $n=2$ and $q=2$ or 3. Indeed,
 $$
 \PSL_2(\F_2)\cong S_3,\quad \PSL_2(\F_3)\cong A_4,
 $$
@@ -606,7 +605,7 @@ Recall that ``anisotropic'' denotes the conjugacy classes whose eigenvalues lies
 \miquestion {\color{blue} A subgroup of a finitely-generated free abelian group is? A subgroup of a finitely-generated free group is? Prove your answers.}
 
 {\color{violet}
-\textit{Proposition.} Let $F$ be a free abelian group of rank $n$ and $H$ be a subgroup. Then there exists a basis $\{f_1,\ldots,f_n\}$ of $F$ and integers $d_1,\ldots,d_r \in \mathbb{N}$ with $r\leq n$ such that $d_i \mid d_{i+1}$ and
+\textit{Proposition.} Let $F$ be a free abelian group of rank $n$ and $H$ be a subgroup. Then there exists a basis $\{f_1,\ldots,f_n\}$ of $F$ and integers $d_1,\ldots,d_r \in \mathbb{N}$ with $r\leqslant n$ such that $d_i \mid d_{i+1}$ and
 $$
 \{d_1f_1,\ldots, d_r f_r\}
 $$
@@ -690,7 +689,7 @@ Sylow III* & $G$ & $\operatorname{Syl}_p(G)$ & conjugation
 \begin{itemize}
 \item[(I)] Consider the series
 $$
-\{e\}=H_0\subset H_1\subset \cdots, \quad |H_i|=p^i,\quad 0\leq i\leq k.
+\{e\}=H_0\subset H_1\subset \cdots, \quad |H_i|=p^i,\quad 0\leqslant i\leqslant k.
 $$
 Choose some $H=H_j$ in this series that acts on the coset $G/H$ (need not be a group), then
 $$
@@ -730,12 +729,12 @@ Thus $n_p=[G:N(P)]$ and we're done.
 \miquestion {\color{blue} Classify groups of order $35$.}
 
 \textit{Solution.}
-By Sylow, any group of order $p q$ with $p<q$ and $p\nmid (q-1)$ should be cyclic, because $n_p=n_q=1$. So $\Z/5\Z \times \Z/5\Z = \Z/35\Z$ is the only group of order 35.
+By Sylow, any group of order $p q$ with $p<q$ and $p\nmid (q-1)$ should be cyclic, because $n_p=n_q=1$ (see Question 5 below). So $\Z/5\Z \times \Z/5\Z = \Z/35\Z$ is the only group of order 35.
 
 \miquestion {\color{blue} Classify groups of order $21$.}
 
 {\color{violet}
-\textit{Recipe.} A group of order $p q$ with $p<q$ and $q\equiv 1 \bmod p$ has two types: $\Z/p\Z \times \Z/q\Z$ and $\Z/q\Z\rtimes_{\varphi} \Z/p\Z$, where
+\textit{Recipe.} A group of order $p q$ with $p<q$ and $q\equiv 1 \bmod p$ necessarily has two possible types: $\Z/p\Z \times \Z/q\Z$ and $\Z/q\Z\rtimes_{\varphi} \Z/p\Z$, where
 $$
 \begin{aligned}
 \varphi: \Z/p\Z &\longrightarrow \operatorname{Aut}(\Z/q\Z)\\
@@ -759,7 +758,7 @@ Same argument as in Question 5.
 \miquestion {\color{blue} Classify groups of order $14$. Why is there a group of order $7$? Are all index-$2$ subgroups normal?}
 
 \textit{Answer.}
-Up to isomorphisms, any group of order 14 is either cyclic or $\Z/7\Z\rtimes \Z/2\Z$. There is a normal subgroup $N_7$ by Sylow, because of $n_7=1$. Are all index-$2$ subgroups are normal (see Question 2 of Set I).
+Up to isomorphisms, any group of order 14 is either cyclic or $\Z/7\Z\rtimes \Z/2\Z$. There is a normal subgroup $N_7$ by Sylow, because of $n_7=1$. All index-$2$ subgroups are normal (see Question 2 of Set I).
 
 \miquestion {\color{blue} How many groups are there of order $15$? Prove it.}
 
@@ -789,7 +788,7 @@ in which $\varphi$ induces $(a,b)(c,d)=(a+(-1)^b c,b+d)$. So there are in total 
 \miquestion {\color{blue} Classify all groups of order $p^3$ for $p$ prime.}
 
 \textit{Result.} 
-See the proceeding Question 9 for $p=2$. When $p\neq 2$, nonabelian groups of order $p^3$ has two types. The Heisenberg group
+See the preceding Question 9 for $p=2$. When $p\neq 2$, nonabelian groups of order $p^3$ has two types: The Heisenberg group
 $$
 \operatorname{Heis}(\Z/p\Z)=\left\{\begin{pmatrix} 1 & a & b \\ 0 & 1 & c\\ 0 & 0 & 1\end{pmatrix}: a,b,c \in \Z/p\Z \right\},
 $$
@@ -837,7 +836,7 @@ Consider $H \rtimes \Z/7\Z$ where $H$ is normal of order 8. For the classificati
     The uniqueness and the group law can be furthermore checked directly.}
     
     Thus $\operatorname{Aut}(D_4)\cong D_4$ that admits no nontrivial $\Z/7\Z$-action.
-    \item $H=Q_8$: {\color{violet} the fact at work is $\Aut(Q_8)\cong S_4$, and for $n\geq 4$
+    \item $H=Q_8$: {\color{violet} the fact at work is $\Aut(Q_8)\cong S_4$, and for $n\geqslant 4$
     $$
     \begin{aligned}
     \operatorname{Aut}(Q_{2^n})&\cong \left\{\begin{pmatrix} a & b \\ 0 & 1 \end{pmatrix} : a\in (\Z/2^{n-1}\Z)^\times, b\in \Z/2^{n-1}\Z\right\}\\
@@ -889,7 +888,7 @@ Since $200=2^3\cdot 5^2$, and $2^3,5^2$ respectively has 3 and 2 division types 
 
 \miquestion {\color{blue} Prove there is no simple group of order $132$.}
 
-\textit{Proof.} Suppose $G$ is a simple group with order $|G|=132=2^2 \cdot 3 \cdot 11$. Then $n_{11}\equiv 1\bmod 11$ and $n_{11}\mid 12$, which implies $n_{11}=12$ by assumption (otherwise $n_{11}=1$ and $N_{11}$ is a normal subgroup). By Sylow again together with $n_3\neq 1$, it turns out to be $n_3\geq 4$. Then there are $(11-1)n_{11}=120$ elements of order 11 and at least $(3-1)n_3=8$ elements of order 3. This forces the number of elements of order 2 to be 3, and hence $n_2=1$. This means $N_{2}$ is a normal subgroup, which leads to a contradiction.
+\textit{Proof.} Suppose $G$ is a simple group with order $|G|=132=2^2 \cdot 3 \cdot 11$. Then $n_{11}\equiv 1\bmod 11$ and $n_{11}\mid 12$, which implies $n_{11}=12$ by assumption (otherwise $n_{11}=1$ and $N_{11}$ is a normal subgroup). By Sylow again together with $n_3\neq 1$, it turns out to be $n_3\geqslant 4$. Then there are $(11-1)n_{11}=120$ elements of order 11 and at least $(3-1)n_3=8$ elements of order 3. This forces the number of elements of order 2 to be 3, and hence $n_2=1$. This means $N_{2}$ is a normal subgroup, which leads to a contradiction.
 
 \miquestion {\color{blue} Prove that there is no simple group of order $160$. What can you say about the structure of groups of that order?}
 
@@ -986,7 +985,7 @@ The function field $\F_p(u)$ is not perfect. Since $x^p-u$ is irreducible (Eisen
 \item[(1)] There is a 1-1 correspondence:
 $$
 \begin{aligned}
-\{\text{Subgroups } H\geq G\} & \quad \longleftrightarrow \quad \{\text{Intermediate fields } K/L/F\} \\
+\{\text{Subgroups } H\geqslant G\} & \quad \longleftrightarrow \quad \{\text{Intermediate fields } K/L/F\} \\
 H & \quad\longmapsto\quad K^H=\{x\in K: h(x)=x, \ \forall h\in H\}\\
 \Gal(K/L) & \quad\longmapsfrom\quad L.
 \end{aligned}
@@ -1091,7 +1090,7 @@ The Galois group is transitive if and only if the polynomial is irreducible. Whe
 \textit{Answer.}
 By definition, $\operatorname{disc} f=\prod_{i<j}(r_i-r_j)^2$, where $r_1,\ldots,r_n$ are all roots of $f$ over its splitting field. Moreover, if $f\in K$ is irreducible of degree $m$, than
 $$
-\disc f=\prod_{1\leq i<j\leq n}(r_i-r_j)^2=(-1)^{m(m-1)/2}\operatorname{Nm}_{L/K} f'(\alpha),
+\disc f=\prod_{1\leqslant i<j\leqslant n}(r_i-r_j)^2=(-1)^{m(m-1)/2}\operatorname{Nm}_{L/K} f'(\alpha),
 $$
 where $\alpha$ is a simple root of $f$ in its splitting field $L$.
 
@@ -1304,12 +1303,12 @@ Same as Question 38. Note that one can use Kronecker--Weber theorem to determine
 \miquestion
 {\color{blue} What is the maximal real field in a cyclotomic extension $\Q(\zeta_{n}) / \Q$?}
 
-\textit{Answer.} It's $M=\Q(\zeta_{n}+\zeta_{n}^{-1})$. Since $\Q(\zeta_{n})$ is not totally real, we have $[\Q(\zeta_{n}):M]\geq 2$. This morally equal to 2: convert $\Z/2\Z$ into a multiplicative group $\{\pm 1\}$, which fixes
+\textit{Answer.} It's $M=\Q(\zeta_{n}+\zeta_{n}^{-1})$. Since $\Q(\zeta_{n})$ is not totally real, we have $[\Q(\zeta_{n}):M]\geqslant 2$. This morally equal to 2: convert $\Z/2\Z$ into a multiplicative group $\{\pm 1\}$, which fixes
 $$
 \operatorname{Tr}_{\Q(\zeta_{n})/M}(\zeta_n)=\zeta_{n}+\zeta_{n}^{-1}.
 $$
 
-\textit{Remark.} The intrinsic fact we've used here is $\varphi(n)$ being even for all $n\geq 3$.
+\textit{Remark.} The intrinsic fact we've used here is $\varphi(n)$ being even for all $n\geqslant 3$.
 
 \miquestion
 {\color{blue} Compute the Galois group of $p(x)=x^{7}-3$.}
@@ -1329,7 +1328,7 @@ Recall that
 $$
 \operatorname{disc}(x^k+a)=(-1)^{k(k-1)/2}k^k a^{k-1}.
 $$
-Then $\operatorname{disc}(x^{2^{n}}-2)=-2^{(n+1)\cdot 2^n}\neq \square$ for any $n\geq 2$. The splitting field is $\Q(\zeta_{2^n},2^{2^{-n}})$, and the Galois group is $\Z/2^{n}\Z\rtimes (\Z/2\Z\times \Z/2^{n-2}\Z)$ when $n>2$.
+Then $\operatorname{disc}(x^{2^{n}}-2)=-2^{(n+1)\cdot 2^n}\neq \square$ for any $n\geqslant 2$. The splitting field is $\Q(\zeta_{2^n},2^{2^{-n}})$, and the Galois group is $\Z/2^{n}\Z\rtimes (\Z/2\Z\times \Z/2^{n-2}\Z)$ when $n>2$.
 
 \miquestion
 {\color{blue} What are the cyclic extensions of (prime) order $p$?}
@@ -1365,15 +1364,15 @@ It must be an irreducible cubic whose discriminant is not a rational square.
 {\color{blue} How do you construct a polynomial over $\Q$ whose Galois group is $S_{n}$? Do it for $n=7$ in particular.}
 
 {\color{violet}
-\textit{Key Tool.} For $n\geq 2$, let $H$ be a transitive subgroup of $S_n$. If one of the followings are valid, then $H=S_n$: \vspace{-4pt}
+\textit{Key Tool.} For $n\geqslant 2$, let $H$ be a transitive subgroup of $S_n$. If one of the followings are valid, then $H=S_n$: \vspace{-4pt}
 \begin{itemize}
     \item $H$ contains a 2-cycle (i.e., a transposition) and a $p$-cycle ($p>n/2$),
     \item $H$ contains a 2-cycle and a $(n-1)$-cycle, or
-    \item $n\geq 3$, $H\neq A_n$ contains a 3-cycle and a $p$-cycle ($p>n/2$).
+    \item $n\geqslant 3$, $H\neq A_n$ contains a 3-cycle and a $p$-cycle ($p>n/2$).
 \end{itemize} \vspace{-4pt}
 }
 
-\textit{Answer.} We need to consider an irreducible polynomial of degree 7 who has a degree-2-factor mod $p$ together with a degree-6-factor mod $q$ for some primes $p,q$. Let $f(X)=X^{7}-X-1$. The first few factorizations of $f(X) \bmod p$ are as follows:
+\textit{Answer.} We need to find an irreducible polynomial of degree 7 who has a degree 2 factor mod $p_1$ (and hence a 2-cycle) together with a degree 6 factor mod $p_2$ (and hence an $(n-1)$-cycle) for some primes $p_1$ and $p_2$. Let $f(X)=X^{7}-X-1$. The first few factorizations of $f(X) \bmod p$ are as follows:
 $$
 \begin{aligned}
 &f(X) \equiv X^{7}+X+1 \bmod 2, \\
@@ -1392,7 +1391,7 @@ So $f(X)$ is in need.
 \miquestion
 {\color{blue} Which finite groups are Galois groups for some field extension?}
 
-\textit{Answer.} The following theorem by Artin shows that each finite group can be realized as a Galois group: given a field $K$ and let $G\leq \Aut(K)$; then $K/K^G$ is a Galois extension with Galois group $G$.
+\textit{Answer.} The following theorem by Artin shows that each finite group can be realized as a Galois group: given a field $K$ and let $G\leqslant \Aut(K)$; then $K/K^G$ is a Galois extension with Galois group $G$.
 
 Under this assumption, let $F$ be an arbitrary field and adjoin all $g\in G$ as transcendental elements into $F$ to get $L=F(g_1,\ldots g_n)$, where $n=|G|$. Note that any action of $G$ on $L$ gives a multiplication over generators, so $G$ embeds into $\Aut(L)$. This shows that $\Gal(L/L^G)=G$.
 
@@ -1417,7 +1416,7 @@ A theorem of Witt asserts that a biquadratic extension $F(\sqrt{a}, \sqrt{b}), a
 \miquestion
 {\color{blue} Suppose you are given a finite Galois extension $K / \Q$ by $f(x) \in \Z[x]$ such that $\operatorname{deg}(f)=n$ and $\Gal(K / \Q)=S_{n}$. What can you say about the roots?}
 
-\textit{Answer.} Since $S_n$ acts transitively on roots of $f$ over $K$, $f$ must be irreducible over $\Q$. The Galois group contains permutations of length $2\leq \ell\leq n$, hence $f$ contains irreducible factors of degree $2\leq d\leq n$ for different primes. The roots of $f$ must be independent in the sense of additive linear combinations and multiplicative power combinations.
+\textit{Answer.} Since $S_n$ acts transitively on roots of $f$ over $K$, $f$ must be irreducible over $\Q$. The Galois group contains permutations of length $2\leqslant \ell\leqslant n$, hence $f$ contains irreducible factors of degree $2\leqslant d\leqslant n$ for different primes. The roots of $f$ must be independent in the sense of additive linear combinations and multiplicative power combinations.
 
 \miquestion
 {\color{blue} How many automorphisms does the complex field have? How can you extend a simple automorphism (e.g. $\sqrt{2} \mapsto-\sqrt{2}$) of an algebraic field into $\mathbb{C}$? How can you extend a general subfield isomorphism? What feature of $\mathbb{C}$ allows you to?}
@@ -1552,7 +1551,7 @@ Let $f(x)=a_n x^n+a_{n-1}x^{n-1}+\cdots+a_0\in \Z[x]$. If there is a prime $p$ s
 Suppose $f=g h$ in $\Z[x]$. Since $f\equiv a_n x^n\bmod p$ and $\F_p[x]$ is a UFD, we get $g\equiv b_i x^i\bmod p$ and $h\equiv c_j x^j\bmod p$ for $i+j=n$. So the constant terms of $g,h$ over $\Z$ are divisible by $p$, hence $p^2\mid a_0$, a contradiction.
 
 \miquestion
-{\color{blue} Why is $(x^{p}-1)/(x-1)$ irreducible over $\Q$?}
+{\color{blue} Why is $f(x)=(x^{p}-1)/(x-1)$ irreducible over $\Q$?}
 
 \textit{Proof.}
 It's because $f(x+1)$ is Eisenstein at $p$.
@@ -1592,7 +1591,7 @@ It's because $f(x+1)$ is Eisenstein at $p$.
 \miquestion
 {\color{blue} Let $f$ be a degree 4 polynomial with integer coefficients. What's the smallest finite field in which $f$ necessarily has four roots?}
 
-\textit{Solution.} Consider $\overline{f}\in \F_p[x]$. If it is irreducible of degree 4, then $\F_{p^4}$ contains all of its roots. The smallest one (with respect to the size) can be $\F_{16}$.
+\textit{Solution.} Consider $\overline{f}\in \F_p[x]$. If it is irreducible of degree 4, then $\F_{p^4}$ contains all of its roots. The smallest one (in the sense of size) can be $\F_{16}$.
 
 \miquestion
 {\color{blue} Define $p$-adic numbers. What is a valuation?}
@@ -1647,7 +1646,7 @@ $$
 $$
 V^T=\bigoplus_{i=1}^m F[x]/(f_i)
 $$
-with $m\leq \dim V=n$, $f_1\mid \cdots \mid f_m$ for $f_i\in F[x]$. Using Chinese remainder theorem, we see $f_1\cdots f_m$ is the characteristic polynomial of $T\in \operatorname{GL}_n(F)$.
+with $m\leqslant \dim V=n$, $f_1\mid \cdots \mid f_m$ for $f_i\in F[x]$. Using Chinese remainder theorem, we see $f_1\cdots f_m$ is the characteristic polynomial of $T\in \operatorname{GL}_n(F)$.
 
 \miquestion {\color{blue} I give you two matrices over a field. How would you tell if they are conjugate or not? What theorem are you using? State it. How does it apply to this situation? Why is $k[T]$ a PID? If two matrices are conjugate over the algebraic closure of a field, does that mean that they are conjugate over the base field too?}
 
@@ -1708,7 +1707,7 @@ $$
 \begin{pmatrix}
     1 & 0 & 0\\
     0 & 0 & -1\\
-    0 & 1 & 1\\
+    0 & 1 & -1\\
 \end{pmatrix}.
 $$
 
@@ -1743,7 +1742,7 @@ $$
 
 \miquestion {\color{blue} What can you say about matrices that satisfy a given polynomial (over an algebraically closed field)? How many of them are there? What about over a finite field? How many such matrices are there then?}
 
-\textit{Answer.} By Cayley--Hamilton theorem that holds over all commutative rings, the minimal polynomial of the matrices are factors of the given polynomial $f$. Yet $f$ has nothing to do with the characteristic polynomial. Over an algebraically closed field, each Jordan normal form can be reached by a conjugation from the original matrix $A$ such that $f(A)=0$. So there are only finitely many types of Jordan normal forms (whereas there is possibly infinitely many $A$'s satisfying $f(A)=0$). This number is morally bounded by the number of partitions of $n=\deg f$.
+\textit{Answer.} By Cayley--Hamilton theorem that holds over all commutative rings; the minimal polynomial of the matrices are factors of the given polynomial $f$. Yet $f$ has nothing to do with the characteristic polynomial. Over an algebraically closed field, each Jordan normal form can be reached by a conjugation from the original matrix $A$ such that $f(A)=0$. So there are only finitely many types of Jordan normal forms (whereas there is possibly infinitely many $A$'s satisfying $f(A)=0$). This number is morally bounded by the number of partitions of $n=\deg f$.
 
 Over the finite fields, the counting argument is essentially related to the number of conjugacy classes of $\GL_n(\F_q)$, which equals to the number of irreducible representations. 
 
@@ -1787,7 +1786,7 @@ As a symmetric monic polynomial, $\operatorname{char}\operatorname{poly}(A)=(\la
 
 \miquestion {\color{blue} What are the conjugacy classes of $\operatorname{SL}_2(\R)$?}
 
-\textit{Solution.} Since $\R$ is not algebraically closed, any characteristic polynomial of degree 2 has one of the following forms: $x^2+ax+b$, $(x-a)^2$. Note that in $\SL_2(\R)$, the constant term of characteristic polynomial is the determinant, which is 1. So there are 3 types of invariant factors: $x^2+ax+1$; $x-1,x-1$; $x+1,x+1$. Here comes two types of rational canonical forms:
+\textit{Solution.} Since $\R$ is not algebraically closed, any characteristic polynomial of degree 2 has the form $x^2+ax+b$. Note that in $\SL_2(\R)$, the constant term of characteristic polynomial is the determinant, which is 1. So there are 3 types of invariant factors: $x^2+ax+1$ (when it is irreducible); $x-1,x-1$; $x+1,x+1$, with the corresponding rational canonical forms:
 $$
 \begin{pmatrix}
 0 & -1 \\
@@ -1802,11 +1801,11 @@ $$
 0 & -1
 \end{pmatrix},\quad a\in \R.
 $$
-Note that there are infinitely many conjugacy classes of $\SL_2(\R)$ when $a$ varies.
+Note that the last two cases are lead by $a=\pm 2$ respectively. Also note that there are infinitely many conjugacy classes of $\SL_2(\R)$ when $a$ varies.
 
 \miquestion {\color{blue} What are the conjugacy classes in $\operatorname{GL}_2(\mathbb{C})$?}
 
-\textit{Solution.} Since $\C$ is algebraically closed, any characteristic polynomial of degree 2 splits completely as $(x-a)(x-b)$. The invariant factors are $x-a,x-a$ or $x^2-c x-d$. Here comes 2 types of conjugacy classes whose rational canonical forms are:
+\textit{Solution.} Since $\C$ is algebraically closed, any characteristic polynomial of degree 2 splits completely as $(x-a)(x-b)$. The invariant factors are $x-a,x-a$ (with $a=b$) or $x^2-c x-d$ (with $c=a+b$ and $d=-ab$). Here are the 2 types of conjugacy classes whose rational canonical forms are:
 $$
 \begin{pmatrix}
 a & 0 \\
@@ -2223,7 +2222,7 @@ $$
 \Z[(1+\sqrt{d})/2], & d\equiv 1\bmod 4.
 \end{cases}
 $$
-Let $\mathfrak{p}$ be a prime in $\OO$ with $\mathfrak{p} \OO \cap \Z=p\Z$. Then $p=N(\mathfrak{p})=|\OO / \mathfrak{p}\OO|$ and the inertia degree $f(\mathfrak{p}|p)=[\OO / \mathfrak{p}\OO:\Z/p\Z]\leq 2$.
+Let $\mathfrak{p}$ be a prime in $\OO$ with $\mathfrak{p} \OO \cap \Z=p\Z$. Then $p=N(\mathfrak{p})=|\OO / \mathfrak{p}\OO|$ and the inertia degree $f(\mathfrak{p}|p)=[\OO / \mathfrak{p}\OO:\Z/p\Z]\leqslant 2$.
 
 \miquestion {\color{blue} Do you know about Dedekind domains and class numbers?}
 
@@ -2245,14 +2244,14 @@ of Weil divisors on $X$ is the same as the class group of $A$. And $\operatornam
 
 \textit{Answer.} If $R$ is a UFD, then $R[x]$ is a UFD. (Yet the converse fails to be true; see some ring of integers of a Hilbert class field versus the ring of integers of its subfield with nontrivial class group.) 
 
-All UFDs must be integral. For counterexample, say $R=\Z/6\Z$ in which $6=2\cdot 3=2^m\cdot 3^n$ with $m,n\geq 1$.
+All UFDs must be integral. For counterexample, say $R=\Z/6\Z$ in which $6=2\cdot 3=2^m\cdot 3^n$ with $m,n\geqslant 1$.
 
 As $R[x_1,\ldots,x_n]$ is a UFD, by induction, $R[x_1,\ldots,x_n,\ldots]$ with infinitely many variables is still a UFD. It is apparently not noetherian because the ascending chain $(x_1)\subset (x_1,x_2)\subset \cdots$ never terminates.
 
 
 \miquestion {\color{blue} What is the radical of an ideal? What is special about elements in the nilradical?}
 
-\textit{Definition.} The radical of an ideal $\rad (I)$ comprising all $n$-th roots of elements in $I$ for all $n\geq 1$. It turns out to be the intersection of all prime ideals containing $I$.
+\textit{Definition.} The radical of an ideal $\rad (I)$ comprising all $n$-th roots of elements in $I$ for all $n\geqslant 1$. It turns out to be the intersection of all prime ideals containing $I$.
 
 \textit{Answer.} The nilradical (resp. Jacobson radical) is the intersection of \textit{all} prime (resp. maximal) ideals in a given ring. Thus,
 $$
@@ -2261,7 +2260,7 @@ $$
 
 \miquestion {\color{blue} Define ``radical''. Prove it is an ideal. Prove that the ideal of all polynomials vanishing on the zero set of $J$ is $\operatorname{rad}(J)$.}
 
-\textit{Definition.} Say $\rad(I)=\{x\in R: x^n\in I \text{ for some } n\geq 1\}$ for $I\subset R$ a given ideal.
+\textit{Definition.} Say $\rad(I)=\{x\in R: x^n\in I \text{ for some } n\geqslant 1\}$ for $I\subset R$ a given ideal.
 
 \textit{Proof.} The $\rad(I)$ is an ideal because it's the intersection of all prime ideals containing $I$. By Hilbert's Nullstellensatz, $I(V(J))=\rad (J)$ for an ideal $J\subset k[X]$, where $X=x_1,\ldots, x_m$.
 
@@ -2364,7 +2363,7 @@ of $K^n$. Under this construction, the left ideals of $\mathrm{M}_n(K)$ are in b
 {\color{violet}
 \textit{Lemma.} (Krull's Intersection Theorem) Suppose $R$ is a Noetherian domain, then for a fixed proper ideal $I\subset R$ and any finite $R$-module $M$, \vspace{-6pt}
 $$
-\bigcap_{n\geq 1} I^n M=0.
+\bigcap_{n\geqslant 1} I^n M=0.
 $$} \vspace{-16pt}
 
 \textit{Comment.} This question is in general nontrivial but one can have a relatively easy attempt by assuming $R$ is a Noetherian domain, and then use the Krull's intersection theorem. Note that the assumption for ``domain'' is necessary to make the intersection to vanish. Say, for a boring counterexample, let $R=S\oplus S$ and $I=S\oplus \{0\}$ where $S$ is noetherian. 
@@ -2631,7 +2630,7 @@ Here $\psi(g)^*=\psi(g^{-1})$ is the complex conjugation. It turns out that the 
     \item two representations are isomorphic if and only if they obtain the same character;
     \item if $\chi,\psi$ are characters of two non-isomorphic representations, then $\langle\chi,\psi\rangle_G=0$.
 \end{itemize}
-If $(W,\psi)$ and $(V,\chi)$ are given as two reps of $G$, then $W$ is isomorphic to some subrep of $V$ if and only if $\langle \psi,\chi \rangle_G\geq 1$, which means it has positive multiplicity in $V$.
+If $(W,\psi)$ and $(V,\chi)$ are given as two reps of $G$, then $W$ is isomorphic to some subrep of $V$ if and only if $\langle \psi,\chi \rangle_G\geqslant 1$, which means it has positive multiplicity in $V$.
 
 \miquestion {\color{blue} What's the relation between the number of conjugacy classes in a finite group and the number of irreducible representations?}
 
@@ -2777,7 +2776,7 @@ $$
 
 \miquestion {\color{blue} If you have a $\Z/5\Z$ action on a complex vector space, what does this action look like? What about an $S_3$ action? A dihedral group of any order?}
 
-\textit{Answer.} It can be realized as a rotation on some regular pentagon in $\C^r$ for $r\geq 2$. Also, $S_3$ acts on an equilateral triangle and $D_n$ acts on an regular $n$-gon with rotations and reflexions. 
+\textit{Answer.} It can be realized as a rotation on some regular pentagon in $\C^r$ for $r\geqslant 2$. Also, $S_3$ acts on an equilateral triangle and $D_n$ acts on an regular $n$-gon with rotations and reflexions. 
 
 \miquestion {\color{blue} What are the representations of $S_3$? How do they restrict to $S_2$?}
 
@@ -2861,7 +2860,7 @@ $\chi_4$ & 2 & 0 & 0 & $-2$ & 0 \\
 
 \miquestion {\color{blue} How would you work out the orders of the irreducible representations of the dihedral group $D_n$? Why is the the sum of squares of dimensions equal to the order of the group?}
 
-\textit{Answer.} Say $D_n=\langle r,s: r^n=s^2=1, s r s^{-1}=r^{-1}\rangle$. Then any element in $D_n$ can be written in the form $r^k$ or $s r^k$ for $0\leq k\leq n-1$. \begin{itemize}
+\textit{Answer.} Say $D_n=\langle r,s: r^n=s^2=1, s r s^{-1}=r^{-1}\rangle$. Then any element in $D_n$ can be written in the form $r^k$ or $s r^k$ for $0\leqslant k\leqslant n-1$. \begin{itemize}
 \item[(I)] The case $2\mid n$. Corresponding $\pm 1$ with $r$ and $s$ alternatively, we get 4 irreducible linear characters:
 \begin{center}
 \begin{tabular}{c|cc} 
@@ -2982,7 +2981,7 @@ $\chi_{6}$ & 6 & 0 & $-2$ & 0 & 0 & 1 & 0
 
 \miquestion {\color{blue} How many irreducible representations does $S_n$ have? What classical function in mathematics does this number relate to?}
 
-\textit{Answer.} See Question 18 in Set I for conjugacy classes in $S_n$. The number of irreducible representations is the number of partitions $\lambda=(\lambda_1,\ldots,\lambda_m)$ for $n$, where $\lambda_i\geq \lambda_{i+1}$ and $\lambda_1+\cdots+\lambda_m=n$. This is given by the partition function, which doesn't have an explicit expression. Young diagrams are useful in computing this function.
+\textit{Answer.} See Question 18 in Set I for conjugacy classes in $S_n$. The number of irreducible representations is the number of partitions $\lambda=(\lambda_1,\ldots,\lambda_m)$ for $n$, where $\lambda_i\geqslant \lambda_{i+1}$ and $\lambda_1+\cdots+\lambda_m=n$. This is given by the partition function, which doesn't have an explicit expression. Young diagrams are useful in computing this function.
 
 \miquestion {\color{blue} Discuss representations of $\Z$, the infinite cyclic group. What is the group algebra of $\Z$? What is the connection with modules over PIDs? When is a representation of $\Z$ completely reducible? Why not always? Which are the indecomposable modules?}
 
