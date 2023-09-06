@@ -47,25 +47,25 @@ _Recent developments in K-stability provide a nice moduli space, called a K-modu
 - **Burt Totaro** (UCLA) -- **Endomorphisms of varieties**. ([notes](././Totaro.pdf)) <br/>
 _A natural class of dynamical systems is obtained by iterating polynomial maps, which can be viewed as maps from projective space to itself. One can ask which other projective varieties admit endomorphisms of degree greater than 1. This seems to be an extremely restrictive property, with all known examples coming from toric varieties (such as projective space) or abelian varieties. We describe what is known in this direction, with the new ingredient being the “Bott vanishing” property. Joint work with Tatsuro Kawakami._
 
-- **Janos Kollár** (Princeton) -- **What determines an algebraic variety?** <br/>
+- **Janos Kollár** (Princeton) -- **What determines an algebraic variety?** ([article](././Kollár.pdf), [Sawin's slides](././Sawin.pdf)) <br/>
 _We discuss how to describe the sheaf theory of an algebraic variety, if we are given only the underlying Zariski topological space. (Joint work with Max Lieblich, Martin Olsson and Will Sawin)._
 
-- **Chenyang Xu** (Princeton) -- **Higher rank finite generation**. <br/>
+- **Chenyang Xu** (Princeton) -- **Higher rank finite generation**. ([article](././Xu.pdf)) <br/>
 _Finite generation for higher rank quasi-monomial valuation plays a key role in K-stability theory of Fano varieties. It is the main step to establish the “compactedness”. In this talk, we want to outline our proof of it. The talk is based on joint works with Yuchen Liu and Ziquan Zhuang._
 
 
 #### August 26
 
-- **Bin Zhao** (Capital Normal Univ.) -- **Slopes of modular forms and geometry of eigencurves**. <br/>
+- **Bin Zhao** (Capital Normal Univ.) -- **Slopes of modular forms and geometry of eigencurves**. ([article](././Zhao.pdf)) <br/>
 _In this talk, we will report my recent joint work with Ruochuan Liu, Nha Xuan Truong and Liang Xiao on the ghost conjecture, which gives an effective algorithm to compute the p-adic slopes of certain eigenforms. we will then explain the applications of our work to the study of Galois representations and eigencurves. If time allows, we will also discuss the potential generalizations of ghost conjecture._
 
 - **Koji Shimizu** (YMSC) -- **Moduli stacks of crystals and isocrystals**. ([notes](././Shimizu.pdf)) <br/>
 _To a smooth projective curve over a finite field, we associate rigid-analytic moduli stacks of isocrystals together with the Verschiebung endomorphism. We discuss the first examples and properties of such objects. This is a joint work in progress with Gyujin Oh._
 
-- **Jilong Tong** (Capital Normal Univ.) -- **Harder-Narasimhan stratification in _p_-adic Hodge theory**. <br/>
+- **Jilong Tong** (Capital Normal Univ.) -- **Harder-Narasimhan stratification in _p_-adic Hodge theory**. ([article](././Tong.pdf)) <br/>
 _We will construct the Harder-Narasimhan stratification on the de Rham $B^+$-Grassmannian and study its basic geometric properties, such as non-emptiness, dimension and relation with other stratifications. This generalizes the work of Dat-Orlik-Rapoport, Cornut-Peche Irissarry, Nguyen-Viehmann and Shen. This is a joint work in progress with Miaofen Chen._
 
-- **Deding Yang** (Peking Univ.) -- **Ampleness of automorphic line bundles over Hilbert modular varieties and some generalizations**. <br/>
+- **Deding Yang** (Peking Univ.) -- **Ampleness of automorphic line bundles over Hilbert modular varieties and some generalizations**. (in progress) <br/>
 _We will talk about an ampleness criterion of line bundles on special fibers of unitary Shimura varieties to solve a conjecture proposed by Tian-Xiao. We will also talk about its generalizations to the flag space over some unitary Shimura varieties._
 
 #### August 27
@@ -82,7 +82,7 @@ _The cohomology of the Hitchin moduli space exhibits striking similarities to th
 
 #### August 28
 
-- **Yifeng Liu** (Zhejiang Univ.) -- **Selmer theta lifts**. <br/>
+- **Yifeng Liu** (Zhejiang Univ.) -- **Selmer theta lifts**. ([article](././YifengLiu.pdf)) <br/>
 _We construct Kudla’s generating functions valued in Selmer groups, and prove its modularity under certain conditions. We then define Selmer theta lifts and compute their p-adic heights, which can be regarded as a p-adic analogue of the arithmetic inner product formula._
 
 - **Yichao Tian** (MCM) -- **A prismatic-étale comparison theorem in the semi-stable case**. ([notes](././Tian.pdf)) <br/>
