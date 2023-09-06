@@ -434,7 +434,7 @@ Group & Generating Set & Size of Generating Set \\
 \hline $\mathrm{SL}_2(\Z)$ & $\begin{pmatrix}0 & -1 \\
 1 & 0\end{pmatrix},\begin{pmatrix}1 & 1 \\
 0 & 1\end{pmatrix}$ & 2 \\
-\hline $\mathrm{GL}_n(\R), \mathrm{SL}_n(\mathbb{R})$ & Elementary Matrices & $\infty$
+\hline $\mathrm{GL}_n(\R), \mathrm{SL}_n(\R)$ & Elementary Matrices & $\infty$
 \end{tabular}
 \end{center}}
 
@@ -956,11 +956,11 @@ For a finite field $F$, $F^\times=F-\{0\}$. In $\F_9$, it is a cyclic group of o
 
 {\color{violet} \textit{Note.} Every algebraic extension of a perfect field is automatically separable. Because every minimal polynomial should be irreducible, and hence separable over perfect fields. Recall the definition of perfectness in Question 9.}
 
-\textit{Answer.} Say $E/F$ is a separable extension if for all $\alpha\in E$, the minimal polynomial of $\alpha$ over $F$ is separable, i.e. it has no double roots.
+\textit{Answer.} Say $E/F$ is a separable extension if for all $\alpha\in E$, the minimal polynomial of $\alpha$ over $F$ is separable, i.e. it has no multiple roots.
 
-Since $\Q$ and $\Z/p\Z\cong \F_p$ are perfect fields, there are no non-separable extensions over them. So do fields of characteristic 0 and finite fields such that $\F_q^p=\F_q$ for $q=p^r$.
+Since $\Q$ and $\Z/p\Z\cong \F_p$ are perfect fields, there are no non-separable extensions over them. So do fields of characteristic 0 and finite fields such that $(\F_q)^p=\F_q$ for $q=p^r$.
 
-\textit{Example.} Consider the non-perfect function field $\F_p(u^p)$ who has an extension $\F_p(u)$. The minimal polynomial of $u$ is $x^p-u^p=(x-u)^p$ since we are working over characteristic $p$. Hence $\F_p(u)/\F_p(u^p)$ is a non-separable extension.
+\textit{Example.} Consider the non-perfect function field $\F_p(u^p)$ who has an extension $\F_p(u)$. The minimal polynomial of $u$ is $x^p-u^p=(x-u)^p$ since we are working with the characteristic $p$. Hence $\F_p(u)/\F_p(u^p)$ is a non-separable extension.
 
 \miquestion
 {\color{blue} Are there separable polynomials of any degree over any field?}
@@ -1856,13 +1856,13 @@ Here the new quadratic form is defined by a positive-definite matrix $\sigma^T\s
 
 \miquestion {\color{blue} Explain geometrically how you diagonalize a real quadratic form.}
 
-\textit{Explanation.} For a real quadratic form $p(x,y)=Ax^2+2Bxy+Cy^2$ defined by real symmetric matrix $A$ (which is always diagonalizable), we have to real eigenvalues $\lambda_{1,2}$ such that $\lambda_1\lambda_2=\det A=AC-B^2=-\Delta/4$. Then there are three types from the aspect of affine geometry: \vspace{-6pt}
+\textit{Explanation.} For a real quadratic form $p(x,y)=Ax^2+2Bxy+Cy^2$ defined by real symmetric matrix $T$ (which is always diagonalizable), we have two real eigenvalues $\lambda_{1,2}$ such that $\lambda_1\lambda_2=\det T=AC-B^2=-\Delta/4$. Then there are three types from the aspect of affine geometry: \vspace{-6pt}
 \begin{itemize}
-\item[(1)] $\Delta<0$ and $\det A>0$: $p$ defines an ellipse. \vspace{-4pt}
+\item[(1)] $\Delta<0$ and $\det T>0$: $p$ defines an ellipse. \vspace{-4pt}
 
-\item[(2)] $\Delta=0$ and $\det A=0$: $p$ defines a parabola. \vspace{-4pt}
+\item[(2)] $\Delta=0$ and $\det T=0$: $p$ defines a parabola. \vspace{-4pt}
 
-\item[(3)] $\Delta>0$ and $\det A<0$: $p$ defines a hyperbola.
+\item[(3)] $\Delta>0$ and $\det T<0$: $p$ defines a hyperbola.
 \end{itemize}
 
 
@@ -1872,7 +1872,7 @@ Here the new quadratic form is defined by a positive-definite matrix $\sigma^T\s
 
 \miquestion {\color{blue} Classify real division algebras.}
 
-\textit{Answer.} Under the finite-dimensional assumption, it can be $\R$, $\C$, or $\mathbb{H}$ (see Question 49 in Set VI).
+\textit{Answer.} Under the finite-dimensional assumption, it can be either of $\R$, $\C$, or $\mathbb{H}$ (see Question 49 in Set VI).
 
 \miquestion {\color{blue} Consider the simple operator on $\mathbb{C}$ given by multiplication by a complex number. It decomposes into a stretch and a rotation. What is the generalization of this to operators on a Hilbert space?}
 
@@ -2130,7 +2130,7 @@ So $R/(I\cap J)\cong R/I \times R/J$. Here we have used the 2nd isomorphism theo
 
 \textit{Example.} See Question 3.
 
-{\color{violet} \textit{Fact.} Any polynomial ring over a UFD, any ring formal power series over a field, and any regular local ring are UFDs.}
+{\color{violet} \textit{Fact.} All polynomial rings over a UFD, all formal power series rings over a field, and all regular local rings are all UFDs.}
 
 \miquestion {\color{blue} Is $\mathbb{C}[x,y]$ a PID? Is $\langle x, y \rangle$ a prime ideal in it?}
 
@@ -2251,18 +2251,18 @@ As $R[x_1,\ldots,x_n]$ is a UFD, by induction, $R[x_1,\ldots,x_n,\ldots]$ with i
 
 \miquestion {\color{blue} What is the radical of an ideal? What is special about elements in the nilradical?}
 
-\textit{Definition.} The radical of an ideal $\rad (I)$ comprising all $n$-th roots of elements in $I$ for all $n\geqslant 1$. It turns out to be the intersection of all prime ideals containing $I$.
+\textit{Definition.} The radical of an ideal $\rad (I)$ comprises all $n$-th roots of elements in $I$ for all $n\geqslant 1$. It turns out to be the intersection of all prime ideals containing $I$.
 
 \textit{Answer.} The nilradical (resp. Jacobson radical) is the intersection of \textit{all} prime (resp. maximal) ideals in a given ring. Thus,
 $$
-\operatorname{nil}(R)\subset\rad(I),\quad \forall I\subset R.
+\operatorname{nil}(R)=\rad(R)\subset\rad(I),\quad \forall I\subset R.
 $$
 
 \miquestion {\color{blue} Define ``radical''. Prove it is an ideal. Prove that the ideal of all polynomials vanishing on the zero set of $J$ is $\operatorname{rad}(J)$.}
 
 \textit{Definition.} Say $\rad(I)=\{x\in R: x^n\in I \text{ for some } n\geqslant 1\}$ for $I\subset R$ a given ideal.
 
-\textit{Proof.} The $\rad(I)$ is an ideal because it's the intersection of all prime ideals containing $I$. By Hilbert's Nullstellensatz, $I(V(J))=\rad (J)$ for an ideal $J\subset k[X]$, where $X=x_1,\ldots, x_m$.
+\textit{Proof.} The $\rad(I)$ is an ideal because it's the intersection of all prime ideals containing $I$. By Hilbert's Nullstellensatz, $I(V(J))=\rad (J)$ for an ideal $J\subset k[X]$, where $X=\{x_1,\ldots, x_m\}$.
 
 \miquestion {\color{blue} Do you know what the radical is? Use the fact that the intersection of all prime ideals is the set of all nilpotent elements to prove that $F[x]$ has an infinite number of prime ideals, where $F$ is a field.}
 
@@ -2425,7 +2425,12 @@ $$
 
 \textit{Answer.} By definition $L^1$ consists of absolutely Lebesgue-integrable functions. It is a Banach space. Over $\C$, the $L^1$ space becomes a commutative $C^*$-algebra with pointwise multiplication $(f\cdot g)(x)=f(x)\cdot g(x)$ and conjugation. (Recall that a $C^*$-algebra is a Banach algebra together with an involution satisfying the properties of the adjoint, i.e. a $\C$-algebra of continuous linear operators on a complex Hilbert space closed under adjoints and topologically closed in the norm topology of operators.)
 
-\miquestion {\color{red} Consider a translation-invariant subspace of $L^1$. What can you say about its relation to $L^2$ as a convolution algebra?}
+\miquestion {\color{blue} Consider a translation-invariant subspace of $L^1$. What can you say about its relation to $L^2$ as a convolution algebra?}
+
+\textit{Answer.} A translation-invariant subspace of $L^1$ is a closed subspace $V$ of $L^1$ such that for any $f \in V$, the translated function $f(x - y)\in V$. If $V$ is a translation-invariant subspace of $L^1$, then it is also a convolution algebra with $L^2$. Considering that $f\ast g$ is well-defined when $f\in L^1$ and $g\in L^2$, the translation-invariance of $V$ ensures that $f\ast g\in V$.
+
+
+
 
 \miquestion {\color{blue} State the structure theorem for simple rings.}
 
@@ -2491,7 +2496,7 @@ which dictates the non-semisimplicity of $R$.
 
 \textit{Statement.} See Question 38 for Artin--Wedderburn.
 
-\textit{Answer.}
+\textit{Answer.} 
 
 \miquestion {\color{blue} Tell me about group rings. What do you know about them?}
 
@@ -3067,7 +3072,7 @@ This endows a unitary structure on $G$.
 $$
 \Hom(G,H)\longrightarrow \Hom(\mathfrak{g},\mathfrak{h})
 $$
-is always injective for connected Lie groups $G,H$, and is bijective if $G$ is simply connected. Then take $G=\SL_2(\R)$ and $H=\GL_n(\R)$. Now $G$ is a semisimple Lie group with simple Lie algebra $\mathfrak{g}=\mathfrak{sl}_2(\mathbb{R})$. The finite-dimensional representations of $\mathfrak{sl}_2(\mathbb{R})$ are completely reducible, and the irreducible representations of $\mathfrak{sl}_{2}(\mathbb{R})$ are precisely the symmetric powers $\operatorname{Sym}^{n}(\mathbb{R}^{2})$ of the defining representation. It turns out that every irreducible representation of any nontrivial cover of $G$ factors through the covering map to $G$. It follows that nontrivial covers of $G=\SL_{2}(\mathbb{R})$ (which exist) have no faithful finite-dimensional representations.
+is always injective for connected Lie groups $G,H$, and is bijective if $G$ is simply connected. Then take $G=\SL_2(\R)$ and $H=\GL_n(\R)$. Now $G$ is a semisimple Lie group with simple Lie algebra $\mathfrak{g}=\mathfrak{sl}_2(\R)$. The finite-dimensional representations of $\mathfrak{sl}_2(\R)$ are completely reducible, and the irreducible representations of $\mathfrak{sl}_{2}(\R)$ are precisely the symmetric powers $\operatorname{Sym}^{n}(\mathbb{R}^{2})$ of the defining representation. It turns out that every irreducible representation of any nontrivial cover of $G$ factors through the covering map to $G$. It follows that nontrivial covers of $G=\SL_{2}(\R)$ (which exist) have no faithful finite-dimensional representations.
 
 \miquestion {\color{blue} What do you know about representations of $\SO(2)$? $\SO(3)$?}
 
