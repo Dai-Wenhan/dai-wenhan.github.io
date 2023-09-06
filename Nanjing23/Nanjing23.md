@@ -19,6 +19,7 @@ _By Arithmetic & Homotopic Galois Theory, a France-Japan international network._
 - **Venue:** Yifu Hall, Nanjing University Gulou / 南京大学鼓楼校区逸夫馆.
 - **Organizers:** Yuichiro Hoshi (RIMS, Kyoto), Zhi Hu (NJUST, Nanjing), Pengfei Huang (Universität Heidelberg, Heidelberg), Yu Yang (RIMS, Kyoto), Runhong Zong (NJU, Nanjing).
 
+![museum](././museum.png)
 
 ### Lecture Notes (in chronological order)
 
