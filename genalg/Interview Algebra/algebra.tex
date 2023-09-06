@@ -2350,7 +2350,7 @@ of $K^n$. Under this construction, the left ideals of $\mathrm{M}_n(K)$ are in b
 
 \textit{Example.} $\Z[\sqrt{d}]$ is noetherian since it is $\Z[x]/(x^2-d)$; for any field $K$ (which is trivially noetherian), $K[x,1/x]\cong K[x,y]/(x y-1)$ is noetherian as well.
 
-\textit{Non-Example.} The ring $K\llbracket x_1,x_2,\ldots\rrbracket$ of formal power series in infinitely many variables is not noetherian. But the non-noetherian rings need not be really huge: $\operatorname{Int}(\Z)={f\in \Q[x]: f(\Z)\subset \Z}$, the ring of polynomials with integer outputs, is not noetherian.
+\textit{Non-Example.} The ring $K\llbracket x_1,x_2,\ldots\rrbracket$ of formal power series in infinitely many variables is not noetherian. But the non-noetherian rings need not be really huge: $\operatorname{Int}(\Z)=\{f\in \Q[x]: f(\Z)\subset \Z\}$, the ring of polynomials with integer outputs, is not noetherian.
 
 \miquestion {\color{blue} Prove the Hilbert basis theorem.}
 
@@ -2372,7 +2372,7 @@ $$} \vspace{-16pt}
 \miquestion {\color{blue} What is the Jacobson radical? If $R$ is a finitely-generated algebra over a field $k$, what can you say about it?}
 
 {\color{violet}
-\textit{Lemma.} A finitely-generated algebra over a field is an integral domain if and only if it is a field. Applying this to $R/I$, we see: an ideal $I\subset R$ is prime if and only if it is maximal.
+\textit{Lemma.} A finitely-generated algebra over a field is an integral domain if and only if it is a field. Applying this to $R/I$, we see: An ideal $I\subset R$ is prime if and only if it is maximal.
 }
 
 \textit{Answer.} By definition, the Jacobson radical of $R$ is the intersection of all maximal ideals in $R$. By assumption,
@@ -2445,8 +2445,9 @@ The ring $R[\![X_1,\ldots,X_n]\!]$ is already complete whenever $R=k$ is a field
 
 
 \miquestion {\color{red} Consider the space of functions from the natural numbers to $\mathbb{C}$ endowed with the usual law of addition and the following analogue of the convolution product:
-	\[f * g(n) = \sum_{d | n}{f(d) g\left(\frac{n}{d}\right)}
-\]
+$$	
+(f * g)(n) = \sum_{d | n}{f(d) g\left(\frac{n}{d}\right)}
+$$
 Show that this is a ring.  What does this ring remind you of and what can you say about it?}
 
 \miquestion {\color{blue} Is finite division ring necessarily commutative? Give an example of a (necessarily infinite) division ring which is NOT a field.}
@@ -2458,7 +2459,7 @@ Show that this is a ring.  What does this ring remind you of and what can you sa
 
 \miquestion {\color{blue} Prove that all finite integral domains are fields.}
 
-\textit{Proof.} The multiplication map on $R$ defined by a nonzero and nonunit element $r\in R-R^\times$ is injective because $R$ is integral. On the other hand, the finiteness assumption deduces that this must be surjective. Hence the division map is well-defined and then $R$ is a field.
+\textit{Proof.} The multiplication map on $R$ defined by a nonzero and nonunit element $r\in R-R^\times$ is injective because $R$ is integral. On the other hand, the finiteness assumption deduces that this must be surjective due to the cardinality comparison. Hence the division map is well-defined and then $R$ is a field.
 
 \miquestion {\color{blue} Can a polynomial over a division ring have more roots than its degree?}
 
@@ -2609,8 +2610,8 @@ In particular, every linear automorphism on $V$ that is irreducible over $\C$, c
 \textit{Proof.} For any $f\in \End_G(V)$, the condition that $f$ commutes with $G$-actions means both $\Ker f$ and $\operatorname{im} f$ are $G$-invariant. Since $V$ is irreducible,
 $$
 \begin{aligned}
-\text{either }\quad & \Ker f=0, \operatorname{im} f=V \quad \Longrightarrow \quad f \text{ is injective;}\\
-\text{or }\quad & \Ker f=V, \operatorname{im} f=0 \quad \Longrightarrow \quad f=0.
+\text{either }\quad & \Ker f=0,\ \operatorname{im} f=V \quad \Longrightarrow \quad f \text{ is injective;}\\
+\text{or }\quad & \Ker f=V,\ \operatorname{im} f=0 \quad \Longrightarrow \quad f=0.
 \end{aligned}
 $$
 If $f$ is injective, it is naturally an isomorphism due to dimension reasons.
@@ -2621,7 +2622,7 @@ $$
 $$
 where $\rho: G\to \GL(V)$ is the representation attached to $V$.
 
-A division algebra over $k$ is a $k$-vector space and a division ring in which every nonzero element has a multiplicative inverse.
+A division algebra over $k$ is a $k$-vector space and also a division ring, in which every nonzero element has a multiplicative inverse.
 
 \miquestion {\color{blue} What can you say about characters? What are the orthogonality relations? How do you use characters to determine if a given irreducible representation is a subspace of another given representation?}
 
@@ -2647,7 +2648,7 @@ If $(W,\psi)$ and $(V,\chi)$ are given as two reps of $G$, then $W$ is isomorphi
 
 \textit{Answer.} The rows of character table are labeled by irreducible characters (corresponding to irreducible rep-classes). The columns are labeled by conjugacy classes of $G$. It sorts out the values of characters at each conjugacy class. Its entries lie in $\C$ (or more generally, the algebraically closed base field of $V$).
 
-\textit{Note.} In a character table, no two of rows or columns are completely the same. It meant to say that: the valuations at all conjugacy classes uniquely determine an irreducible character; two group elements are conjugate if and only if they have same values under all irreducible characters.
+\textit{Note.} In a character table, no two rows or columns are completely the same. It meant to say that: the valuations at all conjugacy classes uniquely determine an irreducible character; two group elements are conjugate if and only if they have same values under all irreducible characters.
 
 \miquestion {\color{blue} Why is the character table a square?}
 
@@ -2674,11 +2675,11 @@ Consider the left one, and we get $\rho: G\to \GL(\C[G])$ such that $\rho(g)(e_s
 
 \textit{Answer.} There are two algebraic constructions for induced representations. Let $H$ be a subgroup of $G$ with $(\pi,V)$ a given representation on it.
 \begin{itemize}
-\item[(I)] Say $n=[G:H]$ and $G/H=\{\overline{g_1},\ldots,\overline{g_n}\}$ are all representatives of left cosets, that is, $\overline{g_i}=g_i H$. Then
+\item[(I)] Say $n=[G:H]$ and $G/H=\{\overline{g}_1,\ldots,\overline{g}_n\}$ are all representatives of left cosets, that is, $\overline{g}_i=g_i H$. Then
 $$
-\Ind_H^G V:=\bigoplus_{i=1}^n \overline{g_i} V,
+\Ind_H^G V:=\bigoplus_{i=1}^n \overline{g}_i V,
 $$
-where $\overline{g_i}V=\{\overline{g_i}v, v\in V\}$ is an isomorphic copy of $V$.
+where $\overline{g}_iV=\{\overline{g}_iv, v\in V\}$ is an isomorphic copy of $V$.
 
 \item[(II)] Any representation $(\pi,V)$ of $H$ is regarded as a $K[H]$-module over the group algebra. Then
 $$
@@ -3122,7 +3123,7 @@ It follows that
 $$
 \Hom(\Z/m\Z,M)=\Ker m=M[m],\quad \Ext(\Z/m\Z,M)=M/mM.
 $$
-In particular, for $d=(m,n)$, $\Hom(\Z/m\Z,\Z)=0$ and $\Hom(\Z/m\Z,\Z/n\Z)=\Z/d\Z$. Moreover,
+In particular, $\Hom(\Z/m\Z,\Z)=0$ and $\Hom(\Z/m\Z,\Z/n\Z)=\Z/d\Z$ for $d=(m,n)$. Moreover,
 $$
 \Ext(\Z/m\Z,\Z/n\Z)=\Z/d\Z,\quad \Ext(\Z/m\Z,\Z)=\Z/m\Z.
 $$
