@@ -24,7 +24,7 @@
 - [**Higher Dimensional Gross-Zagier Formula**](./blurbs/HigherDimGZ.pdf). <br/>
  _Notes for an introductory course by Wei Zhang at 2022 Summer School on the Langlands Program (IHES)._
 - [**The Local Langlands Conjecture**](./blurbs/LLC.pdf). <br/>
- _Notes for an introductory course by Oliver Taïbi at 2022 Summer School on the Langlands Program (IHES); revised by the speaker._
+ _Notes for an introductory course by Olivier Taïbi at 2022 Summer School on the Langlands Program (IHES); revised by the speaker._
 - [**Shimura Varieties**](./blurbs/Shvar.pdf). <br/>
  _Notes for an introductory course by Sophie Morel at 2022 Summer School on the Langlands Program (IHES); revised by the speaker._
 
