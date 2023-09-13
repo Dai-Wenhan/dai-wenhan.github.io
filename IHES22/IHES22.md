@@ -226,7 +226,7 @@ _The [video links](https://www.youtube.com/playlist?list=PLx5f8IelFRgEv3qXY43HxV
 - **Ana Caraiani** (Imperial College) -- **Shimura Varieties and Modularity (2/3)**. ([video](https://youtu.be/9NoXFdG3u7E), [notes]()) <br/>
   _This is a follow-up to the previous session._
 
-- **Chao Li** (Columbia Univ.) -- **Geometric and Arithmetic Theta Correspondences (1/2)**. ([video](https://youtu.be/s05jwE2jPw4), [notes](././Li1.pdf)) <br/>
+- **Chao Li** (Columbia Univ.) -- **Geometric and Arithmetic Theta Correspondences (1/2)**. ([video](https://youtu.be/s05jwE2jPw4), [slides](././Li1.pdf)) <br/>
   _Geometric/arithmetic theta correspondences provide correspondences between automorphic forms and cohomology classes/algebraic cycles on Shimura varieties. I will give an introduction focusing on the example of unitary groups and highlight recent advances in the arithmetic theory (also known as the Kudla program) and their applications._
 
 #### July 27
@@ -234,7 +234,7 @@ _The [video links](https://www.youtube.com/playlist?list=PLx5f8IelFRgEv3qXY43HxV
 - **Ana Caraiani** (Imperial College) -- **Shimura Varieties and Modularity (3/3)**. ([video](https://youtu.be/o58f7i3Ge6I), [notes]()) <br/>
   _This is a follow-up to the previous session._
 
-- **Chao Li** (Columbia Univ.) -- **Geometric and Arithmetic Theta Correspondences (2/2)**. ([video](https://youtu.be/h5yiaH2zDvM), [notes](././Li2.pdf)) <br/>
+- **Chao Li** (Columbia Univ.) -- **Geometric and Arithmetic Theta Correspondences (2/2)**. ([video](https://youtu.be/h5yiaH2zDvM), [slides](././Li2.pdf)) <br/>
   _This is a follow-up to the previous session._
 
 - **Akshay Venkatesh** (IAS) -- **Hamiltonian Actions and Langlands Duality (1/2)**. <br/>
