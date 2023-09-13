@@ -220,13 +220,13 @@ _The [video links](https://www.youtube.com/playlist?list=PLx5f8IelFRgEv3qXY43HxV
 - **Laurent Fargues** (IMJ-PRG) -- **The Langlands Program and the Moduli of Bundles on the Curve (3/3)**. ([video](https://www.youtube.com/watch?v=I0EZnQaSMZQ), [notes]()) <br/>
   _This is a follow-up to the previous session._
 
-- **Sug Woo Shin** (UC Berkeley) -- **Shimura Varieties and Modularity (1/3)**. ([video](https://youtu.be/zux6NdB8sZg), [notes]()) <br/>
+- **Sug Woo Shin** (UC Berkeley) -- **Shimura Varieties and Modularity (1/3)**. ([video](https://youtu.be/zux6NdB8sZg), [slides](././Shin.pdf)) <br/>
   _We describe the construction of Galois representations associated to regular algebraic cuspidal automorphic representations of GL(n) over a CM field, as well as those Galois representations associated to torsion classes that occur in the Betti cohomology of the corresponding locally symmetric spaces. The emphasis will be on Scholze's proof, which applies to torsion classes and which uses perfectoid Shimura varieties and the Hodge-Tate period morphism._
 
 - **Ana Caraiani** (Imperial College) -- **Shimura Varieties and Modularity (2/3)**. ([video](https://youtu.be/9NoXFdG3u7E), [notes]()) <br/>
   _This is a follow-up to the previous session._
 
-- **Chao Li** (Columbia Univ.) -- **Geometric and Arithmetic Theta Correspondences (1/2)**. ([video](https://youtu.be/s05jwE2jPw4), [notes]()) <br/>
+- **Chao Li** (Columbia Univ.) -- **Geometric and Arithmetic Theta Correspondences (1/2)**. ([video](https://youtu.be/s05jwE2jPw4), [notes](././Li1.pdf)) <br/>
   _Geometric/arithmetic theta correspondences provide correspondences between automorphic forms and cohomology classes/algebraic cycles on Shimura varieties. I will give an introduction focusing on the example of unitary groups and highlight recent advances in the arithmetic theory (also known as the Kudla program) and their applications._
 
 #### July 27
@@ -234,7 +234,7 @@ _The [video links](https://www.youtube.com/playlist?list=PLx5f8IelFRgEv3qXY43HxV
 - **Ana Caraiani** (Imperial College) -- **Shimura Varieties and Modularity (3/3)**. ([video](https://youtu.be/o58f7i3Ge6I), [notes]()) <br/>
   _This is a follow-up to the previous session._
 
-- **Chao Li** (Columbia Univ.) -- **Geometric and Arithmetic Theta Correspondences (2/2)**. ([video](https://youtu.be/h5yiaH2zDvM), [notes]()) <br/>
+- **Chao Li** (Columbia Univ.) -- **Geometric and Arithmetic Theta Correspondences (2/2)**. ([video](https://youtu.be/h5yiaH2zDvM), [notes](././Li2.pdf)) <br/>
   _This is a follow-up to the previous session._
 
 - **Akshay Venkatesh** (IAS) -- **Hamiltonian Actions and Langlands Duality (1/2)**. <br/>
