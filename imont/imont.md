@@ -2,7 +2,7 @@
 
 During the Summer of 2022, I offered a basic course on _Topics in Elementary Number Theory_ for first-year high school students, in response to a request for preparing the Chinese National High School Mathematics League in 2023. At the end of the course, for the convenience of the AMC/AIME/AHSME/USAMO participants, the lecture notes will be translated into English, collated into a number of documents, and gradually uploaded onto this page. 
 
-- **Reference:** Lecture Notes of Mr. Tao Han.
+- **Reference:** Lecture Notes of Mr. Tao Han. (I apologize for not mentioning the provenance of exercise problems.)
 
 ### The Notes Directory
 
@@ -20,3 +20,12 @@ During the Summer of 2022, I offered a basic course on _Topics in Elementary Num
   _An introduction to Pell equations, the structure of solutions, type II Pell equations; problems and examples (IMO 2001 Shortlist involved)._
 - [Lifting-the-exponent lemma](././LTE.pdf). <br/>
   _Statements and proofs (for odd and even integers); some typical applications on solving Chinese GMO/TST problems._
+
+### Exercise Problems
+
+_All problem sets are written in both English and Chinese._
+
+- [Problem Set 1](././PS1.pdf) ([Solution](././solution1.pdf)). <br/>
+ _Euclidean algorithm, elementary computations on gcds, the prime-power-order argument._
+- [Problem Set 2](././PS2.pdf) ([Solution](././solution2.pdf)). <br/>
+ _Prime number theorem, p-adic expansions and valuations, Kummer's theorem, lifting-the-exponent lemma (optional), division problems about combinatorial numbers._
