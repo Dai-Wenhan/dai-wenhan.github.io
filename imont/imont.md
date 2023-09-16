@@ -23,9 +23,7 @@ During the Summer of 2022, I offered a basic course on _Topics in Elementary Num
 
 ### Exercise Problems
 
-_All problem sets are written in both English and Chinese._
-
-- [Problem Set 1](././PS1.pdf) ([Solution](././solution1.pdf)). <br/>
+- [Problem Set 1](././PS1.pdf) ([Hints](././hints1.pdf), [Solution](././solution1.pdf)). <br/>
  _Euclidean algorithm, elementary computations on gcds, the prime-power-order argument._
-- [Problem Set 2](././PS2.pdf) ([Solution](././solution2.pdf)). <br/>
+- [Problem Set 2](././PS2.pdf) ([Hints](././hints2.pdf), [Solution](././solution2.pdf)). <br/>
  _Prime number theorem, p-adic expansions and valuations, Kummer's theorem, lifting-the-exponent lemma (optional), division problems about combinatorial numbers._
