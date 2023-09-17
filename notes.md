@@ -1,13 +1,7 @@
-## Notes
+## Notes for the Generals
 
-This page collects some of my handwritten or TeXed notes, which come from a variety of sources, such as certain books and papers, the course notes of others, scattered talks, as well as public lectures or conferences.
+This page collects some of my handwritten or TeXed notes, which are intentionally oriented to prepare the qualifying exams. The notes come from a variety of sources, such as certain books and papers or the course notes of others. 
 
-## Lectures and Conferences
-
-## Scattered Research Talks
-
-
-## Qualifying Exam & the Generals
 
 ### General Algebraic Geometry 
 
