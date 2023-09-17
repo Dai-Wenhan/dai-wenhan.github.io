@@ -178,7 +178,7 @@ _The [video links](https://www.youtube.com/playlist?list=PLx5f8IelFRgEv3qXY43HxV
 - **Peter Scholze** (Univ. Bonn) -- **The Langlands Program and the Moduli of Bundles on the Curve (1/3)**. ([video](https://www.youtube.com/watch?v=3jsV9OHxmy0), [notes](././ScholzeM1.pdf)) <br/>
   _The speaker will talk about his joint work on the geometrization of the local Langlands correspondence._
 
-- **Wee Teck Gan** (Nat. Univ. Singapour) -- **Explicit Constructions of Automorphic Forms (1/2)**. ([video](https://www.youtube.com/watch?v=AaRH-eWxW3Q), [notes]()) <br/>
+- **Wee Teck Gan** (Nat. Univ. Singapour) -- **Explicit Constructions of Automorphic Forms (1/2)**. ([video](https://www.youtube.com/watch?v=AaRH-eWxW3Q), [notes](././GanM1.pdf)) <br/>
   _We will discuss the theory of theta correspondence, highlighting basic principles and recent results, before explaining how theta correspondence can now be viewed as part of the relative Langlands program. We will then discuss other methods of construction of automorphic forms, such as automorphic descent and its variants and the generalized doubling method._
 
 - **Toby Gee** (Imperial College) -- **An Introduction to the Categorical _p_-adic Langlands Program (2/4)**. ([video](https://www.youtube.com/watch?v=STch6kw-kjo), [notes]()) <br/>
@@ -231,7 +231,7 @@ _The [video links](https://www.youtube.com/playlist?list=PLx5f8IelFRgEv3qXY43HxV
 
 #### July 27
 
-- **Ana Caraiani** (Imperial College) -- **Shimura Varieties and Modularity (3/3)**. ([video](https://youtu.be/o58f7i3Ge6I), [notes]()) <br/>
+- **Ana Caraiani** (Imperial College) -- **Shimura Varieties and Modularity (3/3)**. ([video](https://youtu.be/o58f7i3Ge6I), [notes](././CaraianiM3.pdf)) <br/>
   _This is a follow-up to the previous session._
 
 - **Chao Li** (Columbia Univ.) -- **Geometric and Arithmetic Theta Correspondences (2/2)**. ([video](https://youtu.be/h5yiaH2zDvM), [slides](././Li2.pdf)) <br/>
