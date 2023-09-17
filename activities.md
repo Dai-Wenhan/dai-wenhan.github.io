@@ -120,16 +120,3 @@
 - (_Seminar_) **Student Seminar on Hartshorne's _Algebraic Geometry_**.
 - (_Seminar_) **Student Seminar on Naive Lie Theory**.
 
-
-### Past Notable Talks
-
-- (June 10, 2023) **Koji Shimizu** (YMSC): <br/>
-  [**Robba Site and Robba Cohomology**](./MiniTalks/Shimizu610.pdf).
-- (Nov 30, 2022) **Christophe Breuil** (CNRS-Orsay): <br/>
-  [**Multivariable (phi,Gamma)-modules and Modular Representations of Galois and GL(2)**](./MiniTalks/Breuil.md).
-- (Nov 02, 2022) **Ye Tian** (MCM), at Tianyuan Mathematical Center: <br/>
-  [**Arithmetic of Quadratic Twists of Elliptic Curves**](./MiniTalks/Tian1102.pdf).
-- (Oct 19, 2022) **Xinwen Zhu** (Stanford), POINTS: <br/>
-  [**The _p_-adic Borel Hyperbolicity of Ag**](./MiniTalks/Zhu1019.md).
-- (Nov 15, 2019) **Yitang Zhang** (UCSB), a public talk (notes rewritten in 2022): <br/>
-  [**The Landau-Siegel Zero Problem in Number Theory**](./miscellanea/Landau-Siegel.pdf). 

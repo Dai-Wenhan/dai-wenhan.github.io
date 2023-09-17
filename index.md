@@ -4,9 +4,9 @@ _Last updated on: July, 2023_
 
 Hi!
 
-- [**Research / Expository Writings**](./blurbs.md).
-- [**Conference / Seminar Activities**](./activities.md).
-- [**Studying Notes Repository**](./notes.md).
+- [**Articles and Lecture Notes**](./blurbs.md).
+- [**Conference and Seminar Activities**](./activities.md).
+- [**Studying Repository for the Generals**](./notes.md).
 - [**Teaching Experiences**](./teaching.md).
 
 ### About Me
