@@ -2,8 +2,8 @@
 
 ### (Pre-)Publications
 
-2. [**Tate Cycles on Unitary Shimura Varieties mod Ramified _p_**]() (in preparation).
-1. [**A Geometric Jacquet-Langlands Correspondence for mod _p_ Unitary Shimura Varieties: the Ramified Case**](./blurbs/undergradthesis.pdf), undergraduate thesis (supervisor: [Liang Xiao](https://bicmr.pku.edu.cn/~lxiao/index.htm)), Peking University, 2023.
+1. [**Tate Cycles on Unitary Shimura Varieties mod Ramified _p_**]() (in preparation).
+2. [**A Geometric Jacquet-Langlands Correspondence for mod _p_ Unitary Shimura Varieties: the Ramified Case**](./blurbs/undergradthesis.pdf), undergraduate thesis (supervisor: [Liang Xiao](https://bicmr.pku.edu.cn/~lxiao/index.htm)), Peking University, 2023.
 
 
 
@@ -20,13 +20,13 @@
 - [**Chow groups and L-derivatives of automorphic motives for unitary groups**](./blurbs/Li-Liu.pdf). <br/>
  _Based on Chao Li's talk at Columbia in February, 2021; we survey the background of the joint work by Chao Li and Yifeng Liu on Beilinson–Bloch conjecture for unitary Shimura varieties._
 - [**Integral Model of Shimura Varieties of Hodge Type**](./blurbs/IntegralModel.pdf). <br/>
- _Following Kisin's work on smooth integral models after classification of Breuil-Kisin modules of p-divisible groups; notes for lectures by Xu Shen at BICMR._
+ (**Xu Shen**, 2023) _Following Kisin's work on smooth integral models after classification of Breuil-Kisin modules of p-divisible groups._
 - [**Higher Dimensional Gross-Zagier Formula**](./blurbs/HigherDimGZ.pdf). <br/>
- _Notes for an introductory course by Wei Zhang at 2022 Summer School on the Langlands Program (IHES)._
+ (**Wei Zhang**, 2022) _Notes for the Summer School on the Langlands Program (IHES)._
 - [**The Local Langlands Conjecture**](./blurbs/LLC.pdf). <br/>
- _Notes for an introductory course by Olivier Taïbi at 2022 Summer School on the Langlands Program (IHES); revised by the speaker._
+ (**Olivier Taïbi**, 2022) _Notes for the Summer School on the Langlands Program (IHES); revised by the speaker._
 - [**Shimura Varieties**](./blurbs/Shvar.pdf). <br/>
- _Notes for an introductory course by Sophie Morel at 2022 Summer School on the Langlands Program (IHES); revised by the speaker._
+ (**Sophie Morel**, 2022) _Notes for the Summer School on the Langlands Program (IHES); revised by the speaker._
 
 
 
@@ -35,28 +35,29 @@
 - [**On Lusztig's Middle Extension of Perverse Sheaves**](./blurbs/MidExt.pdf). <br/>
  _A survey adapted from some seminar talk about Springer theory._
 - [**Local Shtukas and the Langlands Program**](./blurbs/LocalShtukas.pdf). <br/>
- _Notes for an introductory course by Jared Weinstein at 2022 Summer School on the Langlands Program (IHES)._
+ (**Jared Weinstein**, 2022) _Notes for the Summer School on the Langlands Program (IHES)._
 - [**On the Local Langlands Conjectures for Reductive Groups over _p_-adic Fields**](). <br/>
  _In process._
 
 #### Galois representations and modular forms:
 
-- [**Hida Theory on _p_-adic Modular Forms**](./blurbs/Hida.pdf). <br/>
- _About Haruzo Hida's construction of analytic families of ordinary p-adic modular forms and their associated Galois representations; notes for lectures by Bin Zhao at BICMR._
-- [**On the mod _p_ Jacquet-Langlands correspondence for GL(2)**](./blurbs/modpJL.pdf). <br/>
- _Notes for Yongquan Hu's lecture series at BICMR in 2021; including basic preliminaries and recent works, such as topics on Serre weight, Gelfand-Kirillov dimension, and Scholze's functor._
 - [**Modularity Lifting**](./blurbs/modlift.pdf). <br/>
- _The crucial ingredient in understanding Andrew Wiles' proof of Fermat's last theorem; McGill lecture by Patrick Allen._
+ _The crucial ingredient in understanding Andrew Wiles' proof of Fermat's last theorem; expanded from McGill lecture by Patrick Allen._
+- [**Hida Theory on _p_-adic Modular Forms**](./blurbs/Hida.pdf).  <br/>
+ (**Bin Zhao**, 2022) _About Haruzo Hida's construction of analytic families of ordinary p-adic modular forms and their associated Galois representations._
+- [**On the mod _p_ Jacquet-Langlands correspondence for GL(2)**](./blurbs/modpJL.pdf). <br/>
+ (**Yongquan Hu**, 2021) _Including basic preliminaries and recent works, such as topics on Serre weight, Gelfand-Kirillov dimension, and Scholze's functor._
+
 
 #### Representation theory and Reductive groups:
 
 - [**On Representations of Lie Algebras**](./blurbs/Lie.pdf). <br/>
- _Notes for a basic course by Jinpeng An; routine work._
+ (**Jinpeng An**, 2022) _Notes for a basic course in routine._
 
 #### Arithmetic geometry, Arakelov geometry, and Algebraic geometry:
 
 - [**Abelian Varieties**](./blurbs/AV2022.pdf). <br/>
- _Following David Mumford's book closely._
+ (**Bin Zhao**, 2020) _Following David Mumford's book closely._
 - [**Anabelian Geometry and the ABC Conjecture**](./blurbs/AAGABC.pdf). <br/>
  _A review for Shinichi Mochizuki's work; manuscript and totally unreadable._
 
@@ -70,12 +71,6 @@
 
 
 
-
-
-### Miscellanea
-
-- (April 2022) [**From Geometric Representation Theory to the Langlands Program**](./miscellanea/Zhu-interview-en.pdf). <br/>
- _An interview with ICM2022 invited presenter alumnus Xinwen Zhu. See also a [Chinese translation](./miscellanea/Zhu-interview-ch.pdf)._
 
   
 ![group1](./group1.png)
