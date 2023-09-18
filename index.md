@@ -6,7 +6,7 @@ Hi!
 
 - [**Articles and Lecture Notes**](./blurbs.md).
 - [**Conference and Seminar Activities**](./activities.md).
-- [**Studying Notes for the Generals**](./notes.md).
+- [**Studying Notes Repository**](./notes.md).
 - [**Teaching Experiences**](./teaching.md).
 
 ### About Me

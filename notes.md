@@ -1,9 +1,10 @@
-## Notes for the Generals
+## Studying Notes Repository
 
-This page collects some of my handwritten or TeXed notes, which are intentionally oriented to prepare the qualifying exams. The notes come from a variety of sources, such as certain books and papers or the course notes of others. 
+This page collects some of my handwritten or TeXed notes; most of them are intentionally oriented to prepare the qualifying exams. The notes come from a variety of sources, such as certain books and papers or the course notes of others. 
 
+### Arithmetic Geometry
 
-### General Algebraic Geometry 
+### Algebraic Geometry 
 
 This part mainly refers to an MIT course by [Kiran Kedlaya](https://kskedlaya.org).
 
