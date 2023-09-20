@@ -120,7 +120,7 @@ _The [video links](https://www.youtube.com/playlist?list=PLx5f8IelFRgEv3qXY43HxV
 
 #### July 18
 
-- **Tasho Kaletha** (Univ. Michigan) -- **A Brief Introduction to the Trace Formula and its Stabilization (1/2)**. ([video](https://www.youtube.com/watch?v=jH-C2Zm2pgM), [notes]()) <br/>
+- **Tasho Kaletha** (Univ. Michigan) -- **A Brief Introduction to the Trace Formula and its Stabilization (1/2)**. ([video](https://www.youtube.com/watch?v=jH-C2Zm2pgM), [notes](././KalethaM1.pdf)) <br/>
   _We will discuss the derivation of the stable Arthur-Selberg trace formula. In the first lecture we will focus on anisotropic reductive groups, for which the trace formula can be derived easily. We will then discuss the stabilization of this trace formula, which is unconditional on the geometric side, and relies on the Arthur conjectures on the spectral side. In the second lecture we will sketch the case of an arbitrary reductive group, which causes many analytic difficulties. We will briefly describe the various stops on the road to the stable trace formula, including the coarse and fine expansions of the non-invariant trace formula, as well the invariant trace formula. Examples will be given for the group SL(2). Towards the end, we will discuss the application of the stable trace formula to the classification of representations of classical groups._
 
 - **Jared Weinstein** (Boston Univ.) -- **Local Shtukas and the Langlands Program (1/2)**. ([video](https://www.youtube.com/watch?v=vsaPXP3p2QM), [notes](././WeinsteinM1.pdf)) <br/>

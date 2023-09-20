@@ -120,3 +120,23 @@
 - (_Seminar_) **Student Seminar on Hartshorne's _Algebraic Geometry_**.
 - (_Seminar_) **Student Seminar on Naive Lie Theory**.
 
+
+
+![BerkeleyLandscape](./Berkeley.jpeg)
+
+
+
+### Scattered Notes for Research Talks
+
+- [**Mirabolic Special Cycles and Twisted Arithmetic Fundamental Lemma**](./MiniTalks/Zhang0920.pdf) (**Zhiyu Zhang**, September, 2023). <br/>
+  _On mirabolic special cycles on certain Rapoport-Zink spaces for_ GL(_n_)_, motivated by the arithmetic Gan-Gross-Prasad conjectures._
+- [**Robba Site and Robba Cohomology**](./MiniTalks/Shimizu0610.pdf) (**Koji Shimizu**, June, 2023). <br/>
+  _A p-adic cohomology theory for rigid analytic varieties with overconvergent structure (dagger spaces) over a local field of characteristic p._
+- [**Multivariable (phi,Gamma)-modules and Modular Representations of Galois and GL(2)**](./MiniTalks/Breuil.md) (**Christophe Breuil**, November, 2022). <br/>
+  _?_
+- [**Arithmetic of Quadratic Twists of Elliptic Curves**](./MiniTalks/Tian1102.pdf) (**Ye Tian**, November, 2022). <br/>
+  _At Tianyuan Mathematical Center. From the congruent number problem to Gross-Zagier formula and arithmetic Rallis inner product formula._
+- [**The _p_-adic Borel Hyperbolicity of Ag**](./MiniTalks/Zhu1019.pdf) (**Xinwen Zhu**, October, 2022). <br/>
+  _About the algebraicity of p-adic analytic-arithmetic map for Shimura varieties of Hodge type._
+- [**The Landau-Siegel Zero Problem in Number Theory**](./miscellanea/Landau-Siegel.pdf) (**Yitang Zhang**, November, 2019). <br/>
+  _Reflection in public to receiving the Future Science Price, China Future Forum._

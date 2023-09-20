@@ -6,7 +6,7 @@
 2. [**A Geometric Jacquet-Langlands Correspondence for mod _p_ Unitary Shimura Varieties: the Ramified Case**](./blurbs/undergradthesis.pdf), undergraduate thesis (supervisor: [Liang Xiao](https://bicmr.pku.edu.cn/~lxiao/index.htm)), Peking University, 2023.
 
 
-![group1](./group1.png)
+![group1](./group1.jpeg)
 
 
 ### Expository Writings and Notes
@@ -51,7 +51,7 @@
   _Including basic preliminaries and recent works, such as topics on Serre weight, Gelfand-Kirillov dimension, and Scholze's functor._
 
 
-#### Representation theory and Reductive groups:
+#### Representation theory and Group theory:
 
 - [**On Representations of Lie Algebras**](./blurbs/Lie.pdf) (**Jinpeng An**, 2022). <br/>
   _Notes for a basic course in routine._
@@ -73,18 +73,6 @@
 
 
   
-![group1](./group2.png)
+![group1](./group2.jpeg)
 
 
-### Scattered Notes for Research Talks
-
-- [**Robba Site and Robba Cohomology**](./MiniTalks/Shimizu610.pdf) (**Koji Shimizu**, June 10, 2023). <br/>
-  _Peking Online International Number Theory Seminar (POINTS), Peking University._
-- [**Multivariable (phi,Gamma)-modules and Modular Representations of Galois and GL(2)**](./MiniTalks/Breuil.md) (**Christophe Breuil**, Nov 30, 2022). <br/>
-  _?_
-- [**Arithmetic of Quadratic Twists of Elliptic Curves**](./MiniTalks/Tian1102.pdf) (**Ye Tian**, Nov 02, 2022). <br/>
-  _Distinguished Invited Talk, Tianyuan Mathematical Center._
-- [**The _p_-adic Borel Hyperbolicity of Ag**](./MiniTalks/Zhu1019.md) (**Xinwen Zhu**, Oct 19, 2022). <br/>
-  _Peking Online International Number Theory Seminar (POINTS), Peking University._
-- [**The Landau-Siegel Zero Problem in Number Theory**](./miscellanea/Landau-Siegel.pdf) (**Yitang Zhang**, Nov 15, 2019). <br/>
-  _Reflection in public to receiving the Future Science Price, China Future Forum._
