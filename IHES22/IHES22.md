@@ -143,7 +143,7 @@ _The [video links](https://www.youtube.com/playlist?list=PLx5f8IelFRgEv3qXY43HxV
 - **Jared Weinstein** (Boston Univ.) -- **Local Shtukas and the Langlands Program (2/2)**. ([video](https://www.youtube.com/watch?v=tHqDcAGGIig), [notes](././WeinsteinM2.pdf)) <br/>
   _This is a follow-up to the previous session._
 
-- **Tasho Kaletha** (Univ. Michigan) -- **A Brief Introduction to the Trace Formula and its Stabilization (2/2)**. ([video](https://www.youtube.com/watch?v=TKm2o4tj6NM), [notes]()) <br/>
+- **Tasho Kaletha** (Univ. Michigan) -- **A Brief Introduction to the Trace Formula and its Stabilization (2/2)**. ([video](https://www.youtube.com/watch?v=TKm2o4tj6NM), [notes](././KalethaM2.pdf)) <br/>
   _This is a follow-up to the previous session._
 
 - **Cong Xue** (IMJ-PRG) -- **Cohomology Sheaves of Stacks of Shtukas (1/2)**. ([video](https://www.youtube.com/watch?v=0GuYZUrBrg4), [notes](././XueM1.pdf)) <br/>
