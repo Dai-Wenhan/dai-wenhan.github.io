@@ -59,4 +59,4 @@ Beijing, 100084, China
 <br/>
 Bien que ce site ne soit disponible qu'en anglais, je peux répondre aux courriels en français (avec difficulté).
 
-![summer](./landscape-summer.png)
+![summer](./landscape-summer.jpeg)
