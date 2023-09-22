@@ -66,5 +66,5 @@ Cette partie fait principalement référence aux notes de cours de [Sophie Morel
  _Definitions, Orthogonality of characters, Schur's lemma, Inner product formula, Characters and representation rings, the complex case, representation of a product of groups._
 
 
-![Xiang](./Xiang.jpeg)
+![Pan](./Pan.jpeg)
  
