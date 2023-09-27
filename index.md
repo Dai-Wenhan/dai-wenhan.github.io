@@ -1,6 +1,6 @@
 # Wenhan DAI's Homepage / 戴文晗
 
-_Last updated on: July, 2023_
+_Last update on: July, 2023_
 
 Hi!
 
