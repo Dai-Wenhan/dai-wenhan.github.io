@@ -25,8 +25,8 @@ A headshot of mine is posted [here](./headshot.jpg).
 
 ## Recent Updates
 
-1. This semester I work on geometry of Shimura varieties mod _p_, as well as arithmetic applications of Shimura varieties of abelian type.
-2. I will work as the teaching assistant for Algebraic Number Theory II (Lecturer: Koji Shimizu).
+1. This semester I work on geometry of Shimura varieties mod _p_ and perfectoid geometry of infinite-level Shimura varieties.
+2. I will work as the teaching assistant for [Algebraic Number Theory 2](./ANT2-2023Fall/ANT2-2023Fall.md) (Lecturer: Koji Shimizu).
 
 
 ### Ongoing/Upcoming Events

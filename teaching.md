@@ -17,7 +17,7 @@
 
 ### As Teaching Asistant
 
-- [Algebraic Number Theory 2]() / [代数数论2]() (2023 Fall). <br/>
+- [Algebraic Number Theory 2](./ANT2-2023Fall/ANT2-2023Fall.md) / [代数数论2](./ANT2-2023Fall/ANT2-2023Fall.md) (2023 Fall). <br/>
   _With the lecturer Koji Shimizu in Tsinghua University._
 
 
