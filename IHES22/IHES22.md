@@ -192,7 +192,7 @@ _The [video links](https://www.youtube.com/playlist?list=PLx5f8IelFRgEv3qXY43HxV
 - **Jean-François Dat** (IMJ-PRG) -- **On Moduli Spaces of Local Langlands Parameters (1/2)**. ([video](https://www.youtube.com/watch?v=XpbT4uwsE4w), [notes]()) <br/>
   _The moduli space of local Langlands parameters plays a key role in the formulation of some recent enhancements of the original local Langlands correspondence, such as the "local Langlands correspondence in families" and various "categorifications/geometrizations of LLC". We will explain their construction and basic properties, with special emphasis on the coarse moduli spaces._
 
-- **Wee Teck Gan** (Nat. Univ. Singapour) -- **Explicit Constructions of Automorphic Forms (2/2)**. ([video](https://www.youtube.com/watch?v=BqtY7NqO-5Q), [notes]()) <br/>
+- **Wee Teck Gan** (Nat. Univ. Singapour) -- **Explicit Constructions of Automorphic Forms (2/2)**. ([video](https://www.youtube.com/watch?v=BqtY7NqO-5Q), [notes](././GanM2.pdf)) <br/>
   _This is a follow-up to the previous session._
 
 - **Jessica Fintzen** (Duke Univ. & Cambridge Univ.) -- **Supercuspidal Representations: Construction, Classification, and Characters (1/2)**. ([video](https://www.youtube.com/watch?v=9nbdAqA0piM), [notes]()) <br/>
