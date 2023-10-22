@@ -17,8 +17,6 @@
 
 #### Automorphic forms, Shimura varieties, and L-functions:
 
-- [**The Arithmetic of Hilbert Modular Varieties**](./blurbs/Hilb.pdf). <br/>
-  _In process._
 - [**Chow groups and L-derivatives of automorphic motives for unitary groups**](./blurbs/Li-Liu.pdf). <br/>
   _Based on Chao Li's talk at Columbia in February, 2021; we survey the background of the joint work by Chao Li and Yifeng Liu on Beilinson–Bloch conjecture for unitary Shimura varieties._
 - [**Integral Model of Shimura Varieties of Hodge Type**](./blurbs/IntegralModel.pdf) (**Xu Shen**, 2023). <br/>
@@ -38,8 +36,7 @@
   _A survey adapted from some seminar talk about Springer theory._
 - [**Local Shtukas and the Langlands Program**](./blurbs/LocalShtukas.pdf) (**Jared Weinstein**, 2022). <br/>
   _Notes for the Summer School on the Langlands Program (IHES)._
-- [**On the Local Langlands Conjectures for Reductive Groups over _p_-adic Fields**](). <br/>
-  _In process._
+
 
 #### Galois representations and modular forms:
 
