@@ -43,20 +43,22 @@ A headshot of mine is posted [here](./headshot.jpg).
 
 ## Contact Info
 
-```
-School of Mathematical Science
-Peking University
-No.5 Yiheyuan Road, Haidian District
+
+School of Mathematical Science <br/>
+Peking University <br/>
+No.5 Yiheyuan Road, Haidian District <br/>
 Beijing, 100871, China
 
-Yau Mathematical Sciences Center
-Jing Zhai, Tsinghua University
-No.30 Shuangqing Road, Haidian District
+Yau Mathematical Sciences Center <br/>
+Jing Zhai, Tsinghua University <br/>
+No.30 Shuangqing Road, Haidian District <br/>
 Beijing, 100084, China
-```
 
 **Email:** daiwenhan [at] pku [dot] edu [dot] cn (he/him/él/il)
 <br/>
-Bien que ce site ne soit disponible qu'en anglais, je peux répondre aux courriels en français (avec difficulté).
+
+```
+Bien que ce site ne soit disponible qu'en anglais, je peux répondre aux courriels en français (avec difficulté). --- Kiran Kedlaya
+```
 
 ![summer](./landscape-summer.jpeg)
