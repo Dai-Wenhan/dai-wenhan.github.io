@@ -220,7 +220,7 @@ _The [video links](https://www.youtube.com/playlist?list=PLx5f8IelFRgEv3qXY43HxV
 - **Laurent Fargues** (IMJ-PRG) -- **The Langlands Program and the Moduli of Bundles on the Curve (3/3)**. ([video](https://www.youtube.com/watch?v=I0EZnQaSMZQ), [notes]()) <br/>
   _This is a follow-up to the previous session._
 
-- **Sug Woo Shin** (UC Berkeley) -- **Shimura Varieties and Modularity (1/3)**. ([video](https://youtu.be/zux6NdB8sZg), [slides](././Shin.pdf)) <br/>
+- **Sug Woo Shin** (UC Berkeley) -- **Shimura Varieties and Modularity (1/3)**. ([video](https://youtu.be/zux6NdB8sZg), [slides](././Shin.pdf) for the first part, [notes](././ShinM1.pdf) for the second part) <br/>
   _We describe the construction of Galois representations associated to regular algebraic cuspidal automorphic representations of GL(n) over a CM field, as well as those Galois representations associated to torsion classes that occur in the Betti cohomology of the corresponding locally symmetric spaces. The emphasis will be on Scholze's proof, which applies to torsion classes and which uses perfectoid Shimura varieties and the Hodge-Tate period morphism._
 
 - **Ana Caraiani** (Imperial College) -- **Shimura Varieties and Modularity (2/3)**. ([video](https://youtu.be/9NoXFdG3u7E), [notes]()) <br/>
