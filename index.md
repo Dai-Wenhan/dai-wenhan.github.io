@@ -6,7 +6,6 @@ Hi!
 
 - [**Papers and Notes**](./blurbs.md).
 - [**Conference and Seminar Activities**](./activities.md).
-- [**Studying Experiences**](./notes.md).
 - [**Teaching Experiences**](./teaching.md).
 
 ### About Me
@@ -23,20 +22,15 @@ A headshot of mine is posted [here](./headshot.jpg).
 
 ## Recent Updates
 
-1. I will work as the teaching assistant for [Algebraic Number Theory 2](./ANT2-2023Fall/ANT2-2023Fall.md) (Lecturer: Koji Shimizu).
+1. In 2024 Spring, I will work as the teaching assistant for [Geometric Representation Theory 1]() (Lecturer: Lin Chen).
 
 
 ### Ongoing/Upcoming Events
 
-#### 2023 Summer
+#### 2024 Spring
 
-
-- [**The 5th _Kyoto+_ Conference on Algebraic Geometry and Arithmetic Geometry at Nanjing**](./Nanjing23/Nanjing23.md).
-
-  By Arithmetic & Homotopic Galois Theory, a France-Japan international network.
-  - **Time:** August 24 to 28.
-  - **Venue:** Yifu Hall, Nanjing University Gulou / 南京大学鼓楼校区逸夫馆.
-
+- [**Seminar on Relative Langlands Duality (II)**](./BZSV/BZSV2.md). <br/>
+  _To study the new work by Ben-Zvi, Sakellaridis, and Venkatesh, about the global conjecture and Devalapurkar's recent rank-one local proof._
 
 ## Contact Info
 
@@ -55,8 +49,7 @@ Beijing, 100084, China
 ```
 
 
-**Email:** daiwenhan [at] pku [dot] edu [dot] cn (he/him/él/il) <br/>
- _"Bien que ce site ne soit disponible qu'en anglais, je peux répondre aux courriels en français (avec difficulté)."_
+**Email:** daiwenhan [at] pku [dot] edu [dot] cn (he/him/él/il)
 
 
 ![summer](./landscape-summer.jpeg)
