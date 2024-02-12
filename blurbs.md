@@ -1,4 +1,4 @@
-## Articles and Lecture Notes
+## Papers and Lecture Notes
 
 ### Papers
 
@@ -16,16 +16,17 @@
 
 #### Automorphic forms, Shimura varieties, and L-functions:
 
-- [**The Hodge-Tate period map on perfectoid Shimura varieties**](./blurbs/HT.pdf) (**Yihang Zhu**, 2023). <br/>
+- [**The Hodge-Tate period map on perfectoid Shimura varieties**](./blurbs/HT.pdf) (lectures by **Yihang Zhu**, 2023). <br/>
   _Live-texed notes for a lecture series at YMSC, based on Scholze's torsion paper._
-
+- [**Hyperspherical Hamiltonian varieties**](./blurbs/hamiltonian.pdf). <br/>
+  _Notes for two talks on relative Langlands duality._
 - [**Chow groups and L-derivatives of automorphic motives for unitary groups**](./blurbs/Li-Liu.pdf). <br/>
   _Based on Chao Li's talk at Columbia in February, 2021; we survey the background of the joint work by Chao Li and Yifeng Liu on Beilinson–Bloch conjecture for unitary Shimura varieties._
-- [**Integral Model of Shimura Varieties of Hodge Type**](./blurbs/IntegralModel.pdf) (**Xu Shen**, 2023). <br/>
+- [**Integral Model of Shimura Varieties of Hodge Type**](./blurbs/IntegralModel.pdf) (lectures by **Xu Shen**, 2023). <br/>
   _Following Kisin's work on smooth integral models after classification of Breuil-Kisin modules of p-divisible groups._
-- [**The Local Langlands Conjecture**](./blurbs/LLC.pdf). (**Olivier Taïbi**, 2022) <br/>
+- [**The Local Langlands Conjecture**](./blurbs/LLC.pdf). (lectures by **Olivier Taïbi**, 2022) <br/>
   _Notes transcript for the Summer School on the Langlands Program (IHES); revised._
-- [**Shimura Varieties**](./blurbs/Shvar.pdf) (**Sophie Morel**, 2022). <br/>
+- [**Shimura Varieties**](./blurbs/Shvar.pdf) (lectures by **Sophie Morel**, 2022). <br/>
   _Notes transcript for the Summer School on the Langlands Program (IHES); revised._
 
 
@@ -34,23 +35,23 @@
 
 - [**On Lusztig's Middle Extension of Perverse Sheaves**](./blurbs/MidExt.pdf). <br/>
   _A survey adapted from some seminar talk about Springer theory._
-- [**Local Shtukas and the Langlands Program**](./blurbs/LocalShtukas.pdf) (**Jared Weinstein**, 2022). <br/>
+- [**Local Shtukas and the Langlands Program**](./blurbs/LocalShtukas.pdf) (lectures by **Jared Weinstein**, 2022). <br/>
   _Notes transcript for the Summer School on the Langlands Program (IHES)._
 
 
 #### Galois representations and modular forms:
 
-- [**Modularity Lifting**](./blurbs/modlift.pdf) (**Patrick Allen**, 2022). <br/>
+- [**Modularity Lifting**](./blurbs/modlift.pdf) (lectures by **Patrick Allen**, 2022). <br/>
   _The crucial ingredient in understanding Andrew Wiles' proof of Fermat's last theorem; expanded from Allen's McGill lectures._
-- [**Hida Theory on _p_-adic Modular Forms**](./blurbs/Hida.pdf) (**Bin Zhao**, 2022).  <br/>
+- [**Hida Theory on _p_-adic Modular Forms**](./blurbs/Hida.pdf) (lectures by **Bin Zhao**, 2022).  <br/>
   _About Haruzo Hida's construction of analytic families of ordinary p-adic modular forms and their associated Galois representations._
-- [**On the mod _p_ Jacquet-Langlands correspondence for GL(2)**](./blurbs/modpJL.pdf) (**Yongquan Hu**, 2021). <br/>
+- [**On the mod _p_ Jacquet-Langlands correspondence for GL(2)**](./blurbs/modpJL.pdf) (lectures by **Yongquan Hu**, 2021). <br/>
   _Including basic preliminaries and recent works, such as topics on Serre weight, Gelfand-Kirillov dimension, and Scholze's functor._
 
 
 #### Representation theory and Group theory:
 
-- [**On Representations of Lie Algebras**](./blurbs/Lie.pdf) (**Jinpeng An**, 2022). <br/>
+- [**On Representations of Lie Algebras**](./blurbs/Lie.pdf) (lectures by **Jinpeng An**, 2022). <br/>
   _Notes for a basic course in routine._
 
 #### Arithmetic geometry, Arakelov geometry, and Algebraic geometry:

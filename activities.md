@@ -13,8 +13,7 @@
 
 - [**Seminar on Relative Langlands Duality (I)**](./BZSV/BZSV1.md). <br/>
   _To study the new work by Ben-Zvi, Sakellaridis, and Venkatesh, with an emphasis on the local conjecture._
-
-- [**Lectures on geometric Langlands**](./geomLanglands/geomLanglands.md). <br/>
+- [**Lectures on geometric Langlands**](https://windshower.github.io/linchen/teaching/f2023.html). <br/>
   _By Lin Chen, to introduce the recent works on the proof by the group led by Dannis Gaitsgory._
 
 #### 2023 Summer

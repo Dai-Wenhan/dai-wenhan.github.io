@@ -1,18 +1,19 @@
 # Wenhan DAI's Homepage / 戴文晗
 
-_Last update on: July, 2023_
+_Last update on: February, 2024_
 
 Hi!
 
-- [**Articles and Lecture Notes**](./blurbs.md).
+- [**Papers and Notes**](./blurbs.md).
 - [**Conference and Seminar Activities**](./activities.md).
+- [**Studying Experiences**](./notes.md).
 - [**Teaching Experiences**](./teaching.md).
 
 ### About Me
 
-Since 2023 Fall, I am a first-year graduate student at [Yau Mathematical Sciences Center](https://ymsc.tsinghua.edu.cn) (YMSC), China. My research interest includes **number theory**, **arithmetic geometry**, and **(automorphic) representation theory**. In particular, I am mostly interested in _p_-adic geometry, local Langlands, and geometric Langlands.
+Since 2023 Fall, I am a first-year graduate student at [Yau Mathematical Sciences Center](https://ymsc.tsinghua.edu.cn) (YMSC), China. My research interest includes **number theory**, **arithmetic geometry**, and **(automorphic) representation theory**; I am particularly interested in _p_-adic geometry, categorical local Langlands, and geometric Langlands.
 
-Previously, I got my Bachelor's Degree at [Peking University](https://www.pku.edu.cn) in June 2023. My supervisor was Professor [Liang XIAO](https://bicmr.pku.edu.cn/~lxiao/index.htm) / 肖梁 at [Beijing International Center for Mathematical Research](https://bicmr.pku.edu.cn) (BICMR). 
+Previously, I got my B.A. in mathematics at [Peking University](https://www.pku.edu.cn) in June 2023. My supervisor was Professor [Liang XIAO](https://bicmr.pku.edu.cn/~lxiao/index.htm) / 肖梁 at [Beijing International Center for Mathematical Research](https://bicmr.pku.edu.cn) (BICMR). 
 
 A headshot of mine is posted [here](./headshot.jpg).
 

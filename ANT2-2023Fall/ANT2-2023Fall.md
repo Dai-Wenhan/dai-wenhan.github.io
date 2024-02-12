@@ -4,7 +4,7 @@ _2023 Fall, at Tsinghua University._
 
 ### News & Announcements
 
-None.
+[IMPORTANT] The final exam will take place in 6B204 at Jan 3, 2024. It is necessary to attend the exam for passing the course.
 
 ### Course Logistics
 
@@ -28,14 +28,15 @@ The course is a continuation of _Algebra and Number Theory 1_, and it covers **C
 - **Instructor's Office Hours:** 2-3 p.m. on Thursdays in Shuangqing Complex Building B621 (tentative).
 - **TA's Office Hours:** TBA. There will be extra office hours before the two homework submission deadlines.
 
-### Notes
-
-Course notes will be updated here.
 
 ### Problem Sets
 
-Homeworks together with their solutions will be updated here.
+- [**Problem Set 1**](././pset1.pdf) (due on Oct 31, see [**solutions**](././soln1.pdf)).
+- [**Problem Set 2**](././pset2.pdf) (due on Dec 19, see [**solutions**](././soln2.pdf)).
 
+### Final Exam
+
+- [**Problems with Solutions**](././final.pdf) (note that the solution to 2(e) is corrected).
 
 ### References
 
@@ -47,4 +48,4 @@ Homeworks together with their solutions will be updated here.
 
 
 
-_Last updated on: September 12, 2023_
+_Last updated on: January 4, 2024_
