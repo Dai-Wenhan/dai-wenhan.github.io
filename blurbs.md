@@ -1,9 +1,8 @@
 ## Articles and Lecture Notes
 
-### Preprints
+### Papers
 
-1. [**Tate Cycles on Unitary Shimura Varieties mod Ramified _p_**]() (in preparation).
-2. [**A Geometric Jacquet-Langlands Correspondence for mod _p_ Unitary Shimura Varieties: the Ramified Case**](./blurbs/undergradthesis.pdf), undergraduate thesis (supervisor: [Liang Xiao](https://bicmr.pku.edu.cn/~lxiao/index.htm)), Peking University, 2023.
+1. [**A Geometric Jacquet-Langlands Correspondence for Unitary Shimura Varieties mod Ramified _p_**](./blurbs/undergradthesis.pdf), undergraduate thesis (supervisor: [Liang Xiao](https://bicmr.pku.edu.cn/~lxiao/index.htm)), Peking University, 2023.
 
 
 ![group1](./group1.jpeg)
@@ -17,16 +16,17 @@
 
 #### Automorphic forms, Shimura varieties, and L-functions:
 
+- [**The Hodge-Tate period map on perfectoid Shimura varieties**](./blurbs/HT.pdf) (**Yihang Zhu**, 2023). <br/>
+  _Live-texed notes for a lecture series at YMSC, based on Scholze's torsion paper._
+
 - [**Chow groups and L-derivatives of automorphic motives for unitary groups**](./blurbs/Li-Liu.pdf). <br/>
   _Based on Chao Li's talk at Columbia in February, 2021; we survey the background of the joint work by Chao Li and Yifeng Liu on Beilinson–Bloch conjecture for unitary Shimura varieties._
 - [**Integral Model of Shimura Varieties of Hodge Type**](./blurbs/IntegralModel.pdf) (**Xu Shen**, 2023). <br/>
   _Following Kisin's work on smooth integral models after classification of Breuil-Kisin modules of p-divisible groups._
-- [**Higher Dimensional Gross-Zagier Formula**](./blurbs/HigherDimGZ.pdf) (**Wei Zhang**, 2022). <br/>
-  _Notes for the Summer School on the Langlands Program (IHES)._
 - [**The Local Langlands Conjecture**](./blurbs/LLC.pdf). (**Olivier Taïbi**, 2022) <br/>
-  _Notes for the Summer School on the Langlands Program (IHES); revised by the speaker._
+  _Notes transcript for the Summer School on the Langlands Program (IHES); revised._
 - [**Shimura Varieties**](./blurbs/Shvar.pdf) (**Sophie Morel**, 2022). <br/>
-  _Notes for the Summer School on the Langlands Program (IHES); revised by the speaker._
+  _Notes transcript for the Summer School on the Langlands Program (IHES); revised._
 
 
 
@@ -35,13 +35,13 @@
 - [**On Lusztig's Middle Extension of Perverse Sheaves**](./blurbs/MidExt.pdf). <br/>
   _A survey adapted from some seminar talk about Springer theory._
 - [**Local Shtukas and the Langlands Program**](./blurbs/LocalShtukas.pdf) (**Jared Weinstein**, 2022). <br/>
-  _Notes for the Summer School on the Langlands Program (IHES)._
+  _Notes transcript for the Summer School on the Langlands Program (IHES)._
 
 
 #### Galois representations and modular forms:
 
-- [**Modularity Lifting**](./blurbs/modlift.pdf). <br/>
-  _The crucial ingredient in understanding Andrew Wiles' proof of Fermat's last theorem; expanded from McGill lecture by Patrick Allen._
+- [**Modularity Lifting**](./blurbs/modlift.pdf) (**Patrick Allen**, 2022). <br/>
+  _The crucial ingredient in understanding Andrew Wiles' proof of Fermat's last theorem; expanded from Allen's McGill lectures._
 - [**Hida Theory on _p_-adic Modular Forms**](./blurbs/Hida.pdf) (**Bin Zhao**, 2022).  <br/>
   _About Haruzo Hida's construction of analytic families of ordinary p-adic modular forms and their associated Galois representations._
 - [**On the mod _p_ Jacquet-Langlands correspondence for GL(2)**](./blurbs/modpJL.pdf) (**Yongquan Hu**, 2021). <br/>
@@ -57,8 +57,7 @@
 
 - [**Abelian Varieties**](./blurbs/AV2022.pdf). <br/>
   _Following David Mumford's book closely._
-- [**Anabelian Geometry and the ABC Conjecture**](./blurbs/AAGABC.pdf). <br/>
-  _A review for Shinichi Mochizuki's work; manuscript and totally unreadable._
+
 
 
 #### Digressions:
