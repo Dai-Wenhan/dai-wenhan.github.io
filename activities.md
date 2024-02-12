@@ -1,17 +1,26 @@
 ## Conference / Seminar Activities
 
-### Ongoing / Upcoming Events During 2023 Fall
+### Ongoing / Upcoming Events During 2024 Spring
 
-- [**The 24th Autumn Workshop on Number Theory in Sapporo**]().
-- [**Princeton special-year-workshop on _p_-adic arithmetic geometry**]().
+- [**Seminar on Relative Langlands Duality (II)**](./BZSV/BZSV2.md). <br/>
+  _To study the new work by Ben-Zvi, Sakellaridis, and Venkatesh, about the global conjecture and Devalapurkar's recent rank-one local proof._
+
 
 
 ### Notes and Archives of Past Events
 
+#### 2023 Fall
+
+- [**Seminar on Relative Langlands Duality (I)**](./BZSV/BZSV1.md). <br/>
+  _To study the new work by Ben-Zvi, Sakellaridis, and Venkatesh, with an emphasis on the local conjecture._
+
+- [**Lectures on geometric Langlands**](./geomLanglands/geomLanglands.md). <br/>
+  _By Lin Chen, to introduce the recent works on the proof by the group led by Dannis Gaitsgory._
+
 #### 2023 Summer
 - [**The 5th _Kyoto+_ Conference on Algebraic Geometry and Arithmetic Geometry in Nanjing**](./Nanjing23/Nanjing23.md). <br/>
   _By Arithmetic & Homotopic Galois Theory, a France-Japan international network._
-- [**HIM Conference on Global Langlands, Shimura varieties, and shtukas**](). <br/>
+- [**HIM Conference on Global Langlands, Shimura Varieties, and Shtukas**](). <br/>
   _On various aspects of the global Langlands correspondence; about in particular the geometry and cohomology of Shimura varieties and more general locally symmetric spaces, or moduli spaces of shtukas._
 - [**PKU Mathematics Forum on Pure Mathematics**](./PKUforum/PKUforum.md). <br/>
   _To celebrate the 110th anniversary of PKU Mathematics._
@@ -24,7 +33,7 @@
 
 #### 2023 Spring
 
-- [**HIM Conference on Local Langlands and _p_-adic methods**](./HIM23june/HIM23june.md). <br/>
+- [**HIM Conference on Local Langlands and _p_-adic Methods**](./HIM23june/HIM23june.md). <br/>
   _On aspects of the local Langlands correspondence over p-adic fields and methods from p-adic Hodge theory; at Hausdorff Research Institute for Mathematics, Universität Bonn._
 - [**HIM Summer School on the Arithmetic of the Langlands Program**](). <br/>
   _Courses about automorphy lifting, categorical local Langlands, p-adic automorphic forms, p-adic geometry, and shtukas; at Hausdorff Research Institute for Mathematics, Universität Bonn._
