@@ -150,4 +150,3 @@
   _Reflection in public to receiving the Future Science Price, China Future Forum._
 
 
-![IHES](./IHES.jpeg)

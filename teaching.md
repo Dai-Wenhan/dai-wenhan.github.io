@@ -15,7 +15,7 @@
   _Online tutorial, by SMS Student Union at PKU._
 
 
-### As Teaching Asistant
+### As Teaching Assistant
 
 - [Algebraic Number Theory 2](./ANT2-2023Fall/ANT2-2023Fall.md) / [代数数论2](./ANT2-2023Fall/ANT2-2023Fall.md) (2023 Fall). <br/>
   _With the lecturer Koji Shimizu in Tsinghua University._
