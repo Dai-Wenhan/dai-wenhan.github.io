@@ -24,10 +24,6 @@
   _Based on Chao Li's talk at Columbia in February, 2021; we survey the background of the joint work by Chao Li and Yifeng Liu on Beilinson–Bloch conjecture for unitary Shimura varieties._
 - [**Integral Model of Shimura Varieties of Hodge Type**](./blurbs/IntegralModel.pdf) (lectures by **Xu Shen**, 2023). <br/>
   _Following Kisin's work on smooth integral models after classification of Breuil-Kisin modules of p-divisible groups._
-- [**The Local Langlands Conjecture**](./blurbs/LLC.pdf). (lectures by **Olivier Taïbi**, 2022) <br/>
-  _Notes transcript for the Summer School on the Langlands Program (IHES); almost copied, with a minor expansion of speaker's notes._
-- [**Shimura Varieties**](./blurbs/Shvar.pdf) (lectures by **Sophie Morel**, 2022). <br/>
-  _Notes transcript for the Summer School on the Langlands Program (IHES); almost copied, with a minor expansion of speaker's notes._
 
 
 
@@ -35,8 +31,6 @@
 
 - [**On Lusztig's Middle Extension of Perverse Sheaves**](./blurbs/MidExt.pdf). <br/>
   _A survey adapted from some seminar talk about Springer theory._
-- [**Local Shtukas and the Langlands Program**](./blurbs/LocalShtukas.pdf) (lectures by **Jared Weinstein**, 2022). <br/>
-  _Notes transcript for the Summer School on the Langlands Program (IHES); almost copied, with a minor expansion of speaker's notes._
 
 
 #### Galois representations and modular forms:
