@@ -19,7 +19,6 @@ A headshot of mine is posted [here](./headshot.jpg).
 **Regarding language skills:** Chinese native speaker; fluent in English and French at work.
 
 
-
 ## Recent Updates
 
 1. In 2024 Spring, I will work as the teaching assistant for [Geometric Representation Theory 1]() (Lecturer: Lin Chen).

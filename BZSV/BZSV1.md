@@ -1,4 +1,4 @@
-## Seminar on Relative Langlands Duality
+## Seminar on Relative Langlands Duality (I)
 
 This seminar focuses on the recent work of Ben-Zvi-Sakellaridis-Venkatesh [BZSV] on relative Langlands duality. We hope that, bringing together with the experts in Beijing, we can possibly understand this work, and hopefully find some future directions.
 
@@ -26,5 +26,5 @@ This seminar focuses on the recent work of Ben-Zvi-Sakellaridis-Venkatesh [BZSV]
 **Note:** _The link for recordings of this seminar series are perennially valid._
 
 ### References
-1. [BZSV] David Ben-Zvi, Yiannis Sakellaridis, and Akshay Venkatesh, Relative Langlands duality, preprint.
+1. [BZSV] David Ben-Zvi, Yiannis Sakellaridis, and Akshay Venkatesh, Relative Langlands duality, preprint, available [here](https://www.math.ias.edu/~akshay/research/BZSVpaperV1.pdf).
 
