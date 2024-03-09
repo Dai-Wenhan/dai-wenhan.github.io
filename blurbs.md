@@ -18,7 +18,7 @@
 
 - [**The Hodge-Tate period map on perfectoid Shimura varieties**](./blurbs/HT.pdf) (lectures by **Yihang Zhu**, 2023). <br/>
   _Live-texed notes for a lecture series at YMSC, based on Scholze's torsion paper._
-- [**Hyperspherical Hamiltonian varieties**](./blurbs/hamiltonian.pdf). <br/>
+- [**Hyperspherical Hamiltonian varieties**](./blurbs/hamiltonian.pdf) (with **Xiangqian Yang**). <br/>
   _Notes for two talks on relative Langlands duality._
 - [**Chow groups and L-derivatives of automorphic motives for unitary groups**](./blurbs/Li-Liu.pdf). <br/>
   _Based on Chao Li's talk at Columbia in February, 2021; we survey the background of the joint work by Chao Li and Yifeng Liu on Beilinson–Bloch conjecture for unitary Shimura varieties._
