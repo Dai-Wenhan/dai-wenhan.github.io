@@ -21,7 +21,7 @@ A headshot of mine is posted [here](./headshot.jpg).
 
 ## Recent Updates
 
-1. In 2024 Spring, I will work as the teaching assistant for [Geometric Representation Theory 1]() (Lecturer: Lin Chen).
+1. In 2024 Spring, I will work as the teaching assistant for [Geometric Representation Theory 1]() (Lecturer: [Lin Chen](https://windshower.github.io/linchen/)).
 
 
 ### Ongoing/Upcoming Events

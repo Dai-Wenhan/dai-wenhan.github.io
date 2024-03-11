@@ -1,7 +1,7 @@
 ## Basic Number Theory (2020 Fall)
 
 - **Lecturer:** [Ruochuan Liu](http://faculty.bicmr.pku.edu.cn/~ruochuan/).
-- **Teaching Assistant:** [Jiedong Jiang]().
+- **Teaching Assistant:** Jiedong Jiang.
 
 ### Notes
 

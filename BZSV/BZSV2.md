@@ -10,9 +10,19 @@ This seminar focuses on the recent work of Ben-Zvi-Sakellaridis-Venkatesh [BZSV]
 
 ### Syllabus
 
-- [ ] (3/4) **Wenhan Dai:** Period functions and period sheaves I. ([notes](././0304.pdf), [video](https://cloud.tsinghua.edu.cn/d/c35036660e144110bf00/))
-- [ ] (3/11) **Wenhan Dai:** Period functions and period sheaves II. ([notes](././0311.pdf), [video](https://cloud.tsinghua.edu.cn/d/c35036660e144110bf00/))
-
+- [x] (3/4) **Wenhan Dai:** Period functions and period sheaves I. ([notes](././0304.pdf))
+- [x] (3/11) **Wenhan Dai:** Period functions and period sheaves II. ([notes](././0311.pdf))
+- [ ] (3/18) **Wen-wei Li:** L-functions and L-sheaves I. ([notes](././0318.pdf))
+- [ ] (3/25) **Xingzhu Fang:** L-functions and L-sheaves II. ([notes](././0325.pdf))
+- [ ] (4/1) **Liang Xiao:** Global geometric conjecture I. ([notes](././0401.pdf))
+- [ ] (4/8) **Chenglong Ma:** Global geometric conjecture II. ([notes](././0408.pdf))
+- [ ] (4/15) **Daming Zhou:** The case over projective line P^1. ([notes](././0415.pdf))
+- [ ] (4/22) **Wen-wei Li:** Numerical conjecture I. ([notes](././0422.pdf))
+- [ ] (4/29) **TBA:** Numerical conjecture II. ([notes](././0429.pdf))
+- (No seminar due to International Workers' Day.)
+- [ ] (5/6) **Qijun Yan:** Θ-series and local-global compatibility. ([notes](././0506.pdf))
+- [ ] (5/20) **Marc Besson:** Local spectral quantization. ([notes](././0520.pdf))
+- [ ] (5/27) **:** Global spectral quantization. ([notes](././0527.pdf))
 
 **Note:** _The link for recordings of this seminar series are perennially valid._
 
