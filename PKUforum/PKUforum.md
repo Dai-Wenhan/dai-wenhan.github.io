@@ -11,25 +11,25 @@
 
 #### August 1
 
-- **Yi Ni 倪忆** (CalTech) -- **The next-to-top term in knot Floer homology**. ([slides](././YiNi.pdf)) <br/>
+- **Yi Ni 倪忆** (CalTech) -- **The next-to-top term in knot Floer homology**. <br/>
 _Knot Floer homology is a knot invariant which categorifies the Alexander polynomial. This invariant contains a lot of information about the topology of the knot. For example, the topmost Alexander grading of the knot Floer homology of a knot is the Seifert genus of this knot, and the summand of the knot Floer homology at this grading has rank one if and only if the knot is fibered. In recent years, it became clear that the summand of the knot Floer homology at the next-to-top Alexander grading also contains information about the topology of the knot. In this talk, we will address the question whether this summand is nontrivial, and discuss the information contained in this summand about the monodromy when the knot is fibered._
 
-- **Xinwen Zhu 朱歆文** (Stanford) -- **The _p_-adic Borel Hyperbolicity of Ag**. ([slides](././XinwenZhu.pdf)) <br/>
+- **Xinwen Zhu 朱歆文** (Stanford) -- **The _p_-adic Borel Hyperbolicity of Ag**. <br/>
 _A theorem of Borel says that any holomorphic map from a smooth complex algebraic variety to a smooth arithmetic variety is automatically an algebraic map. The key ingredient is to show that any holomorphic map from the punctured disc to the arithmetic variety has no essential singularity. I will discuss some work towards a p-adic analogue of this theorem for moduli of abelian varieties. Joint with Abhishek Oswal and Ananth Shankar._
 
 
 
 
-- **Zhipeng Liu 刘志鹏** (Kansas) -- **Some exact formulas of the KPZ fixed point and directed landscape**. ([slides](././ZhipengLiu.pdf)) <br/>
+- **Zhipeng Liu 刘志鹏** (Kansas) -- **Some exact formulas of the KPZ fixed point and directed landscape**. <br/>
 _In the past twenty years, there have been huge developments in the study of the Kardar-ParisiZhang (KPZ) universality class, which is a broad class of phy ical and probabilistic models including one-dimensional interface growth processes, interacting particle systems and polymers in random environments, etc. It is broadly believed and partially proved, that all the models share the universal scaling exponents and have the same asymptotic behaviors. The height functions of models in the KPZ universality class are expected to converge to a limiting space-time fluctuation field, the KPZ fixed point. Moreover, there is a random "directed metric" on the space-time plane that is expected to govern all the models in the KPZ universality class. This "directed metric" is called the directed landscape. Both the KPZ fixed point and the directed landscape are central objects in the study of the KPZ universality class, while they were only characterized/constructed very recently [MQR21, DOV18]. In this talk, we will discuss some exact formulas of distributions in these two random fields and their analogs in the periodic domain. These exact formulas are given by Fredholm determinant or their analogs. We will show some surprising probabilistic properties of the KPZ fixed point and the directed landscape using the exact formulas. Some of the results are based on joint work with Jinho Baik, Yizao Wang, and Ray Zhang._
 
 
-- **Yao Yao 姚珧** (NUS) -- **Small scale formations in fluid equations with gravity**. ([slides](././YaoYao.pdf)) <br/>
+- **Yao Yao 姚珧** (NUS) -- **Small scale formations in fluid equations with gravity**. <br/>
 _In this talk, we discuss some PDEs that describe fluid motion under the influence of gravity, including the incompressible porous media equation and incompressible Boussinesq equation in two dimensions. Using an interplay between various monotone and conserved quantities, we construct rigorous examples of small scale formations as time goes to infinity. These growth results work for a broad class of initial data, where we only require certain symmetry and sign conditions. As an application, we also construct solutions to the 3D axisymmetric Euler equation whose velocity has infinite-in-time growth. (Based on joint works with Alexander Kiselev and Jaemin Park)._
 
 #### August 3
 
-- **Chenyang Xu 许晨阳** (Princeton) -- **Kähler-Einstein metric, K-stability and moduli spaces**. ([slides](././ChenyangXu.pdf)) <br/>
+- **Chenyang Xu 许晨阳** (Princeton) -- **Kähler-Einstein metric, K-stability and moduli spaces**. <br/>
 _The question of whether a smooth complex variety with a positive first Chern class, called a Fano variety, has a Kähler-Einstein metric has been a major topic in complex geometry since the 1980s. In the last decade, algebraic geometry, or more specifically higher dimensional geometry has played a surprising role in advancing our understanding of this problem. The interplay between complex geometry and algebraic geometry has also provided deep insights into higher dimensional algebraic geometry itself, peaked by the construction of a projective moduli space that parametrizes Fano varieties. More precisely, the moduli space parametrizes Fano variety satisfying the stability condition which is used to characterize the existence of a Kähler-Einstein metric - known as K-stability. In the lecture, I will explain the main ideas behind the recent progress of the field._
 
 
@@ -38,7 +38,7 @@ _The question of whether a smooth complex variety with a positive first Chern cl
 _I will describe the moduli space of non-archimedean holomorphic disks in affine log Calabi-Yau varieties, which is foundational to the non-archimedean mirror symmetry program. I will discuss boundary conditions, smoothness, dimension and properness. Smoothness relies on the nonarchimedean deformation theory joint with M. Porta. Properness relies on formal models and Temkin's s theory of reduction of germs. Work in progress with S. Keel._
 
 
-- **Gang Liu 刘钢** (East China Normal Univ.) -- **Gromov-Hausdorff convergence of Kähler manifolds**. ([slides](././GangLiu.pdf)) <br/>
+- **Gang Liu 刘钢** (East China Normal Univ.) -- **Gromov-Hausdorff convergence of Kähler manifolds**. <br/>
 _We survey recent progress on Gromov-Hausdorff convergence of Kähler manifolds with geometric applications._
 
 
@@ -47,16 +47,16 @@ _In filtration 1 of the Adams spectral sequence, using secondary cohomology oper
 
 
 
-- **Xin Zhou 周鑫** (Cornell) -- **Some recent development in minimal surface theory**. ([slides](././XinZhou.pdf)) <br/>
+- **Xin Zhou 周鑫** (Cornell) -- **Some recent development in minimal surface theory**. <br/>
 _We will present some recent progress on two problems in minimal surface theory posed by S. T. Yau in 1982. In particular, we will discuss the existence of infinitely many closed minimal hypersurfaces in a closed Riemannian manifold and the existence of four closed minimal twospheres in a Riemannian three-sphere._
 
 #### August 4
 
-- **Wei Zhang 张伟** (MIT) -- **Algebraic cycles over number fields and L-functions: conjectures and results.**. ([slides](././WeiZhang.pdf)) <br/>
+- **Wei Zhang 张伟** (MIT) -- **Algebraic cycles over number fields and L-functions: conjectures and results.**. <br/>
 _Algebraic cycles are among the most fundamental mathematical objects. Those defined over number fields are of particular interest. There are also analytic invariants, the Hasse-Weil L-functions, attached to algebraic varieties over number fields. We will review the history of a few conjectures on the connection between them, focusing on that of Tate and Birch-SwinnertonDyer. We will then state a few recent results towards these conjectures, proved by studying automorphic period integral and arithmetic intersection theory on Shimura varieties._
 
 
-- **Ziyang Gao 高紫阳** (Hannover) -- **Sparsity of Rational and Algebraic Points**. ([slides](././ZiyangGao.pdf)) <br/>
+- **Ziyang Gao 高紫阳** (Hannover) -- **Sparsity of Rational and Algebraic Points**. <br/>
 _It is a fundamental question in mathematics to find rational solutions to a given system of polynomials, and in modern language this question translates into finding rational points in algebraic varieties. This question is already very deep for algebraic curves defined over Q. An intrinsic natural number associated with the curve, called its genus, plays an important role in studying the rational points on the curve. In 1983, Faltings proved the famous Mordell Conjecture (proposed in 1922), which asserts that any curve of genus at least 2 has only finitely many rational points. Thus the problem for curves of genus at least 2 can be divided into several grades: finiteness, bound, uniform bound, effectiveness. An answer to each grade requires a better understanding of the distribution of the rational points. In my talk, I will explain the historical and recent developments of this problem according to the different grades. Another important topic on studying points on curves is the torsion packets. This topic goes beyond rational points. I will also discuss briefly about it in my talk._
 
 
