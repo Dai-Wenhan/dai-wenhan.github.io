@@ -17,7 +17,7 @@
 
 ### As Teaching Assistant
 
-- [Geometric Representation Theory 1]() / [几何表示论1]() (2024 Spring). <br/>
+- [Geometric Representation Theory 1](https://windshower.github.io/linchen/teaching/s2024.html) / [几何表示论1](https://windshower.github.io/linchen/teaching/s2024.html) (2024 Spring). <br/>
   _With the lecturer [Lin Chen](https://windshower.github.io/linchen/) at Tsinghua University._
 - [Algebraic Number Theory 2](./ANT2-2023Fall/ANT2-2023Fall.md) / [代数数论2](./ANT2-2023Fall/ANT2-2023Fall.md) (2023 Fall). <br/>
   _With the lecturer Koji Shimizu at Tsinghua University._

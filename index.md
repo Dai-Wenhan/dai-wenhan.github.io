@@ -10,7 +10,7 @@ Hi!
 
 ### About Me
 
-Since 2023 Fall, I am a first-year graduate student at [Yau Mathematical Sciences Center](https://ymsc.tsinghua.edu.cn) (YMSC), China. My research interest includes **number theory**, **arithmetic geometry**, and **(automorphic) representation theory**; I am particularly interested in _p_-adic geometry, categorical local Langlands, and geometric Langlands.
+Since 2023 Fall, I am a first-year graduate student at [Yau Mathematical Sciences Center](https://ymsc.tsinghua.edu.cn) (YMSC), China. I work on number theory, arithmetic geometry, and representation theory; my research interest includes **_p_-adic geometry**, **categorical Langlands**, and **geometric Langlands**.
 
 Previously, I got my B.A. in mathematics at [Peking University](https://www.pku.edu.cn) in June 2023. My supervisor was Professor [Liang XIAO](https://bicmr.pku.edu.cn/~lxiao/index.htm) / 肖梁 at [Beijing International Center for Mathematical Research](https://bicmr.pku.edu.cn) (BICMR). 
 
@@ -21,7 +21,7 @@ A headshot of mine is posted [here](./headshot.jpg).
 
 ## Recent Updates
 
-1. In 2024 Spring, I will work as the teaching assistant for [Geometric Representation Theory 1]() (Lecturer: [Lin Chen](https://windshower.github.io/linchen/)).
+1. In 2024 Spring, I will work as the teaching assistant for [Geometric Representation Theory 1](https://windshower.github.io/linchen/teaching/s2024.html) (Lecturer: [Lin Chen](https://windshower.github.io/linchen/)).
 
 
 ### Ongoing/Upcoming Events
