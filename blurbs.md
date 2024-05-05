@@ -22,9 +22,10 @@
   _Notes for two talks on relative Langlands duality._
 - [**Chow groups and L-derivatives of automorphic motives for unitary groups**](./blurbs/Li-Liu.pdf). <br/>
   _Based on Chao Li's talk at Columbia in February, 2021; we survey the background of the joint work by Chao Li and Yifeng Liu on Beilinson–Bloch conjecture for unitary Shimura varieties._
-- [**Integral Model of Shimura Varieties of Hodge Type**](./blurbs/IntegralModel.pdf) (lectures by **Xu Shen**, 2023). <br/>
-  _Following Kisin's work on smooth integral models after classification of Breuil-Kisin modules of p-divisible groups._
-
+- [**Integral Models of Shimura Varieties of Hodge Type**](./blurbs/ShenIntegralModel.pdf) (lectures by **Xu Shen**, 2023). <br/>
+  _Following Mark Kisin's work on smooth integral models after classification of Breuil-Kisin modules of p-divisible groups._
+- [**Integral Models of Shimura Varieties**](./blurbs/KisinIntegralModels.pdf) (lectures by **Mark Kisin**). <br/>
+  _Focusing on Shimura varieties of abelian type; scribed from Kisin's lectures at Clay Mathematical Institute._
 
 
 #### Geometric aspects of the Langlands program:
