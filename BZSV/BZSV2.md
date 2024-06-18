@@ -5,7 +5,7 @@ This seminar focuses on the recent work of Ben-Zvi-Sakellaridis-Venkatesh [BZSV]
 
 - **Time:** Every Monday, 1:00-3:00pm.
 - **Location:** BICMR 82J12.
-- **Organizer:** [Wen-wei Li](https://wwli.asia/index.php/), [Liang Xiao](https://bicmr.pku.edu.cn/~lxiao/index.htm), and [Bin Xu](https://sites.google.com/view/binxumath/home).
+- **Organizer:** [Wen-wei Li](https://wwli.asia/index.php/) and [Liang Xiao](https://bicmr.pku.edu.cn/~lxiao/index.htm).
 
 
 ### Syllabus

@@ -1,12 +1,11 @@
-## Papers and Lecture Notes
+## Papers and Notes
 
 ### Papers
 
 1. [**A geometric Jacquet-Langlands correspondence for unitary Shimura varieties mod ramified _p_**](./blurbs/undergradthesis.pdf), undergraduate thesis (supervised by [Liang Xiao](https://bicmr.pku.edu.cn/~lxiao/index.htm)), Peking University, 2023.
 
 
-![group1](./group1.jpeg)
-
+![SantaMonica](./SantaMonica.jpeg)
 
 ### Expository Writings and Notes
 
@@ -41,7 +40,7 @@
 
 
 
-#### Representation theory and Group theory:
+#### Representation theory and group theory:
 
 - [**On the mod _p_ Jacquet-Langlands correspondence for GL(2)**](./blurbs/modpJL.pdf) (lectures by **Yongquan Hu**). <br/>
   _Including basic preliminaries and recent works, such as topics on Serre weight, Gelfand-Kirillov dimension, and Scholze's functor._
@@ -49,7 +48,7 @@
   _Notes for a basic course in routine._
 
 
-#### Algebraic geometry in general:
+#### General algebraic geometry:
 
 - [**On Lusztig's middle extension of perverse sheaves**](./blurbs/MidExt.pdf). <br/>
   _A survey adapted from a seminar talk about Springer theory._
@@ -69,6 +68,6 @@
 
 
   
-![group1](./group2.jpeg)
+
 
 
