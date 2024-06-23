@@ -8,7 +8,6 @@ Hi!
 - [**Conference and Seminar Activities**](./activities.md).
 - [**Teaching Experiences**](./teaching.md).
 
-![Dalian](./Dalian.jpeg)
 
 ### About Me
 
@@ -39,3 +38,4 @@ A headshot of mine is posted [here](./headshot.jpg).
 **Email:** daiwenhan [at] pku [dot] edu [dot] cn (he/him/él/il)
 
 
+![Dalian](./SantaMonica.jpeg)

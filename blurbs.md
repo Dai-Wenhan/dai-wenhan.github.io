@@ -4,8 +4,8 @@
 
 1. [**A geometric Jacquet-Langlands correspondence for unitary Shimura varieties mod ramified _p_**](./blurbs/undergradthesis.pdf), undergraduate thesis (supervised by [Liang Xiao](https://bicmr.pku.edu.cn/~lxiao/index.htm)), Peking University, 2023.
 
+![SantaMonica](./Dalian.jpeg)
 
-![SantaMonica](./SantaMonica.jpeg)
 
 ### Expository Writings and Notes
 
