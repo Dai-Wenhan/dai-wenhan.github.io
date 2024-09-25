@@ -2,12 +2,27 @@
 
 ### Ongoing / Upcoming Events During 2024 Spring
 
-- [**Seminar on Relative Langlands Duality (II)**](./BZSV/BZSV2.md). <br/>
-  _To study the new work by Ben-Zvi, Sakellaridis, and Venkatesh, about the global conjecture and Devalapurkar's recent rank-one local proof._
+
 
 
 
 ### Notes and Archives of Past Events
+
+#### 2024 Summer
+
+- [**The Los Angeles Workshop on Representations and Geometry**](./BZSV/LAWRGE.md). <br/>
+  _The follow-up event behind Minnesota summer school and workshop. Containing Problem sessions for examples in relative Langlands duality._
+
+- [**Minnesota Summer School and Workshop on Relative Langlands Duality**](./BZSV/UMN.md). <br/>
+  _Covered several aspects of the relative Langlands program and explore new connections._
+
+#### 2024 Spring
+
+- [**Jinling Conference on Number Theory and Arithmetic Geometry**](./Nanjing24/Nanjing24.md). <br/>
+  _._
+
+- [**Seminar on Relative Langlands Duality (II)**](./BZSV/BZSV2.md). <br/>
+  _To study the new work by Ben-Zvi, Sakellaridis, and Venkatesh, about the global conjecture and Devalapurkar's recent rank-one local proof._
 
 #### 2023 Fall
 
