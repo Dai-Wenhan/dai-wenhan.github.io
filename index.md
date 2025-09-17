@@ -11,7 +11,7 @@ Hi!
 
 ## About Me
 
-<img src="./headshot-new.jpeg" alt="headshot" style="float:left;margin:0rem 2rem 1rem 0rem;width:225px" /> 
+<img src="./headshot-new.jpeg" alt="headshot" style="float:left;margin:0.5rem 1.5rem 1rem 0rem;width:232px" /> 
 
 
 **Wenhan Dai** (**戴文晗**)  
