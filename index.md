@@ -1,41 +1,36 @@
-# Wenhan DAI's Homepage / 戴文晗
+# Wenhan DAI (戴文晗)
 
-_Last update on: February, 2024_
+_Last update on: September, 2025._
 
-Hi!
+<big> **Hi!** </big> 
 
-- [**Papers and Notes**](./blurbs.md).
-- [**Conference and Seminar Activities**](./activities.md).
-- [**Teaching Experiences**](./teaching.md).
+- [**Papers and Notes**](./blurbs.md)
+- [**Conference and Seminar Activities**](./activities.md)
+- [**Servicing and Teaching**](./teaching.md)
+
+## About Me
+
+<img src="./headshot-new.jpeg" alt="headshot" style="float:left;margin:0.5rem 1.5rem 0.5rem 0rem;width:200px" /> 
+
+I am currently a graduate student in pure mathematics at [National University of Singapore](https://www.math.nus.edu.sg) and my advisor is [David Hansen](http://www.davidrenshawhansen.net); I spent my previous two academic years 2023 and 2024 at [Qiuzhen Colledge, Tsinghua University](https://qzc.tsinghua.edu.cn/en/), where I was partially advised by [Yihang Zhu](https://yhzhumath.github.io). I obtained my B.Sc. in mathematics from [Peking University](https://www.pku.edu.cn) in 2023, supervised by [Liang Xiao](https://bicmr.pku.edu.cn/~lxiao/index.htm).
+
+I study and work on number theory, arithmetic geometry, and representation theory. My interest mainly lies in explicit aspects of the **categorical local Langlands correspondence**; I am also boardly interested in **geometric Langlands** and **relative Langlands**. 
+
+<small>(_Portrait by [Xiangqian Yang](https://yxqmath.github.io); Chongli, China, 2024._)</small>
 
 
-### About Me
 
-Since 2023 Fall, I am a first-year graduate student at [Yau Mathematical Sciences Center](https://ymsc.tsinghua.edu.cn) (YMSC), China. I work on number theory, arithmetic geometry, and representation theory; my research interest includes **_p_-adic geometry**, **categorical Langlands**, and **geometric Langlands**.
 
-Previously, I got my B.A. in mathematics at [Peking University](https://www.pku.edu.cn) in June 2023. My supervisor was Professor [Liang XIAO](https://bicmr.pku.edu.cn/~lxiao/index.htm) / 肖梁 at [Beijing International Center for Mathematical Research](https://bicmr.pku.edu.cn) (BICMR). 
 
-A headshot of mine is posted [here](./headshot.jpg).
+### Contact Info (he/him/él/il)
 
+```
+Department of Mathematics, National University of Singapore
+Block S17, 10 Lower Kent Ridge Road
+Singapore 119076
+```
+
+**Email:** daiwenhan [at] u [dot] nus [dot] edu  <br/>
 **Regarding language skills:** Chinese native speaker; fluent in English and French at work.
 
 
-
-## Recent Updates
-
-1. In 2024 Spring, I will work as the teaching assistant for [Geometric Representation Theory 1](https://windshower.github.io/linchen/teaching/s2024.html) (Lecturer: [Lin Chen](https://windshower.github.io/linchen/)).
-
-
-### Ongoing/Upcoming Events
-
-#### 2024 Spring
-
-- [**Seminar on Relative Langlands Duality (II)**](./BZSV/BZSV2.md). <br/>
-  _To study the new work by Ben-Zvi, Sakellaridis, and Venkatesh, about the global conjecture and Devalapurkar's recent rank-one local proof._
-
-## Contact Info
-
-**Email:** daiwenhan [at] pku [dot] edu [dot] cn (he/him/él/il)
-
-
-![Dalian](./SantaMonica.jpeg)
