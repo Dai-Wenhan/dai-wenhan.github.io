@@ -11,23 +11,21 @@ Hi!
 
 ## About Me
 
+<img src="./headshot-new.jpeg" alt="headshot" style="float:left;margin:0rem 1.5rem 1rem 0rem;width:215px" /> 
 
 
-<img src="./headshot-new.jpeg" alt="headshot" style="float:left;margin:0rem 2rem 1rem 0rem;width:200px" /> 
-
-### **Wenhan Dai** / **戴文晗**  
-
-<small>(_Photo by Xiangqian Yang; at Chongli, China, July 2024._)</small>
+**Wenhan Dai** / **戴文晗**  
+(_Photo by Xiangqian Yang_; Chongli, China, July 2024.)
 
 
-I am currently a graduate student at [National University of Singapore](https://www.math.nus.edu.sg), where my advisor is [David Hansen](http://www.davidrenshawhansen.net); I spent my previous two academic years 2023 and 2024 at [Qiuzhen Colledge, Tsinghua University](https://qzc.tsinghua.edu.cn/en/), where I was partially advised by [Yihang Zhu](https://yhzhumath.github.io). 
+
+I am currently a graduate student at [National University of Singapore](https://www.math.nus.edu.sg), where my advisor is [David Hansen](http://www.davidrenshawhansen.net); I spent the previous two academic years 2023 and 2024 at [Qiuzhen Colledge, Tsinghua University](https://qzc.tsinghua.edu.cn/en/), where I was partially advised by [Yihang Zhu](https://yhzhumath.github.io). 
 
 I obtained my B.Sc. in mathematics from [Peking University](https://www.pku.edu.cn) in 2023, supervised by [Liang Xiao](https://bicmr.pku.edu.cn/~lxiao/index.htm). 
 
-I study and work on number theory, arithmetic geometry, and representation theory. My recent interest mainly lies in explicit aspects of the **categorical local Langlands correspondence**; I am also boardly interested in **geometric Langlands** and **relative Langlands**. 
+I study and work on number theory, arithmetic geometry, and representation theory. Recently, my interest lies in explicit aspects of the **categorical local Langlands correspondence**; I am also broadly interested in **geometric Langlands** and **relative Langlands**. 
 
-Here is my [CV](./CV.pdf). 
-
+Here is my [**CV**](./CV.pdf).
 
 <br>
 
