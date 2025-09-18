@@ -5,17 +5,17 @@ Hi!
 - [**About Me**](./index.md)
 - [**Papers and Notes**](./blurbs.md)
 - [**Teaching Works and Services**](./teaching.md)
-- [**Archives of Conference / Seminar Activities**](./activities.md)
+- [**Conference / Seminar Archives**](./activities.md)
 
 <br>
 
 ## About Me
 
-<img src="./headshot-new.jpeg" alt="headshot" style="float:left;margin:0rem 1.5rem 1rem 0rem;width:228px" /> 
+<img src="./headshot-new.jpeg" alt="headshot" style="float:left;margin:0rem 1.5rem 1rem 0rem;width:232px" /> 
 
 
-<span style="font-weight: bold; font-size:18px">Wenhan Dai 戴文晗</span> <br>
-<span style="font-style: italic; font-size:11px">(Photo by Xiangqian Yang; Chongli, China, July 2024.)</span>
+<span style="font-weight: bold; font-size:18px">Wenhan Dai 戴文晗 </span> <br/>
+<span style="font-style: italic; font-size:11px; line-height:1">(Photo by Xiangqian Yang; Chongli, China, July 2024)</span>
 
 
 
@@ -30,7 +30,7 @@ Here is my [**CV**](./CV.pdf).
 <br>
 
 
-## Contact Info (he/him/él/il)
+## Contact Info
 
 ```
 Department of Mathematics, National University of Singapore
@@ -38,8 +38,8 @@ Block S17, 10 Lower Kent Ridge Road
 Singapore 119076
 ```
 
-**Email:** _daiwenhan_ [at] _u_ [dot] _nus_ [dot] _edu_  <br/>
-**Regarding language skills:** Chinese native speaker; fluent in English and French at work.
+**Email:** _daiwenhan_ [at] _u_ [dot] _nus_ [dot] _edu_ (he/him/él/il). <br/>
+**Language skills:** Chinese native speaker; fluent in English and French at work.
 
 
 <br>

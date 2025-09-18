@@ -5,7 +5,7 @@ Hi!
 - [**About Me**](./index.md)
 - [**Papers and Notes**](./blurbs.md)
 - [**Teaching Works and Services**](./teaching.md)
-- [**Archives of Conference / Seminar Activities**](./activities.md)
+- [**Conference / Seminar Archives**](./activities.md)
 
 <br>
 
