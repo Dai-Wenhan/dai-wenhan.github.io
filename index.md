@@ -2,20 +2,20 @@ _Last update on: September, 2025._
 
 Hi! 
 
+- [**About Me**](./index.md)
 - [**Papers and Notes**](./blurbs.md)
-- [**Conference and Seminar Activities**](./activities.md)
-- [**Service and Teaching**](./teaching.md)
+- [**Teaching Works and Services**](./teaching.md)
+- [**Archives of Conference / Seminar Activities**](./activities.md)
 
 <br>
 
-
 ## About Me
 
-<img src="./headshot-new.jpeg" alt="headshot" style="float:left;margin:0rem 1.5rem 1rem 0rem;width:230px" /> 
+<img src="./headshot-new.jpeg" alt="headshot" style="float:left;margin:0rem 1.5rem 1rem 0rem;width:228px" /> 
 
 
-**Wenhan Dai** **戴文晗** <br>
-(_Photo by Xiangqian Yang; Chongli, China, July 2024._)
+<span style="font-weight: bold; font-size:18px">Wenhan Dai 戴文晗</span> <br>
+<span style="font-style: italic; font-size:11px">(Photo by Xiangqian Yang; Chongli, China, July 2024.)</span>
 
 
 
@@ -30,8 +30,7 @@ Here is my [**CV**](./CV.pdf).
 <br>
 
 
-### Contact Info (he/him/él/il)
-
+## Contact Info (he/him/él/il)
 
 ```
 Department of Mathematics, National University of Singapore
@@ -41,4 +40,13 @@ Singapore 119076
 
 **Email:** _daiwenhan_ [at] _u_ [dot] _nus_ [dot] _edu_  <br/>
 **Regarding language skills:** Chinese native speaker; fluent in English and French at work.
+
+
+<br>
+
+
+
+
+
+
 

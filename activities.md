@@ -1,12 +1,16 @@
-## Conference / Seminar Activities
+_Last update on: September, 2025._
 
-### Ongoing / Upcoming Events During 2024 Spring
+Hi! 
 
+- [**About Me**](./index.md)
+- [**Papers and Notes**](./blurbs.md)
+- [**Teaching Works and Services**](./teaching.md)
+- [**Archives of Conference / Seminar Activities**](./activities.md)
 
+<br>
 
+## Archives of Conference / Seminar Activities
 
-
-### Notes and Archives of Past Events
 
 #### 2024 Summer
 

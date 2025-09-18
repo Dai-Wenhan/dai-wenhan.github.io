@@ -1,25 +1,35 @@
-## Teaching
+_Last update on: September, 2025._
+
+Hi! 
+
+- [**About Me**](./index.md)
+- [**Papers and Notes**](./blurbs.md)
+- [**Teaching Works and Services**](./teaching.md)
+- [**Archives of Conference / Seminar Activities**](./activities.md)
+
+<br>
+
+## Teaching Works and Services
+
+- **Teaching Assistant** for [**Algebraic Topology (I)**](). <br/>
+  _Spring 2024, Tsinghua University,_ with the lecturer Jianfeng Lin.
+
+- **Tutorial Course Instructor** for [**Linear Algebra (Honors)**](). <br/>
+  _Fall 2024, Tsinghua University,_ with the lecturer Xin Liang.
+
+- **Discussion Session** for [**Topics in Langlands Program: Representation Theory of _p_-adic Groups**](./p-adic-HWSoln.pdf). <br/>
+  _Spring 2024, Tsinghua University._
+
+- **Teaching Assistant** for [**Geometric Representation Theory (I)**](./GRT1-HWsoln.pdf). <br/>
+  _Spring 2024, Tsinghua University,_ with the lecturer [Lin Chen](https://windshower.github.io/linchen/) ([course webpage](https://windshower.github.io/linchen/teaching/s2024.html)). 
+
+- **Teaching Assistant** for [**Algebra and Number Theory (II)**](./ANT2-HWsoln.pdf). <br/>
+  _Fall 2023, Tsinghua University,_ with the lecturer Koji Shimizu. 
 
 
-### As Teaching Assistant
+- **Lecturer** for [**Basic Inequalities in Mathematical Olympiad**](./ineq/ineq.md) (奥林匹克数学中的不等式基础). <br/>
+  _Winter 2022, towards high school students;_ problem-solving lectures, in Chinese._
 
-- [Geometric Representation Theory 1](https://windshower.github.io/linchen/teaching/s2024.html) / [几何表示论1](https://windshower.github.io/linchen/teaching/s2024.html) (2024 Spring). <br/>
-  _With the lecturer [Lin Chen](https://windshower.github.io/linchen/) at Tsinghua University._
-- [Algebraic Number Theory 2](./ANT2-2023Fall/ANT2-2023Fall.md) / [代数数论2](./ANT2-2023Fall/ANT2-2023Fall.md) (2023 Fall). <br/>
-  _With the lecturer Koji Shimizu at Tsinghua University._
+- **Tutorial Course Instructor** for [**Calculus (B)**](./cal2021/cal2021.md) (高等数学(B)). <br/>
+  _Fall 2021, Peking University,_ online tutorial courses organized by SMS Student Union.
 
-
-
-### As Instructor
-
-#### Mathematical Olympiad
-- [Basic Inequalities](./ineq/ineq.md) / [不等式基础](./ineq/ineq.md) (2022 Winter). <br/>
-  _In Chinese; covered some techniques in problem solving._
-- [Elementary Number Theory](./imont/imont.md) / [初等数论](./imont/imont.md) (2022 Summer). <br/>
-  _To be updated in the future._
-
-#### University Courses
-- [Advanced Calculus (B)](./cal2021/cal2021.md) / [高等数学(B)](./cal2021/cal2021.md) (2021 Fall). <br/>
-  _Online tutorial, by SMS Student Union at PKU._
-- [Advanced Linear Algebra (B)]() / [线性代数(B)]() (2021 Spring). <br/>
-  _Online tutorial, by SMS Student Union at PKU._
