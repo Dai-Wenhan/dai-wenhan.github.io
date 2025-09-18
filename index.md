@@ -4,7 +4,7 @@ Hi!
 
 - [**Papers and Notes**](./blurbs.md)
 - [**Conference and Seminar Activities**](./activities.md)
-- [**Servicing and Teaching**](./teaching.md)
+- [**Service and Teaching**](./teaching.md)
 
 <br>
 
@@ -14,8 +14,8 @@ Hi!
 <img src="./headshot-new.jpeg" alt="headshot" style="float:left;margin:0rem 1.5rem 1rem 0rem;width:230px" /> 
 
 
-**Wenhan Dai** (**戴文晗**)  
-_Photo by Xiangqian Yang; Chongli, China, July 2024._
+**Wenhan Dai** **戴文晗** <br>
+(_Photo by Xiangqian Yang; Chongli, China, July 2024._)
 
 
 
