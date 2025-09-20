@@ -19,7 +19,7 @@ Hi!
 
 
 
-I am currently a graduate student at [National University of Singapore](https://www.math.nus.edu.sg), where my advisor is [David Hansen](http://www.davidrenshawhansen.net); I spent my previous two academic years 2023 and 2024 at [Qiuzhen Colledge, Tsinghua University](https://qzc.tsinghua.edu.cn/en/), where I was partially advised by [Yihang Zhu](https://yhzhumath.github.io). 
+I am currently a graduate student at [National University of Singapore](https://www.math.nus.edu.sg), where my advisor is [David Hansen](http://www.davidrenshawhansen.net); I spent my previous two academic years 2023 and 2024 at [Qiuzhen College, Tsinghua University](https://qzc.tsinghua.edu.cn/en/), where I was partially advised by [Yihang Zhu](https://yhzhumath.github.io). 
 
 I obtained my B.Sc. in mathematics from [Peking University](https://www.pku.edu.cn) in 2023, supervised by [Liang Xiao](https://bicmr.pku.edu.cn/~lxiao/index.htm). 
 

@@ -20,13 +20,13 @@ Hi!
 ### Notes for Seminar Talks
 
 - [**Stalks of automorphic Vogan sheaves for the Steinberg parameter of GL_n**](./blurbs/St-stalks.pdf). <br/>
-  _Notes for talk on [LArGe NEW Seminar](http://www.davidrenshawhansen.net/largenew.html), National University of Singapore, September 2025._
+  _Notes for talk on [LArGe NEW Seminar](http://www.davidrenshawhansen.net/largenew.html). National University of Singapore, 2025._
 
 - [**Hyperspherical Hamiltonian varieties**](./blurbs/hamiltonian.pdf) (with **Xiangqian Yang**). <br/>
-  _Notes for two seminar talks on relative Langlands duality, 2023._ 
+  _Notes for two seminar talks on relative Langlands duality. Peking University, 2023._ 
 
 - [**On Lusztig's middle extension of perverse sheaves**](./blurbs/MidExt.pdf). <br/>
-  _A survey adapted from an undergraduate seminar talk about Springer theory, 2022._
+  _A survey adapted from an undergraduate seminar talk about Springer theory. Peking University, 2022._
 
 
 ### Lecture Notes
