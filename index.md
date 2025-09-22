@@ -4,8 +4,8 @@ Hi!
 
 - [**About Me**](./index.md)
 - [**Papers and Notes**](./blurbs.md)
-- [**Teaching Works and Services**](./teaching.md)
-- [**Conference / Seminar Archives**](./activities.md)
+- [**Teaching and Services**](./teaching.md)
+- [**Conference & Seminar Archives**](./activities.md)
 
 <br>
 

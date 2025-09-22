@@ -4,21 +4,21 @@ Hi!
 
 - [**About Me**](./index.md)
 - [**Papers and Notes**](./blurbs.md)
-- [**Teaching Works and Services**](./teaching.md)
-- [**Conference / Seminar Archives**](./activities.md)
+- [**Teaching and Services**](./teaching.md)
+- [**Conference & Seminar Archives**](./activities.md)
 
 <br>
 
-## Archives of Conference / Seminar Activities
+## Conference & Seminar Activities
 
 
 #### 2024 Summer
 
 - [**The Los Angeles Workshop on Representations and Geometry**](./BZSV/LAWRGE.md). <br/>
-  _The follow-up event behind Minnesota summer school and workshop. Containing Problem sessions for examples in relative Langlands duality._
+  _The follow-up event to the Minnesota summer school and workshop. Containing Problem sessions for examples in relative Langlands duality._
 
 - [**Minnesota Summer School and Workshop on Relative Langlands Duality**](./BZSV/UMN.md). <br/>
-  _Covered several aspects of the relative Langlands program and explore new connections._
+  _Covered several aspects of the relative Langlands program and explored new connections._
 
 #### 2024 Spring
 
@@ -37,7 +37,7 @@ Hi!
 
 #### 2023 Summer
 - [**The 5th _Kyoto+_ Conference on Algebraic Geometry and Arithmetic Geometry in Nanjing**](./Nanjing23/Nanjing23.md). <br/>
-  _By Arithmetic & Homotopic Galois Theory, a France-Japan international network._
+  _Organized by the Arithmetic & Homotopic Galois Theory network (France-Japan)._
 - [**HIM Conference on Global Langlands, Shimura Varieties, and Shtukas**](). <br/>
   _On various aspects of the global Langlands correspondence; about in particular the geometry and cohomology of Shimura varieties and more general locally symmetric spaces, or moduli spaces of shtukas._
 - [**PKU Mathematics Forum on Pure Mathematics**](./PKUforum/PKUforum.md). <br/>
@@ -45,7 +45,7 @@ Hi!
 - [**PKU Algebra & Geometry Mini-Forum**](./miniforum2023/miniforum2023.md). <br/>
   _A one-day junior faculty salon to warm up the PKU alumni forum._
 - [**IHES Summer School on Recent Advances in Algebraic K-theory**](./IHES23/IHES23.md). <br/>
-  _To update the exciting developments, via research lectures, mini-courses, and an Arbeitsgemeinschaft on the topic of syntomic and étale motivic cohomology._
+  _To present exciting recent developments, via research lectures, mini-courses, and an Arbeitsgemeinschaft on the topic of syntomic and étale motivic cohomology._
 - [**MCM Satellite Conference in Number Theory of ICBS**](./Satellite23/Satellite23.md). <br/>
   _To discuss recent developments in number theory, representation theory, and arithmetic geometry, with a focus on subjects related to Langlands program._
 
@@ -100,7 +100,7 @@ Hi!
 #### 2022 Summer
 
 - [**IHES Summer School on the Langlands Program**](./IHES22/IHES22.md). <br/>
- _Aims to do the same for the next phase of development in the Langlands program as the Corvallis 45 years ago._
+ _Aiming to shape the next phase of the Langlands program, as Corvallis did 45 years ago._
 - [**Geometry of Shimura Varieties and Arithmetic Applications**](https://bicmr.pku.edu.cn/content/show/17-2759.html). <br/>
  _On recent developments; supported by Tianyuan Research Grant of Chinese NSF._
 
