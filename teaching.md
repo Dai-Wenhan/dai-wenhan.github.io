@@ -29,6 +29,6 @@ Hi!
 - **Lecturer** for [**Basic Inequalities in Mathematical Olympiad**](./ineq/ineq.md) (奥林匹克数学中的不等式基础). <br/>
   _Winter 2022, for high school students;_ problem-solving lectures, in Chinese.
   
-- **Tutorial Course Instructor** for [**Calculus (B)**](./cal2021/cal2021.md) (高等数学(B)). <br/>
+- **Tutorial Course Instructor** for [**Calculus (B)**](./cal2021/cal2021.md) (高等数学(B)辅导课程). <br/>
   _Fall 2021, Peking University,_ online tutorial courses organized by SMS Student Union.
 
