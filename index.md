@@ -38,8 +38,8 @@ Block S17, 10 Lower Kent Ridge Road
 Singapore 119076
 ```
 
-**Email:** _daiwenhan_ [at] _u_ [dot] _nus_ [dot] _edu_ (he/him/él/il). <br/>
-**Language skills:** Chinese native speaker; fluent in English and French at work.
+**Email:** daiwenhan@u.nus.edu (_he/him/él/il_). <br/>
+**Languages:** Chinese native speaker; fluent in English and French at work.
 
 
 <br>
