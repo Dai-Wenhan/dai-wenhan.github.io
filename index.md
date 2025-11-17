@@ -23,7 +23,7 @@ I am currently a graduate student at [National University of Singapore](https://
 
 I obtained my B.Sc. in mathematics from [Peking University](https://www.pku.edu.cn) in 2023, supervised by [Liang Xiao](https://bicmr.pku.edu.cn/~lxiao/index.htm). 
 
-I study and work on representation theory, number theory, and algebraic geometry involved in the Langlands program. Recently, my interest lies in explicit aspects of the **categorical local Langlands correspondence**; I am also broadly interested in **geometric Langlands** and **relative Langlands**. 
+I study and work on **representation theory**, **number theory**, and **algebraic geometry** involved in the **Langlands program**. Recently, my interest lies in explicit aspects of the **categorical local Langlands correspondence**; I am also broadly interested in **geometric Langlands** and **relative Langlands**. 
 
 Here is my [**CV**](./CV.pdf).
 
