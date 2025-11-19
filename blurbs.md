@@ -15,8 +15,10 @@ Hi!
 
 - [**Categorical local Langlands at the Steinberg parameter: A case study**]() (joint with [**David Hansen**](http://www.davidrenshawhansen.net)). <br/>
 In preparation ([talk](https://www.math.nus.edu.sg/category/events/colloquia-seminars/langlands-and-arithmetic-geometry/) | [examples handout](http://www.davidrenshawhansen.net/daihandout.pdf)).
+
 - [**Categorical functoriality and lifting problems of L-parameters**]() (joint with [**Zhiyu Zhang**](https://web.stanford.edu/~zyuzhang/)). <br/>
 In progress.
+
 - [**A geometric Jacquet-Langlands correspondence for unitary Shimura varieties mod ramified _p_**](./blurbs/undergradthesis.pdf). <br/>
 Undergraduate thesis (supervised by [**Liang Xiao**](https://bicmr.pku.edu.cn/~lxiao/index.htm)), Peking University, 2023.
 
