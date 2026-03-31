@@ -22,7 +22,7 @@ In progress.
 - [**A geometric Jacquet-Langlands correspondence for unitary Shimura varieties mod ramified _p_**](./blurbs/undergradthesis.pdf). <br/>
 Undergraduate thesis (supervised by [**Liang Xiao**](https://bicmr.pku.edu.cn/~lxiao/index.htm)), Peking University, 2023.
 
-<p align="center" style="font-style: italic; font-size:11px"> <img src="./SantaMonica.jpeg" alt="x" style="width:600px"> <br/> (Photograph by Lingjie Pan) Santa Monica, Los Angeles, CA, 2024</p>
+<p align="center" style="font-style: italic; font-size:11px"> <img src="./LaJollaCove.jpeg" alt="x" style="width:600px"> <br/> (Photograph by Lingjie Pan) La Jolla Cove, San Diego, CA, March 2026</p>
 
 ### Notes for Seminar Talks
 
