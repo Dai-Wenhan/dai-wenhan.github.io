@@ -14,13 +14,14 @@ Hi!
 ### Papers
 
 - [**Explicit categorical local Langlands at the Steinberg parameter**]() (joint with [**David Hansen**](http://www.davidrenshawhansen.net)). <br/>
-In preparation ([video](https://www.youtube.com/watch?v=oHAwX62Xka0)).
+_In preparation_ ([video](https://www.youtube.com/watch?v=oHAwX62Xka0))_._
 
 - [**Categorical functoriality and lifting problems of L-parameters**]() (joint with [**Zhiyu Zhang**](https://web.stanford.edu/~zyuzhang/)). <br/>
-In progress.
+_In progress._
 
 - [**A geometric Jacquet-Langlands correspondence for unitary Shimura varieties mod ramified _p_**](./blurbs/undergradthesis.pdf). <br/>
-Undergraduate thesis (supervised by [**Liang Xiao**](https://bicmr.pku.edu.cn/~lxiao/index.htm)), Peking University, 2023.
+_Undergraduate thesis (supervised by [**Liang Xiao**](https://bicmr.pku.edu.cn/~lxiao/index.htm)), Peking University, 2023._ <br/>
+
 
 <p align="center" style="font-style: italic; font-size:11px"> <img src="./LaJollaCove.jpeg" alt="x" style="width:600px"> <br/> (Photograph by Lingjie Pan) La Jolla Cove, San Diego, CA, March 2026</p>
 
