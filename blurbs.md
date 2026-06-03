@@ -39,6 +39,9 @@ _Undergraduate thesis (supervised by [**Liang Xiao**](https://bicmr.pku.edu.cn/~
 
 ### Lecture Notes
 
+- [**Introduction to geometric Langlands theory**](./blurbs/LinChenGLC2023.pdf). <br/>
+  _Notes for lectures by **Lin Chen**, Tsinghua University, 2024._ 
+
 - [**The Hodge-Tate period map on perfectoid Shimura varieties**](./blurbs/HT.pdf). <br/>
   _Notes for lectures by **Yihang Zhu**, Tsinghua University, 2024. Revised by the lecturer._ 
 
