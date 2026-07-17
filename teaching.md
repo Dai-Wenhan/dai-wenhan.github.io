@@ -12,7 +12,7 @@ Hi!
 ## Teaching and Services
 
 - **Teaching Assistant** for [**Algebraic Topology (I)**](./AT1-HWsoln.pdf). <br/>
-  _Spring 2024, Tsinghua University,_ with the lecturer Jianfeng Lin.
+  _Spring 2025, Tsinghua University,_ with the lecturer Jianfeng Lin.
 
 - **Tutorial Course Instructor** for [**Linear Algebra (Honors)**](./LA-Honors.pdf). <br/>
   _Fall 2024, Tsinghua University;_ seven 2-hour tutorials over half a semester.
