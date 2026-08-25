@@ -23,7 +23,7 @@ _In progress._
 _Undergraduate thesis (supervised by [**Liang Xiao**](https://bicmr.pku.edu.cn/~lxiao/index.htm)), Peking University, 2023._ <br/>
 
 
-<p align="center" style="font-style: italic; font-size:11px"> <img src="./LaJollaCove.jpeg" alt="x" style="width:600px"> <br/> (Photograph by Lingjie Pan) La Jolla Cove, San Diego, CA, March 2026</p>
+<p align="center" style="font-style: italic; font-size:11px"> <img src="./LaJollaCove.jpeg" alt="x" style="width:600px"> <br/> La Jolla Cove, San Diego, CA, March 2026</p>
 
 ### Notes for Seminar Talks
 
