@@ -11,7 +11,7 @@ Hi!
 
 ## Teaching and Services
 
-- **Teaching Assistant** for [**MA1301 Introductory Mathematics**](https://nusmods.com/courses/MA1301/introductory-mathematics) and [**MA2002 Calculus**](https://nusmods.com/courses/MA2002/calculus). <br/>
+- **Teaching Assistant** for [**MA1301 Introductory Mathematics**](https://nusmods.com/courses/MA1301/introductory-mathematics) and [**MA2002 Calculus**](./2026-MA2002.md). <br/>
   _Semester 1 of 2026-2027, National University of Singapore._
 
 - **Teaching Assistant** for [**Algebraic Topology (I)**](./AT1-HWsoln.pdf). <br/>
